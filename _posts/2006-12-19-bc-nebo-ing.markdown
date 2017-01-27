@@ -2,7 +2,7 @@
 layout: post
 title:  "Bc. nebo ing."
 date:   2006-12-19
-categories: "K zamyšlení"
+categories: [k zamyšlení]
 item: 3
 ---
 Když všechno dobře dopadne, mohl bych v září tohoto akademického roku získat titul bakalář. Má smysl pokračovat ve studiu dál? Není cena ztracené příležitosti příliš veliká? Přihlášku na navazující studium si podám, ale budu tam opravdu chodit? Jaký je rozdíl mezi tím, když jste: bakalář, inženýr nebo bez titulu?
