@@ -15,10 +15,10 @@ Myslíte, že je to trapné? Tak schválně zda uhodnete:
 
 A ještě jedno heslo na ukázku
 
-> 1) žák některých institucí
-> 2) (dříve) začátečník v některých pracovních oborech často neplacený
-> 3) (dříve) úřední titul úřednických čekatelů ve II. služební třídě (tj. skupině úředníků s úplným tehdejším středoškolským vzděláním); osoba 
-mající tento titul; viz též adjunkt
+> 1) žák některých institucí  
+> 2) (dříve) začátečník v některých pracovních oborech často neplacený  
+> 3) (dříve) úřední titul úřednických čekatelů ve II. služební třídě (tj. skupině úředníků s úplným tehdejším středoškolským vzděláním); osoba
+ mající tento titul; viz též adjunkt
 
 zdroj: Lumír Klimeš, Slovník cizích slov, SPN 1985
 
