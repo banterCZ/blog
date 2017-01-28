@@ -6,6 +6,7 @@ categories: [společenské hry]
 item: 15
 ---
 K této hře vám postačí pouze slovník cizích slov. Nebojte se, nejde o úlet intelektuálů. Na první pohled to nevypadá, ale u této hry se můžete dobře pobavit.
+<!--more-->
 
 Princip hry je krásně jednoduchý. Najdete ve slovníku libovolné heslo. Přečtete jeho definici. Kdo uhodne, o jaké heslo se jedná, získává bod a je další na řadě s výběrem hesla. Pokud nikdo heslo neuhodne, získáváte bod a vybíráte další heslo.
 

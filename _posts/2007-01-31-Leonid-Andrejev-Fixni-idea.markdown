@@ -6,6 +6,7 @@ categories: [(ne)kulturno]
 item: 10
 ---
 Fixní idea je samostatně vydaná povídka, kterou přečtete za krátkou cestu vlakem. Hlavní postavou je doktor všeobecné medicíny Anton Ignaťjevič Keržencev. Zabije svého přítele - manžela ženy, kterou kdysi neúspěšně požádal o ruku. Nikoliv ze žárlivosti k Alexeji Konstantinoviči. Chce se pomstít Taťáně Nikolajevně. Celý příběh je psát formou deníku, který si Keržencev vede během psychiatrického vyšetřování. Brutální čin spáchal v předstíraném záchvatu. Bylo však šílenství předstírané?
+<!--more-->
 
 Během četby zjišťujete, že Anton Ignaťjevič se na vraždu dlouho připravoval. Studoval knihy o duševních chorobách, aby byl předstíraný záchvat co nejvěrohodnější. Zdá se, že si naplánoval dokonalý zločin. Ale sám Keržencev si postupně klade otázku, zda netrpí chorobou zvanou monomanie, při které je člověk zaujat jedinou myšlenkou (fixní idea) a svůj život podřizuje jen jí.
 

@@ -6,6 +6,7 @@ categories: [úsměvné]
 item: 2
 ---
 Ne nadarmo se říká, že uklízečka má v podniku důležitější roli, než ředitel. Nejinak je tomu i v plaveckém bazénu. V hodinách tělesné výchovy jsme občas chodili plavat. Vždy nás uvítala ta samá, velice „příjemná“ paní...
+<!--more-->
 
 Na naše dotazy po koupacích čepicích nám odsekla, že už se nosit nemusí. Když jsme šli z bazénu a vysprchovali jsme se, sušili jsme si vlasy u velikých fénů. Někoho napadl úplně pitomý způsob ždímání plavek. Začali jsme s nimi všichni házet o zeď. Kde se vzala, tu se vzala naše paní uklízečka a hned nás umravnila. Jistě, konala svou práci, ale žena v pánských šatnách, to nás zaskočilo. Neodvažovali jsme si jí odporovat.
 

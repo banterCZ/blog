@@ -6,6 +6,7 @@ categories: [k zamyšlení]
 item: 3
 ---
 Když všechno dobře dopadne, mohl bych v září tohoto akademického roku získat titul bakalář. Má smysl pokračovat ve studiu dál? Není cena ztracené příležitosti příliš veliká? Přihlášku na navazující studium si podám, ale budu tam opravdu chodit? Jaký je rozdíl mezi tím, když jste: bakalář, inženýr nebo bez titulu?
+<!--more-->
 
 Jsem na oboru výpočetní technika a musím říct, že mě škola dost zklamala. První rok do nás hustili neoborové předměty. Řekněte, proč by měl programátor umět zapojovat elektrické zásuvky, kreslit šrouby... Takže třetina studia přišla vniveč. Poté tolik hardwaru, jak já ho nemám rád! A aby žádná katedra nepřišla zkrátka, musíme absolvovat vznosně pojmenovaný předmět: Měření na číslicových obvodech, které obnáší např. měření výkonu na 2 kW lampě!!!
 

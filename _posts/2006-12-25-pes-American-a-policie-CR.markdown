@@ -6,6 +6,7 @@ categories: [úsměvné]
 item: 5
 ---
 Jednoho dne u dveří zazvonil cizí muž, šedesátník s již prošedivělými vlasy. Lámanou češtino-slovenštinou vysvětlil, že se jmenuje Willy a že dostal od našeho společného zvěrolékaře doporučení ke krytí své feny zlatého retrívra. Pozvali jsme ho na oběd. Na nedaleké farmě chová pštrosy, dozvěděli jsem se. V rozhovoru jsme pokračovali už převážně anglicky, tedy pokračoval jsem, ostatní členové rodiny si nechali tlumočit. Jeho rodiče pocházeli z Československa. Za manželku má mladou Češku, je to pěkná potvora. Litovali jsme ho, veškerý majetek napsala na sebe a teď mu utekla s jiným mužem. Ohledně krytí jsme se ústně bezproblémově dohodli, táta velkoryse nabídl cenu čtyři tisíce se splátkou až po prodeji štěňat.
+<!--more-->
 
 Řekněme, že jsme měli k Willymu vřelý vztah, byli jsme u něho několikrát na návštěvě, podívat se na štěňata, byla tak roztomilá. Zjistili jsme, že ho žena skutečně zruinovala, ani ti psi mu nepatřili, jediné co vlastnil, byl americký pas. Navíc se ošklivě zranil a dopadá na jednu nohu. Jeho ošetřovatelka nám prozradila, že Willy je bez peněz, farma krachla, že nezažádal o uznání plnokrevnosti štěňat, ani je nenechal očkovat… O vše potřebné se dříve starala jeho žena. Slíbené částky se nedočkáme. Majitel psa má právo buď na finanční odměnu, nebo jedno štěně. Shodou okolností naši sousedé touží zrovna po zlatém retrívrovi. Situace se zdá vyřešená.
 
