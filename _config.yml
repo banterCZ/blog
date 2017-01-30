@@ -13,3 +13,7 @@ twitter_username: banterCZ
 markdown: kramdown
 excerpt_separator: <!--more-->
 paginate: 10
+
+#Plugins
+gems:
+ - jekyll-paginate
