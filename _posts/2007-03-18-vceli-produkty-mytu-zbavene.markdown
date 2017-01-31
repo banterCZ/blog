@@ -5,7 +5,8 @@ date:   2007-03-18
 categories: [(ne)kulturno]
 item: 16
 ---
-<a href="/assets/20070318-bee.jpg"><img src="/assets/20070318-bee_thumb.jpg" align="left" style="margin: 0px 15px 15px 0px"></a>Knihu napsal 
+<a href="/assets/2007-03-18/20070318-bee.jpg"><img src="/assets/2007-03-18/20070318-bee_thumb.jpg" align="left" style="margin: 0px 15px 15px 
+0px"></a>Knihu napsal 
 pracovník [Výzkumného ústavu včelařského v Dole](http://www.beedol.cz/beedolcz.html) Ing. Dalibor Titěra, CSc. a popisuje v ní, jak název napovídá, včelí produkty. Od medu přes vosk, pyl, mateří kašičku, propolis až po včelí jed.
 
 To, že se med používá na [bolest v krku](/item/14), jsem už věděl, ale působí prý i na léčení otevřených ran. A víte, že se med nemá rozehřívat v mikrovlnné troubě, že tmavý med není zdravější než světlý... ?
