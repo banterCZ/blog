@@ -94,6 +94,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    text-align: center;
 }
 
 .footer-heading {
@@ -242,4 +243,13 @@
         float: right;
     }
 
+}
+
+.license {
+    font-size: 12px;
+}
+
+.license img {
+    margin-bottom: 12px;
+    margin-top: 20px;
 }
