@@ -2,7 +2,7 @@
 layout: post
 title:  "Co nemáš v hlavě, máš v nohách"
 date:   2007-09-03
-categories: [Táborové hry]
+categories: [táborové hry]
 item: 39
 ---
 Soutěž a dětský tábor [Pikomat](http://www.pikomat.cz/) pro mě znamená hodně. Jako dítě jsem tábor zbožňoval, takže bylo nasnadě, že jsem začal později jezdit jako 

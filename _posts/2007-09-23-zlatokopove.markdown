@@ -2,7 +2,7 @@
 layout: post
 title:  "Zlatokopové"
 date:   2007-09-23
-categories: [Táborové hry]
+categories: [táborové hry]
 item: 41
 ---
 Další z vypečených táborových her, tentokrát motivovaná zlatou horečkou na řece Klondike. Každý zlatokop potřeboval sáně a dva psy do spřežení
