@@ -17,3 +17,4 @@ Plugins
 ------
 * jekyll-paginate
 * jekyll-gist
+* jekyll-twitter-plugin

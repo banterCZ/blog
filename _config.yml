@@ -18,3 +18,4 @@ paginate: 10
 gems:
  - jekyll-paginate
  - jekyll-gist
+ - jekyll-twitter-plugin
