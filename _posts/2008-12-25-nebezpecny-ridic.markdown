@@ -29,10 +29,10 @@ Rodinná oběť autonehody
 Druhá nepříjemná zkušenost: Brácha měl cestou na hory štěstí v neštěstí. Auto v protisměru předjíždělo kamion a čelně se s nimi střetlo. 
 Brácha seděl v té bílé škodovce (zánovní, nezrezlá, najeto 20 tisíc km), jeli cca 60 km/h a brzdili. Posuďte sami na fotkách. Je to k neuvěření, vyvázl jen se zlomeninou nohy a šitím. Jeho kamaráda, řidiče, odvezl vrtulník s těžšími zlomeninami.
 
-![](/assets/2008-12-25/picture1.png)
+![](/assets/2008-12-25/picture1.jpg)
 _zdroj archiv Policie ČR_
 
-![](/assets/2008-12-25/picture2.png)
+![](/assets/2008-12-25/picture2.jpg)
 _zdroj archiv Policie ČR_
 
 Závěr
