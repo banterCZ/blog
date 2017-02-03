@@ -13,7 +13,7 @@ item: 114
 
 Automatické testy
 ------
-Sice jste v komentářích v článku <a href="http://blog.zvestov.cz/item/112">Jak přesvědčit, že je správné psát testy</a> tvrdili, že testy jsou v každé firmě samozřejmost, ale pojďme si zrovna na nich ukázat, jak se ptát. Především klaďte otevřené otázky, tedy takové, na které nelze odpovědět pouze ano/ne.
+Sice jste v komentářích v článku <a href="/item/112">Jak přesvědčit, že je správné psát testy</a> tvrdili, že testy jsou v každé firmě samozřejmost, ale pojďme si zrovna na nich ukázat, jak se ptát. Především klaďte otevřené otázky, tedy takové, na které nelze odpovědět pouze ano/ne.
 
 Špatně:
 
