@@ -10,6 +10,7 @@ Ozvali se mi na lovci hlav z Google. Docela překvapení, měl jsem totiž za to
  [Odvrácená strana G](http://www.bugemos.com/?q=node/122). Následoval krátký 
 pokec po telefonu. V České republice žádný jejich vývojářský tým není, museli byste vycestovat po EMEA regionu (Paříž, Mnichov, Zurich, Haifa...). Po měsíční pauze další krátký telefonát s někým z HR. Mimo jiné se ptali, zda znám někoho, kdo u nich pracuje. Opět měsíc pauza (je to s nimi očividně na dlouhé lokte) až se konečně dostalo na část s technickými otázkami, které vás asi zajímají nejvíc.
 <!--more-->
+
 V rámci přípravy jsem dostal za úkol projít si úlohy z [Projektu Euler](http://projecteuler.net/). Samotná technická část pohovoru probíhala 
 rovněž po telefonu, 
 pochopitelně v angličtině. Celé to trvalo asi hodinu. V úvodních dvaceti minutách jsem vysvětloval datové struktury, konkrétně hash mapy a binární stromy, prostě akademická klasika.
