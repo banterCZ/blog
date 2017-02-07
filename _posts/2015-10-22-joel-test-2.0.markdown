@@ -1,0 +1,121 @@
+---
+layout: post
+title:  "Joel Test 2.0"
+date:   2015-10-22
+categories: [software development]
+item: 168
+---
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/191354/good-grade"><img src="https://openclipart.org/image/150px/svg_to_png/191354/Good-Grade.png" /></a></div>Nemám ambice a hlavně ani potřebnou autoritu na to razit Joel Test 2.0, využívám jeho jména při svém zamyšlení, co je pro mě důležité, čemu bych věnoval v softwarové firmě pozornost a čeho bych chtěl na svých projektech dosáhnout. Když na blogu <a href="http://www.aspectworks.com/2013/04/joeluv-test-a-aspectworks">Aspectworks publikovali svůj výsledek Joel Testu</a> a když <a href="http://www.sw-samuraj.cz/2013/06/joel-test-ma-jeste-smysl.html">SoftWare Samuraj zpochybňoval aktuálnost Joel testu</a>, čekal jsem, že téma bude v komunitě rezonovat víc. Po nějaké době se k tomu proto vracím.
+<!--more-->
+
+Joel Test 1.0
+------
+
+Není obtížné v <a href="http://www.joelonsoftware.com/articles/fog0000000043.html">Joel testu</a> získat skóre 10 bodů z 12. Jenže firmy s 10 a více body dostatečně nerozlišíte a ani nedostanete vodítko co zlepšit. Mimochodem, ve firmě, která získá 8 a méně, byste pracovat nejspíš vůbec nechtěli. Tedy pokud by vaším úkolem zrovna nebylo dát věci do pořádku.
+
+1. Do you use source control?
+2. Can you make a build in one step?
+3. Do you make daily builds?
+4. Do you have a bug database?
+5. Do you fix bugs before writing new code?
+6. Do you have an up-to-date schedule?
+7. Do you have a spec?
+8. Do programmers have quiet working conditions?
+9. Do you use the best tools money can buy?
+10. Do you have testers?
+11. Do new candidates write code during their interview?
+12. Do you do hallway usability testing?</li></ol>
+
+Můj pohled
+------
+
+Kdysi jsem si poznamenal <a href="/item/114">otázky, které kladu u pohovoru</a>, ale doposud jsem to neformalizoval jako test. Následuje výčet bodů a pod nimi pak podrobnější vysvětlení.
+
+1. Zvládne nově příchozí programátor udělat <em>něco</em> už první den?
+2. Píšete unit testy?
+3. Děláte code review?
+4. Dokážete nasadit jedním kliknutím?
+5. Modelujete?
+6. Měříte a vizualizujete?
+7. Necháte kandidáty na pohovoru programovat?
+8. Děláte usability testy?
+9. Scházíte se denně na stand-up?
+10. Pořádáte pravidelně retrospektivu?
+11. Máte 1:1?
+12. Dodržujete listinu základních programátorských práv?
+
+První den v práci
+------
+
+První dojem je velmi důležitý. To platí i první den v práci. Dojem nedělá jen zaměstnanec ale i firma na něj. Zvládne za jeden den nainstalovat vše potřebné na čistý počítač, rozjet workspace, deployovat na localhost a ten samý den fixnout byť i drobný bug?
+
+Unit testy
+------
+
+Obecně se ví, že <a href="/item/112">by se měly psát testy</a>, ovšem bohužel i dnes to mnohdy pokulhává. Za pokrytí 20&nbsp;% u mě máte půl bodu, za 40&nbsp;% bod.
+
+Code review
+------
+
+Code review pomáhá. Pomáhá vychovat nováčky, udržet pořádek nebo zlepšit povědomí i o komponentách, které jsem nepsal. Děláte formální code review a děláte ho ještě před mergem do hlavní větve?
+
+Nasazení na jedno kliknutí
+------
+
+Přijde mi, že build servery (jako například Jenkins) jsou velmi rozšířené, ale jak daleko je dotažené CI (Continuos Integration)? Je potřeba ještě mnoho manuálních kroků, než se build dostane na produkci. Nejen že to není úplně zopakovatelný proces, ale je silně náchylný na chybu. Ano, mluvím o nástrojích jako například <a href="https://www.chef.io/">Chef</a> nebo <a href="https://puppetlabs.com/">Puppet</a>.
+
+Modelování
+------
+
+Předpokládám, že píšete dokumentaci, ale obsahuje i obrázky (jak známo kus za tisíc slov)? Bude se lišit případ od případu, není potřeba kreslit celou sadu UML a ani na všechno, ale na klíčové části určitě napasujete nějaký komponentový, sekvenční či stavový diagram, případně diagram tříd nebo BPMN. Nesmíme zapomenout na databázový model a wireframy na UI. Celý bod si zasloužíte v případě, že model rovněž verzujete.
+
+![](/assets/2015-10-22/20150415-jpa-association%20class.png)
+
+Měření
+------
+
+Měříte? Pokrytí testy, duplicitu kódu, cyklomatickou složitost, lead time, WIP (work in progress) limit... Vyhodnocujete, jak se mění v čase? Měření je za půl bodu. Celý bod, když ze samotného měření vyvozujete příslušné akce.
+
+Necháte kandidáty na pohovoru programovat?
+------
+
+<div style="float: right; margin: 0 0 1em 1em; text-align: center;"><a href="https://www.zdrojak.cz/clanky/trideni-programatoru-quicksortem/"><img style="" src="https://www.zdrojak.cz/wp-content/uploads/2015/04/image00.png" /></a><br/><a href="https://www.zdrojak.cz/clanky/trideni-programatoru-quicksortem/">zdrojak.cz</a></div>Tohle je možná jeden z nejkontroverznějších bodů. Sám se vztekám, když na <a href="https://www.zdrojak.cz/clanky/trideni-programatoru-quicksortem/">pohovoru zkouší z QuickSortu</a>. Uznávám, že pointerová aritmetika je latinou softwarového inženýrství a může oddělit zrno od plev, viz <a href="/item/162">Nebezpečí Java škol</a>, ale pro mnoho programátorů nejsou pointery denním chlebem. Jeff Atwood (Joelův parťák ze Stackoverflow) razí jednoduchý <a href="http://blog.codinghorror.com/why-cant-programmers-program/">Fizz Buzz test</a>.
+
+Líbila se mi programovací session u SoftWare Samuraje, kterou jsem mohl vidět jako kandidát i jako pozorovatel. Úkolem je naimplementovat určitý návrhový vzor (nebo alespoň část, nemusí ho stihnout celý) včetně unit testů. Kandidát dostane UML diagram a vzor je mu vysvětlen (pokud ho nezná). Tímto jednoduchým cvičením zjistíte hrozně moc. Jak analyzuje zadání, umí psát testy, jak se orientuje v IDE, jak reaguje na připomínky, jaký tvoří design, jak dokáže vysvětlovat...
+	
+Usability testy
+------
+		
+Jistě jste si jako uživatelé nejednou zanadávali na ergonomii nějakého software nebo webové stránky. Co ale děláte proto, abyste neházeli lidem klacky pod nohy? Děláte usability testy?
+
+Stand-up
+------	
+	
+Velmi se mi osvědčily denní schůzky na stojáka. Setkávám se se dvěma extrémy, buď se takové mítinky vůbec nekonají a členové týmu tak navzájem nedostatečně informují, nebo se to celé zvrhlo v hodinové vykecávání, kde nikdo nechce být. Bod si tedy zasloužíte, když stand-up trvá méně jak 15 minut a začíná včas! 
+
+Retrospektiva
+------	
+
+Je mnoho věcí, kterými se můžeme <a href="/item/115">inspirovat u armády</a>, v případě <a href="http://www.firefighternation.com/article/incident-command-0/how-why-conduct-incident-debriefing">debriefingu i u hasičů</a>. Máte pravidelné mítinky, kde sbíráte zpětnou vazbu a něco s tím děláte?
+
+1:1
+------
+
+Máte pravidelné schůzky 1:1 (jeden na jednoho) se svým nadřízeným? Dostává se vám každý týden třicet minut času jen pro vás? Pro inspiraci doporučuji článek, jak <a href="http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/">Rands dělá 1:1</a>.  
+
+Listina základních programátorských práv
+------
+O <a href="/item/109">listině základních programátorských práv</a> už jsem dříve psal. Jde o následující výčet, na co má každý programátor v práci právo.
+ 
+* dva monitory
+* rychlý počítač
+* klávesnici a myš dle svého výběru
+* pohodlnou židli
+* rychlé internetové připojení
+* tiché pracovní podmínky
+
+Anketa
+------
+
+<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/9139491.js"></script>
+<noscript><a href="http://polldaddy.com/poll/9139491/">Jaké je skóre Joel Test 2.0 vaší firmy?</a></noscript>
