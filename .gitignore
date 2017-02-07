@@ -3,3 +3,4 @@ _site
 *.iml
 .idea
 .tweet-cache
+.jekyll-metadata
