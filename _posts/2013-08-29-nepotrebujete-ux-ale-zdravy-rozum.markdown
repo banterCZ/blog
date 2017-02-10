@@ -10,17 +10,23 @@ item: 140
 
 Seznam je se stránkami <a href="http://www.sauto.cz/">sauto.cz</a> a <a href="http://www.sreality.cz/">sreality.cz</a> (o něco lepší, než prvně zmiňovaný web) v podstatě <a href="http://cs.wikipedia.org/wiki/Oligopol">oligopolem</a>. Chcete-li v dané doméně něco prodat, takřka se bez nich neobejdete.
 
-<h3>Sauto</h3>
+Sauto
+------
+
 V ohlasech na <a href="/item/113">test validátoru rodných čísel</a> zazněla trefná připomínka, že by validace neměla být příliš striktní a že by neměla zabraňovat dalšímu kroku, obzvlášť u polí se složitějšími pravidly (jako je právě rodné číslo), a že pouhé varování by mohlo stačit. Sauto jde úplně opačnou cestou. Jeden nejvýraznější příklad za všechny. Podání inzerátu povinně vyžaduje vyplnění <a href="http://en.wikipedia.org/wiki/Vehicle_Identification_Number">VIN</a> kódu, což v mém případě byla naprostá stopka. Jak říkám, chci prodat, takže jsem se musel snažit. VIN byl sice poprvé použit už v roce 1954, ale ISO normou je až od roku 1983 (zdroj: wikipedia.org). Prodáváte starší auto? Smůla! Musíte volat na podporu, ale nápověda ve formuláři žádná.
 
 Po vyřešení závažnějších uživatelských chyb lze uvažovat nad takovými vychytávkami, jako že když už máte VIN, tak přeci nepotřebujete vyplňovat výrobce atd.
 
-<h3>Sreality</h3>
+Sreality
+------
+
 Nemovitost možná prodáte bez realitní kanceláře, ale bez Sreality asi bohužel těžko. Zde jsem se navztekal o poznání méně, ale přesto bych vzhledem k částce, kterou jsem zaplatil, očekával vyšší pohodlí.
 
 Začnu věcí, za kterou nás fackovali snad už na základce, a to je absence jednotek. Výška stropu, dobře, ale v milimetrech, centimetrech nebo metrech? Kdo to ví, ať odpoví.
 
 <a href="http://cs.wikipedia.org/wiki/Podla%C5%BE%C3%AD">Podlaží</a>, patra nebo poschodí, dokážete vysvětlit rozdíl? Nebo ještě lépe - nakreslete schématický obrázek podle mého inzerátu prodeje bytu: Celkový počet podlaží 4 včetně 1 podzemního, umístění ve 2. podlaží.
 
-<h3>Závěr</h3>
+Závěr
+------
+
 Jistě, u Sauto ani u Sreality neplatíte za pohodlí, ale vstupenku na určitý trh. Na UX můžete kašlat, buď když uživatele školíte, nebo když si uživatelé nemohou dovolit jít jinam. Ale i přesto byste na uživatelovo pohodlí trochu myslet mohli. Díky!
