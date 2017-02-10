@@ -48,4 +48,4 @@ nikomu mstít a úmyslně ukazovat FEL ve špatném světle._
 
 Související články
 ------
-[Reinkarnace informatiky na ČVUT](http://blog.zvestov.cz/item/61)
+[Reinkarnace informatiky na ČVUT](/item/61)

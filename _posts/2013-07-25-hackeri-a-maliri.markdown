@@ -5,7 +5,7 @@ date:   2013-07-25
 categories: [software development]
 item: 135
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Durer_selfporitrait.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Durer_selfporitrait.jpg/172px-Durer_selfporitrait.jpg" title="Albrecht Dürer - Autoportrét v kožichu" /></a></div><i>Z esejů Paula Grahama jsem již (<a href="http://www.paulgraham.com/gfaq.html">s laskavým svolením</a>) přeložil <a href="http://blog.zvestov.cz/item/131">Přebal Javy</a>. Nyní se dostávám k delší a hlubší úvaze, kterou lze označit za kultovní. Původní text <a href="http://www.paulgraham.com/hp.html">Hackers and Painters</a>. (překlad uvolňuji pod <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/">licencí Creative Commons by-nc-sa</a>)</i>
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Durer_selfporitrait.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Durer_selfporitrait.jpg/172px-Durer_selfporitrait.jpg" title="Albrecht Dürer - Autoportrét v kožichu" /></a></div><i>Z esejů Paula Grahama jsem již (<a href="http://www.paulgraham.com/gfaq.html">s laskavým svolením</a>) přeložil <a href="/item/131">Přebal Javy</a>. Nyní se dostávám k delší a hlubší úvaze, kterou lze označit za kultovní. Původní text <a href="http://www.paulgraham.com/hp.html">Hackers and Painters</a>. (překlad uvolňuji pod <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/">licencí Creative Commons by-nc-sa</a>)</i>
 
 Květen 2003
 

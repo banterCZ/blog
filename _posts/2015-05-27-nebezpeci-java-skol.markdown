@@ -89,9 +89,9 @@ Vracím se k jedničkám a nulám.
 Osobní poznámka překladatele
 ------
 
-Nebyl jsem ze studia FEL ČVUT nijak nadšený, naopak jsem <a href="http://blog.zvestov.cz/item/43">dost držkoval</a>. Ovšem nutno přiznat, že ačkoliv nás učili Javu, prošel jsem si i pointery a rekurzi (pravda, <a href="blog.zvestov.cz/item/151">to už jsme měli na střední</a>). Bohužel se pro samý hardware a elektroniku nedostalo na Haskel, Lisp...
+Nebyl jsem ze studia FEL ČVUT nijak nadšený, naopak jsem <a href="/item/43">dost držkoval</a>. Ovšem nutno přiznat, že ačkoliv nás učili Javu, prošel jsem si i pointery a rekurzi (pravda, <a href="/item/151">to už jsme měli na střední</a>). Bohužel se pro samý hardware a elektroniku nedostalo na Haskel, Lisp...
 
-Zpětně viděno, má <a href="http://blog.zvestov.cz/item/106">úloha z přijímacího pohovoru do Google</a> velký smysl.
+Zpětně viděno, má <a href="/item/106">úloha z přijímacího pohovoru do Google</a> velký smysl.
 
 Související
 ------

@@ -6,7 +6,7 @@ categories: [software development]
 item: 156
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2014-11-02/20141102-Coursera_logo.PNG" /></div>Miluju 
-učení. Na základní škole jsem dostával vesměs jedničky, ale učení pro mě nikdy nebylo sbírání známek. Rád bych se považoval za renesančního člověka, ale doba polyhistorů dávno minula a již drahnou dobu není v silách jediného smrtelníka načerpat veškeré vědění lidstva. To ovšem nijak nebrání <a href="blog.zvestov.cz/item/102">osobnímu kaizenu</a>, drobným každodenním krůčkům za vzděláním.
+učení. Na základní škole jsem dostával vesměs jedničky, ale učení pro mě nikdy nebylo sbírání známek. Rád bych se považoval za renesančního člověka, ale doba polyhistorů dávno minula a již drahnou dobu není v silách jediného smrtelníka načerpat veškeré vědění lidstva. To ovšem nijak nebrání <a href="/item/102">osobnímu kaizenu</a>, drobným každodenním krůčkům za vzděláním.
 
 Moderní technologie odbourávají překážky. Nelze se více vymlouvat na to, že jsem nevycestoval a že české vysoké školství je takové a makové. Z pohodlí obývacího pokoje, kavárny či vlakového kupé lze díky <a href="https://www.coursera.org">coursera.org</a> zdarma navštěvovat přednášky renomovaných zahraničních univerzit jako MIT, Yale, Barklee, Princeton a desítek dalších. Nejedná se přitom jen o technické předměty, ale i ekonomii, biologii, právo a <a href="https://www.coursera.org/courses">mnohé další</a>.
 <!--more-->
@@ -33,7 +33,7 @@ Obsahem kurzu <a href="https://www.coursera.org/course/crypto">Cryptography I</a
 Human-Computer Interaction
 ------
 
-O user experience (UX) se dnes píše velmi často a alespoň základní ponětí by o něm měl mít každý programátor. Sice jsem psal, že <a href="http://blog.zvestov.cz/item/140">nepotřebujete UX, ale zdravý rozum</a>, ovšem jestliže jste si v daném oboru doposud nic nenastudovali, můžu vám doporučit právě kurz <a href="https://www.coursera.org/course/hci">Human-Computer Interaction</a>, kde se dozvíte o prototypech, wireframech a uživatelském testování. Stejně jako v kurzu Cryptography jsem v roce 2012 absolvoval pouze teoretickou část. Kdo chtěl, mohl případně splnit i praktické úlohy.
+O user experience (UX) se dnes píše velmi často a alespoň základní ponětí by o něm měl mít každý programátor. Sice jsem psal, že <a href="/item/140">nepotřebujete UX, ale zdravý rozum</a>, ovšem jestliže jste si v daném oboru doposud nic nenastudovali, můžu vám doporučit právě kurz <a href="https://www.coursera.org/course/hci">Human-Computer Interaction</a>, kde se dozvíte o prototypech, wireframech a uživatelském testování. Stejně jako v kurzu Cryptography jsem v roce 2012 absolvoval pouze teoretickou část. Kdo chtěl, mohl případně splnit i praktické úlohy.
 
 Computing for Data Analysis
 ------

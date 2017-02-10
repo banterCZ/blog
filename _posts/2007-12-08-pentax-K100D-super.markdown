@@ -24,4 +24,4 @@ a 2GB kartu za bezvadnou cenu 13 222 Kč s DPH i dopravou.
 Momentálně si čtu manuál, čekám na lepší světlo a učím se pracovat s linuxovým editorem digiKam. Snímky si můžete prohlédnout na mém 
 [Flickeru](https://www.flickr.com/photos/bantercz/).
 
-Doplnil jsem svoje další zkušenosti s [Pentax K100D Super](http://blog.zvestov.cz/item/56)
+Doplnil jsem svoje další zkušenosti s [Pentax K100D Super](/item/56)

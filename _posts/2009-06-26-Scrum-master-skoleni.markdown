@@ -49,4 +49,4 @@ protože jak napsal [Jiří Mareš](http://jirablog.blogspot.com/2009/06/byl-jse
 které se hodí i mimo scrum.
 
 V Německu prý začal být Scrum populární před dvěma lety. Těšme se, že tato vlna brzy dorazí i k nám. Přidejte se k příznivců agilního vývoje 
-na LinkedIn - [Agile in Czech Republic](http://blog.zvestov.cz/item/www.linkedin.com/groups?home=&gid=1222507).
+na LinkedIn - [Agile in Czech Republic](http://www.linkedin.com/groups?home=&gid=1222507).

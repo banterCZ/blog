@@ -18,4 +18,4 @@ Zdroj: [http://www.aida-international.org](http://www.aida-international.org)
 Související
 ------
 
-[Zážitek z kurzu freedivingu](http://blog.zvestov.cz/item/70)
+[Zážitek z kurzu freedivingu](/item/70)

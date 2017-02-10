@@ -5,7 +5,7 @@ date:   2015-02-11
 categories: [technika]
 item: 157
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://commons.wikimedia.org/wiki/File:Android_robot.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/150px-Android_robot.svg.png" /></a></div>Před pěti lety jsem <a href="http://blog.zvestov.cz/item/91">přešel na Mac a iPhone</a>, nějakou dobu jsem přemýšlel i o Androidu (tou dobou <a href="http://en.wikipedia.org/wiki/HTC_Dream">G1</a>). Naštěstí jsem měl tenkrát rozum!
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://commons.wikimedia.org/wiki/File:Android_robot.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/150px-Android_robot.svg.png" /></a></div>Před pěti lety jsem <a href="/item/91">přešel na Mac a iPhone</a>, nějakou dobu jsem přemýšlel i o Androidu (tou dobou <a href="http://en.wikipedia.org/wiki/HTC_Dream">G1</a>). Naštěstí jsem měl tenkrát rozum!
 
 V práci jsem nafasoval služební <a href="http://www.mobilmania.cz/katalog-mobilu/htc-desire-x/sc-63-ci-43981-c-1/default.aspx">HTC Desire X</a>. Už s ním žiju něco přes rok, tak je čas sepsat zkušenosti. Následuje (jak jste si mohli všimnou, ale raději to zdůrazňuji) čistě subjektivní popis.
 <div style="clear: both"></div>
