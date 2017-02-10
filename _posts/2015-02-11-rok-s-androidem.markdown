@@ -29,7 +29,7 @@ Naprosto mě odrovnalo zálohování. Potřeboval jsem vyměnit rozbitý display
 
 Na Android seženete pár stejných aplikací jako na iPhone, například blbinku <a href="https://play.google.com/store/apps/details?id=com.namcowireless.flightcontrol&hl=en">Flight Control</a> ale už ne zajímavější kousky jako <a href="https://itunes.apple.com/us/app/things/id284971781?mt=8">Things</a> či <a href="https://itunes.apple.com/ca/app/kard-combat/id421061883?mt=8">Kard Combat</a>. Přijde mi, že lidé, kteří si pořizují Apple výrobky, jsou mnohem ochotnější platit, čemuž se přizpůsobují vývojáři. Klony, které existují, nedosahují takových kvalit a uživatelského pohodlí. Například <a href="https://play.google.com/store/apps/details?id=com.instapaper.android">Instapaper</a> mi na iPhonu poskytuje anglický monolingvní slovník.
 
-{% twitter https://twitter.com/Split82/status/766572568585404420 %}
+{% twitter https://twitter.com/Split82/status/766572568585404420 hide_thread=true %}
 
 Aplikace zdarma vyžadují nesmyslná oprávnění. Výchozí svítilna nefunguje při vypnutém displeji, tak jsem hledal alternativu, ale <a href="http://www.lupa.cz/clanky/svitilnove-aplikace-pro-android-ve-velkem-smiruji-uzivatele/">na co svítilny potřebují wifi</a>? 
 
