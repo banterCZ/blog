@@ -7,7 +7,7 @@ item: 158
 ---
 <a href="/assets/2015-03-10/20150310-fasáda.jpg"><img src="/assets/2015-03-10/20150310-fasáda_thumb.jpg" align="left" style="margin: 0px 15px 
 15px 
-0px"></a>Dva a půl roku <a href="http://blog.zvestov.cz/item/141">stavby (částečně) svépomocí</a>, počítáno od výkopu. Rok a půl <a href="http://tisicvecikteremnedelajiradost.blogspot.cz/2014/03/157-bydleni-u-rodicu.html">bydlení u rodičů</a>. Ale už bydlíme v novém. Ovšem připomínám bonmot: <em>Deset let dostavujete, pak si dáte rok pauzu a začnete opravovat</em>
+0px"></a>Dva a půl roku <a href="/item/141">stavby (částečně) svépomocí</a>, počítáno od výkopu. Rok a půl <a href="http://tisicvecikteremnedelajiradost.blogspot.cz/2014/03/157-bydleni-u-rodicu.html">bydlení u rodičů</a>. Ale už bydlíme v novém. Ovšem připomínám bonmot: <em>Deset let dostavujete, pak si dáte rok pauzu a začnete opravovat</em>
 
 Nashromáždilo se mi pár poznámek ohledně toho, jak se dokončuje a zařizuje dům. Třeba se budou někomu hodit. Půjdu většího detailu než jen: <em>Věci stojí víc a trvají déle, než jste si původně plánovali</em>
 <!--more-->
