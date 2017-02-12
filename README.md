@@ -18,3 +18,4 @@ Plugins
 * jekyll-paginate
 * jekyll-gist
 * jekyll-twitter-plugin
+* i18n_filter

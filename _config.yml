@@ -17,6 +17,7 @@ exclude:
   - README.md
   - Gemfile.lock
   - Gemfile
+lang: cs
 
 #Plugins
 gems:
