@@ -19,8 +19,13 @@ exclude:
   - Gemfile
 lang: cs
 
+jekyll-archives:
+  enabled:
+    - categories
+
 #Plugins
 gems:
  - jekyll-paginate
  - jekyll-gist
  - jekyll-twitter-plugin
+ - jekyll-archives

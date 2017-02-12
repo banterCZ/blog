@@ -7,7 +7,14 @@ layout: default
     <ul class="post-list">
         {% for post in paginator.posts %}
         <li style="clear: both">
-            <span class="post-meta">{{ post.date | localize: "%d. %B %Y" }}</span>
+            <span class="post-meta">
+                {{ post.date | localize: "%d. %B %Y" }}
+                {% unless post.categories == empty %}
+                {% for category in post.categories %}
+                 • <a href="/category/{{category | slugify}}">{{ category }}</a>
+                {% endfor %}
+                {% endunless %}
+            </span>
 
             <h2>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

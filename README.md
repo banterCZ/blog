@@ -18,4 +18,5 @@ Plugins
 * jekyll-paginate
 * jekyll-gist
 * jekyll-twitter-plugin
+* jekyll-archives
 * i18n_filter
