@@ -3,7 +3,7 @@ layout: post
 title:  "Roční spotřeba energie v domácnosti"
 date:   2008-03-07
 categories: [bydlení]
-item: 57
+disqusId: 57
 ---
 Neustále je nám opakováno, jak jsou energie drahé, jak ušetřit, že zdroje dojdou... Jsou nám nabízeny úsporné alternativy vytápění a ohřevu vody (např. solární panely), ale člověk obvykle stejně prostě zaplatí SIPO a o nic víc se nestará. O víkendu jsme se navštívili výstavu dřevostaveb, kde se o úsporách energie dost mluvilo, tak mě napadlo, podívat se na spotřebu naší dvoučlenné domácnosti.
 <!--more-->

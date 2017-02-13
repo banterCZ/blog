@@ -3,7 +3,7 @@ layout: post
 title:  "Kde mě tlačí bota - code review"
 date:   2013-08-18
 categories: [software development]
-item: 139
+disqusId: 139
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/29647/quality-control:-rejected-by-stijnbern"><img src="http://openclipart.org/image/120px/svg_to_png/29647/QualityControl_rejected2.png" /></a></div>Mám poměrně jasnou představu, jak by měla vypadat organizace softwarového projektu. Mimo jiné dokola <a href="/item/112">přesvědčuji, že je potřeba psát testy</a> a instaluju nástroje na statickou analýzu kódu. Už to mám nacvičené. Ovšem čím dál tím víc mi chybí code review. Ještě jsem toto téma zatím uspokojivě neuchopil, ale minimálně jsem se zamyslel, jak bych z toho chtěl vybřednout, ačkoliv jsem tak ještě neučinil.
 <!--more-->

@@ -3,7 +3,7 @@ layout: post
 title:  "Rok ve znamení alkoholu"
 date:   2008-01-29
 categories: [k zamyšlení]
-item: 53
+disqusId: 53
 ---
 Poslední rok jsem na jednom serveru pro uzavřenou společnost vyplňoval svou osobní statistiku spotřeby alkoholu. Občas to byla docela otrava, ale vytrval jsem a teď mám nějaké výsledky. Nikdy jsem nechápal průměrnou českou spotřebu piva: denně jeden půllitr na hlavu. Nyní nechápu ještě více.
 <!--more-->

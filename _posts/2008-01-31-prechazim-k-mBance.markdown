@@ -3,7 +3,7 @@ layout: post
 title:  "Přecházím k mBance"
 date:   2008-01-31
 categories: [obecné]
-item: 54
+disqusId: 54
 ---
 <img src="/assets/2008-01-31/20080131-mbank.gif" align="left" style="margin: 0px 15px 15px 0px">Přecházím se svými penězi k [mBance](http://www.mbank.cz/), ta má všechny standardní operace zdarma. Už
  mě nebavilo, kolik platím na 

@@ -3,7 +3,7 @@ layout: post
 title:  "Hromadný apt-get install"
 date:   2013-12-02
 categories: [software development]
-item: 144
+disqusId: 144
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart
 .org/detail/171762/terminal-by-lpr577-171762"><img src="http://openclipart.org/image/150px/svg_to_png/171762/1345126450.png" /></a></div>I s tím málo, co s <b>Linuxem</b> umím, si připadám efektivnější než s Windows. Pominu-li drobnosti jako to, že ve Windows scrollujete jen tam, kde je focus, tak nejdůležitější pro programátora je pochopitelně příkazová řádka. Bez Unixové si připadám, jako kdybych měl zlámané obě nohy. Dobře, existuje <a href="http://en.wikipedia.org/wiki/Cygwin">Cygwin</a>, ale to jsou jen berle, s těmi těžko budete skákat přes kaluže.

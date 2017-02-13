@@ -3,7 +3,7 @@ layout: post
 title:  "Napříč politickým spektrem"
 date:   2008-06-12
 categories: [čechořečnost]
-item: 68
+disqusId: 68
 ---
 Zvyknout si prý lze i na rakev. Vstřebal jsem i _Česko_, je mi sice proti srsti, nicméně chápu, že je tu potřeba po jednoslovném názvu. Co 
 ovšem nemůžu vystát, je nadužívání frází.

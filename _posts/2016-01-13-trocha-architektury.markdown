@@ -3,7 +3,7 @@ layout: post
 title:  "Trocha architektury"
 date:   2016-01-13
 categories: [software development]
-item: 171
+disqusId: 171
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://www.flickr.com/photos/spacexphotos/17170624642"><img src="https://c2.staticflickr.com/8/7624/17170624642_454b8ddb24_m.jpg" /></a><br/><a href="https://www.flickr.com/photos/spacexphotos/17170624642">SpaceX</a> (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>)</div>Zamýšlel jsem se nad tím, <a href="/item/169">jak by programátor mohl naložit s druhou dekádou své kariéry</a>. Jednou z možných pozic je i softwarový architekt. <a href="https://twitter.com/unclebobmartin/status/685198214346223616">S laskavým svolením Roberta C. Martina</a>, mimo jiné autora knihy <a href="http://amzn.to/1wkixFY">Clean Code</a>, přináším překlad jeho rozhovoru mistra s učněm o softwarové architektuře.
 	

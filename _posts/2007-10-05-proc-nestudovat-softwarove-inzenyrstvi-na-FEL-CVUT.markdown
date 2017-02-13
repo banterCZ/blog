@@ -3,7 +3,7 @@ layout: post
 title:  "Proč nestudovat softwarové inženýrství na FEL ČVUT"
 date:   2007-10-05
 categories: [k zamyšlení]
-item: 43
+disqusId: 43
 ---
 Chystáte se studovat informatiku a výpočetní techniku na vysoké škole? Čtěte následující řádky pozorně, ať se můžete rozhodnout, jestli jít 
 zrovna na [FEL](http://www.fel.cvut.cz/) (fakulta elektrotechnická) ČVUT (České vysoké učení technické v Praze). 

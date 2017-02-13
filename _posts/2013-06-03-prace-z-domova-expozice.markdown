@@ -3,7 +3,7 @@ layout: post
 title:  "Práce z domova - expozice"
 date:   2013-06-03
 categories: [software development]
-item: 132
+disqusId: 132
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://commons.wikimedia.org/wiki/File:Network-wireless.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Network-wireless.svg/150px-Network-wireless.svg.png" /></a></div>Nechci bydlet v Praze, protože bych nerad, aby zde moje děti vyrůstaly. Nechci s nimi bydlet ani na maloměstě, i kdyby v dosahu Prahy, jako je například Český Brod. Satelitní městečka už vůbec nepřipadají v úvahu. Proto se vracím do rodné vísky, což mě přivádí k tématu tohoto příspěvku - práce z domova.
 <!--more-->

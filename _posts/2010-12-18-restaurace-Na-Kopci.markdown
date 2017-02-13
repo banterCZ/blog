@@ -3,7 +3,7 @@ layout: post
 title:  "Restaurace Na Kopci"
 date:   2010-12-18
 categories: [jídlo a pití]
-item: 92
+disqusId: 92
 ---
 Projekt [Scuk](http://www.scuk.cz/) se mi dost líbí. Přihlásil jsem se jako hodnotitel, ale mám dojem, že neprojdu druhým kolem. Aby moje 
 poznámky nepřišly vniveč, 

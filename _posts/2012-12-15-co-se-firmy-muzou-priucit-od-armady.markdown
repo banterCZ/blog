@@ -3,7 +3,7 @@ layout: post
 title:  "Co se firmy můžou přiučit od armády"
 date:   2012-12-15
 categories: [software development]
-item: 115
+disqusId: 115
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.amazon.com/gp/product/0066619793/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0066619793&linkCode=as2&tag=blog0752-20"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=0066619793&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blog0752-20" ></a><img src="http://www.assoc-amazon.com/e/ir?t=blog0752-20&l=as2&o=1&a=0066619793" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>Na vojně jsem nebyl, protože se mě už povinná vojenská služba naštěstí netýkala. Ale Československé lidové armádě, respektive její přímé následovnici, bych se vyhýbal, jak by to jen šlo. Na druhou stranu uvažuji o vstupu do <a href="http://cs.wikipedia.org/wiki/Aktivn%C3%AD_z%C3%A1loha_ozbrojen%C3%BDch_sil_%C4%8Cesk%C3%A9_republiky">Aktivních záloh AČR</a>, ale to je na jiné povídání. Ovšem to nic nemění na tom, že válečnictví je staré řemeslo a firmy se mají od armády lecčemus přiučit. Ostatně  kniha <a href="https://plus.google.com/107399094493317618479/posts/MvhTPzvwh9F">Umění války od Pin Sun a Sun-c</a> ze 6. století př.n.l. je stále aktuální. Bližší vám však asi bude kniha <a href="http://amzn.to/PE3Vkd">Corps Business: The 30 Management Principles of the U.S. Marines (David H. Freedman)</a>, ze které vytahuji několik faktů doplněné o vlastní postřehy.

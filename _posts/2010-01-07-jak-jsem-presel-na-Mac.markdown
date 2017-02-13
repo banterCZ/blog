@@ -3,7 +3,7 @@ layout: post
 title:  "Jak jsem přešel na Mac"
 date:   2010-01-07
 categories: [technika]
-item: 91
+disqusId: 91
 ---
 Po několika letech váhání jsem v roce 2007 přešel na Linux, konkrétně na Ubuntu. V podstatě jsem byl spokojený (stále Ubuntu využívám na 
 vývoj). Jak šel čas a nové verze, tak bylo Ubuntu čím dál uživatelsky příjemnější a téměř vše víceméně fungovalo. Nejvíce jsem postrádal 

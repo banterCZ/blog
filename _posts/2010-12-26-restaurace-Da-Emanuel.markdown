@@ -3,7 +3,7 @@ layout: post
 title:  "Restaurace Da Emanuel"
 date:   2010-12-26
 categories: [jídlo a pití]
-item: 92
+disqusId: 92
 ---
 Nemůžu souhlasit s konkrétním [hodnocením restaurace Da Emanuel na Scuku](http://www.scuk.cz/d/da-emanuel/#recenze-59), které popisuje výkony 
 jako nadprůměrné. Osobně nemám důvod se tam 

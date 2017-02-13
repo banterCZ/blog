@@ -3,7 +3,7 @@ layout: post
 title:  "JSF, Spring Security, Ajax Session Expired"
 date:   2013-04-04
 categories: [software development]
-item: 127
+disqusId: 127
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/20110510-jsf-logo.tiff/lossless-page1-200px-20110510-jsf-logo.tiff.png"></div>V <a href="/item/125">úvodu do PrimeFaces a JSF 2</a> jsem se zmínil, že používáte-li Spring Security, nepotřebujete managed beanu pro login, stačí <i>jen</i> submit javascriptem (POST request na url /j_spring_security_check). Mnohem zapeklitější je ošetření ajaxu nad vypršenou HTTP session. Nejspíš si říkáte, žádná věda. Spring Security mě prostě přesměruje na login. Taky že ano, ale v případě ajaxu dostanete jako <i>partial response</i> právě onen login formulář. View ho není schopné zpracovat a uživatel je zmaten, protože se nic neděje. Jak to vyřešit?
 <!--more-->

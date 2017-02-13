@@ -3,7 +3,7 @@ layout: post
 title:  "Nedrátujte konfiguráky do warka"
 date:   2012-05-22
 categories: [software development]
-item: 99
+disqusId: 99
 ---
 Programátoři bezpochyby trpí syndromem: „Kód, který napsal někdo jiný, stojí za starou belu.“ Nejlepší na učení je sice přečíst tuny lepšího 
 kódu, jenže jako konzultant se spíše utvrzuji v tom, že jedinou [metrikou kvality kódu je WTF za minutu](http://commadot.com/wtf-per-minute/). SQL dotazy v JSP? To nic není, co 

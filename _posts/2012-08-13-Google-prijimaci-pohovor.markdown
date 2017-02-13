@@ -3,7 +3,7 @@ layout: post
 title:  "Google – přijímací pohovor"
 date:   2012-08-13
 categories: [software development]
-item: 106
+disqusId: 106
 ---
 Ozvali se mi na lovci hlav z Google. Docela překvapení, měl jsem totiž za to, že nabírají jen doktory z MIT a podobné šarže. Napsali přes 
 [LinkedIn](http://www.linkedin.com/in/lubosracansky), zda mi můžou představit pozice v Googlu. Řekl jsem si, proč ne, přestože jsem četl strip

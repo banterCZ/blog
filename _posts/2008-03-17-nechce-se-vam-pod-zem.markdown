@@ -3,7 +3,7 @@ layout: post
 title:  "Nechce se vám pod zem? Možná budete muset..."
 date:   2008-03-17
 categories: [k zamyšlení]
-item: 59
+disqusId: 59
 ---
 <a href="/assets/2008-03-17/20080317-podchod.jpg"><img src="/assets/2008-03-17/20080317-podchod_thumb.jpg" align="left" style="margin: 0px 
 15px 15px 

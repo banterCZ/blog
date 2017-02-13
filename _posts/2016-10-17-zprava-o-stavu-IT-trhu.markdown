@@ -3,7 +3,7 @@ layout: post
 title:  "Zpráva o stavu IT trhu"
 date:   2016-10-17
 categories: [software development]
-item: 181
+disqusId: 181
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.commitstrip.com/en/2015/05/20/coder-interview/"><img src="http://www.commitstrip.com/wp-content/uploads/2015/05/Strip-Breaz-650-finalenglish.jpg" style="width: auto; height: auto;max-width: 400px;" /></a><br/><a href="http://www.commitstrip.com/en/2015/05/20/coder-interview/">CommitStrip.com</a></div>Po třech letech jsem se rozhodl změnit práci. Oběhal jsem pár firem, máte-li zájem, tak se na následujících řádcích podělím o své zkušenosti a podám zprávu o stavu IT trhu. Líčení je to značně subjektivní, zúžené na svět Javy, ale dost možná platí i pro vás.
 <!--more-->

@@ -3,7 +3,7 @@ layout: post
 title:  "Díky versus kvůli"
 date:   2012-06-21
 categories: [čechořečnost]
-item: 103
+disqusId: 103
 ---
 Snad nejsem takový jazykový puritán. Nebo jsem jen vycepovaný od našeho gymnaziálního učitele češtiny, PhDr. Ericha Rennera? Nedávno jsem 
 našel oporu v knize [Pište správně česky ― poradna šílených korektorů](http://www.kosmas.cz/detail.asp?cislo=151216&afil=1102), kterou sepsali Dalibor a Petr Behúnovi. Ostatně co říkáte 

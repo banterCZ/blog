@@ -3,7 +3,7 @@ layout: post
 title:  "Pes, Američan a policie ČR"
 date:   2006-12-25
 categories: [úsměvné]
-item: 5
+disqusId: 5
 ---
 Jednoho dne u dveří zazvonil cizí muž, šedesátník s již prošedivělými vlasy. Lámanou češtino-slovenštinou vysvětlil, že se jmenuje Willy a že dostal od našeho společného zvěrolékaře doporučení ke krytí své feny zlatého retrívra. Pozvali jsme ho na oběd. Na nedaleké farmě chová pštrosy, dozvěděli jsem se. V rozhovoru jsme pokračovali už převážně anglicky, tedy pokračoval jsem, ostatní členové rodiny si nechali tlumočit. Jeho rodiče pocházeli z Československa. Za manželku má mladou Češku, je to pěkná potvora. Litovali jsme ho, veškerý majetek napsala na sebe a teď mu utekla s jiným mužem. Ohledně krytí jsme se ústně bezproblémově dohodli, táta velkoryse nabídl cenu čtyři tisíce se splátkou až po prodeji štěňat.
 <!--more-->

@@ -3,7 +3,7 @@ layout: post
 title:  "Ztráta soukromí na internetu"
 date:   2008-06-05
 categories: [k zamyšlení]
-item: 67
+disqusId: 67
 ---
 Patrick Zandl na svém blogu upozornil na zajímavé stránky, kde si můžete [sestavit rodokmen on-line](http://www.marigold.cz/item/genicom-vytvorte-si-rodokmen-online). Jelikož jsem z rozvětvené rodiny, ihned 
 jsem to musel zkusit, v domnění, že tím příbuzným udělám radost. Opak byl pravdou, pro někoho je umístění jména někde na americkém serveru citlivou záležitostí. To mě přimělo k zamyšlení, jak to se soukromím na webu je.

@@ -3,7 +3,7 @@ layout: post
 title:  "Nechápu, proč je Scala tak populární"
 date:   2014-08-04
 categories: [software development]
-item: 153
+disqusId: 153
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2014-08-03/20140803-scala_logo.png" /></div>Nechápu, 
 proč je <a 

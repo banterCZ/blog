@@ -3,7 +3,7 @@ layout: post
 title:  "Převod WGS 84 do S-JTSK"
 date:   2008-08-29
 categories: [software development]
-item: 88
+disqusId: 88
 ---
 Co se týče zeměpisných souřadnic, běžný smrtelník ví, že existuje nějaká **GPSka**. Programátor pracující na českých projektech, které 
 vyžadují 

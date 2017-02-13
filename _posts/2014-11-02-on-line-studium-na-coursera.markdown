@@ -3,7 +3,7 @@ layout: post
 title:  "On-line studium na Coursera"
 date:   2014-11-02
 categories: [software development]
-item: 156
+disqusId: 156
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2014-11-02/20141102-Coursera_logo.PNG" /></div>Miluju 
 učení. Na základní škole jsem dostával vesměs jedničky, ale učení pro mě nikdy nebylo sbírání známek. Rád bych se považoval za renesančního člověka, ale doba polyhistorů dávno minula a již drahnou dobu není v silách jediného smrtelníka načerpat veškeré vědění lidstva. To ovšem nijak nebrání <a href="/item/102">osobnímu kaizenu</a>, drobným každodenním krůčkům za vzděláním.

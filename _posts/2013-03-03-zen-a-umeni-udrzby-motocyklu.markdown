@@ -3,7 +3,7 @@ layout: post
 title:  "Zen a umění údržby motocyklu"
 date:   2013-03-03
 categories: [software development]
-item: 123
+disqusId: 123
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="http://obalky.kosmas.cz/ArticleCovers/111759.gif" /></div> Kniha <i>Zen a umění údržby motocyklu</i> není primárně o údržbě motocyklu ani o kapajícím kohoutku. Je to taková intelektuální zenová road movie, se zajímavými postoji k životu. Našel jsem tam i jeden přesah do softwarového inženýrství. 
 <div style="clear: both"></div>

@@ -3,7 +3,7 @@ layout: post
 title:  "Stavebnictví versus softwarové inženýrství"
 date:   2013-10-11
 categories: [software development]
-item: 142
+disqusId: 142
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.flickr.com/photos/bantercz/6017400352/in/set-72157627070334676"><img src="http://farm7.staticflickr.com/6026/6017400352_7b40388751_q.jpg" /></a></div>Máme <a href="http://en.wikipedia.org/wiki/Social_comparison_theory">tendenci neustále něco srovnávat</a>. I softwarové inženýrství srovnáváme. S <a href="/item/115">vojenstvím</a>, strojírenstvím nebo se stavebním inženýrstvím. Martin Fowler v článku <a href="http://www.martinfowler.com/articles/newMethodology.html">New Metodology</a>, který byste si měli rozhodně přečíst (i když je dlouhý), popisuje motivace a vznik agilních metodik a vyvozuje závěr, že pro softwarové inženýrství je takové srovnání zavádějící. Přeložil jsem několik vybraných odstavců a doplnil o svoje poznámky.
 <!--more-->

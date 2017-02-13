@@ -3,7 +3,7 @@ layout: post
 title:  "Aby test neselhal na první­ assert (JUnit 5)"
 date:   2016-12-11
 categories: [software development]
-item: 184
+disqusId: 184
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2016-12-11/20161211-junit5-logo_small.png"/></div>Už jsem psal o 
 tom, <a href="/item/148">jak v JUnit 4 dosáhnout toho, aby test neselhal na první assert</a>. JUnit 5 již dosáhl milestone 2 (podrobnosti v článku <a href="https://www.sitepoint.com/junit-5-state-of-the-union">JUnit 5 State Of The Union</a>), tak je potřeba se podívat, jak s novou verzí API dosáhnout téhož.

@@ -3,7 +3,7 @@ layout: post
 title:  "Věci, které byste nikdy neměli dělat - část první"
 date:   2013-06-12
 categories: [software development]
-item: 133
+disqusId: 133
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:CAT-D10N-pic001.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/CAT-D10N-pic001.jpg/200px-CAT-D10N-pic001.jpg" /></a></div><i>Mnohdy mi chybí <a href="/item/130">pokora</a> a mám chuť zahodit kód. Samozřejmě cizí kód a to nejlépe celý. Jako terapie slouží již starší článek <a href="http://www.joelonsoftware.com/articles/fog0000000069.html">Things You Should Never Do, Part I</a>, který napsal Joel Spolsky (autor <a href="http://www.stackoverflow.com">stackoverflow.com</a>). S jeho <a href="https://twitter.com/spolsky/status/339403373348548608">laskavým svolením</a> jsem text přeložil do češtiny (překlad uvolňuji pod <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/">licencí Creative Commons by-nc-sa</a>).</i>
 

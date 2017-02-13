@@ -3,7 +3,7 @@ layout: post
 title:  "Z čeho se staví dům"
 date:   2013-10-29
 categories: [bydlení]
-item: 143
+disqusId: 143
 ---
 <a href="/assets/2013-10-29/20131029-jeřáb.jpg"><img src="/assets/2013-10-29/20131029-jeřáb_thumb.jpg" align="left" style="margin: 0px 15px 15px 0px"></a>Minule jsem se rozepsal o tom, <a href="/item/141">jak se staví dům svépomocí</a>, ale nedostal jsem se k tomu, z čeho je postaven. Shrnuji, co jsme si vybrali a proč a případné poučení. Původně jsme uvažovali o dřevostavbě, ale od té jsme nakonec upustili. Především si myslím, že s nimi nemají čeští řemeslníci dostatečné zkušenosti, a ani nevím, ke komu bych si chodil pro radu. Jistěže chceme bydlet rychle, ale je tu i otázka velkých úspor na hrubé stavbě, na kterou si v případě cihel troufnu. V neposlední řadě je to otázka tepelného komfortu. Je sice krásné, že prostor rychle vytopíte, ale bude vám chybět tepelná akumulace; především v létě, kdy budete mít problém dům uchladit.
 <!--more-->

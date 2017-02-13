@@ -3,7 +3,7 @@ layout: post
 title:  "Nový světový rekord v potápění na nádech"
 date:   2008-06-17
 categories: [sport]
-item: 69
+disqusId: 69
 ---
 Vypadá to, že lidé sice evolučně vzešli z vody, ale mermomocí se tam snaží vrátit. Usilovně totiž pracují na obnově takřka zakrnělého 
 potápěcího reflexu. Když v roce 2001 Martin Štěpánek vytvořil nový rekord v disciplíně _static apnea_ (zadržení dechu) s časem 8 minut 6 

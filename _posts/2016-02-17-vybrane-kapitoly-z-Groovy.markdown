@@ -3,7 +3,7 @@ layout: post
 title:  "Vybrané kapitoly z Groovy"
 date:   2016-02-17
 categories: [software development]
-item: 172
+disqusId: 172
 ---
 <img src="/assets/2016-02-17/20160217-java-groovy1.png" style="float: left; margin: 0 1em 1em 0; text-align: center;" />Na začátek jeden vtip.
 

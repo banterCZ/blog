@@ -3,7 +3,7 @@ layout: post
 title:  "Jak se prodává byt bez realitní kanceláře"
 date:   2014-09-14
 categories: [bydlení]
-item: 154
+disqusId: 154
 ---
 <a href="/assets/2014-09-14/20140914-jídelna.jpg"><img src="/assets/2014-09-14/20140914-jídelna_thumb.jpg" align="left" style="margin: 0px 15px 15px 0px" /></a>Nemám rád realitní kanceláře. Spolu s personálními agenturami je považuji za zbytečné až obtěžující. Kdybych ovšem býval věděl, na 
 jaké lidi narazím, tak jsem si možná mohl ušetřit nervy a nějaké realitce to zadal. Kdo neprodal nebo nekoupil žádnou nemovitost, tak vůbec neví, o čem je řeč. Tímto příspěvkem bych vám rád přiblížil, co prodej nemovitosti obnáší, nebo alespoň to, jak jsem si ho prožil já.

@@ -3,7 +3,7 @@ layout: post
 title:  "Co se firmy můžou přiučit od armády 2"
 date:   2013-12-18
 categories: [software development]
-item: 145
+disqusId: 145
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://cs.wikipedia.org/wiki/Soubor:CzArmy2011major_Shoulder
 .png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CzArmy_2011_OF3-Major_shoulder

@@ -3,7 +3,7 @@ layout: post
 title:  "Selenium remote control – testování AJAXu a další finty"
 date:   2009-11-29
 categories: [software development]
-item: 90
+disqusId: 90
 ---
 Na posledním projektu jsem dělal větší část práce na GUI a nehodlal jsem stále dokola klikat jak cvičená opice a raději jsem si dal trochu práce s nasazením <b>Selenium</b> remote control. Nešlo ani tak o jednotkové testy jako spíš o integrační a regresní testování. Zvolil jsem remote control a ne plugin do firefoxu (Selenium IDE), protože takto jsem měl k dispozici servisní vrstvu a mohl kontrolovat zápis do databáze. Potřeboval jsem ale pokročilejší postupy než ty, které naleznete v getting started, a o ty bych se s vámi rád podělil.
 <!--more-->

@@ -3,7 +3,7 @@ layout: post
 title:  "Aby JUnit test neselhal na první assert"
 date:   2014-03-14
 categories: [software development]
-item: 148
+disqusId: 148
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/29641/quality-control:-approved-by-stijnbern-29641"><img src="http://openclipart.org/image/150px/svg_to_png/29641/1267371838.png" /></a></div>Chtěl bych navázat na článek <a href="/item/146">Parametrizovaný JUnit test</a> a pokračovat tak v představování vlastností JUnit, o kterých dost programátoru neví, nebo je alespoň denně nepoužívají.
 

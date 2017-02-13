@@ -3,7 +3,7 @@ layout: post
 title:  "Čumbrk versus lepík"
 date:   2012-06-28
 categories: [čechořečnost]
-item: 104
+disqusId: 104
 ---
 Pro ostnaté plodenství lopuchu neexistuje ve spisovné češtině specifické označení. Já mu říkám čumbrk, manželka lepík. Byla by to úsměvná 
 historka, ovšem [grasevina](https://twitter.com/grasevina) na twitteru upozornil na článek 

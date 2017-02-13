@@ -3,7 +3,7 @@ layout: post
 title:  "Optimisti a pesimisti"
 date:   2007-03-24
 categories: [společenské hry]
-item: 17
+disqusId: 17
 ---
 Hra, ke které nepotřebujete žádné pomůcky jen uši a jazyk. Hra procvičuje schopnost argumentace a umění objevit silné a slabé stránky věci. Návíc léčí chorobné pesimisty či optimisty :-) Přece jen zapřísáhlý morous těžko něco vidí pozitivně.
 <!--more-->

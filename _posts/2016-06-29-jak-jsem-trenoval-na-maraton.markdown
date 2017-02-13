@@ -3,7 +3,7 @@ layout: post
 title:  "Jak jsem trénoval na maraton"
 date:   2016-06-29
 categories: [sport]
-item: 177
+disqusId: 177
 ---
 <a href="/assets/2016-06-29/20160629-maraton.jpg"><img src="/assets/2016-06-29/20160629-maraton_thumb.jpg" align="left" style="margin: 0px 15px 
 15px 

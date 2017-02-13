@@ -3,7 +3,7 @@ layout: post
 title:  "Rozlišujte prostředí"
 date:   2012-06-03
 categories: [software development]
-item: 100
+disqusId: 100
 ---
 Tentokrát jeden tip z řady triviálních, nicméně ďábel je skrytý v detailech. Najděte deset rozdílů.
 <a href="/assets/2012-06-03/20120603-environment_production.png"><img src="/assets/2012-06-03/20120603-environment_production.png" 

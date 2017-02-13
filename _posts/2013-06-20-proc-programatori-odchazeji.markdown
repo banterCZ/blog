@@ -3,7 +3,7 @@ layout: post
 title:  "Proč programátoři odcházejí"
 date:   2013-06-20
 categories: [software development]
-item: 134
+disqusId: 134
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="hhttps://www.flickr.com/photos/bantercz/16529750302/in/album-72157627070334676/"><img src="https://c2.staticflickr.com/8/7328/16529750302_1b54361f9e_m.jpg" /></a></div>Měním zaměstnání. Jsem tedy často dotazován: „Proč?”. Rozhodl jsem se především proto, že jsem chtěl alespoň částečně <a href="/item/132">pracovat z domova</a>. Nicméně důvody k odchodu z firmy lze zobecnit na několik málo příčin.
 

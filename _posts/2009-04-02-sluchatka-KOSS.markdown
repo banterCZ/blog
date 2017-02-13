@@ -3,7 +3,7 @@ layout: post
 title:  "Sluchátka KOSS"
 date:   2009-04-02
 categories: [technika]
-item: 83
+disqusId: 83
 ---
 Dlouhou dobu jsem vydržel s originálními sluchátky (pecky) přiloženými k mého discmanu sony (kde jsou ty časy). Od té doby jsem už vyzkoušel 
 několik modelů sluchátek značky __Koss__, proto bych zde rád shrnul svoje dojmy.

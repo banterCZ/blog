@@ -3,7 +3,7 @@ layout: post
 title:  "Manuál Linuxu obsahuje návod k čemukoliv"
 date:   2007-07-07
 categories: [úsměvné]
-item: 33
+disqusId: 33
 ---
 Přešel jsem z Windows XP na Linux Ubuntu, tomu se budu věnovat v některém z příštích příspěvků. [Komiks na rootu](http://www.root.cz/clanky/komiks-prvni-sex/) a především následná diskuse 
 mě po nainstalování balíčku _funny-manpages_ přesvědčily, že manuál k Linux obsahuje návod na cokoliv. Enjoy!

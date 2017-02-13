@@ -3,7 +3,7 @@ layout: post
 title:  "Nebezpečný řidič, nejen mladý a pitomý"
 date:   2008-12-25
 categories: [k zamyšlení]
-item: 81
+disqusId: 81
 ---
 Mám dvě nepřímé nepříjemné zkušenosti s nebezpečnými řidiči.
 

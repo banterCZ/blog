@@ -3,7 +3,7 @@ layout: post
 title:  "Pentax K100D Super"
 date:   2007-12-08
 categories: [fotografování]
-item: 48
+disqusId: 48
 ---
 Konečně jsem si koupil digitální foťák. Doposud jsem fotil s bratrovým Canon Powershot A70 . Zvažoval jsem jestli nějaký nadupaný kompakt nebo
  low end DSLR, obzvlášť když jsou ceny těchto dvou typů takřka srovnatelné. Nakonec to vyhrála digitální zrcadlovka. Sice má větší rozměry a hmotnost a je na ni dražší vodotěsné pouzdro, ale lze si pořádně hrát s hloubkou ostrosti, má světelnější objektiv a menší šum.

@@ -3,7 +3,7 @@ layout: post
 title:  "Práce není druhá rodina"
 date:   2013-05-08
 categories: [software development]
-item: 129
+disqusId: 129
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.flickr.com/photos/bantercz/8359394768/in/photostream"><img src="http://farm9.staticflickr.com/8089/8359394768_a0dafa22dc_m.jpg" /></a></div>Když jsem psal, že jako mariňáci <a href="/item/115">máte znát své kolegy</a>, nemyslel jsem, že se jim máte cpát do soukromého života a jejich volného času. Jsou ovšem firmy, které se tak prezentují nebo to snad dokonce dělají. Vojáci možná vstoupili do armády pro peníze, ale najdou se, doufejme, tací, které k tomu <a href="http://www.ted.com/talks/lang/cs/peter_van_uhm_why_i_chose_a_gun.html">vedly vyšší principy jako láska k vlasti a touha bránit svobodu</a>. Jde-li však do tuhého, tak nakonec bojují za kamarády ve zbrani. Takovou atmosféru se některé firmy, alespoň se mi zdá, snaží křečovitě vytvořit.
 <!--more-->

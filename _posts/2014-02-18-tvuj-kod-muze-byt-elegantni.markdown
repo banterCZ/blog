@@ -3,7 +3,7 @@ layout: post
 title:  "Tvůj kód může být elegantní"
 date:   2014-02-18
 categories: [software development]
-item: 147
+disqusId: 147
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://www.flickr.com/photos/bantercz/16459631310/in/album-72157648704303974/"><img src="https://c1.staticflickr.com/9/8607/16459631310_1472df98b1_m.jpg" /></a></div>Mám rád čistý kód. Kvalita kódu ovšem mnohdy musí ustoupit byznys požadavkům a nemusí to být nutně špatně. <a href="https://twitter.com/papa_fire">Leon Fayer</a> o tom sepsal pěkný článek <a href="http://omniti.com/seeds/your-code-may-be-elegant">Your Code May Be Elegant</a>. S jeho <a href="https://twitter.com/papa_fire/status/433991210542567424">laskavým svolením</a> jsem text přeložil do češtiny (překlad uvolňuji pod <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/">licencí Creative Commons by-nc-sa</a>).</i>
 <!--more-->

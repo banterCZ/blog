@@ -3,7 +3,7 @@ layout: post
 title:  "Reinkarnace informatiky na ČVUT"
 date:   2008-04-07
 categories: [obecné]
-item: 61
+disqusId: 61
 ---
 Psal jsem, [proč nestudovat softwarové inženýrství na FEL ČVUT](/item/43). Ovšem zdá se, že se blýská na lepší časy. Plánuje se [fakulta 
 informatiky](http://www.fi.cvut.cz/)

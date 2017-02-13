@@ -3,7 +3,7 @@ layout: post
 title:  "Inherit javadoc"
 date:   2013-08-05
 categories: [software development]
-item: 136
+disqusId: 136
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/128px-Java_programming_language_logo.svg.png" /></a></div>Jak píšete javadoc u implementací rozhraní nebo u překrytých metod? Léta jsem používal výchozí generovaný javadoc v Eclipse
 

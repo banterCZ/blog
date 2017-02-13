@@ -3,7 +3,7 @@ layout: post
 title:  "Svíčkovaná"
 date:   2007-11-12
 categories: [táborové hry]
-item: 46
+disqusId: 46
 ---
 Jedná se asi o naši nejoblíbenější noční bojovku. Cílem hry je sfouknout soupeřovu svíčku a zároveň chránit svou. Nemusím snad podotýkat, že se hraje bez svítilen.
 <!--more-->

@@ -3,7 +3,7 @@ layout: post
 title:  "Bouldering a lezení na umělých stěnách"
 date:   2008-05-03
 categories: [sport]
-item: 63
+disqusId: 63
 ---
 <a href="/assets/2008-05-03/20080503-lezecky.JPG"><img src="/assets/2008-05-03/20080503-lezecky_thumb.JPG" align="left" style="margin: 0px 15px 
 15px 

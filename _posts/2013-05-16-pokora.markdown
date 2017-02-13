@@ -3,7 +3,7 @@ layout: post
 title:  "Pokora"
 date:   2013-05-16
 categories: [software development]
-item: 130
+disqusId: 130
 ---
 <div style="float: left; margin: 0 2em 1em 0; text-align: center;"><a href="http://www.flickr
 .com/photos/bantercz/5881370465/in/set-72157627070334676"><img src="http://farm6.staticflickr.com/5184/5881370465_db32f1a045_m.jpg" /></a></div>Jedna z praktických <a href="/item/116">náboženských myšlenek, kterých se ateistům nedostává</a>, je pokora. Steve Biddulph v <a href="http://www.kosmas.cz/detail.asp?cislo=164279&afil=1102">Knize o mužství</a> píše, že bychom měli mít na paměti následující body.

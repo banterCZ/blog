@@ -3,7 +3,7 @@ layout: post
 title:  "Bistro Florentýna"
 date:   2011-01-16
 categories: [jídlo a pití]
-item: 95
+disqusId: 95
 ---
 [Bistro Florentýna](http://bistro.florentyna.cz/) to je poctivá česká kuchyně, kde vyřešíte dilema ze Slavností sněženek, zda je lepší kanec 
 se šípkovou omáčkou nebo se 

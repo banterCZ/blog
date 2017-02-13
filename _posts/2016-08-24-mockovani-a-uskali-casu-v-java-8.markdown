@@ -3,7 +3,7 @@ layout: post
 title:  "Mockování a úskalí času v Javě 8"
 date:   2016-08-24
 categories: [software development]
-item: 179
+disqusId: 179
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/234997/push-back-time"><img src="https://openclipart.org/image/200px/svg_to_png/234997/push_back_time.png" /></a></div>Adaptace nových verzí Javy jde pomalu. Dodnes vídám, že programátoři neumí či nechtějí používat <a href="http://docs.oracle.com/javase/7/docs/technotes/guides/language/catch-multiple.html">multi catch</a>, <a href="https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html">try-with-resources</a> a <a href="http://docs.oracle.com/javase/7/docs/technotes/guides/language/type-inference-generic-instance-creation.html">diamond operátor</a>. Jak chtít složitější posun, který přináší Java 8?
 

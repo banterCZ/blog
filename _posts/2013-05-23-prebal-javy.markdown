@@ -3,7 +3,7 @@ layout: post
 title:  "Přebal Javy"
 date:   2013-05-23
 categories: [software development]
-item: 131
+disqusId: 131
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://en.wikipedia.org/wiki/File:Java_programming_language_logo
 .svg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/80px-Java_programming_language_logo

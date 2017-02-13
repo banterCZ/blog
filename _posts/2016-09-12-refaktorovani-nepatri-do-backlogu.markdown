@@ -3,7 +3,7 @@ layout: post
 title:  "Refaktorování nepatří do backlogu"
 date:   2016-09-12
 categories: [software development]
-item: 180
+disqusId: 180
 ---
 <a href="/item/178">Z některého kódu se mi dělá fyzicky nevolno</a> a mám chuť ho <a href="/item/133">od začátku přepsat, což by se rozhodně dělat nemělo</a>. Další nápad je, přidat refaktorování do backlogu, ale tam nepatří. 
 <a href="https://twitter.com/RonJeffries">Ron Jeffries</a> to vysvětluje v článku <a href="http://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/">Refactoring -- Not on the backlog!</a> Článek jsem <a href="https://twitter.com/RonJeffries/status/765165129444888576">s laskavým svolením autora</a> přeložil do češtiny.

@@ -3,7 +3,7 @@ layout: post
 title:  "Štěstí nebo osobní zásluhy"
 date:   2014-05-30
 categories: [software development]
-item: 151
+disqusId: 151
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.amazon.com/gp/product/B001ANYDAO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001ANYDAO&linkCode=as2&tag=blog0752-20&linkId=WRNUORL4TWVKM6GY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001ANYDAO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blog0752-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=blog0752-20&l=as2&o=1&a=B001ANYDAO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>I přes zdravou míru <a href="/item/130">pokory</a> si o sobě myslím, že jsem dobrý programátor. Jsme masírováni příběhy úspěšných lidí (americký sen), kteří si svůj úspěch nepochybně vydřeli, ale jejich štěstí je jaksi upozaďováno. Malcolm Gladwell to v knize <a href="www.kosmas.cz/detail.asp?cislo=148819&afil=1102">Mimo řadu</a>, (v anglickém originálu <a href="http://amzn.to/1jzqMW9">Outliers</a>) píše: „Tváříme se, že úspěch je jen a pouze otázkou osobních zásluh… Jejich úspěch nebyl jen jejich dílem. Byl produktem světa, v němž vyrostli.“ Sám jsem pochopitelně při četbě bilancoval, co je moje zásluha a v čem se na mě usmálo štěstí.
 <div style="clear: both"></div>

@@ -3,7 +3,7 @@ layout: post
 title:  "Listina základních programátorských práv"
 date:   2012-09-10
 categories: [software development]
-item: 109
+disqusId: 109
 ---
 <div style="float: right; margin: 0 0 1em 1em; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/303px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg" title="Svoboda vedoucí lid (Eugen Delacroix)" alt="Svoboda vedoucí lid (Eugen Delacroix)" /></a></div> Můj oblíbený bloger Jeff Atwood vydal sbírků svých nejlepších článků v knize <a href="http://amzn.to/NNRlhm">Effective Programming: More Than Writing Code</a>, do které zahrnul i příspěvek <a href="http://www.codinghorror.com/blog/2006/08/the-programmers-bill-of-rights.html">The Programmer's Bill of Rights</a>.
 

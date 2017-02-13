@@ -3,7 +3,7 @@ layout: post
 title:  "Jak se staví dům svépomocí"
 date:   2013-09-23
 categories: [bydlení]
-item: 141
+disqusId: 141
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.flickr.com/photos/bantercz/7434557322/in/set-72157630934524442"><img src="http://farm9.staticflickr.com/8198/8158973347_665b50c5e9_m.jpg" /></a></div><a href="https://plus.google.com/107399094493317618479/posts/8WbEY1UnJVw">Správný muž</a> by měl zplodit syna, postavit dům a zasadit strom. A to v tomhle pořadí, abyste totiž nebudovali ohromné sídlo, ve kterém nakonec budete bydlet sami, což se nezřídka stává. Zrovna dům stavím a na <a href="https://twitter.com/banterCZ">twitteru</a> občas zmíním nějaké detaily. Objevilo se několik ohlasů, že by vás zajímaly podrobnosti, obzvlášť protože stavím částečně svépomocí. Tady jsou. Především je celá stavba lekce trpělivosti a <a href="/item/130">pokory</a> a v neposlední řadě i <a href="/item/108">kvalifikace na projektového manažera</a>. Důležité je mít na paměti, že i když se nastěhujete a začnete bydlet, tak deset let dostavujete, pak si dáte rok pauzu a začnete opravovat. Jo a až budu stavět třetí dům, tak ten bude nejlepší, jelikož konečně budete vědět, jak na to.
 <!--more-->

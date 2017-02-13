@@ -3,7 +3,7 @@ layout: post
 title:  "Psi, hovna a vztahy"
 date:   2013-03-09
 categories: [k zamyšlení]
-item: 124
+disqusId: 124
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.scribd.com/fullscreen/49362700"><img 
 src="/assets/2013-03-09/20130309-on%20retirement.png" /></a></div>Pokaždé, když rozšlápnu nebo rozjedu psí lejno, má mé alter ego chuť v něm 

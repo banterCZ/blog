@@ -3,7 +3,7 @@ layout: post
 title:  "Restaurace V Zátiší"
 date:   2011-01-08
 categories: [jídlo a pití]
-item: 94
+disqusId: 94
 ---
 Nejsem typická cílová skupina [restaurace V Zátiší](http://www.zatisigroup.cz/cs/vzatisi/). Ale jednou za rok stojí i obyčejnému smrtelníkovi 
 za to, si třeba zrovna na Zátiší 

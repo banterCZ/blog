@@ -3,7 +3,7 @@ layout: post
 title:  "Včelí produkty mýtů zbavené"
 date:   2007-03-18
 categories: [(ne)kulturno]
-item: 16
+disqusId: 16
 ---
 <a href="/assets/2007-03-18/20070318-bee.jpg"><img src="/assets/2007-03-18/20070318-bee_thumb.jpg" align="left" style="margin: 0px 15px 15px 
 0px"></a>Knihu napsal 

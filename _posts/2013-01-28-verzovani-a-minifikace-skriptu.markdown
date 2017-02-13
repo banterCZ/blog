@@ -3,7 +3,7 @@ layout: post
 title:  "Verzování a minifikace skriptů"
 date:   2013-01-28
 categories: [software development]
-item: 118
+disqusId: 118
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://commons.wikimedia.org/wiki/File:View-refresh.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/View-refresh.svg/200px-View-refresh.svg.png" /></a></div>Už jste někdy opravili chybu tak, že jste odbyli testery nebo dokonce samotné uživatele se slovy „refrešni si browser“, „vymaž si cache“... ? To je výmluva na úrovni: můj domácí úkol mi sežral pes. Jistě, můžete přejmenovávat soubory nebo adresáře. Kdo by to ovšem dělal, že? Nehledě na možné zavlečení chyby. Ukáži vám způsob, jak verzovat JavaScripty a CSSka pomocí mavenu.
 <!--more-->

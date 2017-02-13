@@ -3,7 +3,7 @@ layout: post
 title:  "Doplnění královské pokladnice"
 date:   2007-12-19
 categories: [táborové hry]
-item: 49
+disqusId: 49
 ---
 Následující hra není fyzicky náročná ani nevyžaduje velkou přípravu. Je založena na shánění věcí případně na jejich výrobě. Vyhlásí se, že králi chybí v královské pokladnici následující předměty... Kdo mu je přinese, tomu se král náležitě odmění.
 <!--more-->

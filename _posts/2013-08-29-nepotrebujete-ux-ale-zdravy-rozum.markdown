@@ -3,7 +3,7 @@ layout: post
 title:  "Nepotřebujete UX, ale zdravý rozum"
 date:   2013-08-29
 categories: [software development]
-item: 140
+disqusId: 140
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.amazon.com/gp/product/0465067107/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465067107&linkCode=as2&tag=blog0752-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0465067107&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blog0752-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=blog0752-20&l=as2&o=1&a=0465067107" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>Nejsem ani zdaleka tak <a href="/item/130">pokorný</a>, abych se řídil heslem kamarádova otce: „Nemůžeš-li pochválit, tak alespoň mlč.“ Jedna z mých zvídavých <a href="/item/114">otázek, které kladu u přijímacího pohovoru</a> jako uchazeč je, zda mají <a href="http://cs.wikipedia.org/wiki/Human-Computer_Interaction">HCI</a> designéra. Potřebujete přinejmenším někoho, kdo má zdravý rozum a četl třeba knihu <a href="http://amzn.to/15vdAxL">The Design of Everyday Things</a>. Na dvou službách od Seznamu bych chtěl ukázat, jaké klacky jsou uživatelům házeny pod nohy. Klidně to berte tak, že si chci jen zchladit žáhu. V lepším případě tak, že chci upozornit na to, jak mohou zlepšit své služby.
 <!--more-->

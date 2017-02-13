@@ -3,7 +3,7 @@ layout: post
 title:  "Civilizace"
 date:   2007-12-26
 categories: [táborové hry]
-item: 52
+disqusId: 52
 ---
 V této hře není vítězů ani poražených. Fyzicky je naprosto nenáročná. Princip spočívá v tréninku empatie. Má navodit střet dvou civilizací. Úkolem je porozumění zvykům a sociální hierarchii i přes neznalost řeči. Vyžaduje pečlivý nácvik ve skupině. Jde asi o nejobtížnější hru, jakou jsem kdy hrál.
 <!--more-->

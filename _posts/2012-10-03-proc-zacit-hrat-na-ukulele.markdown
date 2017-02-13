@@ -3,7 +3,7 @@ layout: post
 title:  "Proč začít hrát na ukulele"
 date:   2012-10-03
 categories: [obecné]
-item: 110
+disqusId: 110
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center; width: 170px"><a href="http://ukehunt.tumblr
 .com/post/13566054310/ukulelebummer-life-sucks-i-always-did-like-mr"><img src="http://25.media.tumblr.com/tumblr_lvhst8B9KF1r1xdkso1_1280.jpg"

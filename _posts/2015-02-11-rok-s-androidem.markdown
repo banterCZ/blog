@@ -3,7 +3,7 @@ layout: post
 title:  "Rok s Androidem"
 date:   2015-02-11
 categories: [technika]
-item: 157
+disqusId: 157
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://commons.wikimedia.org/wiki/File:Android_robot.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/150px-Android_robot.svg.png" /></a></div>Před pěti lety jsem <a href="/item/91">přešel na Mac a iPhone</a>, nějakou dobu jsem přemýšlel i o Androidu (tou dobou <a href="http://en.wikipedia.org/wiki/HTC_Dream">G1</a>). Naštěstí jsem měl tenkrát rozum!
 

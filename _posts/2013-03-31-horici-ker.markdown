@@ -3,7 +3,7 @@ layout: post
 title:  "Hořící keř"
 date:   2013-03-31
 categories: [k zamyšlení]
-item: 126
+disqusId: 126
 ---
 <a href="/assets/2013-03-31/20130331-horici-ker.png"><img src="/assets/2013-03-31/20130331-horici-ker_thumb.png" align="left" style="margin: 0px 
 15px 15px 

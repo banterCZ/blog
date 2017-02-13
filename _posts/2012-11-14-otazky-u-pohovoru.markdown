@@ -3,7 +3,7 @@ layout: post
 title:  "Otázky u pohovoru"
 date:   2012-11-14
 categories: [software development]
-item: 114
+disqusId: 114
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.flickr.com/photos/bantercz/6539198603/in/photostream"><img src="http://farm8.staticflickr.com/7164/6539198603_c38604cb89_m.jpg" /></a></div>Jsou firmy, kde vás u pohovoru budou dusit na asymptotické složitosti (ještě bych to tak chápal u <a href="/item/106">přijímacího pohovoru do Googlu</a>) a to jen proto, aby vás pak mohli posadit k aplikaci prošpikované SQL injection. <a href="http://www.sw-samuraj.cz/2012/11/jak-delam-java-pohovor.html">Guido psal o tom, jak dělá pohovor</a> on. Kromě toho, že budete vyžadovat dodržování <a href="/item/109">Listiny základních programátorských práv</a>, bych se chtěl víc zaměřit na vaše, kandidátovy, otázky. Chystáte se do rovnocenného vztahu, takže si zaměstnavatele pořádně proklepněte. Steve Biddulph v <a href="http://www.kosmas.cz/detail.asp?cislo=164279&amp;afil=1102">Knize o mužství napsal</a>:
 <div style="clear:both"></div>

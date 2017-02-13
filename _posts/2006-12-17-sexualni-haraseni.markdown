@@ -3,7 +3,7 @@ layout: post
 title:  "Sexuální harašení aneb vzpomínka na gympl"
 date:   2006-12-17
 categories: [úsměvné]
-item: 2
+disqusId: 2
 ---
 Ne nadarmo se říká, že uklízečka má v podniku důležitější roli, než ředitel. Nejinak je tomu i v plaveckém bazénu. V hodinách tělesné výchovy jsme občas chodili plavat. Vždy nás uvítala ta samá, velice „příjemná“ paní...
 <!--more-->

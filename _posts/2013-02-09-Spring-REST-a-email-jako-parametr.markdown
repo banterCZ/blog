@@ -3,7 +3,7 @@ layout: post
 title:  "Spring, REST a e-mail jako parametr"
 date:   2013-02-09
 categories: [software development]
-item: 120
+disqusId: 120
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="http://static.springsource.org/images/spring_green_on_white_160x90.png" /></div>Denně jako vývojáři řešíme jeden problém za druhým. O většině si nejspíš myslíte, že nestojí za samostatný článek na blog (což není pravda). Mezi takové, které jsem odsunul do pozadí, by patřil i tento, pokud by se ovšem na to samém nepozastavil i kolega. Jde o to, že když používáte Spring spolu s RESTovým url a chcete používat e-mail jako parametr,<br/> například <a href="http://localhost:8080/users/jmeno.prijmeni@firma.domena">http://localhost:8080/users/jmeno.prijmeni@firma.domena</a>, tak kód vyžaduje drobnou úpravu.
 <!--more-->

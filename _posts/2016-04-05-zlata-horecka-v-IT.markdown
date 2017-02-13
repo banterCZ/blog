@@ -3,7 +3,7 @@ layout: post
 title:  "Zlatá horečka v IT"
 date:   2016-04-05
 categories: [software development]
-item: 175
+disqusId: 175
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://en.wikipedia.org/wiki/File:California_Clipper_500.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/California_Clipper_500.jpg/320px-California_Clipper_500.jpg"></a></div>
 IT je zlatý důl. Není tedy divu, že už před nějakým časem vypukla zlatá horečka ve formě startupů. Abych citoval článek <a 

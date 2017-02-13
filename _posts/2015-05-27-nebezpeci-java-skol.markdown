@@ -3,7 +3,7 @@ layout: post
 title:  "Nebezpečí Java škol"
 date:   2015-05-27
 categories: [software development]
-item: 162
+disqusId: 162
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://www.flickr.com/photos/hinkelstone/5114616335/"><img src="https://farm2.staticflickr.com/1100/5114616335_6aa38ba8bf_m.jpg" /></a><br/><a href="https://www.flickr.com/photos/hinkelstone/">Karl-Ludwig Poggemann (cc by 2.0)</a></div>Jsou pointery a rekurze latinou softwarového inženýrství? Zde je článek <a href="http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html">The Perils of JavaSchools</a>, který napsal Joel Spolsky (mimo jiné spoluautor <a href="http://www.stackoverflow.com">stackoverflow.com</a>). S jeho <a href="http://local.joelonsoftware.com/wiki/Clarifications_and_Explanations">laskavým svolením</a> na serveru, kde už je <a href="http://local.joelonsoftware.com/wiki/Czech">více jeho českých překladů</a>, jsem text přeložil do češtiny (překlad uvolňuji pod <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/">licencí Creative Commons by-nc-sa</a>).
 <div style="clear: both"></div>

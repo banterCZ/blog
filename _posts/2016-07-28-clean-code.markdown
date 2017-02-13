@@ -3,7 +3,7 @@ layout: post
 title:  "Clean Code"
 date:   2016-07-28
 categories: [software development]
-item: 178
+disqusId: 178
 ---
 Jeden z mých nejúspěšnějších tweetů a přitom taková blbost. Takže asi stojí za rozepsání. Mám totiž za to, že existuje korelace mezi pořádkumilovností a čistým kódem.
 

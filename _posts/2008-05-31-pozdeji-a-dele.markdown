@@ -3,7 +3,7 @@ layout: post
 title:  "Později a déle"
 date:   2008-05-31
 categories: [čechořečnost]
-item: 66
+disqusId: 66
 ---
 Sypu si popel na hlavu. Sám mluvím, jak mi zobák narost', prostě tak, jak jsem to doma odposlouchal. Taky mi za to kamarádi vyčinili. 
 Následující příklad je naprosto zřejmý. Ovšem já jsem v obou případech používal příslovce _déle_, navíc upravené do místního nářečí do podoby 

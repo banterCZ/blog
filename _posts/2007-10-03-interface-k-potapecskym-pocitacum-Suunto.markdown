@@ -3,7 +3,7 @@ layout: post
 title:  "Interface k potápěčským počítačům Suunto"
 date:   2007-10-03
 categories: [technika]
-item: 42
+disqusId: 42
 ---
 V roce 2003 jsem nalezl návod na výrobu __interface__ (rozhraní nebo prostě kabel), na propojení PC a potápěčského počítače __Suunto Cobra, Vyper, 
 Mosquito, Vytec a D3__. Originál USB interface stojí 2 490 Kč, kabel pro sériové rozhraní od té doby zlevnil na 1 190,- Kč. Vlastnoručně vyrobený interface vás bude stát řádově desítky korun. Návod na __sériové rozhraní__ jsem si tenkrát prozřetelně uložil. Z internetu totiž zmizel. Kontaktoval jsem autora, Jaroslava Heraina, a s jeho laskavým svolením zveřejňuji návod (drobně upraven a krácen).

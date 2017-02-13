@@ -3,6 +3,6 @@ layout: post
 title:  "Víš co"
 date:   2008-02-06
 categories: [čechořečnost]
-item: 55
+disqusId: 55
 ---
 Zdá se mi to, nebo mládež skutečně vyměnila dovětek „vole“ za frázi „Víš co!“? Trhá mi to uši, obzvlášť pokud si nějaká „Víš co!“ parta přisedne ve vlaku a já to poslouchám celou cestu z/do Prahy. Však já jim to jednou spočítám.

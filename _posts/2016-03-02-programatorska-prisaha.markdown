@@ -3,7 +3,7 @@ layout: post
 title:  "Programátorská přísaha"
 date:   2016-03-02
 categories: [software development]
-item: 173
+disqusId: 173
 ---
 Přináším překlad článku, dnes opět od Roberta C. Martina (též známý jako Uncle Bob), autora knihy <a href="http://amzn.to/1wkixFY">Clean Code</a> a spoluautora <a href="http://agilemanifesto.org/iso/cs/">Manifestu agilního vývoje</a>. Byl tak laskav, že mi odpověděl na <a href="https://twitter.com/banterCZ/status/705013179517169664">moji žádost</a> a dal <a href="https://twitter.com/unclebobmartin/status/705134763766648832">svolení</a> k překladu článku <a href="http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html">The Programmer's Oath</a>.
 

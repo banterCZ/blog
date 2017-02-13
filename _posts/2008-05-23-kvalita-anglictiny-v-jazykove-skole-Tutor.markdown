@@ -3,7 +3,7 @@ layout: post
 title:  "Kvalita výuky angličtiny v jazykové škole Tutor"
 date:   2008-05-23
 categories: [obecné]
-item: 64
+disqusId: 64
 ---
 Absolvoval jsem kurz angličtiny FCE 120 v jazykové škole Tutor, který by mě měl připravit na zkoušku FCE (First Certificate in English , 
 úroveň znalostí B2 dle [evropského referenčního rámce](http://cs.wikipedia.org/wiki/Spole%C4%8Dn%C3%BD_evropsk%C3%BD_referen%C4%8Dn%C3%AD_r%C3%A1mec)). Jde o 120 vyučovacích hodin po 45 minutách. Prakticky dvakrát týdně dvouhodinové 

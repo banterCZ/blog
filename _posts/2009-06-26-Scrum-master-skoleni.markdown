@@ -3,7 +3,7 @@ layout: post
 title:  "Scrum Master školení"
 date:   2009-06-26
 categories: [software development]
-item: 87
+disqusId: 87
 ---
 Stal jsem se certifikovaným Scrum Masterem a rád bych se podělil o své zážitky ze školení, které perfektně vedl [Boris Gloger](http://borisgloger.com/).
 <!--more-->

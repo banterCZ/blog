@@ -3,7 +3,7 @@ layout: post
 title:  "Zkušenosti s Pentax K100D Super"
 date:   2008-02-10
 categories: [fotografování]
-item: 56
+disqusId: 56
 ---
 Své [první dojmy s Pentax K100D Super](/item/48) bych chtěl doplnit o další zkušenosti. Ačkoliv bych měl na fotoaparát několik požadavků, jsem s __Pentax 
 K100D Super__ spokojený. Uvědomuji si, že poměr výkon/cena je odpovídající. Pokud bych trval na následujících vylepšení, musel bych sáhnou po 

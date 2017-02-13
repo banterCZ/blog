@@ -3,7 +3,7 @@ layout: post
 title:  "Technický lídr"
 date:   2015-11-24
 categories: [software development]
-item: 169
+disqusId: 169
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.commitstrip.com/en/2015/03/26/are-you-still-a-coder/"><img src="http://www.commitstrip.com/wp-content/uploads/2015/03/Strip-depuis-combien-de-temps-650-finalenglsih1.jpg" style="width: auto; height: auto;max-width: 400px;" /></a><br/><a href="http://www.commitstrip.com/en/2015/03/26/are-you-still-a-coder/">CommitStrip.com</a></div>Jak <a href="http://www.nohavica.cz/cz/tvorba/archiv/triatricet/triatricet.htm">zpívá Jarek Nohavica</a>: „Přicházím už do let / Pána Krista / začínaj mě bolet / různá místa...“ Přečetl jsem do svých třiceti Bibli, jak kladl svým studentům na srdce Milan Kundera. Zplodil syna, postavil dům a zasadil strom. Už jsem trochu bilancoval v jednom z minulých příspěvků <a href="/item/151">Štěstí nebo osobní zásluhy</a>. Tentokrát bych se chtěl zamyslet nad tím, co pro mě znamená pojem <em>technical leader</em> a jak bych mohl naložit s následujícími deseti lety. Je snadné psát na blogu <a href="/item/168"> jak by měla vypadat ideální softwarová firma</a>, člověk by však pro to měl být schopný něco udělat.
 

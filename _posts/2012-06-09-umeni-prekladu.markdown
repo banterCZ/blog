@@ -3,7 +3,7 @@ layout: post
 title:  "Umění překladu"
 date:   2012-06-09
 categories: [čechořečnost]
-item: 101
+disqusId: 101
 ---
 Co jsem přečetl knihu [Umění překladu (Jiří Levý)](https://www.goodreads.com/review/show/512066794?book_show_action=false), tak jsem k překladům vnímavější. Básně Roberta Frosta, několikanásobného držitele 
 Pulitzerovy ceny, vyšly v novém – současném – překladu. Údajně byl potřeba. Posuďte na malé ukázce sami.

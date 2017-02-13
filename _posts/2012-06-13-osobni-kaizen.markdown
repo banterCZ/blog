@@ -3,7 +3,7 @@ layout: post
 title:  "改善 - Osobní kaizen"
 date:   2012-06-13
 categories: [obecné]
-item: 102
+disqusId: 102
 ---
 Garr Reynolds, autor knihy [Prezentace a zen](http://www.kosmas.cz/detail.asp?cislo=149420&afil=1102) mě inspiroval v mnohém. Mimo jiné svým 
 článkem na blogu [Personal Kaizen: 15 Tips for your continuous improvement](http://www.presentationzen.com/presentationzen/2009/09/personal-kaizen-tips-for-your-continuous-improvement.html). Kaizen (改善) je termín z japonštiny a znamená zlepšení či změnu k lepšímu. V dnešní kvapné době chceme věci hned; 

@@ -3,7 +3,7 @@ layout: post
 title:  "Mock Web Service v Soap UI a Groovy"
 date:   2015-09-09
 categories: [software development]
-item: 167
+disqusId: 167
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://en.wikipedia.org/wiki/File:Soapui-logo.png"><img src="https://upload.wikimedia.org/wikipedia/en/2/23/Soapui-logo.png" /></a></div>Dejme tomu, že se vaše platforma skládá z několika komponent komunikujících přes webové služby, ale některá z nich není ještě vyvinutá nebo je třeba kvůli omezení sítě nedostupná. Vy byste přesto potřebovali zkoušet integrovat. Co teď? Vytvořte si <a href="https://en.wikipedia.org/wiki/Mock_object">mock</a> v Soap&nbsp;UI a případě potřeby naskriptujte v Groovy.
 <!--more-->

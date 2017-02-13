@@ -3,7 +3,7 @@ layout: post
 title:  "Nebesa nad námi – jízdní řády umělých družic"
 date:   2007-10-29
 categories: [uvízlo v síti]
-item: 45
+disqusId: 45
 ---
 Na noční obloze můžeme vidět Měsíc, hvězdy, letadla, družice, planety, meteory, komety... (setříděné zhruba podle četnosti výskytu). Nepočítám-li Lunu a pouliční lampy, jsou družice nejjasnějšími objekty (dobře, Venuše je taky dost jasná) na noční obloze. Rozeznat letadla od umělých družic je snadné (neblikají, rozjasní se z ničeho nic a za chvíli opět zmizí), navíc mají satelity „jízdní řád“. Bývala to moje oblíbená kratochvíle a machrovinka: „Podívej, támhle se za minutu objeví družice“ 
 <!--more-->

@@ -3,7 +3,7 @@ layout: post
 title:  "Burgundská pečeně"
 date:   2013-05-01
 categories: [jídlo a pití]
-item: 128
+disqusId: 128
 ---
 <a href="/assets/2013-05-01/20130501-burgundska.png"><img src="/assets/2013-05-01/20130501-burgundska_thumb.png" align="left" style="margin: 0px
  15px 15px 

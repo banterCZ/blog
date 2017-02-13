@@ -3,7 +3,7 @@ layout: post
 title:  "Babičina medicína na bolest v krku"
 date:   2007-02-14
 categories: [obecné]
-item: 14
+disqusId: 14
 ---
 
 S každou maličkostí nemá smysl chodit k doktorovi, natož po něm kvůli každému nachlazení požadovat antibiotika. Mnozí lidé mají pocit, že když jim lékař nepředepíše žádné léky, že je vlastně neléčí. Samostatnou kapitolou jsou lidé s hmotností 150kg, kteří berou prášky na vysoký tlak, ale ne a ne zhubout. Nechci po vás, abyste hubli, ale přináším vám postup na léčení bolesti krku.

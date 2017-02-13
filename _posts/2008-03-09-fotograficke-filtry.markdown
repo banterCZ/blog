@@ -3,7 +3,7 @@ layout: post
 title:  "Fotografické filtry"
 date:   2008-03-9
 categories: [fotografování]
-item: 58
+disqusId: 58
 ---
 Ke své zrcadlovce [Pentax K100D](/item/48) postupně dokupuji příslušenství. Začal jsem u filtrů.
 <!--more-->

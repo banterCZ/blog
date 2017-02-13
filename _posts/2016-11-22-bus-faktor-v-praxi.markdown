@@ -3,7 +3,7 @@ layout: post
 title:  "Bus faktor v praxi"
 date:   2016-11-22
 categories: [software development]
-item: 183
+disqusId: 183
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://www.flickr.com/photos/dhendrix/6906652333/"><img src="https://c2.staticflickr.com/8/7209/6906652333_84b9e8bfda_q.jpg" /></a><br/><a href="https://www.flickr.com/photos/dhendrix/">dhendrix73</a> (<a href="https://creativecommons.org/licenses/by-nd/2.0/">CC BY-ND 2.0</a>)</div><a href="https://en.wikipedia.org/wiki/Bus_factor">Bus faktor</a> je číslo, které říká, kolik lidí by muselo odejít, aby to vážně ohrozilo projekt. Nejhorší číslo je 1. Z pohledu manažerů, by bylo skvělé, kdyby lidé byli snadno zaměnitelní jako součástky stroje. My si někdy můžeme nafoukaně myslet, že jsme takřka nepostradatelní (i když jako manažer, bych se snažil takových lidí zbavit). Pravdou je, že každý je nahraditelný. Otázkou je, za jakou cenu.
 

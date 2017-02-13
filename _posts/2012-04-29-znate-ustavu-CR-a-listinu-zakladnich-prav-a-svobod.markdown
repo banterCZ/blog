@@ -3,7 +3,7 @@ layout: post
 title:  "Znáte Ústavu ČR a Listinu základních práv a svobod?"
 date:   2012-04-29
 categories: [k zamyšlení]
-item: 101
+disqusId: 101
 ---
 V týdeníku Respekt číslo 17/2012 vyšel zajímavý <a href="http://respekt.ihned.cz/c1-55532740-skepsi-se-branim">rozhovor se soudcem Janem Šotem</a>, který odsoudil poslance Bártu a Škárku. Mimo jiné v něm říká:
 

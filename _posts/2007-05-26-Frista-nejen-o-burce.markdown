@@ -3,7 +3,7 @@ layout: post
 title:  "Frišta - nejen o burce"
 date:   2007-05-26
 categories: [(ne)kulturno]
-item: 24
+disqusId: 24
 ---
 
 Frištu od Petry Procházkové doporučuji i mužům. I když je psána z pohledu ženy a je zaměřena na osud žen v jedné, v něčem obyčejné v něčem neobyčejné, afghánské rodině. Je naprosto srozumitelná a čtivá. Nechme stranou děj, ne že by byl nezajímavý, právě naopak. Kniha ve mě zanechala spoustu dojmů.

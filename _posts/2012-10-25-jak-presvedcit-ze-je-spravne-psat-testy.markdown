@@ -3,7 +3,7 @@ layout: post
 title:  "Jak přesvědčit, že je správné psát testy"
 date:   2012-10-25
 categories: [software development]
-item: 112
+disqusId: 112
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.flickr.com/photos/bantercz/8094597899/in/photostream"><img src="http://farm9.staticflickr.com/8193/8094597899_b8db71f99b_m.jpg" /></a></div>Smutné je, že na téma – jak přesvědčit o správnosti psaní testů – mám vůbec příležitost něco napsat. V ideálním světě by unit testy byly nedílnou součástí vývoje software. Bohužel jsou stále vnímány jako agilní a ne všechny týmy a ne všechny projekty unit testování aplikují. Dokonce ani na kritických systémech, ty pak vypadají jako věž na obrázku. No řekněte, chtěli byste na ni přidat nějakou kostku? Naštěstí je tu dost entuziastů, kteří ovšem při přesvědčování ostatních mnohdy narážejí na zeď. Podělím se o několik argumentů, které používám já. Na každou skupinu zabere  něco jiného. <a href="/item/107">Nejsnazší je to se začátečníky</a>, se starými psy je to (v korporátní mluvě) výzva a občas musíte přesvědčovat i management.
 <!--more-->

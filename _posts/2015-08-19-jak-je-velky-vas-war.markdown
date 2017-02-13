@@ -3,7 +3,7 @@ layout: post
 title:  "Jak velký je váš war"
 date:   2015-08-19
 categories: [software development]
-item: 166
+disqusId: 166
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://commons.wikimedia.org/wiki/File:Nuvola_mimetypes_java_jar.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Nuvola_mimetypes_java_jar.png" /></a></div>Někdy mi přijde, že programátoři postrádají elementární znalosti, případně zdravý selský rozum. Dneska snad nikdo nepřibaluje do <em>waru</em> Servlet API, nebo alespoň čtenáři tohoto blogu ne. Nicméně i tak na vás může vybafnou <em>war</em> o velikosti 80&nbsp;MB. Na locale si toho možná ani nevšimnete, i když ani virtuální mašiny nemají nekonečné disky. Ovšem dostat takový build k zákazníkovi do Afriky, kde je dokonce problém po tamější síti stáhnout e-mail, vás zbytečně obírá o čas. Takže proč je <em>war</em> vůbec tak velký a co s tím dělat?
 <!--more-->

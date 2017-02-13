@@ -3,7 +3,7 @@ layout: post
 title:  "Jak se dokončuje a zařizuje dům"
 date:   2015-03-10
 categories: [bydlení]
-item: 158
+disqusId: 158
 ---
 <a href="/assets/2015-03-10/20150310-fasáda.jpg"><img src="/assets/2015-03-10/20150310-fasáda_thumb.jpg" align="left" style="margin: 0px 15px 
 15px 

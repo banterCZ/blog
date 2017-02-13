@@ -3,7 +3,7 @@ layout: post
 title:  "Stát bere živnostníky s rodinou na hůl"
 date:   2013-02-13
 categories: [obecné]
-item: 121
+disqusId: 121
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://cs.wikipedia.org/wiki/Soubor:Coin-1-Kc-reverse.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Coin-1-Kc-reverse.jpg/160px-Coin-1-Kc-reverse.jpg" /></a></div>Výdajové paušály jsou, musím za sebe a IT obor přiznat, vysoké. Ovšem ušlý zisk z výběru daní kompenzovat na rodinách s dětmi mi nepřijde koncepční. Pokud uplatňujete náklady paušálem, tak za rok 2013 nebudete moc uplatnit slevu na vyživovanou manželku a na děti. Co jsem se bavil s kolegy OSVČ, tak buď tuto informaci nezaregistrovali nebo ji dokonce ignorují. Nevím jak vy, ale za manželku a dvě děti to dělá 24&nbsp;840 + 2 x 13&nbsp;404&nbsp;Kč, to státu nehodlám nechat. Obzvlášť s vidinou, že by peníze skončily třeba na dostavbě Temelína nebo podobně smysluplném projektu.
 <!--more-->

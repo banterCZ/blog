@@ -3,7 +3,7 @@ layout: post
 title:  "Nesplněné očekávání od nezávislých poradců v AWD"
 date:   2008-08-28
 categories: [obecné]
-item: 74
+disqusId: 74
 ---
 Nemůžu spoléhat na státní důchodové zabezpečení. Musím si začít spořit na penzi, jakkoliv je ta doba vzdálená. Však se o tom taky takřka denně
  píše v novinách. Kromě toho jsem přemýšlel o pojištění příjmů. Obrátil jsem se tedy na nezávislé poradce z [AWD](http://www.awdcr.cz/). Moc 

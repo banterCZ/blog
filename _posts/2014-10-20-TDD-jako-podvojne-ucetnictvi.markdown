@@ -3,7 +3,7 @@ layout: post
 title:  "TDD jako podvojné účetnictví"
 date:   2014-10-20
 categories: [software development]
-item: 155
+disqusId: 155
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=blog0752-20&linkId=EGVITLM3K6XSR5CM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0132350882&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blog0752-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=blog0752-20&l=as2&o=1&a=0132350882" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>Narazil jsem na pět let starý blog post <a href="http://unhandled-exceptions.com/blog/index.php/2009/02/15/uncle-bob-tdd-as-double-entry-bookkeeping/comment-page-3/">Uncle Bob: TDD As Double-Entry Bookkeeping</a>, kde je přepis části videozáznamu diskuze ohledně TDD. Konkrétně citát Robert C. Martina, autora knihy <a href="http://amzn.to/1wkixFY">Clean Code</a>. Byl tak laskav, že <a href="https://twitter.com/unclebobmartin/status/524168266668072960">neměl námitek proti překladu</a>.
 <!--more-->

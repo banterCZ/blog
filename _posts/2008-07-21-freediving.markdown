@@ -3,7 +3,7 @@ layout: post
 title:  "Freediving"
 date:   2008-07-21
 categories: [sport]
-item: 70
+disqusId: 70
 ---
 <a href="/assets/2008-07-21/20080721-suunto_record.JPG"><img src="/assets/2008-07-21/20080721-suunto_record_thumb.JPG" align="left" style="margin:
  0px 15px 15px 
