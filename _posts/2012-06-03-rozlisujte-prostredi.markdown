@@ -29,7 +29,7 @@ Podobný přístup se mi osvědčil i v případě, kdy máte víc windows serve
 Anketa
 ------
 
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/6283118.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://static.polldaddy.com/p/6283118.js"></script>
 <noscript><a href="http://polldaddy.com/poll/6283118/">Rozlišujete prostředí?</a></noscript>
 
 Výsledky předchozí ankety

@@ -5,7 +5,7 @@ date:   2015-06-11
 categories: [software development]
 disqusId: 163
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://commons.wikimedia.org/wiki/File:SOAP.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SOAP.svg/150px-SOAP.svg.png" /></a></div>Vzpomínám si na historku, kterou mi vyprávěl můj bratranec, toho času majitel stavební firmy. Vyhodil z kabiny bagristu, který tvrdil, že to nejde, sedl si tam sám a ukázal, že to jde. Tohle já jsem naposledy neudělal, takže alespoň tímto článkem to chci odčinit.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://commons.wikimedia.org/wiki/File:SOAP.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SOAP.svg/150px-SOAP.svg.png" /></a></div>Vzpomínám si na historku, kterou mi vyprávěl můj bratranec, toho času majitel stavební firmy. Vyhodil z kabiny bagristu, který tvrdil, že to nejde, sedl si tam sám a ukázal, že to jde. Tohle já jsem naposledy neudělal, takže alespoň tímto článkem to chci odčinit.
 
 Webové služby obvykle využívají HTTP protokol, který je bezstavový. Jeho stavovost dokážeme zajistit pomocí session. Když zajistíme stavovost protokolu, dokážeme zajistit i stavovost webové služby. Tak jako vám v USA neprodají střelnou zbraň okamžitě, ale musíte přijít až za několik dní, abyste s ní v afektu nespáchali zločin, i tady je potřeba se důkladně zamyslet, zda jo to dobrý nápad. Řekněme, že my jsme pádný důvod měli.
 <!--more-->

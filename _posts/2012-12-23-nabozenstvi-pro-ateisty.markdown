@@ -5,7 +5,7 @@ date:   2012-12-23
 categories: [k zamyšlení]
 disqusId: 116
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.kosmas.cz/detail.asp?cislo=173473&afil=1102"><img src="http://obalky.kosmas.cz/ArticleCovers/160494_big.jpg" /></a></div>Nevěřím v Boha! Neříkám to proto, že bych se tím chtěl nějak chlubit, prostě konstatuji fakt. Ovšem v sekulárním světě, vztaženo na Českou republiku a možná to platí i na velkou část <a href="http://cs.wikipedia.org/wiki/Západní_civilizace">Západního světa</a>, postrádám duchovní rozměr našeho života. Je to třeba vidět na občanské svatbě, kterou máte za sebou dřív, než se vůbec stačíte vzpamatovat. Ženich s něvěstou odpovídají na otázku: „...berete si... ?“, zatímco v kostele skládají slib: „...odevzdávám se tobě … a přijímám tě...“ Ještě výrazněji to vnímám u pohřbu. Nad rakví krátkou chvíli blekotá někdo, kdo vás nejspíš nikdy ani neviděl. Oproti tomu protestantský farář (ve smyslu rodinného lékaře), který vás provázel celým životem (křtil vás, oddával a nakonec i pochoval), se mi jeví jako mnohem důstojnější konec.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.kosmas.cz/detail.asp?cislo=173473&afil=1102"><img src="https://obalky.kosmas.cz/ArticleCovers/160494_big.jpg" /></a></div>Nevěřím v Boha! Neříkám to proto, že bych se tím chtěl nějak chlubit, prostě konstatuji fakt. Ovšem v sekulárním světě, vztaženo na Českou republiku a možná to platí i na velkou část <a href="http://cs.wikipedia.org/wiki/Západní_civilizace">Západního světa</a>, postrádám duchovní rozměr našeho života. Je to třeba vidět na občanské svatbě, kterou máte za sebou dřív, než se vůbec stačíte vzpamatovat. Ženich s něvěstou odpovídají na otázku: „...berete si... ?“, zatímco v kostele skládají slib: „...odevzdávám se tobě … a přijímám tě...“ Ještě výrazněji to vnímám u pohřbu. Nad rakví krátkou chvíli blekotá někdo, kdo vás nejspíš nikdy ani neviděl. Oproti tomu protestantský farář (ve smyslu rodinného lékaře), který vás provázel celým životem (křtil vás, oddával a nakonec i pochoval), se mi jeví jako mnohem důstojnější konec.
 
 Tyto mé dlouhodobé úvahy ve mně rezonovaly při četbě knihy <a href="http://www.kosmas.cz/detail.asp?cislo=173473&amp;afil=1102">Náboženství pro ateisty</a>, kterou napsal Alain de Botton.
 <!--more-->
@@ -80,7 +80,7 @@ TED
 
 Alain de Botton na konferenci TED představuje své myšlenky na přednášce <a href="http://www.ted.com/talks/lang/cs/alain_de_botton_atheism_2_0.html">Ateismus&nbsp;2.0</a>
 
-<iframe src="http://embed.ted.com/talks/lang/cs/alain_de_botton_atheism_2_0.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://embed.ted.com/talks/lang/cs/alain_de_botton_atheism_2_0.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Nevěřím v Boha, ale možná že ho jednou budu potřebovat, protože:
 

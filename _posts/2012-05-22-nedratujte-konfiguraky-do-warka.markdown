@@ -56,5 +56,5 @@ To tolik nebolí, nemyslíte?
 
 Anketa
 ------
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/6248386.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://static.polldaddy.com/p/6248386.js"></script>
 <noscript><a href="http://polldaddy.com/poll/6248386/">Co vy a konfiguráky</a></noscript>

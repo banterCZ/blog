@@ -117,5 +117,5 @@ O <a href="/item/109">listině základních programátorských práv</a> už jse
 Anketa
 ------
 
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/9139491.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://static.polldaddy.com/p/9139491.js"></script>
 <noscript><a href="http://polldaddy.com/poll/9139491/">Jaké je skóre Joel Test 2.0 vaší firmy?</a></noscript>

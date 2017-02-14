@@ -33,6 +33,6 @@ Na závěr mé dva oblíbené zdroje grafů (Nevěřím žádné statistice, kte
 
 <script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=scala,+groovy,+clojure,+jython&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
 
-<a href="http://www.indeed.com/jobanalytics/jobtrends?q=groovy%2C+scala%2C+jython%2C+clojure+&l="><img src="http://www.indeed.com/trendgraph/jobgraph.png?q=groovy%2C+scala%2C+jython%2C+clojure+" /></a>
+<a href="http://www.indeed.com/jobanalytics/jobtrends?q=groovy%2C+scala%2C+jython%2C+clojure+&l="><img src="https://www.indeed.com/trendgraph/jobgraph.png?q=groovy%2C+scala%2C+jython%2C+clojure+" /></a>
 
 A jaký je váš vztah ke Scale?

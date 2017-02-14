@@ -22,7 +22,7 @@ Proč PrimeFaces
 
 Doporučuji ovšem srovnat s job trends.
 
-<a href="http://www.indeed.com/jobtrends?q=primefaces%2C+richfaces%2C+icefaces&relative=1"><img src="http://www.indeed.com/trendgraph/jobgraph.png?q=primefaces%2C+richfaces%2C+icefaces&relative=1" /></a>
+<a href="http://www.indeed.com/jobtrends?q=primefaces%2C+richfaces%2C+icefaces&relative=1"><img src="https://www.indeed.com/trendgraph/jobgraph.png?q=primefaces%2C+richfaces%2C+icefaces&relative=1" /></a>
 
 Proč ne PrimeFaces
 ------

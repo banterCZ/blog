@@ -5,7 +5,7 @@ date:   2013-03-03
 categories: [software development]
 disqusId: 123
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="http://obalky.kosmas.cz/ArticleCovers/111759.gif" /></div> Kniha <i>Zen a umění údržby motocyklu</i> není primárně o údržbě motocyklu ani o kapajícím kohoutku. Je to taková intelektuální zenová road movie, se zajímavými postoji k životu. Našel jsem tam i jeden přesah do softwarového inženýrství. 
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="https://obalky.kosmas.cz/ArticleCovers/111759.gif" /></div> Kniha <i>Zen a umění údržby motocyklu</i> není primárně o údržbě motocyklu ani o kapajícím kohoutku. Je to taková intelektuální zenová road movie, se zajímavými postoji k životu. Našel jsem tam i jeden přesah do softwarového inženýrství. 
 <div style="clear: both"></div>
 <!--more-->
 
@@ -20,4 +20,4 @@ Nevidíte podobné postoje i ve vaší branži? V podstatě tak lze vystihnout r
 
 Na závěr jedno ilustrační video.
 
-<iframe src="http://player.vimeo.com/video/30586946" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/30586946">MACHINE</a> from <a href="http://vimeo.com/machineshed">matt machine</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/30586946" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/30586946">MACHINE</a> from <a href="http://vimeo.com/machineshed">matt machine</a> on <a href="http://vimeo.com">Vimeo</a>.</p>

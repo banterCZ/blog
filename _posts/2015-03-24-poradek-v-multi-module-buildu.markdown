@@ -32,7 +32,7 @@ Celý <a href="https://github.com/banterCZ/multi-module-sample">miniprojekt na g
 Anketa
 ------
 
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/8753707.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://static.polldaddy.com/p/8753707.js"></script>
 <noscript><a href="http://polldaddy.com/poll/8753707/">Co používáte za build nástroj</a></noscript>
 
 Související

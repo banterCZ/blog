@@ -5,7 +5,7 @@ date:   2012-08-19
 categories: [software development]
 disqusId: 107
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.flickr.com/photos/bantercz/7817532452/in/photostream/"><img src="http://farm8.staticflickr.com/7107/7817532452_9714719311_m.jpg" /></a></div> Rád se obklopuji schopnými lidmi, nejlépe schopnějšími než já, abych se od nich mohl něco přiučit. Než pracovat s někým průměrným, tak to raději do týmu začátečníka, kterého ještě nestačili nikde zprznit. Nemluvě o těch špatných, každý jeden takový totiž <a href="http://www.sigsoft.org/SEN/parnas.html">vytvoří dvě nová pracovní místa ročně</a>.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://www.flickr.com/photos/bantercz/7817532452/in/photostream/"><img src="https://farm8.staticflickr.com/7107/7817532452_9714719311_m.jpg" /></a></div> Rád se obklopuji schopnými lidmi, nejlépe schopnějšími než já, abych se od nich mohl něco přiučit. Než pracovat s někým průměrným, tak to raději do týmu začátečníka, kterého ještě nestačili nikde zprznit. Nemluvě o těch špatných, každý jeden takový totiž <a href="http://www.sigsoft.org/SEN/parnas.html">vytvoří dvě nová pracovní místa ročně</a>.
 <!--more-->
 
 Nechci psát o tom, jak začátečníky naučit psát kód. Jděte jim svým přístupem k softwarovému inženýrství přikladem! Člověka z praxe těžko, pokud již není zvyklý, namotivujte psát testy, rozhraní a javadocy. Pokud máte nějaký osvědčený způsob, tak si rád nechám poradit, vynecháme-li ovšem lámání v kole, což <a href="http://www.youtube.com/watch?v=7cnxm-OatVs">je spíš vnější než vnitřní motivace</a>.

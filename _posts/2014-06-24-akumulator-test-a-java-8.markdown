@@ -5,7 +5,7 @@ date:   2014-06-24
 categories: [software development]
 disqusId: 152
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/13230/lambda-by-anonymous"><img src="http://openclipart.org/image/149px/svg_to_png/13230/Anonymous_lambda.png" /></a></div>Paul Graham v článku <a href="http://www.paulgraham.com/icad.html">Revenge of the Nerds</a> (dostupný i <a href="http://web.archive.org/web/20031020133431/http://otaflegr.com/preklady/PomstaNerdu.html">český překlad</a>) píše, že kdybyste se Dilbertova šéfa zeptali, v čem naprogramovat software, tak vám odpoví: Java. Ale jazyky se svými schopnostmi liší. Ukazuje to sice na akademické a nepraktické úloze, která ovšem o jazycích leccos vypovídá. Úlohu jsem si připomněl v souvislosti s uvedením Javy 8. Zajímalo mě, jak obstojí.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/13230/lambda-by-anonymous"><img src="https://openclipart.org/image/149px/svg_to_png/13230/Anonymous_lambda.png" /></a></div>Paul Graham v článku <a href="http://www.paulgraham.com/icad.html">Revenge of the Nerds</a> (dostupný i <a href="http://web.archive.org/web/20031020133431/http://otaflegr.com/preklady/PomstaNerdu.html">český překlad</a>) píše, že kdybyste se Dilbertova šéfa zeptali, v čem naprogramovat software, tak vám odpoví: Java. Ale jazyky se svými schopnostmi liší. Ukazuje to sice na akademické a nepraktické úloze, která ovšem o jazycích leccos vypovídá. Úlohu jsem si připomněl v souvislosti s uvedením Javy 8. Zajímalo mě, jak obstojí.
 <div style="clear: both"></div>
 <!--more-->
 

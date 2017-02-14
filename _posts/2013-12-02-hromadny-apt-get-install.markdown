@@ -6,7 +6,7 @@ categories: [software development]
 disqusId: 144
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart
-.org/detail/171762/terminal-by-lpr577-171762"><img src="http://openclipart.org/image/150px/svg_to_png/171762/1345126450.png" /></a></div>I s tím málo, co s <b>Linuxem</b> umím, si připadám efektivnější než s Windows. Pominu-li drobnosti jako to, že ve Windows scrollujete jen tam, kde je focus, tak nejdůležitější pro programátora je pochopitelně příkazová řádka. Bez Unixové si připadám, jako kdybych měl zlámané obě nohy. Dobře, existuje <a href="http://en.wikipedia.org/wiki/Cygwin">Cygwin</a>, ale to jsou jen berle, s těmi těžko budete skákat přes kaluže.
+.org/detail/171762/terminal-by-lpr577-171762"><img src="https://openclipart.org/image/150px/svg_to_png/171762/1345126450.png" /></a></div>I s tím málo, co s <b>Linuxem</b> umím, si připadám efektivnější než s Windows. Pominu-li drobnosti jako to, že ve Windows scrollujete jen tam, kde je focus, tak nejdůležitější pro programátora je pochopitelně příkazová řádka. Bez Unixové si připadám, jako kdybych měl zlámané obě nohy. Dobře, existuje <a href="http://en.wikipedia.org/wiki/Cygwin">Cygwin</a>, ale to jsou jen berle, s těmi těžko budete skákat přes kaluže.
 
 <div style="clear: both"></div>
 S přibývajícími roky se obrušují hrany mých nekompromisních názorů: mám pochopení pro to, že je snazší spravovat síť s tisíci počítači, pokud máte jediný systém. Dal jsem Windows měsíc šanci a pak instaloval <b>Ubuntu</b> do virtuálu. Pokaždé doinstalovávám ty samé aplikace, tak jsem si poznačil skript. Třeba se vám bude taky hodit.
@@ -17,7 +17,7 @@ S přibývajícími roky se obrušují hrany mých nekompromisních názorů: m�
 Správa souborů
 ------
 
-<div style="float: right; margin: 0 0 1em 1em; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Midnight-commander.png"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Midnight-commander.png/221px-Midnight-commander.png" /></a><br />zdroj: <a href="http://en.wikipedia.org/wiki/File:Midnight-commander.png">wikipedia.org</a></div>
+<div style="float: right; margin: 0 0 1em 1em; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Midnight-commander.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Midnight-commander.png/221px-Midnight-commander.png" /></a><br />zdroj: <a href="http://en.wikipedia.org/wiki/File:Midnight-commander.png">wikipedia.org</a></div>
 To, že mám rád příkazovou řádku, ještě neznamená, že jsem masochista a že soubory kopíruji jen pomocí <em>cp</em>. Pochopitelně používám <em>mc</em> - <a href="http://en.wikipedia.org/wiki/Midnight_Commander">Midnight Commander</a>. Pokud v příkazové řádce potřebujete vypsat adresářovou strukturu, tak kromě <em>ls</em> zkuste <a href="http://en.wikipedia.org/wiki/Tree_(Unix)">tree</a>.
 
 Grafika
@@ -28,7 +28,7 @@ Grafika
 Programování
 ------
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.amazon.com/gp/product/1934356980/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356980&linkCode=as2&tag=blog0752-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1934356980&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blog0752-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=blog0752-20&l=as2&o=1&a=1934356980" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>Základ jsou verzovací systémy. Obvykle si vystačím s svn, git a mercurial.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.amazon.com/gp/product/1934356980/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356980&linkCode=as2&tag=blog0752-20"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1934356980&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blog0752-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=blog0752-20&l=as2&o=1&a=1934356980" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>Základ jsou verzovací systémy. Obvykle si vystačím s svn, git a mercurial.
 
 Jsi ostrý jen tak, jak je ostrý tvůj nůž. Jsi ostrý programátor jen tak, jak umíš <em>vim</em>. V tom již dlouhá léta vidím svou mezeru (jasně, vypnout ho umím). Zkouším vim s grafickým rozhraním; když se ztratíte, můžete použít myš. Instalujete balíček <em>vim-gnome</em>, spouštíte <em>gvim</em>. Za domácí úkol jsem si uložil přečíst knihu <a href="http://amzn.to/1dI7qBB">Practical Vim (The Pragmatic Programmers)</a>.
 

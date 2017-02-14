@@ -5,7 +5,7 @@ date:   2012-10-15
 categories: [software development]
 disqusId: 111
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.flickr.com/photos/bantercz/5438593175/"><img src="http://farm6.staticflickr.com/5140/5438593175_7b169da605_m.jpg" /></a></div>Chybami se člověk učí, ale není nutné opakovat chyby po jiných. Postavte se proto na ramena pionýrů slepých uliček. Následuje několik názorných ukázek, na kterých můžete stavět.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://www.flickr.com/photos/bantercz/5438593175/"><img src="https://farm6.staticflickr.com/5140/5438593175_7b169da605_m.jpg" /></a></div>Chybami se člověk učí, ale není nutné opakovat chyby po jiných. Postavte se proto na ramena pionýrů slepých uliček. Následuje několik názorných ukázek, na kterých můžete stavět.
 <!--more-->
 
 <div style="clear: both"></div>

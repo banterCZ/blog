@@ -15,7 +15,7 @@ Odpovědí mi bylo: „Jasně, že ho znám. Já znám jménem všech svých 220
 Uniforma
 ------
 
-<div style="float: right; margin: 0 0 1em 1em; text-align: center;"><a href="http://www.flickr.com/photos/usarmyafrica/4098444142/"><img style="" src="http://farm3.staticflickr.com/2647/4098444142_ba29eff079_m.jpg" /></a><br/><a href="http://www.flickr.com/photos/usarmyafrica/4098444142/">US Army Africa (by-nc-sa 2.0)</a></div>Uniformy se jako téma objevují i ve školství, ale tradice anglosaského světa jde zcela mimo nás. Přesto zkuste si představit, co nošení uniformy obnáší. 
+<div style="float: right; margin: 0 0 1em 1em; text-align: center;"><a href="http://www.flickr.com/photos/usarmyafrica/4098444142/"><img style="" src="https://farm3.staticflickr.com/2647/4098444142_ba29eff079_m.jpg" /></a><br/><a href="http://www.flickr.com/photos/usarmyafrica/4098444142/">US Army Africa (by-nc-sa 2.0)</a></div>Uniformy se jako téma objevují i ve školství, ale tradice anglosaského světa jde zcela mimo nás. Přesto zkuste si představit, co nošení uniformy obnáší. 
 
 Sice drobnost, ale nemusíte se trápit tím, co si vzít na sebe, výběr slušného oblečení se vyřešil sám.
 
@@ -39,5 +39,5 @@ Závěr
 
 Zejména příklad s uniformou dávám často k dobru. I když bych ji možná uvítal i ve firemní prostředí. Co si o tom myslíte vy?
 
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/7654580.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://static.polldaddy.com/p/7654580.js"></script>
 <noscript><a href="http://polldaddy.com/poll/7654580/">Nosili byste do práce uniformu?</a></noscript>

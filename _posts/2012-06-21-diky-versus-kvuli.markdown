@@ -14,5 +14,5 @@ následujícímu úryvku z novinového článku?
 
 Děkujeme snad požáru? Postrádám odlišení jevu pozitivního od negativního. I když někdy i negativní jev může mít pozitivní důsledky, ale to není tento případ.
 
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/6333142.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://static.polldaddy.com/p/6333142.js"></script>
 <noscript><a href="http://polldaddy.com/poll/6333142/">Díky versus kvůli</a></noscript>

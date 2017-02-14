@@ -59,5 +59,5 @@ Může se stát, že se v případě Javy mýlím. Snad jazyk protlačený velko
 Anketa
 ------
 
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/7125237.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://static.polldaddy.com/p/7125237.js"></script>
 <noscript><a href="http://polldaddy.com/poll/7125237/">Můj vztah k Javě</a></noscript>

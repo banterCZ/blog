@@ -5,7 +5,7 @@ date:   2014-05-30
 categories: [software development]
 disqusId: 151
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.amazon.com/gp/product/B001ANYDAO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001ANYDAO&linkCode=as2&tag=blog0752-20&linkId=WRNUORL4TWVKM6GY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001ANYDAO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blog0752-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=blog0752-20&l=as2&o=1&a=B001ANYDAO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>I přes zdravou míru <a href="/item/130">pokory</a> si o sobě myslím, že jsem dobrý programátor. Jsme masírováni příběhy úspěšných lidí (americký sen), kteří si svůj úspěch nepochybně vydřeli, ale jejich štěstí je jaksi upozaďováno. Malcolm Gladwell to v knize <a href="www.kosmas.cz/detail.asp?cislo=148819&afil=1102">Mimo řadu</a>, (v anglickém originálu <a href="http://amzn.to/1jzqMW9">Outliers</a>) píše: „Tváříme se, že úspěch je jen a pouze otázkou osobních zásluh… Jejich úspěch nebyl jen jejich dílem. Byl produktem světa, v němž vyrostli.“ Sám jsem pochopitelně při četbě bilancoval, co je moje zásluha a v čem se na mě usmálo štěstí.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.amazon.com/gp/product/B001ANYDAO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001ANYDAO&linkCode=as2&tag=blog0752-20&linkId=WRNUORL4TWVKM6GY"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001ANYDAO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blog0752-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=blog0752-20&l=as2&o=1&a=B001ANYDAO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>I přes zdravou míru <a href="/item/130">pokory</a> si o sobě myslím, že jsem dobrý programátor. Jsme masírováni příběhy úspěšných lidí (americký sen), kteří si svůj úspěch nepochybně vydřeli, ale jejich štěstí je jaksi upozaďováno. Malcolm Gladwell to v knize <a href="www.kosmas.cz/detail.asp?cislo=148819&afil=1102">Mimo řadu</a>, (v anglickém originálu <a href="http://amzn.to/1jzqMW9">Outliers</a>) píše: „Tváříme se, že úspěch je jen a pouze otázkou osobních zásluh… Jejich úspěch nebyl jen jejich dílem. Byl produktem světa, v němž vyrostli.“ Sám jsem pochopitelně při četbě bilancoval, co je moje zásluha a v čem se na mě usmálo štěstí.
 <div style="clear: both"></div>
 <!--more-->
 
@@ -29,7 +29,7 @@ Mám už odcvičeno oněch 10&nbsp;000 hodin, ale <a href="http://en.wikipedia.o
 Neměli jste nejmenší chuť vyměnit bizarní mašinku za 397 dolarů. Všechny narozené před rokem, řekněme 1952 tedy můžeme vyškrtnout.
 Ale žádoucí není ani příliš nízká věk. Ideální je chytit příležitost za pačesy hned na počátku od roku 1975, a to zkrátka nejde, když člověk ještě trčí na střední… Ideální věk byl tehdy dvacet, jednadvacet let, tzn. rok narození 1954 nebo 1955.
 
-<div style="text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Popular_Electronics_Cover_Jan_1975.jpg"><img src="http://upload.wikimedia.org/wikipedia/en/c/cb/Popular_Electronics_Cover_Jan_1975.jpg" /></a></div>
+<div style="text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Popular_Electronics_Cover_Jan_1975.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Popular_Electronics_Cover_Jan_1975.jpg" /></a></div>
 
 * Bill Gates, 28. říjen 1955
 * <a href="http://en.wikipedia.org/wiki/Paul_Allen">Paul Allen</a>, 21. leden 1953
@@ -44,7 +44,7 @@ Billy Joy tvrdil, že kdyby byl jen o fous starší a při programování by se 
 Můj příběh
 ------
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Commodore-64-Computer.png"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Commodore-64-Computer.png/250px-Commodore-64-Computer.png" /></a></div>Knihu Mimo řadu vřele doporučuji (o počítačích je tam jen jedna kapitola). Při četbě jsem přemýšlel nad štěstím, které mě potkalo a tím, jak jsem s ním naložil.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Commodore-64-Computer.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Commodore-64-Computer.png/250px-Commodore-64-Computer.png" /></a></div>Knihu Mimo řadu vřele doporučuji (o počítačích je tam jen jedna kapitola). Při četbě jsem přemýšlel nad štěstím, které mě potkalo a tím, jak jsem s ním naložil.
 
 Mojí iniciací byl osmibitový počítač <a href="http://en.wikipedia.org/wiki/Commodore_64">Commodore 64</a>, který jsem dostal někdy v první třídě, kolem roku <b>1991</b>. Štěstí bylo, že mí rodiče do něčeho takového vrazili peníze (Byl jsem jediný ze třídy, kdo měl doma počítač, a na celé základce jsem byli tenkrát asi jenom tři). Moje zásluha to, že jsem nepařil jen hry, ale zkusil i programovat (jestli tak lze pár if výrazům v basicu říkat).
 

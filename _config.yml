@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Blog o softwarovém inženýrství, programování v jazycích Java či Groovy,
   ale i o mimopracovních věcech, které mi přeletí přes nos.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.zvestov.cz"
+url: "https://blog.zvestov.cz"
 twitter_username: banterCZ
 #github_username:  jekyll
 

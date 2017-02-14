@@ -36,5 +36,5 @@ Anketa
 
 A jak velký je váš war? Nebo je vám to šumák?
 
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/9032740.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://static.polldaddy.com/p/9032740.js"></script>
 <noscript><a href="http://polldaddy.com/poll/9032740/">Jak velký je váš war?</a></noscript>

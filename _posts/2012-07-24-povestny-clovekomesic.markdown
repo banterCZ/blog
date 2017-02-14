@@ -5,7 +5,7 @@ date:   2012-07-24
 categories: [software development]
 disqusId: 105
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.amazon.com/gp/product/0201835959/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201835959&linkCode=as2&tag=blog0752-20"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=0201835959&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blog0752-20" ></a><img src="http://www.assoc-amazon.com/e/ir?t=blog0752-20&l=as2&o=1&a=0201835959" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.amazon.com/gp/product/0201835959/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201835959&linkCode=as2&tag=blog0752-20"><img border="0" src="https://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=0201835959&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blog0752-20" ></a><img src="https://www.assoc-amazon.com/e/ir?t=blog0752-20&l=as2&o=1&a=0201835959" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
 Jeff Atwood, autor [stackoverflow.com](http://stackoverflow.com/), v jednom svém příspěvku na blogu napsal, že 
 [vše co nyní umíte, bude za pět let zastaralé](http://www.codinghorror.com/blog/2006/03/everything-you-know-will-be-obsolete-in-five-years.html). Na příběhu 
 Alenky v říši divů ilustruje, že když se učíte nové technologie, tak sice běžíte jak jen nejrychleji dovedete, ovšem pouze proto abyste 

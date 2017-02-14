@@ -5,7 +5,7 @@ date:   2013-08-18
 categories: [software development]
 disqusId: 139
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/29647/quality-control:-rejected-by-stijnbern"><img src="http://openclipart.org/image/120px/svg_to_png/29647/QualityControl_rejected2.png" /></a></div>Mám poměrně jasnou představu, jak by měla vypadat organizace softwarového projektu. Mimo jiné dokola <a href="/item/112">přesvědčuji, že je potřeba psát testy</a> a instaluju nástroje na statickou analýzu kódu. Už to mám nacvičené. Ovšem čím dál tím víc mi chybí code review. Ještě jsem toto téma zatím uspokojivě neuchopil, ale minimálně jsem se zamyslel, jak bych z toho chtěl vybřednout, ačkoliv jsem tak ještě neučinil.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/29647/quality-control:-rejected-by-stijnbern"><img src="https://openclipart.org/image/120px/svg_to_png/29647/QualityControl_rejected2.png" /></a></div>Mám poměrně jasnou představu, jak by měla vypadat organizace softwarového projektu. Mimo jiné dokola <a href="/item/112">přesvědčuji, že je potřeba psát testy</a> a instaluju nástroje na statickou analýzu kódu. Už to mám nacvičené. Ovšem čím dál tím víc mi chybí code review. Ještě jsem toto téma zatím uspokojivě neuchopil, ale minimálně jsem se zamyslel, jak bych z toho chtěl vybřednout, ačkoliv jsem tak ještě neučinil.
 <!--more-->
 
 Autoři knih mají korektory, účetní zase auditory, jen programátoři si myslí, že jsou bohové. Code review by mělo zachytit chyby (i když nemůžete čekat, že se podaří najít všechny). Dále kontroluje, že nový člen týmu chápe správně architekturu, používá správné komponenty, dodržuje konvence... V neposlední řadě se programátoři navzájem učí a to nejenom o samotném software, který píší, ale i o programování jako takovém.
@@ -38,7 +38,7 @@ Code review a SCM
 ------
 
 <div style="margin: 2em 1em 1em 0em; text-align: center;">
-	<a href="http://git-scm.com/book/en/Distributed-Git-Distributed-Workflows#Dictator-and-Lieutenants-Workflow"><img src="http://git-scm.com/figures/18333fig0503-tn.png"></a><br />
+	<a href="http://git-scm.com/book/en/Distributed-Git-Distributed-Workflows#Dictator-and-Lieutenants-Workflow"><img src="https://git-scm.com/figures/18333fig0503-tn.png"></a><br />
 	<a href="http://git-scm.com/book/en/Distributed-Git-Distributed-Workflows#Dictator-and-Lieutenants-Workflow">Pro Git, Scott Chacon</a> <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">(CC) BY-NC-SA 3.0</a>
 </div>
 Největší bolest je pro mne to, že code review přichází zpětně, když už je kód v repositáři a lidem se už nechce měnit. Bez code review nemůže být úloha označena za naprogramovanou a předána testerům. Na druhou stranu chcete, aby kód byl někde verzovaný, ne jen v něčím workspace. Jenže toho s SVN těžko dosáhnete. Tím se dostáváme k distribuovaným systémům, ve kterých <a href="http://git-scm.com/book/en/Distributed-Git-Distributed-Workflows#Dictator-and-Lieutenants-Workflow">potřebné workflow lze realizovat</a>. Pomůžou vám v tom nástroje jako třeba <a href="https://code.google.com/p/gerrit/">Gerrit</a> pro Git. Existuje obdoba pro Mercurial?

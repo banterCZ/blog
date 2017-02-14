@@ -316,7 +316,7 @@ A možná si budete pamatovat tuto přednášku s úsměvem na rtech.
 
 Děkuji vám mnohokrát za pozornost.
 
-<script async class="speakerdeck-embed" data-id="76fd6952b6fc4f0b9ad75153f065c7e2" data-ratio="1.77777777777778" src="http://speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="76fd6952b6fc4f0b9ad75153f065c7e2" data-ratio="1.77777777777778" src="https://speakerdeck.com/assets/embed.js"></script>
 
 Související
 ------
