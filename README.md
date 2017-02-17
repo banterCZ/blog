@@ -20,3 +20,7 @@ Plugins
 * jekyll-twitter-plugin
 * jekyll-archives
 * i18n_filter
+
+HTML and CSS
+------
+* [Sharing buttons](http://sharingbuttons.io/)
