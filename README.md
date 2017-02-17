@@ -4,7 +4,7 @@ Source code for my personal blog.
  
 Hosted at [https://www.netlify.com](netlify.com)
 
-Available at [http://bantercz-blog.netlify.com](http://bantercz-blog.netlify.com)
+Available at [https://blog.zvestov.cz](https://blog.zvestov.cz)
 
 Built by [Jekyll](http://jekyllrb.com/)
 
