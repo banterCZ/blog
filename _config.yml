@@ -1,13 +1,17 @@
 # Site settings
 title: Banter bloguje
-#email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog o softwarovém inženýrství, programování v jazycích Java či Groovy,
   ale i o mimopracovních věcech, které mi přeletí přes nos.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://blog.zvestov.cz"
 twitter_username: banterCZ
-#github_username:  jekyll
+github_username:  banterCZ
+linkedIn_username: lubosracansky
+flickr_username: bantercz
+goodreads_username: 16037775-lubo
+googlePlus_username: LubošRačanský
+stackoverflow_username: 204950/bantercz
 
 # Build settings
 markdown: kramdown
