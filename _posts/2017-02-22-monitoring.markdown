@@ -4,6 +4,7 @@ title:  "Monitoring"
 date:   2017-02-22
 categories: [software development]
 disqusId: 186
+image: "https://openclipart.org/image/300px/svg_to_png/245804/Cctv-sketch-camera-2016040654.png"
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/245804/Cctv-sketch-camera"><img src="https://openclipart.org/image/300px/svg_to_png/245804/Cctv-sketch-camera-2016040654.png" /></a></div>

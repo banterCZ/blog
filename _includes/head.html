@@ -23,7 +23,9 @@
   {% else %}
   <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
   {% endif %}
-  {% if page.image %}
+  {% if page.image and page.image contains 'https://' %}
+  <meta name="twitter:image:src" content="{{ page.image }}">
+  {% elsif page.image %}
   <meta name="twitter:image:src" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
   {% endif %}
 </head>
