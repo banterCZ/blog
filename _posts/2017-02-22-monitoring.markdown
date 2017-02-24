@@ -106,3 +106,10 @@ Závěr
 ------
 
 Pokud pouze nedodáváte hotové řešení, ale rovněž ho i provozujete, rozhodně bych po nějakém, byť minimálním monitoringu sáhnul. Za sebe můžu říct, že [Nagios](https://www.nagios.org/) v podání [Eyes of Network](https://www.eyesofnetwork.com/) byla dobrá volba a že i placená podpora od APX v případě složitějšího systému stojí za zvážení.
+
+Edit
+------
+
+Martin Stiborský mě na twitteru upozornil na [Incinga](https://www.icinga.com/), jedná se o [fork Nagiosu](http://freesoftwaremagazine.com/articles/nagios_and_icinga/). Podle dema vypadá pěkně a responzivně (hlavně ve srovnání s EoN). Při nějakém dalším monitoringu určitě zvážím, GUI mě nalákalo a téměř vše výše řečené tam bude platit taky.
+
+{% twitter https://twitter.com/stibi/status/834873330700333058 hide_thread=true %}
