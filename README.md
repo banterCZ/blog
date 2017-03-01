@@ -20,6 +20,7 @@ Plugins
 * jekyll-twitter-plugin
 * jekyll-archives
 * i18n_filter
+* jekyll-hyphenate_filter
 
 HTML and CSS
 ------

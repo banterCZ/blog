@@ -27,6 +27,12 @@ jekyll-archives:
   enabled:
     - categories
 
+hyphenate_filter:
+  language: cs
+  left: 4
+  right: 3
+  hyphen: "&shy;"
+
 #Plugins
 gems:
  - jekyll-paginate
