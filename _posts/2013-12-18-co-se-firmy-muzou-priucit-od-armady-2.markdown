@@ -5,9 +5,7 @@ date:   2013-12-18
 categories: [software development]
 disqusId: 145
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://cs.wikipedia.org/wiki/Soubor:CzArmy2011major_Shoulder
-.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CzArmy_2011_OF3-Major_shoulder
-.png/50px-CzArmy_2011_OF3-Major_shoulder.png" /></a></div>Již jsem psal o tom, <a href="/item/115">co se firmy můžou přiučit od armády</a>. 
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://cs.wikipedia.org/wiki/Soubor:CzArmy2011major_Shoulder.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CzArmy_2011_OF3-Major_shoulder.png/50px-CzArmy_2011_OF3-Major_shoulder.png" /></a></div>Již jsem psal o tom, <a href="/item/115">co se firmy můžou přiučit od armády</a>. 
 Přivedla mě k tomu kniha <a href="http://amzn.to/PE3Vkd">Corps Business: The 30 Management Principles of the U.S. Marines</a>. Volně pak navázal Dagi, <a href="http://www.dagblog.cz/2013/03/co-ma-spolecneho-vojak-blatoslap-s.html">co má společného voják blátošlap s vývojářem lopatou</a>. Od té doby jsem si poznamenal několik další věcí, kterými se lze od ozbrojených složek inspirovat. Nedávno jsem potkal známého, který dělá vedoucího územního odboru (okres) Policie České republiky. Začal jsem konverzaci: „U vás dělá ten a ten, ale toho asi neznáš, že?“
 Odpovědí mi bylo: „Jasně, že ho znám. Já znám jménem všech svých 220 podřízených.“ Obdivem mi poklesla brada a zatím jsem si vybavoval poměry v obdobně velkých firmách.
 <!--more-->

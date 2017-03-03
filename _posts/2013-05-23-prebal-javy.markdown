@@ -5,9 +5,7 @@ date:   2013-05-23
 categories: [software development]
 disqusId: 131
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://en.wikipedia.org/wiki/File:Java_programming_language_logo
-.svg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/80px-Java_programming_language_logo
-.svg.png" /></a></div><i>Eseje Paula Grahama jsou tak úžasné čtení, že jsem se rozhodl (s jeho <a href="http://www.paulgraham.com/gfaq.html">laskavým svolením</a>), že některé přeložím do češtiny (překlad uvolňuji pod <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/">licencí Creative Commons by-nc-sa</a>). Začínám esejí ještě z pravěku Javy. Sami posuďte, na kolik je text <a href="http://www.paulgraham.com/javacover.html">Java's Cover</a> po dvanácti letech (možná i s přihlédnutím k tanečkům ohledně další verze) aktuální.</i>
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/80px-Java_programming_language_logo.svg.png" /></a></div><i>Eseje Paula Grahama jsou tak úžasné čtení, že jsem se rozhodl (s jeho <a href="http://www.paulgraham.com/gfaq.html">laskavým svolením</a>), že některé přeložím do češtiny (překlad uvolňuji pod <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/">licencí Creative Commons by-nc-sa</a>). Začínám esejí ještě z pravěku Javy. Sami posuďte, na kolik je text <a href="http://www.paulgraham.com/javacover.html">Java's Cover</a> po dvanácti letech (možná i s přihlédnutím k tanečkům ohledně další verze) aktuální.</i>
 
 <div style="clear:both"></div>
 
