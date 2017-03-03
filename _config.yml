@@ -27,6 +27,11 @@ jekyll-archives:
   enabled:
     - categories
 
+hyphenate_filter:
+  language: cs
+  left: 4
+  right: 3
+
 #Plugins
 gems:
  - jekyll-paginate
