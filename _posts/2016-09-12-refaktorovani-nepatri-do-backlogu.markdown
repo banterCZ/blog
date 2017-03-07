@@ -38,7 +38,7 @@ Hustota problémů je pro nás teď velmi viditelná a je zřejmé, že nemůže
 ![](/assets/2016-09-12/20160912-Ref10-1024x768.jpg)
 Pokud bychom čas dostali, nedobrali bychom se dobrého výsledku. Uklidíme, co vidíme a co lze stihnou v daném čase, který nikdy nebude dostatečný. Trvalo mnoho týdnů, než se kód pokazil, a určitě nedostaneme tolik týdnů na spravení.
 
-To není ta správná cesta. Velké refaktorovací akce je těžké prosadit a když ano, tak s velkým zpožděním dostaneme méně, než v co jsme doufali. To není dobru nápad. Co bychom tedy měli dělat?
+To není ta správná cesta. Velké refaktorovací akce je těžké prosadit a když ano, tak s velkým zpožděním dostaneme méně, než v co jsme doufali. To není dobrý nápad. Co bychom tedy měli dělat?
 ![](/assets/2016-09-12/20160912-RefA1-1024x768.jpg)
 Jednoduše! Místo obcházení každého roští si u další <em>featury</em> najdeme čas na to, prorazit cestu skrz některá. Možná jiná obejdeme. Vylepšíme kód, kde pracujeme a ignorujeme ten kód, kde ne. Dostaneme krásnou čistou cestu pro nějakou naši práci. Je šance, že tohle místo někdy znovu navštívíme. Takhle funguje softwarový vývoj.
 
