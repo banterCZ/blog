@@ -21,6 +21,8 @@ exclude:
   - README.md
   - Gemfile.lock
   - Gemfile
+include:
+  - _redirects
 lang: cs
 
 jekyll-archives:
