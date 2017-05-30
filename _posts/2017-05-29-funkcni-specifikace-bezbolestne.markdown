@@ -22,7 +22,7 @@ Takže specifikace jsou dobré, ale nikdo je nečte. Jako autor specifikace mus�
 Přimět lidi, aby četli vaše věci, je obvykle jen otázkou dobrého psaní. Ale nebylo by ode mě fér říct jen: „buďte dobrými spisovateli,“ a nechat to tak. Zde jsou čtyři jednoduchá pravidla, která musíte následovat, abyste vytvořili specifikaci, která je čtena.
 
 Pravidlo 1: Buďte vtipní
-======
+------
 
 Jo, pravidlo číslo jedna. Abyste přiměli lidi číst vaši specifikaci, je nutné udělat z toho zážitek. Neříkejte mi, že jste se narodili nudní. To neberu. Každý má neustále zábavné nápady, jen je vyřadíme autocenzurou, protože máme za to, že jsou „neprofesionální“. Pche. Občas musíte porušit pravidla.
 
@@ -40,7 +40,7 @@ Pokud jste četli, co napsal Dave Barry, zjistíte, že jeden z nejjednodušší
 Jo a pokud si myslíte, že je neprofesionální být vtipný, tak je mi líto, ale jen nemáte smysl pro humor. (Nepopírejte to. Lidé bez smyslu pro humor to vždycky popřou. Nemůžete mě oblafnout.) A pokud pracujte ve firmě, kde vás lidi budou méně respektovat, když vaše specifikace bude svěží, vtipná a zábavné číst, tak jděte a najděte jinou firmu, protože život je sakra příliš krátký, abyste dny trávili na tak krutém a mizerném místě.
 
 Pravidlo 2: Pište specifikaci jako kód, který vykoná mozek
-======
+------
 
 Proč si myslím, že programátoři mají problémy psát dobrou specifikaci?
 
@@ -76,7 +76,7 @@ Ukážete-li zkušenému šachistovi šachovnici uprostřed hry, byť jen na vte
 Takže když píšete specifikaci, pokuste se představit si osobu, které je určená, a že chcete, aby pochopili každý krok. Větu za větou se sami sebe ptejte, zda v kontextu, který jste jim doposud dali, při čtení této věty věci do hloubky *porozumí*. Pokud někdo z vašeho publika neví, co to je RFC-822, tak to buď musíte  definovat, nebo alespoň pohřbít do technické poznámky, aby manažeři, kteří budou specifikaci číst, to nevzdali hned, jak narazí na spoustu technického žargonu. 
 
 Pravidlo 3: Pište co nejjednodušeji
-======
+------
 
 Nepoužívejte strojený formální jazyk, protože si myslíte, že je neprofesionální psát v jednoduchých větách. Použijte co nejjednodušší jazyk jaký můžete.
 
@@ -96,14 +96,14 @@ Rozdělte text do krátkých vět. Máte-li problém napsat větu čistě, tak j
 Nic nezlepší specifikaci víc než velká spousta snímků obrazovek. Obrázek může mít cenu tisíce slov. Kdokoliv, kdo píše specifikaci pro software na Windows, by měl investovat do licence Visual Basic a naučit se ho používat alespoň tak, aby byl schopný dělat _mockupy_ obrazovek (Na Macu použijte REAL Basic; pro webové stránky Front Page nebo Dreamweaver). Zachyťte snímky obrazovky (Ctrl&nbsp;+&nbsp;PrtSc) a vlože je do své specifikace.
 
 Pravidlo 4: Několikrát si vše znovu přečtěte a revidujte
-======
+------
 
 Původně jsem měl připravený dlouhý výklad tohoto pravidla, ale je prostě tak snadné a zřejmé. Přečtěte si specifikaci několikrát a revidujte. Jasné? Naleznete-li větu, které není úžasně jednoduše rozumět, tak ji přepište.
 
 Ušetřil jsem spoustu času nevysvětlováním pravidla 4, takže přidám jiné pravidlo.
 
 Pravidlo 5: šablony jsou škodlivé
-======
+------
 Odolejte pokušení mít standardní šablony pro specifikace. Zpočátku si můžete myslet, že je důležité, aby „každá specifikace vypadala stejně“. Tip: Není. Jaký je v tom rozdíl? Vypadá každá kniha ve vaší domácí knihovně úplně stejně? Chtěli byste to?
 
 Horší je, že máte-li šablony, přidáte do nich několik sekcí, o kterých si myslíte, že jsou důležité pro každou funkcionalitu. Například: Velký Bill vydá nařízení, že od teď by měl mít každý Microsquish produkt internetovou komponentu. Takže šablona specifikace má teď sekci „internetová komponenta“. Kdykoliv někdo bude psát specifikaci, bez ohledu na to jak triviální, musí vyplnit tuto sekci, i kdyby zrovna psal specifikaci pro Microsquish klávesnici.
