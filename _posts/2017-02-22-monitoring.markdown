@@ -40,11 +40,11 @@ Nagios
 
 Pár termínů, se kterými se setkáte v Nagiosu. __Host__ je cokoliv, s čím se domluvíte přes TCP. __Service__ je logická entita, která běží na hostu (pozor, nezaměňovat za windows service).
 
-_![](/assets/2017-02-22/nagios_hard_soft_state.png)_
-
-Nagios rozlišuje tzv. _hard_ a _soft state_. Jde o to, že když se zatoulá jeden ping, tak aby vás to zbytečně neděsilo či dokonce nebudilo. Indikuje-li se chyba, výrazně se zkrátí interval kontroly a teprve když se chyba potvrdí, přepne se do _hard state_.
+![](/assets/2017-02-22/nagios_hard_soft_state.png)
 
 _[Hard/soft state, zdroj: JBsWiki (cc-by-sa 3.0)](http://www.jbackes.de/wiki/doku.php?id=nagios_mit_dynamischem_check-intervall)_
+
+Nagios rozlišuje tzv. _hard_ a _soft state_. Jde o to, že když se zatoulá jeden ping, tak aby vás to zbytečně neděsilo či dokonce nebudilo. Indikuje-li se chyba, výrazně se zkrátí interval kontroly a teprve když se chyba potvrdí, přepne se do _hard state_.
 
 SNMP
 ------
