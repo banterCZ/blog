@@ -42,7 +42,7 @@ Co je nového v software?
 
 > Za posledních třicet let _celkem nic_.
 
-# Santayanova kletba
+## Santayanova kletba
 
 Tak proč pokračujeme ve psaní nových jazyků a frameworků? Myslím, že odpověď je velmi snadná:
 
