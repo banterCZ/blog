@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Volby"
+date:   2017-09-26
+categories: [k zamyšelní]
+disqusId: 194
+image: "https://openclipart.org/image/150px/svg_to_png/213627/ballot.png"
+---
+
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/213627/ballot-vote"><img src="https://openclipart.org/image/150px/svg_to_png/213627/ballot.png" /></a></div>
+
+Nad tímto příspěvkem přemýšlím snad po každých volbách, a protože se blíží další, pro nás důležité parlamentní volby, je čas ho konečně sepsat. Moje hlavní rozčarování neplyne z toho, koho lidi volí (i když to také), ale hlavně z toho, jak málo chodí k volbám. Jsou lidé, kteří se mi přímo chlubili, že k volbám nechodí a jsou na to hrdí. V [Toulkách českou minulostí (myslím, že díl 1105)](http://www.rozhlas.cz/toulky/vysila_praha/_zprava/1105-schuzka-pocatek-veku-stran--1684265) zaznělo:
+
+<div style="clear:both"></div>
+
+> ...my si totiž nedovedeme vysvětlit, proč davy nevzdělaných dělníků vycházely do ulic, aby se domohly nikoliv vyšší mzdy, ale volebního práva. Přitom se často střetávaly s orgány státní moci, která v několika případech použila i střelné zbraně.
+
+<!--more-->
+
+Měla by se nařídit povinnost volit? V některých zemích to funguje. Povinnost se rozděluje na vymáhanou a nevymáhanou. Vymáhaná je například v 
+Lucembursku.
+
+Často slýchávám názor, že kdyby bývalo bylo možné volit elektronicky, tak bude účast ve volbách mnohem vyšší. Ovšem v knize o behaviorální ekonomii [Freakonomics](https://www.goodreads.com/book/show/1202.Freakonomics?ac=1&from_search=true) (první český překlad Špekonomie prý za moc nestál) mají opačný názor. Podle nich existuje ve Švýcarsku a USA silná společenská norma, že spořádaný občan by měl chodit k volbám. A nejsilnějším podnětem není ani tak to, co nám výsledek voleb osobně přinese, ale spíš to, být ve volební místnosti viděn (sousedy, kolegy...). Z čehož mi vychází, že elektronické volby by volební účast výrazně zhoršily.
+
+Kniha [Hvězdná pěchota](https://www.goodreads.com/review/show/1818944023?book_show_action=false&from_review_page=1) je pěkný román z vojenského prostředí a má zajímavou linku, která se týká právě voleb. Možnost volit je tam právo, které ovšem není zadarmo, lidé za něj tvrdě a ochotně platí. Nechám na vašem posouzení, zda se vám to zdá více jako [utopie](https://cs.wikipedia.org/wiki/Utopie) či [dystopie](https://cs.wikipedia.org/wiki/Antiutopie), nicméně dovolím si citovat [recenzi z www.fantasya.cz](http://www.fantasya.cz/clanek/2176-hvezdna-pechota)
+
+> Volební právo mají pouze ti, kdo prošli vojenským výcvikem – a ti také mají status plnoprávných občanů. Což však ostatním nebrání žít život podle vlastních představ (většinu obchodu řídí občané bez volebního práva). Vojna je ryze dobrovolná a záleží na „morálu“ každého rekruta (a na jeho schopnostech), zda dokáže výcvik dokončit. Což se podaří málokomu.
+
+Můžete se uklidňovat faktem, že při nižší volební účasti roste váha vašeho hlasu. Nicméně hrozí nerovnováha normálního rozložení a snadno může dojít k nějakým extrémům. V komunálních volbách má třeba můj hlas při stoprocentní účasti váhu zhruba 3&nbsp;‰, celá naše rodina hlasuje silou 1,6&nbsp;%. Třeba při 40&nbsp;% účasti je to už 4&nbsp;%, což je zajímavé číslo. 
+
+Při posledních senátních volbách jsem si celkem snadno vybral kandidáta v prvním kole. Bohužel nepostoupil do kola druhého. Tam se dostali Mládek (ČSSD) a Větrovský (nezávislý za ANO). Pro mě obě nesympatické a na první pohled nepřijatelné možnosti. Celý týden jsem nad volbou přemýšlel. Přesto jsem byl přesvědčený, že k volbám určitě půjdu a že jako nejhorší variantu a důkaz mé nerozhodnosti vhodím prázdnou obálku. Poslechl jsem si rozhovory na Českém rozhlasu a zhlédl [duel na DVTV](https://video.aktualne.cz/dvtv/mladek-v-ano-neni-demokracie-muj-sok-bude-zamestnancem-babis/r~75cd39ec90a011e6851c002590604f2e/?redirected=1506352273). Nakonec se Větrovský ukázal jako dobrá volba, protože mimo jiné vrátil okleštění zákona o registru smluv.
+
+[Saša Mitrofanova psal o cestě z poddanství zase zpátky](https://www.novinky.cz/komentare/449093-ocima-sasi-mitrofanova-cesta-z-poddanstvi-a-zase-zpatky.html) .
+
+> Všeobecné, rovné a přímé volební právo se zavedlo, aby se méně vzdělaní občané vymanili z područí bohatých a bezohledných pánů. Dnes právě tito občané utíkají zpět do onoho područí a táhnou tam všechny.
+
+[Karel Hvížďala psal, že Němci chtějí stabilitu, zato Češi se mstí vládě](http://blog.aktualne.cz/blogy/karel-hvizdala.php?itemid=29971)
+
+> Většina lidí není sama zodpovědná za svůj osud, je závislá na státu či na velkopodnikatelích, a proto její příklon k různým politickým subjektům je rozkolísaný podle momentální situace. Nevybírají nejpřijatelnější možnost, ale mstí se vládě za to, že si nesplnili své sny o sobě po roce 1989.
+
+Nejsem pro to, aby byla zákonná povinnost volit, ale za občanskou povinnost to považuji. I když na druhou stranu bych nejraději některým právo volit odebral. Dejte si tu práci a pro někoho se rozhodněte. Každá strana má svého Čunka (nevím, kdo řekl první, snad Jiří Pehe). Výmluva, že nemáme koho volit je alibistická. Přinejhorším vyvážíte volbu někoho, kdo nás táhne zpět do područí poddanství. 
