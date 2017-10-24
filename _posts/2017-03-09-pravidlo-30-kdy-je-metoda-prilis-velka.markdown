@@ -34,7 +34,7 @@ Bob Martin v knize [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Softwa
 
 Martin přiznává: „Tento předpoklad nemůžu dokázat. Nemůžu citovat žádný výzkum, který říká, že velmi malé funkce jsou nejlepší.“ Takže stejně jako mnoho další pravidel a doporučení v komunitě softwarového vývoje je tento soud založen na jejich osobní zkušenosti s psaním kódu, estetických a etických argumentech, spíše než na těch ověřených experimentem. Styl nad hmotu.  
 
-Stejný návod „menší je lepší“ platí pro [třídy](http://www.drdobbs.com/architecture-and-design/in-praise-of-small-classes/230300002), balíčky a subsystémy – všechny stavební bloky systému. V knize Code Complete je zmíněná studie z roku 1996, která zjistila, že třídy s více funkcemi mají více chyb. Podle knihy Clean Code mají být třídy (stejně jako funkce) rovněž „menší než malé“. Někteří doporučují 200 řádek jako [dobrý limit pro třídu](http://programmers.stackexchange.com/questions/66523/how-many-lines-per-class-is-too-many-in-java) (nikoliv metodu) nebo tak málo jako 50 až 60 řádek (Ben Nadel [Object Calisthenics](http://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf)). Takové třídy by se měly skládat z [„méně než 10“ nebo „ne víc jak 20“ metod](http://stackoverflow.com/questions/2050171/recommended-number-of-lines-per-java-class-file). Slavný [projekt C3](http://www.martinfowler.com/bliki/C3.html), kde vzniklo extrémní programování, měl [v průměru 12 metod na třídu](http://c2.com/cgi/wiki?ManyShortMethodsPerClass). A nemělo by být víc jak 10 tříd na balíček.
+Stejný návod „menší je lepší“ platí pro [třídy](http://www.drdobbs.com/architecture-and-design/in-praise-of-small-classes/230300002), balíčky a subsystémy – všechny stavební bloky systému. V knize Code Complete je zmíněná studie z roku 1996, která zjistila, že třídy s více funkcemi mají více chyb. Podle knihy Clean Code mají být třídy (stejně jako funkce) rovněž „menší než malé“. Někteří doporučují 200 řádek jako [dobrý limit pro třídu](http://programmers.stackexchange.com/questions/66523/how-many-lines-per-class-is-too-many-in-java) (nikoliv metodu) nebo tak málo jako 50 až 60 řádek (Ben Nadel [Object Calisthenics](http://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf)). Takové třídy by se měly skládat z [„méně než 10“ nebo „ne víc jak 20“ metod](http://stackoverflow.com/questions/2050171/recommended-number-of-lines-per-java-class-file). Slavný [projekt C3](http://www.martinfowler.com/bliki/C3.html), kde vzniklo extrémní programování, měl [v průměru 12 metod na třídu](http://c2.com/cgi/wiki?ManyShortMethodsPerClass). A nemělo by být víc než 10 tříd na balíček.
 
 [PMD](http://pmd.sourceforge.net/), nástroj statické analýzy, který pomáhá upozornit na problémy ve struktuře a stylu kódu, definuje nějaké [výchozí hodnoty pro velikost kódu](http://pmd.sourceforge.net/pmd-4.2.5/rules/codesize.html): 100 řádek na metodu, 1&nbsp;000 řádek na třídu a 10 metod na třídu. Podobný nástroj [Checkstyle](http://checkstyle.sourceforge.net/) navrhuje [odlišné limity](http://checkstyle.sourceforge.net/config_metrics.html#JavaNCSS): 50 řádek na metodu a 1&nbsp;500 řádek na třídu.
 
@@ -43,15 +43,15 @@ Pravidlo 30
 
 Hledání doporučení jako jsou tato mě přivedlo k „pravidlu 30“ v knize [Large Software Projects](http://www.amazon.com/Refactoring-Large-Software-Projects-Restructurings/dp/0470858923) (Martin Lippert, Stephen Roock).
 
-> Skládá-li se element z více jak 30 subelementů, tak je vysoká pravděpodobnost, že je tam vážný problém:
+> Skládá-li se element z více než 30 subelementů, tak je vysoká pravděpodobnost, že je tam vážný problém:
 >
-> a) Metody by v průměru neměly mít víc jak 30 řádek kódu (nepočítáme prázdné řádky a komentáře).
+> a) Metody by v průměru neměly mít víc než 30 řádek kódu (nepočítáme prázdné řádky a komentáře).
 >
 > b) Třída by v průměru měla obsahovat méně jak 30 metod, což je dohromady až 900 řádek kódu. 
 >
-> c) Balíček by neměl obsahovat víc jak 30 tříd, což je dohromady až 27&nbsp;000 řádek kódu.
+> c) Balíček by neměl obsahovat víc než 30 tříd, což je dohromady až 27&nbsp;000 řádek kódu.
 >
-> d) Subsystému s více jak 30 balíčky bychom se měli vyhnout. Takový subsystém by obsahoval až 900 tříd s až 810&nbsp;000 řádek kódu
+> d) Subsystému s více než 30 balíčky bychom se měli vyhnout. Takový subsystém by obsahoval až 900 tříd s až 810&nbsp;000 řádek kódu
 >
 > e) Systém s 30 subsystémy by pak obsahoval 27&nbsp;000 tříd a 24,3 milionů řádek kódu.
 
@@ -83,4 +83,4 @@ Jeff Langer v diskusi s Ken Beck poukázal na [čtyři pravidla jednoduchého de
 
 > Naším cílem je udržet náš systém malý a stejně tak udržet i malé funkce a třídy. Nicméně toto pravidlo má nejnižší prioritu ze všech čtyř pravidel jednoduchého designu. Ačkoliv je důležité udržet malý počet tříd a funkcí, tak mnohem důležitější je mít testy, eliminovat duplicity a vyjádřit svou myšlenku.
 
-Občas to zabere víc jak 30 řádek (nebo 20 nebo 5 nebe jaký je to limit) vytvořit soudržný kus práce. Je důležitější být opatrný s výběrem správné abstrakce a algoritmů a psát jasný, čistý kód. Pomůže-li k tomu domluvený velikostní limit, tak jej použijte. Jestli ne, tak se tím neobtěžujte.
+Občas to zabere víc než 30 řádek (nebo 20 nebo 5 nebe jaký je to limit) vytvořit soudržný kus práce. Je důležitější být opatrný s výběrem správné abstrakce a algoritmů a psát jasný, čistý kód. Pomůže-li k tomu domluvený velikostní limit, tak jej použijte. Jestli ne, tak se tím neobtěžujte.
