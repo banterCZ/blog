@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "jOpenSpace 2017"
+date:   2017-10-24
+categories: [software development]
+disqusId: 195
+image: "/assets/2017-10-24/jopenspace-black.png"
+---
+
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-10-24/jopenspace-black.png" /></div>
+
+[Stavěl jsem a zařizoval dům](https://blog.zvestov.cz/bydlen%C3%AD/2013/10/29/z-ceho-se-stavi-dum.html), takže jsem pár let trochu zanedbával konference (kromě [třeba Devel 2016](https://blog.zvestov.cz/software%20development/2016/04/05/zlata-horecka-v-it)). Letos jsem se konečně vypravil na [jOpenSpace 2017](http://www.jopenspace.cz/) a bylo to naprosto skvělé. Sepsal jsem si pro sebe pár poznámek, které můžete brát i jako lákadlo na příští jubilejní ročník.
+
+jOpenSpace je nekonference v tom smyslu, že každý návštěvník musí přijít s vlastní prezentací. Na jOpenSpace jsem potkal 41 chytřejších lidí, než jsem já. Platí, že jste průměrem lidí, kteří vás obklopují, takže podobné akce vás táhnou nahoru. Je to úplně jiný zážitek, potkat lidi z twitteru naživo a s některými si i zaběhat.
+
+<!--more-->
+
+Na přednášku bylo k dispozici deset minut, takže se ukázalo, jak se kdo připravoval, jaký má respekt k posluchačům a zda přetahuje. Nehodlám rozebírat všechny přednášky, ale rád bych vykreslil celkový dojem, který jsem si odnesl.
+
+## Krouhači zelí
+
+Velký úspěch sklidil Lukáš Křečan s _Theory of Constraints_ z knihy [The Goal](https://www.goodreads.com/book/show/113934.The_Goal?ac=1&from_search=true), která je sice zaměřená na fabriky, ale Lukáš dokázal téma přiblížit i pro IT. Přesto zvolil příklad hipsterské restaurace specializované na _knedlo, vepřo, zelo_. Krouhač zelí sice maká, seč může, ale když výroba knedlíků nestíhá a zelí se vyhodí, tak firmě může i škodit. Nejste placeni za psaní kódu, ale za nějaký přínos pro byznys, takže místo strouhání zelí může programátor jít pomoc testerovi. Víte, kde je vaše úzké hrdlo?
+
+Dobrá konference a kvalitní přednášející se poznají tak, že řečníci jsou schopní a ochotní reagovat na kolegy, kteří vystoupili před nimi. Je to zážitek jako z not, které souzní v akordu. Tím se dostávám k Romanu Pichlíkovi, který se věnoval _lead or follow_ aneb pro už není programátorem. A vzbudil značné kontroverze tím, že bychom se neměli věnovat strouhání zelí. Z publika zazněla námitka, že je to falešné dilema velkých firem, že v malých firmách se nemusíte vzdávat svého struhadla a přesto můžete věci ovlivňovat. Téma pak bylo předmětem diskusí snad všech přestávek až do konce. Přednášky nejsou od toho, abychom se souhlasně plácali po zádech. Dagimu se podařilo nastolit téma, smekám. Podle mě nechtěl říct, vykašlete se na strouhání, nechceme přece technologicky zaostat, ale výborně se mu povedlo lidi nakopnout k přemýšlení, abychom se nezasekli jenom v technikáliích, ač v tomto výkladu jsem byl osamocený.
+
+## Ženy
+
+Kamil Ševeček ukázal fotografii přednáškové místnosti asi pro tři sta lidí, kde seděla možná jen jedna žena. [Mluvil o svých zkušenostech](http://www.tomcat.cloud/Zeny%20v%20IT.pdf) z projektu [Czechitas](https://www.czechitas.cz/) a o tom, že ženy mají o programování zájem. Bohužel jsem se nedobrali důvodu, proč je v IT málo žen. Přitom historie je plná velkých žen jako [Ada Lovelace](https://cs.wikipedia.org/wiki/Ada_Lovelace) (vymyslela programování tak, jak je známé dnes) či [Margaret Hamilton, programátorka softwaru pro Apollo](https://technet.idnes.cz/margaret-hamilton-programatorka-nasa-apollo-error-free-software-ph3-/tec_vesmir.aspx?c=A160721_114104_tec_vesmir_pka). Ze současné Java komunity můžu jmenovat třeba [Trisha Gee](https://github.com/trishagee).
+
+Na jOpenSpace jedna žena dorazila, i s dítětem. Forenzní genetička Nasťa Sedláčková vyprávěla o [webové prezentaci dat z jazyka R](https://docs.google.com/presentation/d/1tA1QnIuVJ7X31jXywpjQdZ1HCzUlFxZmmBYQZfwLl-0/edit#slide=id.p). Úžasné na tom bylo, že nešlo o programování pro čisté programování, ale že jde o aplikaci programování do biologie, ze které má doktorát. Ukázala programování jako prostředek k dosažení cílů v jiném oboru. Podobné praktické využití by mohlo přitáhnout víc lidí. Využil jsem příležitosti a o přestávkách se Nasti na vědu, kriminalistiku a akademickou sféru vyptával.
+
+## Děti
+
+Leitmotivem letošního jOpenSpace byla výuka programování pro děti. Hojně jsme o tom o přestávkách diskutovali, přestože takovou přednášku neměl původně nikdo připravenou. Dává to smysl, když už se sešlo tolik rodičů. Osobně mám zkušenost se [Scratch Junior](https://www.scratchjr.org/), [LightBot](http://lightbot.com/) a [SpriteBox](http://spritebox.com/hour.html). K tomu jsem posbíral spoustu odkazů k prostudování: [Computer Science Unplugged](http://csunplugged.org/), [Micro:bit](http://microbit.org/) či [PRIM](http://www.imysleni.cz/). Myslím, že jsme se dost vyhecovali, tak snad se mi podaří něco podniknout. Ono odhodlání a předsevzetí na podobných akcích vždycky vyletí a pak opadnou, ale důležité je, že se (snad) nevrátí na původní hodnotu a (byť nepatrně) se posune vzhůru. 
+
+![](/assets/2017-10-24/odhodlání.png)
+
+_Křivka odhodlání_
+
+Zatím největší evangelista u nás mi přijde Martin Javorek, doporučuji sledovat jeho twitter [Programujeme hrou](https://twitter.com/programohrajeme).
+
+## Ostatní
+
+Milan Lempera mluvil o rozdělení jazyků, že například [dynamické typování nemusí být slabé](http://blog.lempera.cz/2017/10/programovaci-jazyky-typy.html), což mi ušetřilo vysvětlování v mé prezentaci o Groovy. I když tedy letos [frčel spíš Kotlin](https://docs.google.com/presentation/d/1PZkLtIe-XNe0Yq2oeX42LUVKvwR-_KbH_R9JyZKNJLQ/edit).
+
+Pavel Jetenský představil algoritmus [K-means](https://cs.wikipedia.org/wiki/K-means) pro rozdělení prvků do skupin. Dobrý impulz. Je potřeba nezakrnět u _bubble sortu_ ze školy a dál se vzdělávat. Překvapilo mě, že použil Javu, a pobavily inženýrské příklady použití pro výpočet umístění studní v sadu (asi poručíme vodním pramenům).
+
+Honza Novotný se odrazil od článku z blogu [Wait but Why o Neuralinku Elona Muska](https://waitbutwhy.com/2017/04/neuralink.html), jehož vize je, že mozky budou komunikovat napřímo. Porozumění jazyka je komplexní problém. Zkuste někomu vysvětlit, jak se zavazují tkaničky. Zmínil seriál Black Mirror, který můžu rovněž doporučit, konkrétně [S01E03 The Entire History Of You](https://www.youtube.com/watch?v=Sw3GIR70HAY). V následných diskusích došlo i na [CRISPR](https://en.wikipedia.org/wiki/CRISPR).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jAhjPd4uNFY" frameborder="0" allowfullscreen></iframe>
+
+Tomáš Zvěřina [mluvil o jazyce Dart](https://docs.google.com/presentation/d/1bh5HurKdNQ5ChFzsqf4vcqRBWTFWYge01IOnCuAsyKw/edit#slide=id.p), ve kterém se [píše například Google AdSense](https://news.dartlang.org/2016/10/google-adsense-angular-dart.html). Chtěl bych umět mluvit jako on, s lehkým vtipem, rozvážně a takhle zaujmout. 
+
+František Řezáč ukládá svoje hesla na čipové karty (odkaz na prezentaci později, až ho dodá). To souzní s moji lehkou paranoií, i když ne takovou, jako má Franta. Zdůraznil, že pokud někomu stojíte za cílený útok, tak se beztak neubráníte. Týden na to se provalilo, že [třetina kryptografických čipů generuje slabé RSA klíče, prolomení je snadné](https://www.root.cz/clanky/tretina-kryptografickych-cipu-generuje-slabe-rsa-klice-prolomeni-je-snadne/). Měl jsem za to, že je bezpečnější generovat klíče přímo na kartě, aby privátní klíč nikdy neopustil kartu, a vypadá to, že to ne vždy byla dobrá volba.
+
+![](/assets/2017-10-24/jopenspace.jpg)
+
+Petr Hamerník představil [generování textu](https://www.dropbox.com/s/17et4h38ahs3xkl/2017-10-jOpenSpace-NLG-PetrHamernik.ppt?dl=0) na článcích o fotbale. Dává jim to moc pěkné výsledky. Zmiňoval počítačem psanou sbírku [Poezie umělého světa (Jiří Materna)](https://www.goodreads.com/book/show/29911030-poezie-um-l-ho-sv-ta?ac=1&from_search=true). K dispozici zdarma, musím prozkoumat.
+
+Tomáš Hubálek vysvětlil, [jak lze vydělat na mobilních aplikacích](https://docs.google.com/presentation/d/1Gt8tj_FYlq0imEXOMHVViPt2CLEA4pybp85IY1flwUg/edit?usp=sharing).
+
+[Se svým blogem jsem již přešel na statický generátor stránek](https://blog.zvestov.cz/software%20development/2017/04/24/staticky-web-s-jekyllrb.html), ale nenapadlo mě, že to [lze propojit s headless CMS](https://blog.prskavec.net/blog/2017/10/jopenspace-2017-a-moje-p%C5%99edn%C3%A1%C5%A1ka-o-jamstacku/) (Ladislav Prskavec).
+
+Vojtěch Růžička [vypíchl problém Using Components with Known Vulnerabilities](https://www.dropbox.com/s/s6czbfzz9r6jiez/ruzicka%20-%20Detekce%20znamych%20zranitelnosti.pptx?dl=0), který by měl být zařazen do [OWASP](www.owasp.org) 2017 Top 10 jako bod A9. Jedná se o kontrolu známých zranitelností v knihovnách a jejich tranzitivních závislostech, které používáte.
+
+Ondřej Chaloupka [implementuje Saga transactions do WildFly](http://chalda.cz/saga/saga.html
+), tedy dlouhoběžící transakce, které nelze _rollbackovat_, ale případně vyžadují nějakou kompenzaci.
+
+Ondřej Nekola pojal svoji přednášku jako recenzi knih. Ne že bych neměl co číst na dalších deset let dopředu, ale přesto jsem si na seznam přidal [Mastering Bitcoing](https://www.goodreads.com/book/show/21820378-mastering-bitcoin?ac=1&from_search=true), [Proofs and Refutations](https://www.goodreads.com/book/show/434707.Proofs_and_Refutations?from_search=true), [Anatém](https://www.goodreads.com/book/show/15828656-anat-m?ac=1&from_search=true) a [Problém tří těles](https://www.goodreads.com/book/show/33819718-probl-m-t-t-les).
+
+## Závěr
+
+Letošní jOpenSpace bylo skvělé a příští rok bych rád jel znovu. I když se podíváte na záznam, nebude to mít atmosféru. Je to jako koncert.
+
+Zaznamenal jsem obavy účastníků ale i lidí, kteří nakonec bohužel nejeli, protože se báli, zda budou mít co říct. Nebojte se, nikdo vás neukousne. Každý je v něčem lepší než vy a i když může na twitteru vypadat jako hvězda, nebude se nad vás povyšovat, ale je to obyčejný smrtelník, který si s vámi rád dá pivo a něco se přiučí i od vás.
+
+Děkuji sponzorům a všem dobrovolníkům za organizaci. Na viděnou za rok!
