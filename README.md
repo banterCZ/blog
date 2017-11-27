@@ -11,7 +11,7 @@ Built by [Jekyll](http://jekyllrb.com/)
 Build
 ------
 
-    bundle exec jekyll serve
+    bundle exec jekyll serve --limit_posts 10
 
 Plugins
 ------
