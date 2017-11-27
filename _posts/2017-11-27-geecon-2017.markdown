@@ -1,0 +1,129 @@
+---
+layout: post
+title:  "Pražský GeeCON 2017"
+date:   2017-11-27
+categories: [software development]
+disqusId: 196
+image: "/assets/2017-11-27/geecon_logo.png"
+---
+
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-11-27/geecon_logo.png" /></div>
+
+Letos jsem si vynahradil deficit návštěv konferencí. Po [jOpenSpace](https://blog.zvestov.cz/software%20development/2017/10/24/jopenspace-2017.html) jsem vyrazil i na [pražskou odnož polské konference GeeCON](https://2017.geecon.cz/about/). Nehodlám probírat všechny přednášky. Chci si uchovat své poznámky a zhodnotit, zda jít i příště.
+
+<!--more-->
+
+[Začínal jsem svoji kariéru ve firmě Simple Way](https://blog.zvestov.cz/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html). Od té doby už vyrostli tak, že můžou podobné akce sponzorovat a stát vedle velkých firem. Blahopřeju! Je jasné, že stánky firem byly zaměřené na nábor lidí, ale nebylo to nijak agresivní, aktivity pestré a za poskytnuty kontakt jste mohli třeba vyhrát Raspberry Pi, to mi přijde fér.
+
+Musím opět vyzdvihnout jeden z hlavních přínosů konferencí a to je setkávání s lidmi. Potkal jsem kolegy, s kterými jsem pracoval před deseti lety a dlouho je neviděl. Zakecal jsem se tolikrát tak, že jsem si nestíhal dojít pro kafe či na záchod. Takže na nějaké programátorské soutěže už tedy žádný čas nezbyl.
+
+## Přednášky
+
+Pro pořádek, jedná se o mezinárodní konferenci, takže na rozdíl od [WebExpo](https://www.webexpo.net) je každá přednáška v angličtině.
+
+### Making It Count: Quality is Not Optional (Todd Montgomery)
+
+Todd Montgomery mluvil o kvalitě. Pracoval léta pro NASA, takže začal výbuchem raketoplánu Challenger. Jestli jsem to správně pochopil, tak software pro ISS netestovaly stovky ani desítky testerů, ale jen tak pět až šest testerů. Zmiňoval etiku a [případ inženýrů z WV, kteří byli odsouzeni na 40 měsíců nepodmíněně](https://www.reuters.com/article/us-volkswagen-emissions-sentencing/vw-engineer-sentenced-to-40-month-prison-term-in-diesel-case-idUSKCN1B51YP). Připomněl, že software má velmi špatné renomé. Schválně se zeptejte lidí, zda očekávají, že bude fungovat. Z publika padla zajímavá otázka: „Kdo je ochotný platit za kvalitu?“ Někdo ano, třeba zákazníci Applu.
+
+### Full-stack Reactive Java with Project Reactor &amp; Spring Boot 2 (Mark Heckler)
+
+Snažím se chodit na přednášky o tématech, o kterých nic nevím. Tentokrát jsem se u dvou paralelních zklamal a na Marka Hecklera se dostal až v půlce. Mluvil o reaktivních programování a pojal to jako _live coding_, což většinou bývá debakl, ale měl to perfektně zvládnuté. Je velmi vtipný řečník. Zapojil publikum s vymýšlením názvů filmů (reaktivní předělávky jako například Total Reflux).
+
+Hezky se na to kouká, ale osobně pro to nemám praktické využití. Z přednášky [Juergena Hoellera o Spring 5](https://www.youtube.com/embed/0Zj_8K7UUmw) si pamatuju, použiji-li [slova Honzy Novotného alias Novoje](http://blog.novoj.net/2017/04/02/prednaska-juergena-hoellera-o-spring-framework-5/)
+
+> není cesta pro každého a má smysl se jí vydat pouze tehdy, nestačí-li současná architektura zvládat požadavky kladené na aplikaci … a dost možná začít s tímto přístupem experimentovat zpočátku pouze na „horkých“ místech aplikace a sbírat zkušenosti nejprve tam … pokud je součástí i data store, je nutnou podmínkou reaktivní ovladač dané technologie – nebo naopak pro ukládání dat vybírat takový typ databáze, který reaktivní přístup umožňuje
+
+### Software's Seven Deadly Wastes (Jez Halford)
+
+O Toyotě dnes mluví kde kdo. Jez Halford [koncipoval svoji přednášku jako sedm smrtelných hříchů](https://jezhalford.com/talks/software-s-seven-deadly-wastes), měl to prakticky namapované na IT. Mám za to, že bod 4, _waiting_, taky řeší přístup _API first_, který razím, kudy chodím.
+
+### Deep dive and learn about your Operating System (Quentin Adam)
+
+Když nerd tak Quentin Adam, slidy měl v příkazové řádce! Nevyvážené. Začátek slabší, ale konec stál za to. Je to takový docker kacíř. Tvrdil, že virtualizace není pomalá, nastartuje mu za 7&nbsp;vteřin. Nepoužívá VirtualBox, i když chyba není v něm, ale v tom, že se spouští celý grafický ansámbl. Chce vědecký důkaz a ne: „Já si myslím...“ Mnoho testů běží na levné RAMce. CPU je podle něj dnes v pohodě, problém je s I/O. Kladl nám na srdce, že se máme naučit _linux low level dark magic_. Ptal jsem se jak. Máme si prý linux nainstalovat a začít s ním pracovat. Nejlépe distribuci [Exherbo](https://exherbo.org/), která je uživatelsky nepřívětivá. Doporučoval i knihu [Understanding the Linux Kernel](https://www.goodreads.com/book/show/227119.Understanding_the_Linux_Kernel?ac=1&from_search=true) s příklady zdrojových kódů jádra. Dal jsem si ji na seznam, ale nevím, jestli najdu odvahu se do ní pustit.
+{% twitter https://twitter.com/codinghorror/status/695072624322293760 %}
+
+### How to write maintainable code (Peter Hilton)
+
+Původně jsem k přednášce přistupoval s nedůvěrou, zda se k tématu _Clean Code_ dá říct ještě něco nového. Byl jsem příjemně překvapen, že to lze. Nakonec patřila k tomu nejlepšímu, co jsem na konferenci slyšel.
+
+Snažím se sledovat řečnický projev, abych se od přednášející něco naučil. Už u jOpenSpace jsem vyzdvihoval to, zda jsou přednášející schopní na sebe reagovat. Hilton zašel ještě dál: [Do svých slidů](https://www.slideshare.net/pirhilton/how-to-write-maintainable-scala-code) stihl zapracovat fotku z předchozí přednášky a navázat na ni.
+
+> A ham sandwich walks into a bar. The bartender says, "Sorry, we don't serve food here."
+
+Slova můžou mít více významů, na tom jsou založené vtipy. Navrhuje používat slovník při výběru názvů proměnných (Mac ho má přímo vestavěný v systému). Osobně si vzpomínám, jak jsme na jednom projektu zaměnili _request_ a _demand_ (není požadavek jako požadavek).
+
+Důvěřujete svým kolegům, že vždy píší čistý kód?
+
+Připomněl mi knihu [Specification by Example (Gojko Adzic)](https://www.goodreads.com/review/show/1560944845?book_show_action=false&from_review_page=1)
+
+> Dlouhá papírová dokumentace, stejně jako levné víno, stárne rychle a způsobuje bolest hlavy, pokusíte-li se ji použít rok po tom, co byla vytvořena. Na druhou stranu udržovat systém bez jakékoliv dokumentace rovněž způsobuje bolest hlavy.
+
+Podle Hiltona se Uncle Bob mýlí a pokud nemáte komentáře, nemáte vůbec žádnou dokumentaci.
+
+Nemáme to přehánět s principem _DRY_. Mluvil o sirénách abstrakce. Abstrahovat bychom měli až při třetím psaní a nějakou duplicitu tolerovat.
+
+Popisoval nástroj _architecture decision record_. Zapisujte si svá rozhodnutí, co jste zvažovali a proč jste se rozhodli zrovna takhle. Používáme a můžu taky doporučit. Po roce si třeba sami nevzpomenete, případně ukážete nově příchozím.
+
+### Architecting for performance. A top-down approach (Ionut Balosin)
+
+_Clean code_ nepíšeme jen kvůli čitelnosti, ale má dopad i na výkon. Nepíšu takto na výkon vyladěné programy, ale přesto bylo zajímavé si to poslechnout. Na škole mi to dost vadilo, ale zpětně doceňuji, že je dobré trochu rozumět tomu, jak funguje hardware. Vysvětloval, že třeba _cohesion_ je důležité pro CPU cache. Nebo že není jedno, zda dvojrozměrné pole procházíte po řádcích či po sloupcích.
+
+### 'Built To Last' ...and the end of migrations (Adam Bien)
+
+Přestože dávám přednost Springu, tak sleduji [blog Adama Biena](http://adam-bien.com/), který propaguje čistou Javu EE a CDI, abych zůstal v obraze (poslední dobou přepnul víc na videa, ale já raději text). Svou přednášku pojal jako _live coding_, kde ukázal, čeho lze dosáhnout bez frameworků jen se standardními technologiemi: čistá Java, javascript a css. Máme si případně jen vyzobat komponenty jako třeba PrimeFaces (asi myslel [PrimeNG](https://www.primefaces.org/primeng)). To je mi sympatické. Ostatně nedávnou jsem překládal článek (Nechte kouzlo zmizet)[https://blog.zvestov.cz/software%20development/2017/09/18/nechte-kouzlo-zmizet.html] a již dříve jsem se [vztekal nad velikostí waru](https://blog.zvestov.cz/software%20development/2015/08/19/jak-je-velky-vas-war.html) (ten jeho měl 8&nbsp;kB). Adamova přednáška do toho pěkně zapadá. Mimo jiné třeba říkal:
+
+> Minification will die because of http/2 preloading.
+
+Mluvil o své zkušenosti konzultanta, kdy jeden zákazník uvázl na staré verzi Angularu a migrace byla složitá ne-li nemožná. Povýšení Javy bylo vždy v pohodě.
+
+Z řečnických schopností oceňuji, že vypíchl, že NetBeans IDE vzniklo v Praze, a v příkladu použil české reálie (Krtečka a jeho kamarády).
+
+### Building a Smart Security Camera with Raspberry Pi Zero, Java and AWS (Mark West)
+
+Na tuhle přednášku jsem bohužel dorazil až v půlce (utekl jsem z jiných). Mark West [ukazoval svůj projekt](https://www.slideshare.net/markawest/javazone-2017-building-a-smart-security-camera-with-raspberry-pi-zero-java-and-aws), kde kamerou napojenou na Raspberry Pi a AWS rozpoznával obličeje. Podařilo se mu díky tomu chytit i jednoho zloděje. Zaujaly mě hlavně zkušenosti s náklady za AWS. Dobré vědět, že můžete něco provozovat zdarma. Že za Javu platil dvakrát tolika jak za javascript (mohl za to _cold start_). A že někdo něco v Pythonu pouštěl s větší pamětí, tedy zdánlivě dražší, ale nakonec levnější, protože to doběhlo rychleji.
+
+### Analyzing HotSpot Crashes (Volker Simonis)
+
+Už chápu, jak běžní smrtelníci vidí ajťáky, jako já Simonise, který [hledá pády virtuální mašiny](https://simonis.github.io/GeeCON2017/AnalyzingHotSpotCrashes/analyzingHotSpotCrashes.xhtml), prostě kouzelník. Já něco takového zažít, tak mu volám.
+
+### Software Is Details (Kevlin Henney)
+
+Máte-li z letošního GeeCONu něco vidět ze záznamu, tak právě tohle. Kevlin Henney, autor knihy [97 Things Every Programmer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/7003902-97-things-every-programmer-should-know?ac=1&from_search=true), byl, alespoň pro mě, hlavním lákadlem. Nechápu, že během přednášky lidé odcházeli. Možná to na ně bylo málo technické a ještě ho nedokázali docenit. Nebo je zahltil Hamlet?
+
+Musel bych vám převyprávět celou přednášku a to nechci. Takže alespoň telegraficky:
+
+Nelze věci odbýt s tím, že je to implementační detail. Je potřeba mít na mysli celkový pohled i jemný detail. Důležitost se měří tím, jak nákladná je změna. Například je chyba v názvu _clonable_, ale přejmenování by mělo příšerný dopad.
+
+Programátoři stahují knihovny z internetu a bez rozmyslu je používají. Jsou jako malé děti, co seberou něco ze země a strčí si to do pusy.
+
+Psaní není úzké hrdlo. Citoval moji oblíbenou knihu [Zen a umění](https://www.goodreads.com/review/show/517698409?book_show_action=false&from_review_page=1)(Ostatně už [jsem ji na blogu doporučoval](https://blog.zvestov.cz/software%20development/2013/03/03/zen-a-umeni-udrzby-motocyklu.html)).
+
+> Šroubky jsou tak levné.
+
+### High Performance Managed Languages (Martin Thompson)
+
+Zkoušel nás, zda víme, jak dlouho počítači trvá sečíst dva integery. Není to tak důležité, ale pomáhá to kalibrovat odhad.
+
+> Jestli někdo říká, že mu záleží na výkonu a používá xml nebo json, tak lže.
+
+## Organizace
+
+Registrace proběhla bez front. Konference se konala v CineStar na Černém Mostě. Kinosál je vhodný na přednášky, ale podávali tam i oběd, což mi přišlo poněkud nepraktické. Jídla a pití bylo dost a v dobré kvalitě. Překvapilo mě, že gastro tým si přivezli z Polska. Ale vlastně proč ne? Když jsou sehraní, tak proč riskovat někoho lokálního.
+
+Celkově nestíhala wifi. Já vím, mám hlavně poslouchat, ale od návštěvníků se očekává, že budou tweetovat (poskytnutí zpětné vazby, promo akce). Přednášející měli dedikovanou vlastní wifi, ale i tak měli někteří problém stáhnout pár megabytů během _live coding_
+
+## Návštěvníci
+
+Mezi přednášejícími jsem zaznamenal jedinou ženu. Zato mě potěšilo, že mezi návštěvníky jich bylo na české poměry celkem dost. Odhadem tak deset procent, takže je stále co dohánět. Všímal jsem si, že šlo především o cizinky. Zpětně mě mrzí, že jsem se s nimi nedal do řeči na téma, proč je u nás v IT tak málo žen a jak to změnit. Jedno vysvětlení bych měl. Neodhaluje to tu hlavní příčinu, ale dokresluje situaci. Na začátku prosince se chystá akce [Hour of Code](https://hourofcode.com), tak je zajímavé porovnat počet doposud registrovaných akcí v Polsku (671) s počtem akcí u nás (86). Jasně, Polsko je větší, ale ne tolikrát. 
+
+Z návštěvníků jsem ovšem i dost rozčarovaný. Za prvé jsem si nevšiml, že by obsluze vydávající oběd někdo řekl: „Dobrý den,“ a „děkuji!” Možná jsem byl ve frontě v nějakém lokálním minimu slušnosti, ale podle reakce to vypadalo, skoro jako kdybych je pozdravil první. Na oplátku mi bylo potěšením slyšet pár lahodných slov polsky: „Deň dobrý...“ Za druhé mě fascinuje, jak lidé, kteří jdou na konferenci, kde se jedna přednáška věnuje tématu _Clean Code_, po sobě neuklidí záchod nebo všude nechávají válet kelímky.
+
+## Závěr
+
+Konferenci stálo za to navštívit. Některé přednášky byly slabší, ale jiné to bohatě vynahradily. Máte šanci si v Praze poslechnout světoznámé programátory jako jsou Adam Bien či Kevlin Henney. Organizace klapala. Příští rok rád půjdu znovu, i když bych se možná raději na jaře podíval do Polska.
+
+## Související
+
+* [GeeCON Prague 2016, den 1](http://www.sw-samuraj.cz/2016/10/geecon-prague-2016-den-1.html)
+* [Videa z GeeCON na Vimeo](https://vimeo.com/geecon/videos)
+* [jOpenSpace 2017](https://blog.zvestov.cz/software%20development/2017/10/24/jopenspace-2017.html)
