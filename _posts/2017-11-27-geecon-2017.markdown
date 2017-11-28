@@ -96,7 +96,7 @@ Nelze věci odbýt s tím, že je to implementační detail. Je potřeba mít na
 
 Programátoři stahují knihovny z internetu a bez rozmyslu je používají. Jsou jako malé děti, co seberou něco ze země a strčí si to do pusy.
 
-Psaní není úzké hrdlo. Citoval moji oblíbenou knihu [Zen a umění](https://www.goodreads.com/review/show/517698409?book_show_action=false&from_review_page=1)(Ostatně už [jsem ji na blogu doporučoval](https://blog.zvestov.cz/software%20development/2013/03/03/zen-a-umeni-udrzby-motocyklu.html)).
+Psaní není úzké hrdlo. Citoval moji oblíbenou knihu [Zen a umění údržby motocyklu](https://www.goodreads.com/review/show/517698409?book_show_action=false&from_review_page=1) (Ostatně už [jsem ji na blogu doporučoval](https://blog.zvestov.cz/software%20development/2013/03/03/zen-a-umeni-udrzby-motocyklu.html)).
 
 > Šroubky jsou tak levné.
 
