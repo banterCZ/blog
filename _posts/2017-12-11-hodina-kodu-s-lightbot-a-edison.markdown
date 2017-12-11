@@ -88,7 +88,7 @@ Nevěnoval jsem pozornost upomínkovým předmětům, to jsem podcenil, ale naš
 
 ## Čísla
 
-[Příjemně mě překvapilo, že na GeeCONu byl nadprůměrný počet žen](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html) (na české poměry), ovšem převažovaly cizinky. K dnešnímu dni [je registrováno](https://hourofcode.com/cz/events/all) v České republice 392 akcí Hour of Code, přičemž v Polsku je to 2027. Polsko je sice větší, ale ne tolikrát. [U nás je 906 tisíc žáků základních škol](https://www.czso.cz/csu/czso/cr_od_roku_1989_skoly). Když budu velkorysý a řeknu, že průměrně bylo na akci 30 dětí, tak se zúčastnilo 1,3&nbsp;% žáků. Zvedneme to za rok o řád?
+[Příjemně mě překvapilo, že na GeeCONu byl nadprůměrný počet žen](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html) (na české poměry), ovšem převažovaly cizinky. Jak to v zahraničí jen dělají? Zkusme si porovnat počet akcí Hour of Code. K dnešnímu dni [je registrováno](https://hourofcode.com/cz/events/all) v České republice 392 akcí, přičemž v Polsku je to 2027. Polsko je sice větší, ale ne tolikrát. Zaostáváme ve vzdělávání? [U nás je 906 tisíc žáků základních škol](https://www.czso.cz/csu/czso/cr_od_roku_1989_skoly). Když budu velkorysý a řeknu, že průměrně bylo na akci 30 dětí, tak se zúčastnilo 1,3&nbsp;% žáků. Zvedneme to za rok o řád?
 
 ## Propagace
 
