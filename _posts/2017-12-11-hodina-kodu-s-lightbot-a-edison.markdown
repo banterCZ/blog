@@ -9,7 +9,7 @@ image: "https://openclipart.org/image/150px/svg_to_png/76615/robot-line-art-rg10
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/76615/robot-line-art"><img src="https://openclipart.org/image/150px/svg_to_png/76615/robot-line-art-rg1024.png" /></a></div>
 
-Díky všeobecnému nadšení na [jOpenSpace](https://blog.zvestov.cz/software%20development/2017/10/24/jopenspace-2017.html) se zvýšilo moje odhodlání ohledně výuky programování dětí. Než stačilo nadšení trochu opadnout, upozornil mě [Martin Javorek](https://twitter.com/mjavorek/) na akci [Hour of Code](https://hourofcode.com) (česky Hodina kódu), které se účastní desítky milionů žáků z více než 180&nbsp;zemí světa, jejímž cílem je ukázat, že informatika je zábavná a tvůrčí, že není třeba se jí bát a že to zvládne každý. Napsal jsem do školy, kam chodí syn, jestli se nepřipojíme, a bylo to. 
+Díky všeobecnému nadšení na [jOpenSpace](https://blog.zvestov.cz/software%20development/2017/10/24/jopenspace-2017.html) se zvýšilo moje odhodlání ohledně výuky programování dětí. Než stačilo nadšení trochu opadnout, upozornil mě [Martin Javorek se svým účtem _Programujeme hrou_](https://twitter.com/programohrajeme) na akci [Hour of Code](https://hourofcode.com) (česky Hodina kódu), které se účastní desítky milionů žáků z více než 180&nbsp;zemí světa, jejímž cílem je ukázat, že informatika je zábavná a tvůrčí, že není třeba se jí bát a že to zvládne každý. Napsal jsem do školy, kam chodí syn, jestli se nepřipojíme, a bylo to.
 
 <!--more-->
 
