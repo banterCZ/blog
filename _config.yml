@@ -34,8 +34,7 @@ hyphenate_filter:
   left: 4
   right: 3
 
-#Plugins
-gems:
+plugins:
  - jekyll-paginate
  - jekyll-gist
  - jekyll-twitter-plugin
