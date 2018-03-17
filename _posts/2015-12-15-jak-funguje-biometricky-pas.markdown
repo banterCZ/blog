@@ -91,6 +91,8 @@ Pro úplnost dodávám jak je to s klíči DS. Privátní klíč DS je vydáván
 <a name="SDW_InterOp_2016"></a><b>Edit:</b>
 Na <a href="http://www.sdw2016.com/interop2016/">SDW InterOp 2016</a> porovnávali interoperabilitu výrobců řešení elektronických pasů. Při přípravě vzorku dokumentů udělali chybu v CSCA (Country Signer Certificate Authority). Přesto polovina ověřovacích aplikací úspěšně prošla <em>Passive Authentication</em>. Jde o významný problém, který byl zaznamenán i v procesu skutečných hraničních kontrol. <em>Passive Authentication</em> je nejdůležitější bezpečnostní mechanismus, který by měl detekovat padělání elektronického cestovního dokladu. 	
 
+V roce 2018 vyšlo najevo, že v USA pasy elektronicky několik let vůbec neověřovali. Přišli tak o důležitou kontrolu, zda není doklad padělaný. Viz článek [US border officials haven't properly verified visitor passports for more than a decade](http://www.zdnet.com/article/us-border-officials-havent-been-properly-verifying-visitor-passports-for-over-a-decade/).
+
 Domácí úkol
 ------
 
