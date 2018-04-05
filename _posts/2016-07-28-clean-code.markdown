@@ -9,8 +9,7 @@ Jeden z mých nejúspěšnějších tweetů a přitom taková blbost. Takže asi
 
 {% twitter https://twitter.com/banterCZ/status/711907363830239233 %}
 
-Občas vídám kód, z kterého je mi fyzicky nevolno. Ale člověk nějak musí zjistit, co je špatné. Abych citoval <a href="http://archetypal
-.cz/2016/ilustrovana-kniha-argumentacnich-klamu/?view=flipbook">Ilustrovanou knihu argumentačních faulů</a>:
+Občas vídám kód, z kterého je mi fyzicky nevolno. Ale člověk nějak musí zjistit, co je špatné. Abych citoval <a href="http://archetypal.cz/2016/ilustrovana-kniha-argumentacnich-klamu/?view=flipbook">Ilustrovanou knihu argumentačních faulů</a>:
 
 > Číst o věcech, které bychom neměli dělat, je často užitečná a poučná zkušenost. Ve své knize O psaní píše Stephen King: „Nejlépe 
 se člověk naučí, čeho se vyvarovat, při čtení špatné prózy.” Popisuje svou zkušenost se čtením obzvlášť špatného románu jako „literární ekvivalent očkování proti neštovicím” [King]. Matematik George Pólya bývá citován, jak ve své přednášce o výuce matematiky prohlásil, že člověk musí nejen téma dobře chápat, ale také musí vědět, jak lze téma chápat špatně [Pólya].
