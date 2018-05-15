@@ -76,7 +76,7 @@ Uvedl jsem, že Martin Cápay nemá cvičení bez počítače zatím nikde veře
 
 ### Velká Británie
 
-David Yilma  jméno představil situaci ve Velké Británii. Tu si nejspíš spojíte s mikropočítačem [Micro:bit](http://microbit.org/). Zajímavé je, že aktivity tam nevzejdou primárně od státu, ale od firem. Stát to pak posvětí, zaplatí, ale firmy přijdou s prvotním nápadem a pak i realizací.
+David Yilma představil situaci ve Velké Británii. Tu si nejspíš spojíte s mikropočítačem [Micro:bit](http://microbit.org/). Zajímavé je, že aktivity tam nevzejdou primárně od státu, ale od firem. Stát to pak posvětí, zaplatí, ale firmy přijdou s prvotním nápadem a pak i realizací.
 
 V současné době je výuka informatiky v Česku spíš ICT (Informační a komunikační technologie, uživatelská práce s počítačem) než CS (computer science, algoritmizace...). V Británii to bylo podobné, ale před čtyřmi lety začala transformace k nynější podobě. Na konferenci jsme diskutovali, zda by neměla výuka Wordu v dlouhodobém horizontu z hodin informatiky úplně zmizet a používat to jen jako nástroj v jiných hodinách. V Británii Word z hodin informatiky nevyhodili, ale upozadili ho.
 
