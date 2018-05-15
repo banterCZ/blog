@@ -72,7 +72,7 @@ Projekt [Malá technická univerzita](http://www.mtuni.cz/mtu-pro-ms) mě nadchn
 
 Na Slovensku jsou na tom, papírově, lépe než u nás. Informatika je povinná od třetí třídy, neklade se důraz na nástroje jako Word, ale bohužel chybí dostatek kvalifikovaných učitelů.
 
-Uvedl jsem, že Martin Cápay nemá cvičení bez počítače zatím nikde veřejně sepsané. Dělá to ve svém volném čase, univerzita v Nitře to nepovažuje za vědeckou činnost, na které by mohl postavit svou kariéru. Přijde mi to hrozná škoda. Osobně to považuji za společensky velmi přínosné zároveň i vědecké. Totéž si myslí na druhém konci světa, za aktivitou [CS Unplugged](https://www.csunplugged.org) totiž hrdě stojí novozélandská [University of Canterbury](http://www.canterbury.ac.nz).
+Uvedl jsem, že Martin Cápay nemá cvičení bez počítače zatím nikde veřejně sepsané. Dělá to hlavně ve svém volném čase, i přestože ve svém oboru bude na Slovensku obtížné až nemožné postavit si na tom svou vědeckou kariéru. Přijde mi to hrozná škoda. Osobně to považuji za společensky velmi přínosné zároveň i vědecké. Totéž si myslí na druhém konci světa, za aktivitou [CS Unplugged](https://www.csunplugged.org) totiž hrdě stojí novozélandská [University of Canterbury](http://www.canterbury.ac.nz).
 
 ### Velká Británie
 
