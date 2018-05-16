@@ -56,7 +56,7 @@ Hlavní problém výuky nebude technický (nástrojů je dost), ale didaktický.
 
 Edison je cenově dostupný. Před měsícem posílali jen do Německa či na Slovensko, ale k nám ne (nechápu). [Honza Bednařík](https://twitter.com/janbednarik) zorganizoval objednávku dvaceti kusů, za což mu patří dík. Kus nás pak vyšel na pěknou ajťáckou cenu 1024 korun (včetně poštovného, DPH a poplatku za celní zastoupení). Jelikož se strhnul zájem z České republiky, tak už mají poštovné zdarma i pro nás. DHL express trvalo 4 dny i s proclením, menší objednávky jdou bohužel několik týdnů.
 
-Vydyndal jsem pro vás kupón, měla by to být sleva 10&nbsp;%, tak zkuste **CzechD17** a dejte vědět, jestli vám to funguje.
+<del>Vydyndal jsem pro vás kupón, měla by to být sleva 10&nbsp;%, tak zkuste **CzechD17** a dejte vědět, jestli vám to funguje.</del>
 
 ## Zkušenosti z průběhu
 
