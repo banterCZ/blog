@@ -84,6 +84,8 @@ Můžu říct, že se nám bydlí dobře, vše funguje, jak bylo zamýšleno. Po
 A jak hospodaříte vy?
 
 ## Související
+
+* [Vyplatí se solární ohřev vody?](https://blog.zvestov.cz/bydlen%C3%AD/2018/06/26/vyplati-se-solarni-ohrev-vody.html)
 * [Mystérium eurounijní energetiky a zákazu žárovek](https://www.marigold.cz/item/mysterium-eurounijni-energetiky-a-zakazu-zarovek-2)
 * [Roční spotřeba energie v domácnosti](https://blog.zvestov.cz/bydlen%C3%AD/2008/03/07/rocni-spotreba-energie-v-domacnosti.html)
 * [Voda ve vaší studni není vaše](https://blog.zvestov.cz/bydlen%C3%AD/2013/08/13/voda-ve-vasi-studni-neni-vase.html)
