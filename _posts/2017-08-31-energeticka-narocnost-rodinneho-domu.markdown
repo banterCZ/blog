@@ -24,7 +24,7 @@ Plynem topíme, ohříváme vodu a vaříme. Naše celková roční spotřeba je
 
 ![](/assets/2017-08-31/graf%20plyn.png)
 
-Z grafu je patrné, že plyn se spotřebovává i v létě, zhruba 50&nbsp;m<sup>3</sup> měsíčně. Spotřeba vaření se udává přibližně 10 m<sup>3</sup> za měsíc, zbytek je tedy ohřev vody, ten jsme letos doplnili o solární panely (čísla a výpočty návratnosti dodám za rok). Na topení zbývá 600&nbsp;m<sup>3</sup>, tedy 9 tisíc korun za rok.
+Z grafu je patrné, že plyn se spotřebovává i v létě, zhruba 50&nbsp;m<sup>3</sup> měsíčně. Spotřeba vaření se udává přibližně 10 m<sup>3</sup> za měsíc, zbytek je tedy ohřev vody, ten jsme letos [doplnili o solární panely (čísla a výpočty návratnosti dodám za rok)](https://blog.zvestov.cz/bydlen%C3%AD/2018/06/26/vyplati-se-solarni-ohrev-vody.html). Na topení zbývá 600&nbsp;m<sup>3</sup>, tedy 9 tisíc korun za rok.
 
 Ohřev vody je zatížen ztrátami z oběhového čerpadla. To zajišťuje cirkulaci teplé vody, která sice není nepřetržitá, ale i tak vede k 
 vychládání vody v potrubí. Cirkulace zajišťuje pohodlí, jelikož otočíte kohoutkem a okamžitě teče teplá voda. Nemusím před sprchováním odtáčet litry vody, než se konečně dočkám teplé.
