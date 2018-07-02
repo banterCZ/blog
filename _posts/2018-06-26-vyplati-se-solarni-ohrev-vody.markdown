@@ -42,6 +42,8 @@ Podle projektu jsme měli pokrýt 70&nbsp;% roční spotřeby teplé vody. Papí
 
 Úspora by šla ještě vylepšit, ale na úkor pohodlí. Předně máme oběhové čerpadlo, aby tekla teplá voda okamžitě, bez odtáčení, ale to způsobí ztrátu zhruba 30&nbsp;%. Navíc máme naprogramovaný ohřev tak, aby byla teplá voda k dispozici i ráno, kdy slunce nesvítí, takže se musí nutně zapojit plyn i v parném létě (možná by stálo za to, zkusit to na měsíc přeprogramovat).
 
+Edit: Nedalo mi to a dopočítal jsem možnou úsporu myčky. Vzal jsem denně ohřev 6 litrů vody o 45&nbsp;°C, to u mě dělá ročně na elektřině 552&nbsp;korun. Vezmu-li teoretický solární zisk z projektu spolu s úsporou za myčku, dostávám se na návratnost 34 let.
+
 ## Závěr
 
 Rozumná návratnost mi přijde kolem 15 let. Toho není podle mých zkušeností možné dosáhnout. Ale berte čísla s rezervou, protože budou zatížená velkou chybou měření. Přesto nelituji. Chtěl jsem mít další zdroj ohřevu vody a ten funguje. Zajímalo by mě porovnání s fotovoltaickým článkem napojeným přímo na topné těleso. Dotační tituly fungují, ale bez nich by to už nedávalo vůbec žádný smysl. Navíc mi vadí papírování a s tím spojené náklady. I když jsou částečně proplacené, tak vedou k navýšení ceny. Podporu státu bych si představoval v jednodušší formě, třeba nižší sazbě DPH.
