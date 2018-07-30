@@ -1,0 +1,112 @@
+---
+layout: post
+title:  "Polský Devoxx 2018"
+date:   2018-07-30
+categories: [software development]
+disqusId: 204
+image: "/assets/2018-07-30/devoxx_logo.png"
+---
+
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-07-30/devoxx_logo.png" /></div> Loni se mi líbilo na [pražském GeeCONu](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html) a říkal jsem si, zda příště nevyrazím na polskou, mateřskou akci. Do Polska jsem se nakonec dostal, ovšem na jinou konferenci a to [Devoxx](https://devoxx.com/) v Krakově. Papírový blok člověk jednou ztratí, ale hlavně si potřebuju utřídit myšlenky, protože za tři dny jsem toho slyšel opravdu hodně. Poznámky jsem si psal průběžně, protože zážitky z jedné přednášky přebijí zážitky z té předchozí a druhý den pomalu nevíte, co jste slyšeli ten první.
+
+<div style="clear:both"></div>
+<!--more-->
+
+## Přednášky
+
+Přednášky se paralelně konaly až v pěti místnostech (ta poslední snad byla udělá z podzemní garáže nebo co). Někdy by člověk rád slyšel dvě i více naráz, někdy si nemohl vybrat ani z jedné. Tak už to ovšem bývá, že jsou silnější a slabší kousky. Každopádně jsme se drželi pravidla: když nevíte na co jít, jděte do té největší místnosti (tam dali organizátoři řečníka, u kterého očekávali největší zájem).
+
+### Algorithms to Live By (Brian Christian)
+
+Brian Christian, autor knihy [Algorithms to Live By](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by), popisoval algoritmy, kterými se můžete řídit v životě. Jeho kniha tak u mě v seznamu četby poskočila na přední místa. Mluvil třeba o výběru bydlení, že nejprve máte hledat to nejlepší a od určitého okamžiku skočit po všem. Ta hranice je 37&nbsp;% času, který jste si na řešení vyhradili. Jiné to bude u žádosti o ruku, kdy hrozí odmítnutí. V takovém případě máte hranici snížit na 25&nbsp;%. Pokud je ovšem možné se vrátit a nabídku zopakovat (učinit jinou), leží hranice až na úrovni 61&nbsp;%.
+
+To mi připomnělo TED přednášku o hledání ženicha [How I hacked online dating (Amy Webb)](https://www.ted.com/talks/amy_webb_how_i_hacked_online_dating)
+
+### How to impress your boss (Wojciech Seliga)
+
+Takhle přednáška byla takový pel mel, ale přesto jsem si něco odnesl. Říkal, že je smutné, že chytří členové týmu se nezajímají o vizi. Já bych spíš řekl, že je vize špatně komunikovaná. Je to jako v [té anekdotě](https://www.huffingtonpost.com/siobhan-kukolic/are-you-laying-bricks-or-_b_12387634.html)
+
+> Pocestný přijde ke třem pracujícím mužům. Ptá se prvního, co dělá, a ten odpoví, že skládá cihly. Zeptá se druhého a ten odpoví, že staví zeď. Nakonec se zeptá třetího a ten odvětí, že buduje katedrálu.
+
+### Thinking Architecturally (Nate Schutta)
+
+Pro mě jedna z nejlepší přednášek na konferenci, jelikož nemluvil o konkrétní technologii, která příští rok už může být zastaralá, ale o principech, které přetrvávají.
+
+Architekt je někdo, kdo dělá architektonické rozhodnutí. Nemusí to být formální role, ale někdo takový v týmu určitě je. My, programátoři, si chceme hrát s novými věcmi, protože je to zábava a myslíme si, že jsou snadné. Starých věcí se bojíme, považujeme je za složité. Je potřeba se smířit s tím, že mineme téměř vše, co bude napsané. O důležitých věcech se ale stejně dozvíme (třeba o tom, že Microsoft koupil GitHub).
+
+Když vybíráte technologii, hodí se *fitness* funkce na vyhodnocení kritérií a ověření architektonických rozhodnutí. Nerozumíte technologii, dokud nevíte, proč nemá být použitá. Líbil se mi jeho koncept *architecture meeting*, kdy má jeden člověk podrobněji prozkoumat nějakou technologii a pak ji ostatním představit a obhájit. (Tak nějak to děláme a myslím, že je to dobře.)
+
+{% twitter https://twitter.com/banterCZ/status/1009446672521465857 %}
+
+Přednáška mě tak oslovila, že jsem si hned přečetl jeho knihu [Thinking Architecturally](https://www.goodreads.com/book/show/40223985-thinking-architecturally), (navíc [k dispozici zdarma](https://content.pivotal.io/ebooks/thinking-architecturally), abych si myšlenky ještě jednou prošel.
+
+### Through the valley of darkness, the road to microservices (Dominik Boszko)
+
+Tuhle přednášku jsem bohužel neviděl, protože jsem si vybral jiný sál. Nicméně kolega doporučoval a chystám se na záznam, jelikož si uvědomuji riziko distribuovaného monolitu. Tomu bych se chtěl vyhnout.
+
+{% twitter https://twitter.com/tonda100/status/1009463778424082432 %}
+
+### Back to basics: threads (Adam Dubiel)
+
+Z přednášky o vláknech jsem si odnesl hlavní dvě poznámky. 
+
+* Přepnutí kontextu trvá zhruba 30 mikrosekund (alespoň ten řád)
+* JVM vlákna jsou systémová vlákna
+
+### So, you want to be a speaker (diskuse s řečníky)
+
+V tomhle bloku jsem si nedokázal vybrat, tak jsem náhodně zašel na diskusi s řečníky a moc jsem od toho nečekal, ale nakonec jsem byl příjemně překvapen. Řečníci vyprávěli o tom, jak se z přednášky na JUG dostat na konferenci velikosti Devoxx. Popisovali jak funguje přihlášení tématu, jak probíhá výběr, jak je to s (ne)proplácením letenek a hotelů... Byť nemám ambice přednášet anglicky na tak velké konferenci, určitě to pro mě bylo přínosné. Odnesl jsem si mimo jiné tip na knihu [Presentation Patterns](https://www.goodreads.com/book/show/19146088-presentation-patterns) (spoluautor je Nate Schutta, ten co přednášel Thinking Architecturally). I když nakonec jsem si říkal, zda jako první krok třeba někdy nezkusit kratší blok. V případě Devoxx to bylo patnáct minut, kde například [srovnávali Spock a JUnit 5](https://youtu.be/oEamW8_FtAg?t=54s).
+
+{% twitter https://twitter.com/banterCZ/status/1010122411990241280 %}
+
+### Lean WebApps with Skinny Miniservices (Adam Bien)
+
+Loni v Praze [na GeeCONu ukazoval Adam Bien jak napsat minimalistickou aplikaci pomocí Jakarta](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html#built-to-last-and-the-end-of-migrations-adam-bien). Letos šel ještě dál a přišel s mikroprofily. Vytvořil aplikaci o velikosti 7,5&nbsp;kB, kterou spouštěl na serveru [Payara](https://www.payara.fish). Na [Wildfly by to taky mohlo fungovat](http://wildfly-swarm.io/posts/microprofile-with-wildfly-swarm/). Mikroprofily by měly být inkubátorem Jakarty, takže se rychleji dostanete k novinkám.
+
+Opět vyzdvihuji jeho práci s publikem. V Praze postavil svůj příklad na Krtečkovi, v Krakově na drakovi.
+
+### Modules or Microservices? (Sander Mak)
+
+Architektura microservice je teď populární, proto je dobré naslouchat i varovným hlasům. Uber má zhruba 1800 microservice, ale pravděpodobně nepotřebujete škálovat jako Uber nebo Netflix, to ovšem neznamená, že byste se neměli zajímat o to, co dělají. Připomíná mi to fotbal, kde i hráči okresního přeboru sledují Premier League.
+
+> Modul je silně typovaný, json ne.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/u6vIeAKDQGTIKL?startSlide=45" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SanderMak/modules-or-microservices" title="Modules or microservices?" target="_blank">Modules or microservices?</a> </strong> from <strong><a href="//www.slideshare.net/SanderMak" target="_blank">Sander Mak (@Sander_Mak)</a></strong> </div>
+
+### Ten Things You Can Do With GraalVM (Oleg Šelajev)
+
+Graal VM je implementace JVM, zatím ve verzi RC2. Chlubí se rychlostí. Oleg ukázal příklad, který byl 18 krát rychlejší než na HotSpotu. Zkoušel jsem si pak naší aplikaci a samotný start byl na Graal VM zhruba o dvacet procent rychlejší, ale i tak dobré. Graal VM umí vytvořit *native image*, to znamená, že výsledná aplikace běží bez VM a tedy zase o něco rychleji. Největším tahákem asi ale je koncept *polyglot*, míchání různých programovacích jazyků. Ukázal javascript, v něm Javu a eval kódu v R, to celé byl schopný debugovat z Chromu. Nebo si zaregistroval javascript funkci v Oracle databázi (použil smysluplný příklad e-mail validátoru, který v Oracle není).
+
+Podrobnosti v článku [Top 10 Things To Do With GraalVM](https://medium.com/graalvm/graalvm-ten-things-12d9111f307d).
+
+### Do not walk away from Complexity, Run (Venkat Subramaniam)
+
+Venkat je úkaz, showman v IT. Ale není to prostý bavič. Vtípky jemně koření svoje sdělení, takže posluchač lépe udrží pozornost. Kvůli komplexitě je podle něj obtížnější adaptovat změnu. Jako stroj s mnoha pohyblivými částmi. Zmiňoval třeba XML a přirovnal ho k dětem, které jsou roztomilé, když jsou malé, ale už ne, když vyrostou. U architektonických rozhodnutí byste měli zvažovat, zda je lze vrátit. Výběr knihovny je jako randění, zatímco výběr frameworku jako svatba. Když framework vybere architekt, tak je to domluvená svatba. Varoval před *resume driven development*, což potvzuje to, co říkal ve své přednášce Schutta.
+
+{% twitter https://twitter.com/banterCZ/status/1010163776157638657 %}
+
+## Organizace
+
+Na konferenci dorazilo zhruba 2600 účastníků, takže především smekám před organizátory, kteří dokázali takovou monstrózní akci zvládnou. Wifi fungovala (vůbec si nedokážu přestavit ty routery, na kterých to provozovali). Velké fronty na oběd byly jen první den, ani další dny se to bez front pochopitelně neobešlo, ale už to odsýpalo výrazně rychleji. Nicméně připomínám, že potřebovali nasytit přes dva tisíce hladových krků.
+
+Nestíhal jsem bohatý doprovodný program a vlastně mě ani nezajímal, o přestávkách jsem si chtěl prostě vydechnout. Jediná výtka snad jen k tomu, že v sálech byla klimatizace nastavena na dost chladno. S tím jsem ovšem počítal, takže i když bylo venku vedro, vyrazil jsem v dlouhých kalhotách a do batohu přibalil mikinu i bundu.
+
+Jako milé zpestření mi přišla společná rozcvička na úvod.
+
+<div><a href="https://www.flickr.com/photos/158274426@N03/42466310825/in/album-72157698545655994/"><img src="https://c2.staticflickr.com/2/1785/42466310825_6cc7a786ea.jpg" /></a><br/><em>Grzegorz Duda <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">(CC BY-NC-SA 2.0)</a></em></div>
+
+## Ženy
+
+Už na [loňském GeeCONu jsem si všiml](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html#návštěvníci), že na české poměry je tam dost žen. Na Devoxx bylo jejich zastoupení ještě lepší a to i mezi přednášejícími. Poslední den jsem se nakonec osmělil a dal se s jednou do řeči na téma, jak to v Polsku dokázali. Není to reprezentativní vzorek, nicméně údajně je to tak, že z části tam přecházejí ženy z jiných technických oborů (jako stavební inženýrství), protože v IT je víc práce (nejspíš to tedy začalo krizí ve stavebnictví) a až čtyřikrát vyšší platy. Firmy mají intenzivní tréninkové plány a i naprosté nováčky si vyškolí. Mezi současnými studenty je v Polsku už výrazně víc studentek než dřív. (Do komentářů mi, prosím, připište, pokud víte, jak jsou na tom dnes české vysoké školy.)
+
+## Závěr
+
+Byť můžete mít výhrady k tomu, jak Poláci řídí (stylem první nebo mrtví), nejde jim upřít, že pořádání světových konferencí umí. Krakov je pěkné město a není od nás zase tak daleko (cestou zpět jsme vyjížděli v pět odpoledne, v půl osmé jsme autem dorazili do Olomouce a kolem jedenácté večer už jsem byl vlakem v Praze). Domnívám se, že jezdit na konference stojí za to. Existují sice videozáznamy, ale vyhradíte si čas, abyste je shlédli?
+
+<div>
+<a href="http://www.commitstrip.com/en/2018/06/15/why-expos-are-great/"><img src="https://www.commitstrip.com/wp-content/uploads/2018/06/Strip-Oracle-Conf-650-finalenglish.jpg" /></a><br/><a href="http://www.commitstrip.com/en/2018/06/15/why-expos-are-great/">CommitStrip.com</a>
+</div>
+
+## Související
+
+* [Pražský GeeCON 2017](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html)
