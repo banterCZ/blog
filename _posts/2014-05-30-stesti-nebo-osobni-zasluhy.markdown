@@ -44,7 +44,7 @@ Billy Joy tvrdil, že kdyby byl jen o fous starší a při programování by se 
 Můj příběh
 ------
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Commodore-64-Computer.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Commodore-64-Computer.png/250px-Commodore-64-Computer.png" /></a></div>Knihu Mimo řadu vřele doporučuji (o počítačích je tam jen jedna kapitola). Při četbě jsem přemýšlel nad štěstím, které mě potkalo a tím, jak jsem s ním naložil.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Commodore-64-Computer.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Commodore-64-Computer-FL.png/250px-Commodore-64-Computer-FL.png" /></a></div>Knihu Mimo řadu vřele doporučuji (o počítačích je tam jen jedna kapitola). Při četbě jsem přemýšlel nad štěstím, které mě potkalo a tím, jak jsem s ním naložil.
 
 Mojí iniciací byl osmibitový počítač <a href="http://en.wikipedia.org/wiki/Commodore_64">Commodore 64</a>, který jsem dostal někdy v první třídě, kolem roku <b>1991</b>. Štěstí bylo, že mí rodiče do něčeho takového vrazili peníze (Byl jsem jediný ze třídy, kdo měl doma počítač, a na celé základce jsem byli tenkrát asi jenom tři). Moje zásluha to, že jsem nepařil jen hry, ale zkusil i programovat (jestli tak lze pár if výrazům v basicu říkat).
 
