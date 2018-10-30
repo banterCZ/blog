@@ -81,7 +81,7 @@ Děti umí ovládat tablet, ale s myší jsou o něco nemotornější, to musí 
 
 Jako úvod do Scratche jsem zkoušel [Scratch karty od Javorků](https://www.programovanihrou.cz/jak-na-to/), ale bylo mi líto je tisknout. Nicméně došel jsem ke zjištění, že návody vytištěné být musí. Zdálo se mi, že nedokáží rozlišit, co je programovací prostředí a co je návod. Motali se v tom. A opět se vracím k tomu čtení, pokud máte starší karty a mezitím se u bloku změní popis, tak to děti nenajdou (hledají přesnou shodu).
 
-Snažím se pamatovat na to, že bych dětem neměl nesahat po myši a klávesnici. Platí to i pro ostatní děti. Můžou si radit navzájem (pokud dotyčný o radu stojí), ale nesmí úlohu vyřešit místo něj.
+Snažím se pamatovat na to, že bych dětem neměl sahat po myši a klávesnici. Platí to i pro ostatní děti. Můžou si radit navzájem (pokud dotyčný o radu stojí), ale nesmí úlohu vyřešit místo něj.
 
 ## Knihy a jiné zdroje
 
