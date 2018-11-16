@@ -23,7 +23,7 @@ Leitmotivem loňské nekonference [jOpenSpace 2017](https://blog.zvestov.cz/soft
 
 ## Krok první
 
-Upsal jsem se ke kroužku, ale jak začít? Dojel jsem na návštěvu za manželi Ivou a Martinem Javorkovými, kteří [vedou kroužek v Lázních Toušeň](https://www.programovanihrou.cz/), abych viděl, jak taková hodina vypadá. „Jejich“ děti za hodinu zvládnou ve [Scratchi](https://scratch.mit.edu/) naprogramovat hru, třeba ovládat vlka, který chytá jablka padající ze stromu. Chycená jablka se připisují jako body. Spadne-li jablko na zem, hra končí. Tohle je pro mě zatím nedosažitelný cíl.
+Upsal jsem se ke kroužku, ale jak začít? Dojel jsem na návštěvu za manželi Ivou a Martinem Javorkovými, kteří [vedou kroužek v Lázních Toušeň](https://www.programovanihrou.cz/), abych viděl, jak taková hodina vypadá. „Jejich“ děti za hodinu zvládnou ve [Scratchi](https://scratch.mit.edu/) naprogramovat [hru, třeba ovládat vlka, který chytá jablka padající ze stromu](https://scratch.mit.edu/projects/198632819/). Chycená jablka se připisují jako body. Spadne-li jablko na zem, hra končí. Tohle je pro mě zatím nedosažitelný cíl.
 
 {% twitter https://twitter.com/programohrajeme/status/951530431232512002 hide_thread=true %}
 
