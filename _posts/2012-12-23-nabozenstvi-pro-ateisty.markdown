@@ -4,6 +4,7 @@ title:  "Náboženství pro ateisty"
 date:   2012-12-23
 categories: [k zamyšlení]
 disqusId: 116
+tags: [kniha]
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.kosmas.cz/detail.asp?cislo=173473&afil=1102"><img src="https://obalky.kosmas.cz/ArticleCovers/160494_big.jpg" /></a></div>Nevěřím v Boha! Neříkám to proto, že bych se tím chtěl nějak chlubit, prostě konstatuji fakt. Ovšem v sekulárním světě, vztaženo na Českou republiku a možná to platí i na velkou část <a href="http://cs.wikipedia.org/wiki/Západní_civilizace">Západního světa</a>, postrádám duchovní rozměr našeho života. Je to třeba vidět na občanské svatbě, kterou máte za sebou dřív, než se vůbec stačíte vzpamatovat. Ženich s něvěstou odpovídají na otázku: „...berete si... ?“, zatímco v kostele skládají slib: „...odevzdávám se tobě … a přijímám tě...“ Ještě výrazněji to vnímám u pohřbu. Nad rakví krátkou chvíli blekotá někdo, kdo vás nejspíš nikdy ani neviděl. Oproti tomu protestantský farář (ve smyslu rodinného lékaře), který vás provázel celým životem (křtil vás, oddával a nakonec i pochoval), se mi jeví jako mnohem důstojnější konec.
 

@@ -4,6 +4,7 @@ title:  "Začínáme s PrimeFaces a JSF 2"
 date:   2013-03-22
 categories: [software development]
 disqusId: 125
+tags: [JSF]
 ---
 ![](/assets/2013-03-22/20130322-primefaces_logo.gif)
 

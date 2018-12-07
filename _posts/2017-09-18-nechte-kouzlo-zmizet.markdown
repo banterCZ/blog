@@ -5,6 +5,7 @@ date:   2017-09-18
 categories: [software development]
 disqusId: 193
 image: "https://openclipart.org/image/150px/svg_to_png/27526/secretlondon-Wizard-s-Hat.png"
+tags: [překlad, Uncle Bob]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/27526/wizards-hat"><img src="https://openclipart.org/image/150px/svg_to_png/27526/secretlondon-Wizard-s-Hat.png" /></a></div>

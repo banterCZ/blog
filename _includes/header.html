@@ -14,10 +14,8 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
+        {% for category in site.categories %}
+          <a class="page-link" href="{{ category[0] | slugify | prepend: '/category/' | prepend: site.baseurl }}">{{ category[0] }}</a>
         {% endfor %}
       </div>
     </nav>

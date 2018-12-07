@@ -4,6 +4,7 @@ title:  "Pořádek v multi-module buildu"
 date:   2015-03-24
 categories: [software development]
 disqusId: 159
+tags: [Maven]
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://www.flickr.com/photos/seditiouscanary/1279041211"><img src="https://farm2.staticflickr.com/1156/1279041211_1dbc1e1473_m.jpg" /></a><br/><a href="https://www.flickr.com/photos/seditiouscanary/1279041211">Chris Nygaard (by-nc-nd 2.0)</a></div>Mám rád v dílně pořádek. Všechno má své místo, na které se musí vracet. Nářadí nesmíte dlouze hledat či o něj dokonce zakopávat. Nejlépe je uklízet hned a málo, než později a hodně, protože se vám do toho nebude chtít. Stejně to mám rád při programování. Mohl bych psát o víc sexy nástrojích jako Gradle, ale nejde si nevšimnout, že mnozí programátoři (ať už z nezájmu nebo nedostatku kázně) mají herberk i v hojně rozšířeném Mavenu. Chtěl bych ukázat, jak lze mít uklizeno v multi-module buildu. Jestli to zrovna vy nepotřebujete, tím lépe.
 <div style="clear: both"></div>

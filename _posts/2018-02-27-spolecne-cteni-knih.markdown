@@ -5,6 +5,7 @@ date:   2018-02-27
 categories: [software development]
 disqusId: 199
 image: "https://openclipart.org/image/150px/svg_to_png/245570/Buecher-coloured.png"
+tags: [kniha]
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/245570/bookes-coloured"><img src="https://openclipart.org/image/150px/svg_to_png/245570/Buecher-coloured.png" /></a></div>
 

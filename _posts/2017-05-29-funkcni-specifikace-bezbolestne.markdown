@@ -4,6 +4,7 @@ title:  "Funkční specifikace bezbolestně – Část čtvrtá: tipy"
 date:   2017-05-29
 categories: [software development]
 disqusId: 189
+tags: [překlad, Joel Spolsky]
 ---
 
 Překlad článku [Painless Functional Specications – Part 4: Tips](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/), jednoho ze série článků o psaní specifikace, který napsal Joel Spolsky (mimo jiné spoluautor [stackoverflow.com](http://www.stackoverflow.com)) již v roce 2000 a až na pár technických nástrojů jako kdyby ho psal dneska. S jeho [laskavým svolením](https://web.archive.org/web/20160412103153/http://local.joelonsoftware.com/wiki/Clarifications_and_Explanations#Translations_outside_the_wiki) jsem text přeložil do češtiny (překlad uvolňuji pod [licencí Creative Commons by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)).

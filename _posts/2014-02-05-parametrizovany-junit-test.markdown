@@ -4,6 +4,7 @@ title:  "Parametrizovaný JUnit test"
 date:   2014-02-05
 categories: [software development]
 disqusId: 146
+tags: [JUnit]
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/29641/quality-control:-approved-by-stijnbern-29641"><img src="https://openclipart.org/image/150px/svg_to_png/29641/1267371838.png" /></a></div>Richard Šerý v článku <a href="http://www.aspectworks.com/2014/02/druha-obtizna-vec">Druhá obtížná věc</a> prohlašuje: „pište kód tak, aby ho pochopilo i malé děcko, senilní stařík či vy po deseti letech práce v korporaci“. V komentářích jste mě za podobu <a href="/item/113">unit testu pro validátor rodného čísla</a>, který ono krédo respektuje, téměř kamenovali. Zkusme tedy něco elegantnějšího: <a href="http://junit.org/javadoc/latest/org/junit/runners/Parameterized.html">parametrizovaný JUnit</a> test. Dle toho, co jsem viděl, se zatím testy tímto způsobem moc nepíšou. Jako další zlepšovák implementováno v Groovy.
 <!--more-->

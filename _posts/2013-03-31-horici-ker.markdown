@@ -5,6 +5,7 @@ date:   2013-03-31
 categories: [k zamyšlení]
 disqusId: 126
 image: /assets/2013-03-31/20130331-horici-ker_thumb.png
+tags: [film]
 ---
 <a href="/assets/2013-03-31/20130331-horici-ker.png"><img src="/assets/2013-03-31/20130331-horici-ker_thumb.png" align="left" style="margin: 0px 15px 15px 0px"></a>Viděli jste už <a href="http://www.csfd.cz/film/313105-horici-ker/">Hořící keř</a>, první hraný film o Janu Palachovi? Jedná se o třídílný barevný televizní film natočený HBO. Víc než o samotném činu sebeupálení pojednává o událostech, které poté následovaly. Při sledování na vás dolehnou morální otázky, na které by si měl každý sám odpovědět. Hlavně na tu: <i>Jak bych se zachoval já?</i> Sepsal jsem několik citací, kolem kterých se mé úvahy točí.
 <!--more-->

@@ -4,6 +4,7 @@ title:  "Záhada jménem Groovy"
 date:   2014-04-07
 categories: [software development]
 disqusId: 150
+tags: [Groovy, překlad]
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Groovy-logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/200px-Groovy-logo.svg.png" /></a></div>Již dávno jsem si zamiloval Groovy. Přemýšlel jsem, proč není tak skvělý jazyk rozšířenější. Odpověď mi dal článek <a href="http://www.drdobbs.com/jvm/the-groovy-conundrum/240147731">The Groovy Conundrum</a> (zveřejněný v únoru 2013 na serveru drdobbs.com), který napsal Andrew Binstock. S jeho laskavým svolením jsem text přeložil do češtiny (autorská práva, copyright, drží <a href="http://www.drdobbs.com/">drdobbs.com</a>; samotný překlad uvolňuji pod licencí <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/">Creative Commons by-nc-sa</a>).
 

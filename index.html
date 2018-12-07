@@ -14,6 +14,11 @@ layout: default
                  • <a href="/category/{{category | slugify}}">{{ category }}</a>
                 {% endfor %}
                 {% endunless %}
+                {% unless post.tags == empty %}
+                {% for tag in post.tags %}
+                 • <a href="/tag/{{tag | slugify}}">{{ tag }}</a>
+                {% endfor %}
+                {% endunless %}
             </span>
 
             <h2>

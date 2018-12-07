@@ -5,6 +5,7 @@ date:   2018-09-21
 categories: [software development]
 disqusId: 206
 image: "https://openclipart.org/image/150px/svg_to_png/94723/db.png"
+tags: [JPA]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/94723/database-symbol-by-rg1024"><img src="https://openclipart.org/image/150px/svg_to_png/94723/db.png" /></a></div> JPA, metoda `toString()` a asynchronní logování dokázaly vykouzlit situaci, která nám dala chvilku zabrat.

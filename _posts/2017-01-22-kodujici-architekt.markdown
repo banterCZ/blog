@@ -4,6 +4,7 @@ title:  "Kódující architekt"
 date:   2017-01-22
 categories: [software development]
 disqusId: 185
+tags: [kniha]
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://www.flickr.com/photos/bantercz/15799780329/in/album-72157649269744987/"><img src="https://c2.staticflickr.com/8/7500/15799780329_ae3fde9d79_m.jpg" /></a></div>Napsal jsem a přeložil několik článků o stárnutí programátorů a změně jejich pozice. Završím to pohledem na kódujícího architekta. Zatímco v článku <a href="/item/169">Technický lídr</a> si zoufám, že <em>jednou z nejtěžších voleb technické hvězdy, ze které se stává lídr, je ztráta kontaktu s nejnovější technologií</em>, tak kniha <a href="https://leanpub.com/software-architecture-for-developers">Software Architecture for Developers (Simon Brown)</a> mi dává určitou naději. Podle autora je softwarový architekt technická kariéra.
 <!--more-->

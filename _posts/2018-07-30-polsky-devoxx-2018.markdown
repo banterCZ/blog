@@ -5,6 +5,7 @@ date:   2018-07-30
 categories: [software development]
 disqusId: 204
 image: "/assets/2018-07-30/devoxx_logo.png"
+tags: [konference]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-07-30/devoxx_logo.png" /></div> Loni se mi líbilo na [pražském GeeCONu](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html) a říkal jsem si, zda příště nevyrazím na polskou, mateřskou akci. Do Polska jsem se nakonec dostal, ovšem na jinou konferenci a to [Devoxx](https://devoxx.com/) v Krakově. Papírový blok člověk jednou ztratí, ale hlavně si potřebuju utřídit myšlenky, protože za tři dny jsem toho slyšel opravdu hodně. Poznámky jsem si psal průběžně, protože zážitky z jedné přednášky přebijí zážitky z té předchozí a druhý den pomalu nevíte, co jste slyšeli ten první.

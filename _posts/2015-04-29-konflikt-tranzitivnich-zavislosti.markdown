@@ -4,6 +4,7 @@ title:  "Konflikt tranzitivních závislostí"
 date:   2015-04-29
 categories: [software development]
 disqusId: 161
+tags: [Maven, Gradle]
 ---
 <img src="/assets/2015-04-29/20150429-pinguin builder.png" align="left" style="margin: 0px 15px 15px 
 0px" />Pochopitelně není možné znát do hloubky všechny nástroje a frameworky, se kterými denně přicházíme do styku. Na druhou stranu, pragmatický programátor se snaží pochopit alespoň principy, obzvláště u klíčových technologií. Tentokrát bych chtěl vysvětlit konflikt tranzitivních závislostí v Mavenu (ukážu i alternativu v Gradlu).

@@ -5,6 +5,7 @@ date:   2017-11-27
 categories: [software development]
 disqusId: 196
 image: "/assets/2017-11-27/geecon_logo.png"
+tags: [konference]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-11-27/geecon_logo.png" /></div>

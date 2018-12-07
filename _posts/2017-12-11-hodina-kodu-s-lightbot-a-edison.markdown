@@ -5,6 +5,7 @@ date:   2017-12-11
 categories: [software development]
 disqusId: 197
 image: "https://openclipart.org/image/150px/svg_to_png/76615/robot-line-art-rg1024.png"
+tags: [kroužek programování, Meet Edison]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/76615/robot-line-art"><img src="https://openclipart.org/image/150px/svg_to_png/76615/robot-line-art-rg1024.png" /></a></div>

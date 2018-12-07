@@ -4,6 +4,7 @@ title:  "Úvod do profese"
 date:   2016-03-07
 categories: [software development]
 disqusId: 174
+tags: [překlad, Uncle Bob]
 ---
 Přináším překlad článku od Roberta C. Martina (též známý jako Uncle Bob), autora knihy <a href="http://amzn.to/1wkixFY">Clean Code</a> a spoluautora <a href="http://agilemanifesto.org/iso/cs/">Manifestu agilního vývoje</a>. Byl tak laskav, že mi odpověděl na <a href="
 https://twitter.com/banterCZ/status/705013240250638337">moji žádost</a> a dal <a href="https://twitter.com/unclebobmartin/status/705134763766648832">svolení</a> k překladu článku <a href="http://blog.cleancoder.com/uncle-bob/2015/11/27/OathDiscussion.html">Prelude to a Profession</a>, ve kterém vysvětluje a obhajuje <a href="/item/173">programátorskou přísahu</a>.

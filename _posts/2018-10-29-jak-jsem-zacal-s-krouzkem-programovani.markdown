@@ -5,6 +5,7 @@ date:   2018-10-29
 categories: [software development]
 disqusId: 207
 image: "/assets/2018-10-29/scratchblocks.png"
+tags: [kroužek programování]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://scratchblocks.github.io/#?lang=cs&script=opakuj%20(10)%20kr%C3%A1t%20%0A%20%20%C5%99ekni%20%5BAhoj%20sv%C4%9Bte%5D%0Aend"><img src="/assets/2018-10-29/scratchblocks.png" /></a></div> O tom, jak jsem začal s kroužkem programování, jsem mluvil na nekonferenci [jOpenSpace 2018](https://www.jopenspace.cz/2018.html). K dispozici bude videozáznam (doplním později), ale do deseti minut se nevejde všechno, co bych býval chtěl říct. Navíc já stejně raději píšu a vy možná raději, stejně jako já, čtete, než koukáte na video. Berte to i jako drobné rozšíření přednášky.

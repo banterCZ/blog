@@ -4,6 +4,7 @@ title:  "Leonid Andrejev - Fixní idea"
 date:   2007-01-31
 categories: [(ne)kulturno]
 disqusId: 10
+tags: [kniha]
 ---
 Fixní idea je samostatně vydaná povídka, kterou přečtete za krátkou cestu vlakem. Hlavní postavou je doktor všeobecné medicíny Anton Ignaťjevič Keržencev. Zabije svého přítele - manžela ženy, kterou kdysi neúspěšně požádal o ruku. Nikoliv ze žárlivosti k Alexeji Konstantinoviči. Chce se pomstít Taťáně Nikolajevně. Celý příběh je psát formou deníku, který si Keržencev vede během psychiatrického vyšetřování. Brutální čin spáchal v předstíraném záchvatu. Bylo však šílenství předstírané?
 <!--more-->

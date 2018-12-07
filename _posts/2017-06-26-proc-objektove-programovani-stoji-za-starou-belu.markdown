@@ -4,6 +4,7 @@ title:  "Proč stojí objektové programování za starou belu"
 date:   2017-06-26
 categories: [software development]
 disqusId: 190
+tags: [překlad]
 ---
 
 Překlad článku [Why OO Sucks](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks), který napsal [Joe Armstrong](https://twitter.com/joeerl). S jeho [laskavým svolením](https://twitter.com/joeerl/status/877411016807731200) jsem text přeložil do češtiny (překlad uvolňuji pod [licencí Creative Commons by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)).

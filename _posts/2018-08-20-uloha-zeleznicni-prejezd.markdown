@@ -5,6 +5,7 @@ date:   2018-08-20
 categories: [software development]
 disqusId: 205
 image: "/assets/2018-08-20/prejezd_thumb.jpg"
+tags: [kroužek programování, Meet Edison]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="/assets/2018-08-20/prejezd.jpg"><img src="/assets/2018-08-20/prejezd_thumb.jpg" /></a></div>Přes prázdniny mají učitelé nárok na zasloužený odpočinek, pokud ovšem někdo leží v přípravách, tak se mu může hodit úloha **železniční přejezd** z kroužku programování za použití robotů [Meet Edison](https://meetedison.com/). Roboty jsem představoval v příspěvku [Hodina kódu s LightBot a Meet Edison](https://blog.zvestov.cz/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html), kde jsem si pochvaloval dostatek didaktických materiálů, ale dnes už mi přijde, že tam chybí zajímavé a složitější úlohy. Ty je nejspíš potřeba si vymyslet. S touto úlohou přišel Martin Javorek na svém twitterovém účtu [@programohrajeme](https://twitter.com/programohrajeme). Jeho varianta je složitější, využívá Python. Já jsem si ji zjednodušil pro menší děti, abych si vystačil jen s vizuálním „kostkovým“ jazykem.

@@ -4,6 +4,7 @@ title:  "Programátorem po čtyřicítce"
 date:   2016-05-26
 categories: [software development]
 disqusId: 176
+tags: [překlad]
 ---
 Nedávno jsem se <a href="/item/169">zamýšlel na svou třicítkou a nad tím, jak naložím s následujícími deseti</a> lety. Narazil jsem na článek <a href="https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c">Being A Deloper After 40</a>. Neodolal jsem tedy pokušení a (<a href="">s laskavým svolením autora</a>) jsem ho přeložil do češtiny. Při překladu na mě dýchla nostalgie, jelikož dost věcí z toho pamatuju. Sice jsem byl v době, kdy autor nastupoval do práce, ještě dítě školou povinné, ale stejně. Navíc mi přijde, že se v mnoha věcech shodne s článkem <a href="/item/174">Úvod do profese</a>.
 

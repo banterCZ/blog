@@ -11,7 +11,13 @@ layout: default
       {% for category in page.categories %}
         • <a href="/category/{{category | slugify}}">{{ category }}</a>
       {% endfor %}
-      {% endunless %}</p>
+      {% endunless %}
+      {% unless page.tags == empty %}
+      {% for tag in page.tags %}
+        • <a href="/tag/{{tag | slugify}}">{{ tag }}</a>
+      {% endfor %}
+      {% endunless %}
+    </p>
   </header>
 
   <article class="post-content">

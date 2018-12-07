@@ -5,6 +5,7 @@ date:   2018-05-15
 categories: [software development]
 disqusId: 202
 image: "/assets/2018-05-15/cubetto_thumb.jpg"
+tags: [kroužek programování, konference]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="/assets/2018-05-15/cubetto.jpg"><img src="/assets/2018-05-15/cubetto_thumb.jpg" /></a><br/><em>Cubetto</em></div> Začal jsem s kroužkem programování pro děti (o tom až někdy příště), proto jsem s radostí vyrazil na konferenci [učIT jinak o výuce informatiky](https://www.ucit-jinak.cz/program-12-5/), na kterou mě upozornil Martin Javorek na svém twitterovém účtu [@programohrajeme](https://twitter.com/programohrajeme) (moc pěkná kurátorská práce ohledně výuky programování, vřele doporučuji). Sepsal jsem pár poznámek, ale rozhodně nepokrývám vše, co bylo možné vidět a slyšet. Nejde ani o výběr toho nejdůležitějšího, ale toho, co se ke mně dostalo.

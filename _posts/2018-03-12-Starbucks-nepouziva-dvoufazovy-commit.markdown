@@ -5,6 +5,7 @@ date:   2018-03-12
 categories: [software development]
 disqusId: 200
 image: "https://openclipart.org/image/150px/svg_to_png/183040/jiangyi-99-coffee-machine.png"
+tags: [překlad]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/183040/coffee-machine"><img src="https://openclipart.org/image/150px/svg_to_png/183040/jiangyi-99-coffee-machine.png" /></a></div>

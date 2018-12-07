@@ -5,6 +5,7 @@ date:   2017-03-09
 categories: [software development]
 disqusId: 187
 image: "https://openclipart.org/image/150px/svg_to_png/173389/B14-30.png"
+tags: [překlad]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/173389/b1430"><img src="https://openclipart.org/image/150px/svg_to_png/173389/B14-30.png" /></a></div>
