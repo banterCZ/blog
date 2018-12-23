@@ -43,9 +43,10 @@ Ať žije twitter! Psal jsem tam svoje úvahy a posílal odkazy, až mi [Michal 
 Robot [Meet Edison](https://meetedison.com/) mě nadchnul a doporučuji ho, kudy chodím. Je kompatibilní se stavebnicí Lego. Má čidlo čáry, infra (přes to si umí i navzájem posílat zprávy), čidlo viditelného světla, mikrofon, reproduktor a LED diody. Existují čtyři úrovně, jak ho programovat.
 
 1. Předpřipravené čárové kódy.
-2. [EdBlock](https://meetedison.com/robot-programming-software/edblocks/), dialekt jazyka Scratch.
-3. [EdWare](https://meetedison.com/robot-programming-software/edware/), grafický jazyk rozšířený o text.
-4. [EdPy](https://meetedison.com/robot-programming-software/edpy/), dospělý Python.
+2. [EdBlock](https://meetedison.com/robot-programming-software/edblocks/), dialekt jazyka Scratch Junior.
+3. <del>[EdWare](https://meetedison.com/robot-programming-software/edware/), grafický jazyk rozšířený o text.</del> Nahrazen EdScratch, viz níže.
+4. [EdScratch](https://meetedison.com/robot-programming-software/edscratch/) dialekt jazyka Scratch.
+5. [EdPy](https://meetedison.com/robot-programming-software/edpy/), dospělý Python.
 
 S tímto arzenálem vystačíte od mateřské školky až po vysokoškoláky.
 
