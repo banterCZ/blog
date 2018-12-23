@@ -5,6 +5,7 @@ date:   2017-08-31
 categories: [bydlení]
 disqusId: 192
 image: "/assets/2017-08-31/dřevo.jpg"
+tags: [spotřeba]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-08-31/dřevo.jpg" /></div>
