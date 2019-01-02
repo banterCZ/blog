@@ -8,11 +8,14 @@ image: "/assets/2018-10-29/scratchblocks.png"
 tags: [kroužek programování]
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://scratchblocks.github.io/#?lang=cs&script=opakuj%20(10)%20kr%C3%A1t%20%0A%20%20%C5%99ekni%20%5BAhoj%20sv%C4%9Bte%5D%0Aend"><img src="/assets/2018-10-29/scratchblocks.png" /></a></div> O tom, jak jsem začal s kroužkem programování, jsem mluvil na nekonferenci [jOpenSpace 2018](https://www.jopenspace.cz/2018.html). K dispozici bude videozáznam (doplním později), ale do deseti minut se nevejde všechno, co bych býval chtěl říct. Navíc já stejně raději píšu a vy možná raději, stejně jako já, čtete, než koukáte na video. Berte to i jako drobné rozšíření přednášky.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://scratchblocks.github.io/#?lang=cs&script=opakuj%20(10)%20kr%C3%A1t%20%0A%20%20%C5%99ekni%20%5BAhoj%20sv%C4%9Bte%5D%0Aend"><img src="/assets/2018-10-29/scratchblocks.png" /></a></div> O tom, jak jsem začal s kroužkem programování, jsem mluvil na nekonferenci [jOpenSpace 2018](https://www.jopenspace.cz/2018.html). [K dispozici je videozáznam](https://www.youtube.com/watch?v=tptR39r8ZmE), ale do deseti minut se nevejde všechno, co bych býval chtěl říct. Navíc já stejně raději píšu a vy možná raději, stejně jako já, čtete, než koukáte na video. Berte to i jako drobné rozšíření přednášky.
 
+<div style="clear:both"></div>
 <!--more-->
 
 ## Expozice
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tptR39r8ZmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Když jsem byl malý, tak skoro každý kluk u nás na vsi měl nějakého [pionýra](https://cs.wikipedia.org/wiki/Pion%C3%BDr_(motocykl)). Věčně se v něm vrtali, štelovali předstih, ladili karburátor, a tak se motorku naučili opravovat. Já měl novější, značně spolehlivější, motocykl německé výroby [Simson S51](https://cs.wikipedia.org/wiki/Simson#S51), do kterého se jen lil benzín (s olejem), proto jsem se nikdy pořádně motorky spravovat nenaučil. Zato [jsem měl osmibitový počítač Commodore C64](https://blog.zvestov.cz/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html#můj-příběh). Na něm vás po spuštění přivítala příkazová řádka, čili k programování to byl jen krůček. Dnešní počítače jsou uživatelsky mnohem přívětivější, z toho důvodu je krok k programování o něco delší. Možná dnešním dětem stačí tu možnost prostě ukázat.
 
