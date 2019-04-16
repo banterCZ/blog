@@ -14,19 +14,19 @@ Dnes jsme měli incident na produkci. U obvykle ospalé webové aplikace vylétl
 
 <!--more-->
 
-Našli jsme kód, který iteroval přes dva listy a používal k tomu vnořený _for_ cyklus, což má složitost kartézského součinu: O(MN). Tento týden M i N vyskočily na čtyř až šestinásobek, takže funkce měla náhle zhruba 30 krát větší složitost než minulý týden. Myslím si snad, že je to špatný kód? Ne, nemyslím. Proč?
+Našli jsme kód, který iteroval přes dva seznamy a používal k tomu vnořený _for_ cyklus, což má složitost kartézského součinu: O(MN). Tento týden M i N vyskočily na čtyř až šestinásobek, takže funkce měla náhle zhruba 30 krát větší složitost než minulý týden. Myslím si snad, že je to špatný kód? Ne, nemyslím. Proč?
 
-Kód byl napsaný v roce 2012, tedy před sedmi lety. V té době měl každý z obou listů kolem dvaceti prvků a plán, byznys plán, byl, že by mohly pomalu růst. Možná o pár nových užitečných prvků za rok.
+Kód byl napsaný v roce 2012, tedy před sedmi lety. V té době měl každý z obou seznamů kolem dvaceti prvků a plán, byznys plán, byl, že by mohly pomalu růst. Možná o pár nových užitečných prvků za rok.
 
-Plán se ovšem změnil. Mělo se za to, že listy porostou o desítky prvků za rok. V roce 2012 měly kolem padesáti prvků, letos obsahovaly tisíce a vyskočily do desítek tisíc.
+Plán se ovšem změnil. Mělo se za to, že seznamy porostou o desítky prvků za rok. V roce 2012 měly kolem padesáti prvků, letos obsahovaly tisíce a vyskočily do desítek tisíc.
 
-Kód je snadné spravit: celý obsah jednoho listu se sežvýkne do mapy a pak se jednou proiteruje druhý list, aby se našla shoda z mapy. Jednoduché.
+Kód je snadné spravit: celý obsah jednoho seznamu se sežvýkne do mapy a pak se jednou proiteruje druhý seznam, aby se našla shoda z mapy. Jednoduché.
 
 Proč to tak neudělal programátor původně? Protože pro původní požadavky to bylo příliš komplexní. Vnořený cyklus byla ta nejsnazší věc, která mohla fungovat, a nebyl důvod se domnívat, že by to způsobilo problém.
 
 Sakra, kód přežil 7 let nepředvídatelného růstu před tím, než způsobil problém. Kdo by tipoval, že bude za 7 let vůbec existovat? (Vím, že většina vývojářů si přeje, aby už tato webová aplikace zmizela 😝)
 
-Před sedmi lety nemohl nikdo předvídat, že listy vyrostou do desítek tisíc. (Pořád nedává smysl, že se to stalo.) Psaní komplexního kódu, který by zvládl budoucí bezdůvodné možnosti, je plýtvání časem. 
+Před sedmi lety nemohl nikdo předvídat, že seznamy vyrostou do desítek tisíc. (Pořád nedává smysl, že se to stalo.) Psaní komplexního kódu, který by zvládl budoucí bezdůvodné možnosti, je plýtvání časem. 
 
 Dobrá, možná v této konkrétní funkci by to bývalo ušetřilo čas. Ale sázet v každé řádce kódu na apokalyptickou budoucnost -&nbsp;což je to, co byste museli dělat, jelikož nevíte, který předpoklad se v budoucnu rozbije&nbsp;- je cesta k obrovskému plýtvání vývojářské produktivity.
 
