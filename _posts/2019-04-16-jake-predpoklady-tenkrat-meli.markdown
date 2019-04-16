@@ -4,7 +4,7 @@ title:  "Jaké předpoklady tenkrát měli?"
 date:   2019-04-16
 categories: [software development]
 disqusId: 213
-image: "https://openclipart.org/image/150px/svg_to_png/1734/johnny-automatic-key-1.png"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/200px-Comparison_computational_complexity.svg.png"
 tags: [překlad]
 ---
 
