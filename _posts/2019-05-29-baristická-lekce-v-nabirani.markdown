@@ -43,7 +43,7 @@ Neznáte svoje zrnka? Je to základní kámen dobré kávy. Jdu o dům dál.
 
 ### Krok pět: barista
 
-Konečně se dostanu k tomu, abych si promluvil s baristou. Moje první otázka je vždy stejná: „Co se vám tady chutná?“. Pokud odpoví: „Eh, nepiju kávu,“ tak se usměju a jdu ke dveřím. Podívejte, všechno ostatní může být v pořádku, ale pokud osoba, která připravuje kávu, nerozezná dobré od špatného nebo nenávidí chuť kávy, tak to nemůže být skvělé. Ano, můžou se naučit udělat všechny kroky shora zalívané metody správně, ale jak poznají, že je udělali správně, když to nikdy neochutnají? A pokud nemají rádi její chuť, tak proč by se vůbec starali? Dalším varováním je, když řeknou: „Miluju sojové vanilkovo-karamelové macchiato!“ Ve skutečnosti říkají: „Miluju cukr a kofein,“ a ne „miluju kávu.“ Pokud budu chtít cukr, zajdu si do cukrárny, ale tady jsem proto, že chci kávu.
+Konečně se dostanu k tomu, abych si promluvil s baristou. Moje první otázka je vždy stejná: „Co vám tady chutná?“. Pokud odpoví: „Eh, nepiju kávu,“ tak se usměju a jdu ke dveřím. Podívejte, všechno ostatní může být v pořádku, ale pokud osoba, která připravuje kávu, nerozezná dobré od špatného nebo nenávidí chuť kávy, tak to nemůže být skvělé. Ano, můžou se naučit udělat všechny kroky shora zalívané metody správně, ale jak poznají, že je udělali správně, když to nikdy neochutnají? A pokud nemají rádi její chuť, tak proč by se vůbec starali? Dalším varováním je, když řeknou: „Miluju sojové vanilkovo-karamelové macchiato!“ Ve skutečnosti říkají: „Miluju cukr a kofein,“ a ne „miluju kávu.“ Pokud budu chtít cukr, zajdu si do cukrárny, ale tady jsem proto, že chci kávu.
 
 ### Krok šest: objednávka
 
