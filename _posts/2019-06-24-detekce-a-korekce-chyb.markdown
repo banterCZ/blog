@@ -49,7 +49,7 @@ Role si prohoďte. Učitel připraví základní čtverec, děti přidají parit
  
  ![](/assets/2019-06-24/karty.jpg)
 
-# Didaktické poznámky
+## Didaktické poznámky
 
 Pokud jste s dětmi doposud neprobírali binární čísla, bude potřeba tématu věnovat nějaký čas. Rovněž mladším dětem bude pravděpodobně potřeba vysvětlit koncept _lichý/sudý_.
 
@@ -60,3 +60,7 @@ V návodu je uvedeno, že máte kontrolovat, zda se mezi řádky neopakuje něja
 Děti jsem nabádal, aby úlohu ukázaly doma rodičům právě jako karetní trik. Což ale nikdo neudělal. Domnívám se, že ty mladší tomu v hodině s dopomocí rozuměly, ale nebyly schopné samostatně úlohu zopakovat. 
 
 Tento článek vychází z díla [Parity magic (csunplugged.org)](https://csunplugged.org/en/topics/error-detection-and-correction/unit-plan/parity-magic-junior/) a zachovává licenci [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.cs).
+
+## Související
+
+- [Kontrolní číslice čárového kódu](/software%20development/2019/07/22/kontrolni-cislice-caroveho-kodu.html)
