@@ -11,7 +11,7 @@ Začal jsem sledovat [blog Marcuse Blankenshipa](https://marcusblankenship.com/u
 
 Na svých kurzech lidi učím, jak se poučit z každodenních situací. Tady je jeden příklad takového myšlení.
 
-Hodně cestuji, a když přijedu na nové místo, tak vždycky hledám, kde bych dostal dobrý šálek kávy. Připravím si seznam podle Yelp, pak vejdu dovnitř a zkontroluji pár věcí, připraven odejít, uvidím-li špatná znamení. Všiml jsem si jistých podobností mezi úsilím najít dobrou kávu a najít dobrého programátora.
+Hodně cestuji, a když někam přijedu poprvé, tak vždycky hledám, kde bych dostal dobrý šálek kávy. Připravím si seznam podle Yelp, pak vejdu dovnitř a zkontroluji pár věcí, připraven odejít, uvidím-li špatná znamení. Všiml jsem si jistých podobností mezi úsilím najít dobrou kávu a najít dobrého programátora.
 
 <!--more-->
 
@@ -27,13 +27,13 @@ Dnes tak vypadá každá kavárna, takže tomu už nedůvěřuju. Většina kav�
 
 Dobré kavárny mají téměř vždy jednoduché menu zaměřené na kávu. Pokud má menu 100 druhů nápojů, 100 různých druhů sirupů nebo podávají kávu a dalších 100 jídel, tak to je špatné znamení.
 
-Vím, co potřebuji: uvařit filtrovanou kávu.
+Vím, co potřebuji: připravit filtrovanou kávu.
 
 Marketing bohužel zlikvidoval i tohle, jelikož některé hrozné kavárny mají jednoduché, a přesto hrozné menu. Nikdy nepochopím, jak dokážou přežít.
 
 ### Krok tři: vybavení
 
-V tomto kroku se rozhlížím po vybavení. Jsem blázen do filtrované kávy, ne do espressa. Hledám Chemex, V60, zalévací konvice, french pressy a jiné vybavení na dobrou kávu. Často vídám velkou karafu s kávou, což je špatné znamení. Kdo ví, jak dlouho už tam je a jak hrozná může být. Zde jsou lvi, takže pozor na velké karafy.
+V tomto kroku se rozhlížím po vybavení. Jsem blázen do filtrované kávy, ne do espressa. Hledám Chemex, V60, zalévací konvice, french pressy a jiné vybavení na dobrou kávu. Často vídám konvici plnou kávy, což je špatné znamení. Kdo ví, jak dlouho už tam je a jak hrozná může být. Zde jsou lvi, takže pozor na velké konvice.
 
 ### Krok čtyři: zrnka
 
@@ -43,7 +43,7 @@ Neznáte svoje zrnka? Je to základní kámen dobré kávy. Jdu o dům dál.
 
 ### Krok pět: barista
 
-Konečně se dostanu k tomu, abych si promluvil s baristou. Moje první otázka je vždy stejná: „Co vám tady chutná?“. Pokud odpoví: „Eh, nepiju kávu,“ tak se usměju a jdu ke dveřím. Podívejte, všechno ostatní může být v pořádku, ale pokud osoba, která připravuje kávu, nerozezná dobré od špatného nebo nenávidí chuť kávy, tak to nemůže být skvělé. Ano, můžou se naučit udělat všechny kroky shora zalívané metody správně, ale jak poznají, že je udělali správně, když to nikdy neochutnají? A pokud nemají rádi její chuť, tak proč by se vůbec starali? Dalším varováním je, když řeknou: „Miluju sojové vanilkovo-karamelové macchiato!“ Ve skutečnosti říkají: „Miluju cukr a kofein,“ a ne „miluju kávu.“ Pokud budu chtít cukr, zajdu si do cukrárny, ale tady jsem proto, že chci kávu.
+Konečně se dostanu k tomu, abych si promluvil s baristou. Moje první otázka je vždy stejná: „Co vám tady chutná?“. Pokud odpoví: „Eh, nepiju kávu,“ tak se usměju a odcházím. Podívejte, všechno ostatní může být v pořádku, ale pokud osoba, která připravuje kávu, nerozezná dobré od špatného nebo nenávidí chuť kávy, tak to nemůže být skvělé. Ano, můžou se naučit udělat všechny kroky přípravy překapávané kávy správně, ale jak poznají, že je udělali správně, když to nikdy neochutnají? A pokud nemají rádi její chuť, tak proč by se vůbec starali? Dalším varováním je, když řeknou: „Miluju sojové vanilkovo-karamelové macchiato!“ Ve skutečnosti říkají: „Miluju cukr a kofein,“ a ne „miluju kávu.“ Pokud budu chtít cukr, zajdu si do cukrárny, ale tady jsem proto, že chci kávu.
 
 ### Krok šest: objednávka
 
@@ -53,7 +53,7 @@ Po mnoha hodinách práce si konečně objednám. Nervózně čekám. Jsem plný
 
 V polovině případů se to dá pít. Ano, všechna ta snaha vyústí jen ve zhruba 50&nbsp;% úspěšnost. V tomto okamžiku jsem obvykle tak zoufalý, že to stejně vypiju. Přestože je to hrozné, tak se usměju, usrknu si a při odchodu zahodím do koše.
 
-## Jak tohle může být jako nabírání programátorů
+## Jak tohle souvisí s nabíráním programátorů
 
 Minulý týden jsem těmito kroky procházel v Coos Bay a svitlo mi, že je to hodně podobné najímání programátorů.
 
@@ -75,11 +75,11 @@ Pokud jste zoufalí, protože to není tak skvělé, stejně jdete dál a doufá
 
 ## Ponaučení
 
-Předpokládám, že vidíte určitou podobnost mezi pokusem dostat dobrou kávou a najmout dobrého programátora. Místo toho, abych vám říkal, co máte vidět, dovolte mi se zeptat, co vidíte.
+Předpokládám, že vidíte určitou podobnost mezi snahou dostat dobrou kávou a najmout dobrého programátora. Místo toho, abych vám říkal, co máte vidět, dovolte mi se zeptat, co vidíte.
 
 - Jaké ponaučení si z tohoto příběhu můžete odnést?
 - Co jste si uvědomili?
-- Co může zlepšit naše šance?
+- Co může zvýšit naše šance?
 
 ## Související
 
