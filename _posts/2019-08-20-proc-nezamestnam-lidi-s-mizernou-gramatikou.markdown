@@ -17,7 +17,7 @@ Pokud si myslíte, že apostrof byl jedním z dvanácti apoštolů, tak pro mě 
 
 Někteří můžou můj přístup ke gramatice považovat za extrémní, ale dávám přednost roztomilému výrazu, se kterým přišla Lynne Truss, autorka knihy [Eats, Shoots & Leaves](http://www.lynnetruss.com/pages/content/index.asp?PageID=8): Jsem gramatický „puntičkář“. Razím nulovou toleranci ke gramatickým chybám, kvůli kterým lidé vypadají jako hlupáci.
 
-Tuss a já se rozcházíme v tom, co znamená nulová tolerance. Myslí si, že lidé, kteří si pletou _můj_ a _svůj_, si zaslouží být zasaženi bleskem, rozčtvrceni na místě a pohřbeni v neoznačeném hrobě. Zatímco já se domnívám, že si zaslouží vyhodit z práce, přestože jsou jinak na pozici kvalifikovaní.
+Truss a já se rozcházíme v tom, co znamená nulová tolerance. Myslí si, že lidé, kteří si pletou _můj_ a _svůj_, si zaslouží být zasaženi bleskem, rozčtvrceni na místě a pohřbeni v neoznačeném hrobě. Zatímco já se domnívám, že si zaslouží vyhodit z práce, přestože jsou jinak na pozici kvalifikovaní.
 
 Každý z uchazečů o práci v mých obou firmách, iFixit nebo Dozuki, píše povinný test z gramatiky. Nechme stranou polehčující okolnosti (dyslexie; cizinci, kteří se jazyk učí, atd.). Pakliže doufající v zaměstnání nedokáží poznat rozdíl mezi „být“ a „bít“, tak jejich životopis letí do koše. 
 
