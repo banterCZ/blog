@@ -11,7 +11,7 @@ Začal jsem sledovat [blog Marcuse Blankenshipa](https://marcusblankenship.com/u
 
 Na svých kurzech lidi učím, jak se poučit z každodenních situací. Tady je jeden příklad takového myšlení.
 
-Hodně cestuji, a když někam přijedu poprvé, tak vždycky hledám, kde bych dostal dobrý šálek kávy. Připravím si seznam podle Yelp, pak vejdu dovnitř a zkontroluji pár věcí, připraven odejít, uvidím-li špatná znamení. Všiml jsem si jistých podobností mezi úsilím najít dobrou kávu a najít dobrého programátora.
+Hodně cestuji, a když někam přijedu poprvé, tak vždycky hledám, kde bych dostal šálek dobré kávy. Připravím si seznam podle Yelp, pak vejdu dovnitř a zkontroluji pár věcí, připraven odejít, uvidím-li špatná znamení. Všiml jsem si jistých podobností mezi úsilím najít dobrou kávu a najít dobrého programátora.
 
 <!--more-->
 
