@@ -4,10 +4,10 @@ title:  "Monitoring"
 date:   2017-02-22
 categories: [software development]
 disqusId: 186
-image: "https://openclipart.org/image/300px/svg_to_png/245804/Cctv-sketch-camera-2016040654.png"
+image: "/assets/2017-02-22/Cctv-sketch-camera-2016040654.png"
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/245804/Cctv-sketch-camera"><img src="https://openclipart.org/image/300px/svg_to_png/245804/Cctv-sketch-camera-2016040654.png" /></a></div>
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-02-22/Cctv-sketch-camera-2016040654.png" /></div>
 U zákazníka jsme měli nasazené řešení (sestávající se z několika málo desítek komponent), ke kterému jsme poskytovali _second level support_. Selhání byť jediné komponenty mohlo způsobit zastavení celé produkce. Identifikace toho, která komponenta zapříčinila výpadek, bylo zbytečně zdlouhavé. Nehledě k tomu, že jsme nedokázali problémy dostatečně předvídat. Zákazník zcela logicky začal požadovat monitoring celého řešení.
 
 Velkou část minulého roku jsem tak strávil s monitoringem. Nepovažuji se v dané problematice za odborníka (podle [kompetenční matice](http://sijinjoseph.com/programmer-competency-matrix/) bych to viděl tak na n<sup>2</sup>), ale minimálně si chci napsat pár poznámek pro sebe, abych vše nezapomněl. Měl jsem zahrnout monitorování do [Joel Test 2.0]({{ site.baseurl }}{% post_url 2015-10-22-joel-test-2.0 %}), protože si dnes už nedokážu představit provozovat komplexní systém bez monitoringu.

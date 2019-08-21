@@ -4,10 +4,10 @@ title:  "Jak vidím české základní školství"
 date:   2018-04-29
 categories: [k zamyšlení]
 disqusId: 201
-image: "https://openclipart.org/image/150px/svg_to_png/263350/teacher-African.png"
+image: "/assets/2018-04-29/teacher-African.png"
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/263350/teacher-in-a-greener-dress"><img src="https://openclipart.org/image/150px/svg_to_png/263350/teacher-African.png" /></a></div>
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-04-29/teacher-African.png" /></div>
 
 Svůj blog jsem začal psát na vysoké škole a jeden z prvních příspěvků byla moje stížnost na úroveň [Fakulty elektrotechniky na ČVUT](https://blog.zvestov.cz/k%20zamy%C5%A1len%C3%AD/2007/10/05/proc-nestudovat-softwarove-inzenyrstvi-na-fel-cvut). Utekl nějaký čas a naše děti dorostly do věku povinné školní docházky, takže se mě školství začalo dotýkat opět víc než jen (celkem časté) články v novinách. Chtěl bych vyjádřit vlastní názor, popsat svoji zkušenost a odkázat zajímavé zdroje informací.
 

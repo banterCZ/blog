@@ -4,11 +4,11 @@ title:  "Kapitáne, potřebujeme víc klíčových slov"
 date:   2019-02-27
 categories: [software development]
 disqusId: 211
-image: "https://openclipart.org/image/150px/svg_to_png/1734/johnny-automatic-key-1.png"
+image: "/assets/2019-02-27/johnny-automatic-key-1.png"
 tags: [překlad, Java]
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/1734/key"><img src="https://openclipart.org/image/150px/svg_to_png/1734/johnny-automatic-key-1.png" /></a></div>Z architektonického hlediska mě zaujal příspěvek na fóru OpenJDK [We need more keywords, captain!](http://mail.openjdk.java.net/pipermail/amber-spec-experts/2019-January/000945.html), který napsal Brian Goetz. S jeho laskavým svolením překládám do češtiny. Varoval mě, že to bylo bohužel chápáno jako návrh na přidání nových funkčností, ale zamýšlel se spíš nad tím, jak úspěšně pokračovat v rozvoji jazyka.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2019-02-27/johnny-automatic-key-1.png" /></div>Z architektonického hlediska mě zaujal příspěvek na fóru OpenJDK [We need more keywords, captain!](http://mail.openjdk.java.net/pipermail/amber-spec-experts/2019-January/000945.html), který napsal Brian Goetz. S jeho laskavým svolením překládám do češtiny. Varoval mě, že to bylo bohužel chápáno jako návrh na přidání nových funkčností, ale zamýšlel se spíš nad tím, jak úspěšně pokračovat v rozvoji jazyka.
  
 8\. ledna 2019
 

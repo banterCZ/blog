@@ -4,10 +4,10 @@ title:  "O náboru juniorů"
 date:   2018-01-26
 categories: [software development]
 disqusId: 198
-image: "https://openclipart.org/image/150px/svg_to_png/233854/Interview-Without-Speech-Bubbles.png"
+image: "/assets/2018-01-26/Interview-Without-Speech-Bubbles.png"
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/233854/interview-without-speech-bubbles"><img src="https://openclipart.org/image/150px/svg_to_png/233854/Interview-Without-Speech-Bubbles.png" /></a></div>
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-01-26/Interview-Without-Speech-Bubbles.png" /></div>
 
 [Před rokem jsem hledal práci](https://blog.zvestov.cz/software%20development/2016/10/17/zprava-o-stavu-IT-trhu.html), teď občas bývám u pohovorů na druhé straně. [Mám rád junior programátory](https://blog.zvestov.cz/software%20development/2013/01/07/proc-mit-na-projektu-junior-programatory.html), pamatuji si, že i já byl takový a bylo o mě dobře postaráno, tak bych to rád vracel. Chtěl bych se podělit o své zážitky, protože jsem byl bohužel z několika kandidátů zklamaný. Myslím, že by mé poznámky mohly některým pomoct s přípravou. Mohli by lépe využít svého potenciálu, abych je příště nemusel odmítnout.
 

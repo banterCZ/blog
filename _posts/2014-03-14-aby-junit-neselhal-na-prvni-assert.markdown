@@ -5,8 +5,9 @@ date:   2014-03-14
 categories: [software development]
 disqusId: 148
 tags: [JUnit]
+image: "/assets/2014-03-14/1267371838.png"
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/29641/quality-control:-approved-by-stijnbern-29641"><img src="https://openclipart.org/image/150px/svg_to_png/29641/1267371838.png" /></a></div>Chtěl bych navázat na článek <a href="/item/146">Parametrizovaný JUnit test</a> a pokračovat tak v představování vlastností JUnit, o kterých dost programátoru neví, nebo je alespoň denně nepoužívají.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2014-03-14/1267371838.png" /></div>Chtěl bych navázat na článek <a href="/item/146">Parametrizovaný JUnit test</a> a pokračovat tak v představování vlastností JUnit, o kterých dost programátoru neví, nebo je alespoň denně nepoužívají.
 
 Jsem zastáncem toho, aby jednotlivé testy byly co nejkratší a samozřejmě na sobě nezávislé. Raději napíšu deset testovacích metod s jedním assertem, než jednu metodu s deseti asserty (viz kritizovaný <a href="/item/113">test validátoru rodných čísel</a>). Výhodu spatřuji v tom, že při jediném běhu testu vidíte na jediný pohled všechny vadné případy. A ne že opravíte první assert, spustíte test a padne vám hned druhý assert v pořadí. 
 

@@ -4,8 +4,9 @@ title:  "Joel Test 2.0"
 date:   2015-10-22
 categories: [software development]
 disqusId: 168
+image: "/assets/2015-10-22/Good-Grade.png"
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/191354/good-grade"><img src="https://openclipart.org/image/150px/svg_to_png/191354/Good-Grade.png" /></a></div>Nemám ambice a hlavně ani potřebnou autoritu na to razit Joel Test 2.0, využívám jeho jména při svém zamyšlení, co je pro mě důležité, čemu bych věnoval v softwarové firmě pozornost a čeho bych chtěl na svých projektech dosáhnout. Když na blogu <a href="http://www.aspectworks.com/2013/04/joeluv-test-a-aspectworks">Aspectworks publikovali svůj výsledek Joel Testu</a> a když <a href="http://www.sw-samuraj.cz/2013/06/joel-test-ma-jeste-smysl.html">SoftWare Samuraj zpochybňoval aktuálnost Joel testu</a>, čekal jsem, že téma bude v komunitě rezonovat víc. Po nějaké době se k tomu proto vracím.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2015-10-22/Good-Grade.png" /></div>Nemám ambice a hlavně ani potřebnou autoritu na to razit Joel Test 2.0, využívám jeho jména při svém zamyšlení, co je pro mě důležité, čemu bych věnoval v softwarové firmě pozornost a čeho bych chtěl na svých projektech dosáhnout. Když na blogu <a href="http://www.aspectworks.com/2013/04/joeluv-test-a-aspectworks">Aspectworks publikovali svůj výsledek Joel Testu</a> a když <a href="http://www.sw-samuraj.cz/2013/06/joel-test-ma-jeste-smysl.html">SoftWare Samuraj zpochybňoval aktuálnost Joel testu</a>, čekal jsem, že téma bude v komunitě rezonovat víc. Po nějaké době se k tomu proto vracím.
 <!--more-->
 
 Joel Test 1.0

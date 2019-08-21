@@ -4,11 +4,11 @@ title:  "Starbucks nepoužívá dvoufázový commit"
 date:   2018-03-12
 categories: [software development]
 disqusId: 200
-image: "https://openclipart.org/image/150px/svg_to_png/183040/jiangyi-99-coffee-machine.png"
+image: "/assets/2018-03-12/jiangyi-99-coffee-machine.png"
 tags: [překlad]
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/183040/coffee-machine"><img src="https://openclipart.org/image/150px/svg_to_png/183040/jiangyi-99-coffee-machine.png" /></a></div>
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-03-12/jiangyi-99-coffee-machine.png" /></div>
 
 Gregor Hohpe, autor knihy [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/eaipatterns.html), napsal článek [Starbucks Does Not Use Two-Phase Commit](http://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html), který ani po tolika letech neztratil na aktuálnosti. [S jeho laskavým svolením](https://twitter.com/ghohpe/status/969619522809315328) jsem článek přeložil do češtiny.
 

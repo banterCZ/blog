@@ -4,10 +4,10 @@ title:  "Jak sdílet informace ve firmě"
 date:   2018-11-30
 categories: [software development]
 disqusId: 208
-image: "https://openclipart.org/image/150px/svg_to_png/220717/Tribal-Mandala.png"
+image: "/assets/2018-11-30/Tribal-Mandala.png"
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/220717/tribal-mandala"><img src="https://openclipart.org/image/150px/svg_to_png/220717/Tribal-Mandala.png" /></a></div> Za svojí dosavadní pracovní kariéru jsem prošel společnostmi různých velikostí. Od začínajících firmiček o pěti, dvaceti lidech, přes stabilní s padesáti až dvě stě pracovníky, až po molochy s jednotkami a desítkami tisíc zaměstnanců. Každá velikost firmy vyžaduje jiný druh řízení (o tom mluvit nechci) a jiný způsob sdílení informací. Zatímco v partičce pěti lidí si všechno řeknete takřka u jednoho stolu, tak při počtu dvě stě už jste na hraně toho, abyste všechny znali (řekněme alespoň na úrovni přiřadit obličej ke jménu a zařazení do týmu). Navíc s největší pravděpodobností už ani nesedíte v jedné kanceláři. Jak tedy sdílet informace i ve větším kolektivu?
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-11-30/Tribal-Mandala.png" /></div> Za svojí dosavadní pracovní kariéru jsem prošel společnostmi různých velikostí. Od začínajících firmiček o pěti, dvaceti lidech, přes stabilní s padesáti až dvě stě pracovníky, až po molochy s jednotkami a desítkami tisíc zaměstnanců. Každá velikost firmy vyžaduje jiný druh řízení (o tom mluvit nechci) a jiný způsob sdílení informací. Zatímco v partičce pěti lidí si všechno řeknete takřka u jednoho stolu, tak při počtu dvě stě už jste na hraně toho, abyste všechny znali (řekněme alespoň na úrovni přiřadit obličej ke jménu a zařazení do týmu). Navíc s největší pravděpodobností už ani nesedíte v jedné kanceláři. Jak tedy sdílet informace i ve větším kolektivu?
 
 <!--more-->
 

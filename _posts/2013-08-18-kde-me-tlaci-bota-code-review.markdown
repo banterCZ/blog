@@ -4,8 +4,9 @@ title:  "Kde mě tlačí bota - code review"
 date:   2013-08-18
 categories: [software development]
 disqusId: 139
+image: "/assets/2013-08-18/QualityControl-rejected2.png"
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/29647/quality-control:-rejected-by-stijnbern"><img src="https://openclipart.org/image/120px/svg_to_png/29647/QualityControl_rejected2.png" /></a></div>Mám poměrně jasnou představu, jak by měla vypadat organizace softwarového projektu. Mimo jiné dokola <a href="/item/112">přesvědčuji, že je potřeba psát testy</a> a instaluju nástroje na statickou analýzu kódu. Už to mám nacvičené. Ovšem čím dál tím víc mi chybí code review. Ještě jsem toto téma zatím uspokojivě neuchopil, ale minimálně jsem se zamyslel, jak bych z toho chtěl vybřednout, ačkoliv jsem tak ještě neučinil.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2013-08-18/QualityControl-rejected2.png" /></div>Mám poměrně jasnou představu, jak by měla vypadat organizace softwarového projektu. Mimo jiné dokola <a href="/item/112">přesvědčuji, že je potřeba psát testy</a> a instaluju nástroje na statickou analýzu kódu. Už to mám nacvičené. Ovšem čím dál tím víc mi chybí code review. Ještě jsem toto téma zatím uspokojivě neuchopil, ale minimálně jsem se zamyslel, jak bych z toho chtěl vybřednout, ačkoliv jsem tak ještě neučinil.
 <!--more-->
 
 Autoři knih mají korektory, účetní zase auditory, jen programátoři si myslí, že jsou bohové. Code review by mělo zachytit chyby (i když nemůžete čekat, že se podaří najít všechny). Dále kontroluje, že nový člen týmu chápe správně architekturu, používá správné komponenty, dodržuje konvence... V neposlední řadě se programátoři navzájem učí a to nejenom o samotném software, který píší, ale i o programování jako takovém.

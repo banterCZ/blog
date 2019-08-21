@@ -4,8 +4,9 @@ title:  "Mockování a úskalí času v Javě 8"
 date:   2016-08-24
 categories: [software development]
 disqusId: 179
+image: "/assets/2016-08-24/push_back_time.png"
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/234997/push-back-time"><img src="https://openclipart.org/image/200px/svg_to_png/234997/push_back_time.png" /></a></div>Adaptace nových verzí Javy jde pomalu. Dodnes vídám, že programátoři neumí či nechtějí používat <a href="http://docs.oracle.com/javase/7/docs/technotes/guides/language/catch-multiple.html">multi catch</a>, <a href="https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html">try-with-resources</a> a <a href="http://docs.oracle.com/javase/7/docs/technotes/guides/language/type-inference-generic-instance-creation.html">diamond operátor</a>. Jak chtít složitější posun, který přináší Java 8?
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2016-08-24/push_back_time.png" /></div>Adaptace nových verzí Javy jde pomalu. Dodnes vídám, že programátoři neumí či nechtějí používat <a href="http://docs.oracle.com/javase/7/docs/technotes/guides/language/catch-multiple.html">multi catch</a>, <a href="https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html">try-with-resources</a> a <a href="http://docs.oracle.com/javase/7/docs/technotes/guides/language/type-inference-generic-instance-creation.html">diamond operátor</a>. Jak chtít složitější posun, který přináší Java 8?
 
 Ovšem sám nejsem bez viny. Java 8 už je tu víc jak dva roky. Při jejím uvedení jsem psal, jak obstojí v <a href="/item/152">Akumulátor testu</a>, ale na projektech ji naplno nevyužíváme. Rozhodl jsem se to napravit tím, že začnu používat <em>java.time.*</em> místo <em>java.util.Date</em>. Jednak kvůli API a taky proto, že jsou nové třídy immutable. Chtěl bych se podělit o to, jak jsem se při tom nachytal.
 <!--more-->

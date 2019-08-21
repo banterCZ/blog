@@ -5,8 +5,9 @@ date:   2015-04-15
 categories: [software development]
 disqusId: 160
 tags: [JPA]
+image: "/assets/2015-04-15/db.png"
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/94723/database-symbol-by-rg1024"><img src="https://openclipart.org/image/150px/svg_to_png/94723/db.png" /></a></div>Nějakou dobu jsem zanedbával certifikace. Říkal jsem si, že bych mohl konečně dotáhnout JPA a v rámci přípravy jsem narazil na pár zajímavostí. Přitom jsem si zoufal, že jsem mohl předchozí projekty napsat výrazně lépe, ale utěšuje mě myšlenka, že <a href="/item/130">byste měli být nespokojení se svým kódem, který jste napsali před rokem</a>. Konkrétně chci psát o vazebních tabulkách <em>legacy</em> databází, které nejsou triviální, tj. neobsahují jen klíče ale i nějaká metadata.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2015-04-15/db.png" /></div>Nějakou dobu jsem zanedbával certifikace. Říkal jsem si, že bych mohl konečně dotáhnout JPA a v rámci přípravy jsem narazil na pár zajímavostí. Přitom jsem si zoufal, že jsem mohl předchozí projekty napsat výrazně lépe, ale utěšuje mě myšlenka, že <a href="/item/130">byste měli být nespokojení se svým kódem, který jste napsali před rokem</a>. Konkrétně chci psát o vazebních tabulkách <em>legacy</em> databází, které nejsou triviální, tj. neobsahují jen klíče ale i nějaká metadata.
 <!--more-->
 
 <div style="clear: both"></div>

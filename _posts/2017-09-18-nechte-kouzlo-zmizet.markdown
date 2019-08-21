@@ -4,11 +4,11 @@ title:  "Nechte kouzlo zmizet"
 date:   2017-09-18
 categories: [software development]
 disqusId: 193
-image: "https://openclipart.org/image/150px/svg_to_png/27526/secretlondon-Wizard-s-Hat.png"
+image: "/assets/2017-09-18/secretlondon-Wizard-s-Hat.png"
 tags: [překlad, Uncle Bob]
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/27526/wizards-hat"><img src="https://openclipart.org/image/150px/svg_to_png/27526/secretlondon-Wizard-s-Hat.png" /></a></div>
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-09-18/secretlondon-Wizard-s-Hat.png" /></div>
 
 [Robert C. Martin (Uncle Bob) svolil](https://twitter.com/unclebobmartin/status/905899584056066048) k překladu svého článku [Make the Magic go away](https://8thlight.com/blog/uncle-bob/2015/08/06/let-the-magic-die.html) (z roku 2015).
 

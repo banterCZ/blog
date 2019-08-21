@@ -4,9 +4,9 @@ title:  "Hromadný apt-get install"
 date:   2013-12-02
 categories: [software development]
 disqusId: 144
+image: "/assets/2013-12-02/1345126450.png"
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart
-.org/detail/171762/terminal-by-lpr577-171762"><img src="https://openclipart.org/image/150px/svg_to_png/171762/1345126450.png" /></a></div>I s tím málo, co s <b>Linuxem</b> umím, si připadám efektivnější než s Windows. Pominu-li drobnosti jako to, že ve Windows scrollujete jen tam, kde je focus, tak nejdůležitější pro programátora je pochopitelně příkazová řádka. Bez Unixové si připadám, jako kdybych měl zlámané obě nohy. Dobře, existuje <a href="http://en.wikipedia.org/wiki/Cygwin">Cygwin</a>, ale to jsou jen berle, s těmi těžko budete skákat přes kaluže.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2013-12-02/1345126450.png" /></div>I s tím málo, co s <b>Linuxem</b> umím, si připadám efektivnější než s Windows. Pominu-li drobnosti jako to, že ve Windows scrollujete jen tam, kde je focus, tak nejdůležitější pro programátora je pochopitelně příkazová řádka. Bez Unixové si připadám, jako kdybych měl zlámané obě nohy. Dobře, existuje <a href="http://en.wikipedia.org/wiki/Cygwin">Cygwin</a>, ale to jsou jen berle, s těmi těžko budete skákat přes kaluže.
 
 <div style="clear: both"></div>
 S přibývajícími roky se obrušují hrany mých nekompromisních názorů: mám pochopení pro to, že je snazší spravovat síť s tisíci počítači, pokud máte jediný systém. Dal jsem Windows měsíc šanci a pak instaloval <b>Ubuntu</b> do virtuálu. Pokaždé doinstalovávám ty samé aplikace, tak jsem si poznačil skript. Třeba se vám bude taky hodit.

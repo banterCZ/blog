@@ -4,8 +4,9 @@ title:  "Co byste dělali, kdyby vypukla válka"
 date:   2014-03-18
 categories: [k zamyšlení]
 disqusId: 149
+image: "/assets/2014-03-18/molumen-Light-tank-T-26-1.png"
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/12500/light-tank-t-26-1931-by-molumen-12500"><img src="https://openclipart.org/image/150px/svg_to_png/12500/molumen_Light_tank_T-26_1.png" /></a></div>Luboš Louženský se na twitteru zeptal, zda by vaše práce měla ještě smysl, kdyby začala válka. Rozjela se kolem toho zajímavá diskuse, ale stočtyřicet znaků není ten správný formát. Přináším svoje shrnutí a dávám prostor v komentářích pod článkem.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2014-03-18/molumen-Light-tank-T-26-1.png" /></div>Luboš Louženský se na twitteru zeptal, zda by vaše práce měla ještě smysl, kdyby začala válka. Rozjela se kolem toho zajímavá diskuse, ale stočtyřicet znaků není ten správný formát. Přináším svoje shrnutí a dávám prostor v komentářích pod článkem.
 <!--more-->
 
 {% twitter https://twitter.com/Lubos/statuses/444405962628423680 %}

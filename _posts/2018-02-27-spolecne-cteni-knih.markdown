@@ -4,10 +4,10 @@ title:  "Společné čtení knih"
 date:   2018-02-27
 categories: [software development]
 disqusId: 199
-image: "https://openclipart.org/image/150px/svg_to_png/245570/Buecher-coloured.png"
+image: "/assets/2018-02-27/Buecher-coloured.png"
 tags: [kniha]
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/245570/bookes-coloured"><img src="https://openclipart.org/image/150px/svg_to_png/245570/Buecher-coloured.png" /></a></div>
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-02-27/Buecher-coloured.png" /></div>
 
 Na blogu [Think Fort](https://blog.think-forth.com/2016/01/21/technicky-dluh/) jsem kdysi narazil na *společném čtení knih*, ale teprve nedávno jsem se rozhoupal taky začít. Cílem aktivity je společně vybrat jednu knihu, kterou si každý doma sám přečte. Následně se sejdeme a o knize diskutujeme. Čteme zhruba 100 stran měsíčně, o kterých pak asi hodinu a půl diskutujeme.
 

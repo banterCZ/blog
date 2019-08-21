@@ -4,11 +4,11 @@ title:  "JPA a asynchronní logování"
 date:   2018-09-21
 categories: [software development]
 disqusId: 206
-image: "https://openclipart.org/image/150px/svg_to_png/94723/db.png"
+image: "/assets/2018-09-21/db.png"
 tags: [JPA]
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://openclipart.org/detail/94723/database-symbol-by-rg1024"><img src="https://openclipart.org/image/150px/svg_to_png/94723/db.png" /></a></div> JPA, metoda `toString()` a asynchronní logování dokázaly vykouzlit situaci, která nám dala chvilku zabrat.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-09-21/db.png" /></div> JPA, metoda `toString()` a asynchronní logování dokázaly vykouzlit situaci, která nám dala chvilku zabrat.
 
 [Nathaniel Schutta v knize Thinking Architecturally píše](https://www.goodreads.com/review/show/2430023537?book_show_action=false&from_review_page=1), že software je nevyzrálé odvětví. Vzpomněl si na [pád mostu I-35W na řece Mississippi z roku 2007](https://en.wikipedia.org/wiki/I-35W_Mississippi_River_bridge). Inženýři a studenti z celého světa tu tragédii zkoumali. Když úřad vydal o neštěstí zprávu, tak si ji přečetli. Pojďme zkoumat i naše přešlapy.
 

@@ -4,10 +4,10 @@ title:  "Volby"
 date:   2017-09-26
 categories: [k zamyšelní]
 disqusId: 194
-image: "https://openclipart.org/image/150px/svg_to_png/213627/ballot.png"
+image: "/assets/2017-09-26/ballot.png"
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://openclipart.org/detail/213627/ballot-vote"><img src="https://openclipart.org/image/150px/svg_to_png/213627/ballot.png" /></a></div>
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-09-26/ballot.png" /></div>
 
 Nad tímto příspěvkem přemýšlím snad po každých volbách, a protože se blíží další, pro nás důležité parlamentní volby, je čas ho konečně sepsat. Moje hlavní rozčarování neplyne z toho, koho lidi volí (i když to také), ale hlavně z toho, jak málo chodí k volbám. Jsou lidé, kteří se mi přímo chlubili, že k volbám nechodí a jsou na to hrdí. V [Toulkách českou minulostí (myslím, že díl 1105)](http://www.rozhlas.cz/toulky/vysila_praha/_zprava/1105-schuzka-pocatek-veku-stran--1684265) zaznělo:
 
