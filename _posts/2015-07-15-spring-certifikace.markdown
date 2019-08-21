@@ -6,7 +6,7 @@ categories: [software development]
 disqusId: 164
 tags: [Spring]
 ---
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="https://static.springsource.org/images/spring_green_on_white_160x90.png" /></div>Jak mám Spring rád a všude ho chválím, tak co se týče jejich certifikace, přijde mi, že to se svou nenažraností přehnali. Je normální, že programátorská zkouška stojí kolem 250 dolarů, ale podmiňovat to účastí na povinném, drahém kurzu, se mi zdá příliš. Naštěstí jedna z výhod práce v korporacích je, že na taková školení prostředky jsou. Sepsal jsem pár poznámek ze školení, které jsem absolvoval, i Spring certifikace, kterou jsem právě složil.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="https://docs.spring.io/images/spring_green_on_white_160x90.png" /></div>Jak mám Spring rád a všude ho chválím, tak co se týče jejich certifikace, přijde mi, že to se svou nenažraností přehnali. Je normální, že programátorská zkouška stojí kolem 250 dolarů, ale podmiňovat to účastí na povinném, drahém kurzu, se mi zdá příliš. Naštěstí jedna z výhod práce v korporacích je, že na taková školení prostředky jsou. Sepsal jsem pár poznámek ze školení, které jsem absolvoval, i Spring certifikace, kterou jsem právě složil.
 <!--more-->
 
 Školení
