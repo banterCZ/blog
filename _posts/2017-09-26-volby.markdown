@@ -2,7 +2,7 @@
 layout: post
 title:  "Volby"
 date:   2017-09-26
-categories: [k zamyšelní]
+categories: [k zamyšlení]
 disqusId: 194
 image: "/assets/2017-09-26/ballot.png"
 ---
