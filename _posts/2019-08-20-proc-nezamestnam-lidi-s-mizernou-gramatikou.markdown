@@ -31,7 +31,7 @@ Na první pohled se moje nulová tolerance ke gramatickým chybám může zdát 
  
 Špatně. Trvá-li někomu víc než 20 let zjistit, jak se [správně používá „svůj“](http://news.bbc.co.uk/2/hi/uk_news/150458.stm), tak to je učící křivka, se kterou se nehodlám smířit. Proto i na tak hyperkonkurenčním trhu nepřijmu programátora, který neumí psát. 
  
-Gramatika znamená víc než schopnost zapamatovat si středoškolskou látku. Zjistil jsem, že lidé, kteří dělají méně chyb v gramatickém testu, dělají méně chyb i při práci na něčem docela nesovisejícím se psaním, jako například rovnání do polic nebo lepení štítků.
+Gramatika znamená víc než schopnost zapamatovat si středoškolskou látku. Zjistil jsem, že lidé, kteří dělají méně chyb v gramatickém testu, dělají méně chyb i při práci na něčem docela nesouvisejícím se psaním, jako například rovnání do polic nebo lepení štítků.
 
 Stejně tak programátoři, kteří věnují pozornost psanému jazyku, mají rovněž tendenci věnovat víc pozornosti tomu, jak píší kód. Vidíte, v tom je podstata, kód je próza. Skvělí programátoři jsou víc než jen cvičené opice. Donald Knuth, standfordská programátorská legenda, říká, že jsou [„esejisté pracující s tradičními estetickými a literárními formami“](http://www.amazon.com/Selected-Computer-Science-Language-Information/dp/1881526917?ie=UTF8&tag=thstsst-20&linkCode=as2&camp=1789&creative=390957). Pointa je, že programování by mělo být snadno srozumitelné pro lidi, nikoliv jen pro počítače.
 
