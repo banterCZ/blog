@@ -37,6 +37,7 @@ Zažil jsem několik servisních firem, které se snažily o přerod do produkto
 
 ## Související
 
+- [Můj útěk z firemního krysího závodu](https://medium.com/wultra-blog/m%C5%AFj-%C3%BAt%C4%9Bk-z-firemn%C3%ADho-krys%C3%ADho-z%C3%A1vodu-599094dc3b19)
 - [What Should You Do with Your Crappy Little Services Business?](https://bothsidesofthetable.com/what-should-you-do-with-your-crappy-little-services-business-e8a911d63e44)
 - [Moving From Service Company to Product Startup](https://birch.co/post/13111353105/moving-from-service-company-to-product-startup)
 - [Product vs Services Startups: 6 Key Factors you Should Consider Before Making Up your Mind](https://nomorestartupmyths.com/product-based-vs-service-oriented-startups/)
