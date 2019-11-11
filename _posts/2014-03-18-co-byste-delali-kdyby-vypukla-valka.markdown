@@ -27,7 +27,7 @@ Počítám s naprostým výpadkem zemního plynu. Ohřev vody zajišťuje slunce
 Potraviny
 ------
 
-Už teď byste doma mohli mít potravinové zásoby na měsíc dopředu. Zahrádkařením nebudete nikdy úplně soběstační, ale brambory na loupačku plus další zelenina pro zpestření by vás mohly vytáhnout z nejhoršího. A těch pár stromů, co máte na zahradě, snad urodí nějaké ovoce.  
+Už teď byste doma mohli mít potravinové zásoby na měsíc dopředu. Zahrádkařením nebudete nikdy úplně soběstační, ale brambory na loupačku plus další zelenina pro zpestření by vás mohly vytáhnout z nejhoršího. A těch pár stromů, co máte na zahradě, snad urodí nějaké ovoce. Dnes už ovšem vím, že [podle Ondřeje Kopičky bych k uživení pěti lidí potřeboval půl hektaru](https://winepunk.cz/2018/07/12/potravinova-sobestacnost-v-cislech/), což rozhodně nemám. 
 
 Bezpečnost
 ------
