@@ -73,7 +73,7 @@ Přesto nás k sobě profesně nic nesvazuje. Nesdílíme žádnou etiku. Nesdí
 
 Tohle nemůže pokračovat. Pokud se sami nezformujeme jako profese, tak nás k tomu společnost přinutí a definuje to za nás. A to nebude dobré ani pro společnost ani pro nás. Musíme být první.
 
-Michael O. Church nedávno napsal <a href="https://michaelochurch.wordpress.com/2012/11/18/programmers-dont-need-a-union-we-need-a-profession/">silný článek</a> popisující, jak by taková profese měla vypadat a proč je to důležité. Naléhám na vás, abyste zvážili jeho slova.
+Michael O. Church nedávno napsal <a href="https://web.archive.org/web/20140702134659/http://michaelochurch.wordpress.com/2012/11/18/programmers-dont-need-a-union-we-need-a-profession/">silný článek</a> popisující, jak by taková profese měla vypadat a proč je to důležité. Naléhám na vás, abyste zvážili jeho slova.
 
 Tvrdí, že profese je založena na sdílených standardech dovedností a etiky. Což později vedlo k tomu, že jsem navrhl <em>Programátorskou přísahu.</em>
 
