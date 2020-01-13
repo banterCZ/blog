@@ -7,7 +7,7 @@ disqusId: 222
 image: "https://live.staticflickr.com/4143/35610380532_814447e372_q.jpg"
 ---
 
-<div style="float: left; margin: 0.5em 1em 1em 0em; text-align: center;"><a href="https://www.flickr.com/photos/fastcap/35610380532/"><img src="https://live.staticflickr.com/4143/35610380532_814447e372_m.jpg" /></a><br/>FlipBolt & Jig <a href="https://creativecommons.org/publicdomain/zero/1.0/">Public Domain 0</a></div>V minulém příspěvku [jsem si došel pro inspiraci k leteckému průmyslu](https://blog.zvestov.cz/software%20development/2019/12/09/zpetna-kompatibilita.html). Tentokrát se zastavím ve strojírenství, konkrétně u _přípravku_, ke kterému mě přivedl kolega [@mamuf](https://twitter.com/mamuf), za což mu tímto děkuji.
+<div style="float: left; margin: 0.5em 1em 1em 0em; text-align: center;"><a href="https://www.flickr.com/photos/fastcap/35610380532/"><img src="https://live.staticflickr.com/4143/35610380532_814447e372_m.jpg" /></a><br/>FastCap LLC <a href="https://creativecommons.org/publicdomain/zero/1.0/">Public Domain 0</a></div>V minulém příspěvku [jsem si došel pro inspiraci k leteckému průmyslu](https://blog.zvestov.cz/software%20development/2019/12/09/zpetna-kompatibilita.html). Tentokrát se zastavím ve strojírenství, konkrétně u _přípravku_, ke kterému mě přivedl kolega [@mamuf](https://twitter.com/mamuf), za což mu tímto děkuji.
 <div style="clear:both"></div>
 <!--more-->
 
