@@ -33,7 +33,7 @@ Suroviny
 Postup
 -------
 
-Hovězí maso omyjeme a nakrájíme na kostky o hraně zhruba 3cm. Přidáme nakrájenou mrkev, oloupané cibule (množství dle chuti) rozkrojené na polovinu. Dále oloupané stroužky česneku (množství rovněž dle chuti, každý česnek jinak píše). Osolíme, opepříme (nejlépe čerstvě mletým pepřem). Dochutíme tymiánem a bobkovým listem.
+Hovězí maso nakrájíme na kostky o hraně zhruba 3cm. Přidáme nakrájenou mrkev, oloupané cibule (množství dle chuti) rozkrojené na polovinu. Dále oloupané stroužky česneku (množství rovněž dle chuti, každý česnek jinak píše). Osolíme, opepříme (nejlépe čerstvě mletým pepřem). Dochutíme tymiánem a bobkovým listem.
 
 Celé zalijeme červeným vínem. Jarda doporučoval Merlot (i když ten je dost ovocný), ale výběr nechám na vás. Co se týče kvality, platí, že by 
 to mělo být takové víno, které budete k jídlu pít. Pokud stále tápete, sáhněte po nějakém základním vínu [Habánských sklepů](http://www
