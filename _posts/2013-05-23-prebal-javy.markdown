@@ -60,3 +60,7 @@ Anketa
 
 <script type="text/javascript" charset="utf-8" src="https://static.polldaddy.com/p/7125237.js"></script>
 <noscript><a href="http://polldaddy.com/poll/7125237/">Můj vztah k Javě</a></noscript>
+
+### Související
+
+* [25 Things We Love About Java](https://blog.jetbrains.com/idea/2020/05/25-things-we-love-about-java/)
