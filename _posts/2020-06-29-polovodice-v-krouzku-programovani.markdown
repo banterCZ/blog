@@ -36,7 +36,7 @@ Ukázka je velmi snadná. Zapojení žárovky nezáleží na orientaci dílu, za
 
 ![](/assets/2020-06-29/dioda_zapojeni.jpg)
 
-Když jsem fotografie kroužku sdílel v komunitě lektorů, dostalo se mi připomínek, jak to, že je dioda zapojená na přímo na 3&nbsp;V. Vlastně mě to ani nenapadlo, tak nějak jsem automaticky čekal, že rezistor je součástí. A taky že ano, viz snímek z rozborky. A co teď didakticky s tím? Jak jsem uvedl v úvodu, nejsme kroužek elektrotechniky, tak mě to netrápí. Díl by asi mohl obsahovat schématickou značku diody i rezistoru, ale pro přehlednost asi vynechali. Možná by to bylo i matoucí. Myslím si, že ideální řešením by byla schématická značka podle skutečného zapojení a součástka viditelná i bez rozebírání.
+Když jsem fotografie kroužku sdílel v komunitě lektorů, dostalo se mi připomínek, jak to, že je dioda zapojená na přímo na 3&nbsp;V. Vlastně mě to ani nenapadlo, tak nějak jsem automaticky čekal, že rezistor je součástí. A taky že ano, viz snímek z rozborky. A co teď didakticky s tím? Jak jsem uvedl v úvodu, nejsme kroužek elektrotechniky, tak mě to netrápí. Díl by asi mohl obsahovat schématickou značku diody i rezistoru, ale pro přehlednost asi vynechali. Možná by to bylo i matoucí. Myslím si, že ideálním řešením by byla schématická značka podle skutečného zapojení a součástka viditelná i bez rozebírání.
 
 ![](/assets/2020-06-29/dioda_vnitrek.jpg)
 
@@ -66,7 +66,7 @@ Vyobrazené zapojení využívá tranzistor NPN. PNP by se spínal záporným na
 
 ## Relé
 
-Tady jsem trochu cestoval v prostoru a čase. Relé není polovodič a přecházelo tranzistorům. Na hodině jsem nezvládl ukázat, jelikož vypukla krize s virem Covid-19. Hledal jsem součástku, kde by bylo vidět do střev. Na AliExpressu jsem [nenašel nic lepšího než tohle](https://www.aliexpress.com/item/33031804721.html?spm=a2g0s.9042311.0.0.6b014c4donGmjP). Potíž je, že vyžaduje napětí 12&nbsp;V, což je víc než s čím běžně pracuje Boffin. Aby si člověk přibalil trafo.
+Tady jsem trochu cestoval v prostoru a čase. Relé není polovodič a předcházelo tranzistorům. Na hodině jsem nezvládl ukázat, jelikož vypukla krize s virem Covid-19. Hledal jsem součástku, kde by bylo vidět do střev. Na AliExpressu jsem [nenašel nic lepšího než tohle](https://www.aliexpress.com/item/33031804721.html?spm=a2g0s.9042311.0.0.6b014c4donGmjP). Potíž je, že vyžaduje napětí 12&nbsp;V, což je víc než s čím běžně pracuje Boffin. Aby si člověk přibalil trafo.
 
 ![](/assets/2020-06-29/rele.jpg)
 
