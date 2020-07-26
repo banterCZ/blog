@@ -60,7 +60,7 @@ _Zdroj: Hradla, volty, jednočipy (Martin Malý)_
 
 ![](/assets/2020-06-29/tranzistor.jpg)
 
-Pozor! Pokyn pro vyučující: Mluvíme tu o malém proudu, což je zajištěno právě odporem prstu. Připojíte-li emitor na přímo, poteče proud převážně touto větví, jelikož LED má předřazený rezistor. Vytvořili byste tak spojení na krátko a hrozilo by, že součástku nenávratně poškodíte.
+Pozor! Pokyn pro vyučující: Mluvíme tu o malém proudu, což je zajištěno právě odporem prstu. Připojíte-li bázi na přímo, poteče proud převážně touto větví, jelikož LED má předřazený rezistor. Vytvořili byste tak spojení na krátko a hrozilo by, že součástku nenávratně poškodíte.
 
 Vyobrazené zapojení využívá tranzistor NPN. PNP by se spínal záporným napětím. Podrobnosti jsou nad rámec tohoto článku a doporučuji případně nahlédnout do odkazované literatury.
 
