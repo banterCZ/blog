@@ -21,7 +21,7 @@ Když jsem si uvědomil mezery ve svých znalostech, jak přistupovat ke kompati
 
 ## Letectví
 
-Na jOpenSpace 2019 František Řezáč ve své přednášce [Mosty, katastrofy a bytecode](https://youtu.be/-3BCl8DTd0U) tvrdil, že je v pořádku inspirovat se z jiných oborů, ale že používání příměrů je zrádné. Mnohokrát jsem pro srovnání utekl ke stavebnictví či k armádě, takže tentokrát sáhnu jinam a to k letectví.
+Na jOpenSpace 2018 František Řezáč ve své přednášce [Mosty, katastrofy a bytecode](https://youtu.be/-3BCl8DTd0U) tvrdil, že je v pořádku inspirovat se z jiných oborů, ale že používání příměrů je zrádné. Mnohokrát jsem pro srovnání utekl ke stavebnictví či k armádě, takže tentokrát sáhnu jinam a to k letectví.
 
 Letectví se ze svých chyb poučilo, za každým bezpečnostním předpisem, i když se vám zdá nesmyslný, hledejte nehodu či dokonce ztrátu lidských životů. Přemýšleli jste někdy, proč po vás chtějí palubní průvodčí, abyste při vzletu nebo při přistání vytáhli sluneční clonu nahoru? Jde o to, aby při případné havárii měli rozhled a dokázali správně evakuovat letadlo. Napadá vás, proč nefunkční palubní rozhlas je důvodem k nepovolení vzletu? Byla jednou jedna nehoda, kterou rozhlas sice nezpůsobil, ale kdyby býval fungoval, mohlo třeba zemřít méně lidí.
 
