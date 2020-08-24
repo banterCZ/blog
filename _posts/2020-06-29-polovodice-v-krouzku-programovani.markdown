@@ -16,7 +16,8 @@ V kroužku programování se snažím prvních deset minut věnovat nějaké akt
 
 ## Teorie
 
-Jedním z hledisek, podle kterých můžeme na látky pohlížet, je rozdělení na vodiče, nevodiče (izolanty) a polovodiče. Vodičem je například kov, jelikož obsahuje volné elektrony, které vedou elektrický proud. Nevodič je například plast. Děti položily zajímavou otázku, jak je to s vodou (bez přidané soly a volných iontů je to mizerní vodič, ale s napětím ze zásuvky už je to nebezpečné). A pak jsou tu ony polovodiče, které vedou elektrický proud jen někdy, za určitých podmínek. Jedná se například o křemík.
+Jedním z hledisek, podle kterých můžeme na látky pohlížet, je rozdělení na vodiče, nevodiče (izolanty) a polovodiče. Vodičem je například kov
+, jelikož obsahuje volné elektrony, které vedou elektrický proud. Nevodič je například plast. Děti položily zajímavou otázku, jak je to s vodou (bez přidané soli a volných iontů je to mizerný vodič, ale s napětím ze zásuvky už je to nebezpečné). A pak jsou tu ony polovodiče, které vedou elektrický proud jen někdy, za určitých podmínek. Jedná se například o křemík.
 
 P-N přechod jsem si nechal pro sebe, nebylo cílem je zahltit či dokonce odradit. Opět připomínám, že se mi osvědčila [Usborne - Dětská encyklopedie vědy a techniky](https://www.goodreads.com/review/show/2805859856?book_show_action=false&from_review_page=1), ale můžete ukázat obrázky podle svého uvážení.
 
