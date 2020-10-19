@@ -68,7 +68,7 @@ Najdou se i seniorní vývojáři bez LinkedIn profilu. Nediskvalifikuje je to, 
 
 Jedna z mých prvních prací v IT byla právě pozice testera. Dlouho jsem se snažil začít rovnou jako programátor, ale to se mi nepovedlo. Potvrzuji, že šance na přestup byla teoreticky slíbená, ale prakticky nemožná. Ale hádám, že při změně firmy se mi v životopisu zkušenost testera hodila.
 
-Nejspíš se s Honzo neshodnu na tom, doporučovat začátečníkům pozice *automation engineer* v rámci DevOps nebo SRE. Pravda,  skripty jsou možná snazší, ale přijde mi, že je to složitější v tom, že takový člověk musí mít větší přehled než programátor. A nebo tím, že tomu méně rozumím, tak mám před těmito odděleními respekt.
+Nejspíš se s Honzou neshodnu na tom, doporučovat začátečníkům pozice *automation engineer* v rámci DevOps nebo SRE. Pravda,  skripty jsou možná snazší, ale přijde mi, že je to složitější v tom, že takový člověk musí mít větší přehled než programátor. A nebo tím, že tomu méně rozumím, tak mám před těmito odděleními respekt.
 
 ## Závěr
 
