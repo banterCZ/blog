@@ -53,9 +53,9 @@ Zpět k javě. Výchozím algoritmem pro `SecureRandom` je na Linuxu `NativePRNG
 
 Jedna **nezaručená spekulace**, o které se zmiňovali na fórech: algoritmus `SHA1PRNG` namapovaný na neblokující zdroj náhody by mohla být nejrychlejší varianta. Mně ovšem stačilo, že jsem se zbavil těch 90 vteřin.
 
-### havegen
+### haveged
 
-Ve Stack Overflow odpovědi zmiňují i démon [havegen](https://www.digitalocean.com/community/tutorials/how-to-setup-additional-entropy-for-cloud-servers-using-haveged). Pokud jsem to pochopil, tak funguje de facto úplně stejně jako `/dev/urandom`. Když má dostatek hardwarové entropie, tak generuje „zcela kvalitní náhodu“. Když nemá, tak generuje o něco „méně kvalitní náhodu“. Takže nedává smysl to používat, spolehnul bych se na `/dev/urandom`.
+Ve Stack Overflow odpovědi zmiňují i démon [haveged](https://www.digitalocean.com/community/tutorials/how-to-setup-additional-entropy-for-cloud-servers-using-haveged). Pokud jsem to pochopil, tak funguje de facto úplně stejně jako `/dev/urandom`. Když má dostatek hardwarové entropie, tak generuje „zcela kvalitní náhodu“. Když nemá, tak generuje o něco „méně kvalitní náhodu“. Takže nedává smysl to používat, spolehnul bych se na `/dev/urandom`.
 
 ## Závěr
 
