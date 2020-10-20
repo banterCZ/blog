@@ -49,7 +49,7 @@ A teď ta nejsložitější část podrobně popsaná v [Myths about /dev/urando
 
 Samozřejmě se nabízí otázka, proč jsou na Linuxu dvě možnosti. Opět vás odkážu na článek [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/). Blokující zdroj se doporučuje volat po startu stroje, kdy ještě není nasbíraná dostatečná entropie, a nebo když generujete nějaké SSL klíče, a nebo když se bojíte NSA. Pro běžné použití byste si měli vystačit s neblokujícím zdrojem.
 
-Zpět k javě. Výchozím algoritmem pro `SecureRandom` je na Linuxu `NativePRNG` namapovaný na blokující zdroj. Toto mapování lze JVM nastavením změnit. Případně lze algoritmus změnit na `NativePRNGNonBlocking`. Trochu se to komplikuje, pokud do toho budete míchat Windows stroje, kde takový algoritmus není.
+Zpět k javě. Výchozím algoritmem pro `SecureRandom` je na Linuxu `NativePRNG` namapovaný na blokující zdroj. Toto mapování lze v JVM změnit nastavením _system property_ `java.security.egd` ([Stack Overflow - What java.security.egd option is for?](https://stackoverflow.com/questions/58991966/what-java-security-egd-option-is-for/59097932#59097932)). Případně lze změnit algoritmus `SecureRandom` na `NativePRNGNonBlocking`, který ovlivní výběr zdroje, což byla v našem případě schůdnější varianta. Trochu se to komplikuje, pokud do toho budete míchat Windows stroje, kde takový algoritmus není.
 
 Jedna **nezaručená spekulace**, o které se zmiňovali na fórech: algoritmus `SHA1PRNG` namapovaný na neblokující zdroj náhody by mohla být nejrychlejší varianta. Mně ovšem stačilo, že jsem se zbavil těch 90 vteřin.
 
@@ -67,3 +67,4 @@ Generování hesel může trvat dlouhou (zejména na virtuální strojích), ale
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/)
 - [SecureRandom Implementations](https://docs.oracle.com/javase/8/docs/technotes/guides/security/SunProviders.html#SecureRandomImp)
 - [Stack Overflow - How to deal with a slow SecureRandom generator?](https://stackoverflow.com/questions/137212/how-to-deal-with-a-slow-securerandom-generator)
+- [Stack Overflow - What java.security.egd option is for?](https://stackoverflow.com/questions/58991966/what-java-security-egd-option-is-for/59097932#59097932)
