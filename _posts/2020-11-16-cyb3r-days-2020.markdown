@@ -1,0 +1,203 @@
+---
+layout: post
+title:  "Cyb3r Days 2020"
+date:   2020-11-16
+categories: [software development]
+disqusId: 231
+tags: [security, konference]
+image: "/assets/2020-11-16/1549143844.png"
+---
+<div style="float: left; margin: 0.5em 1em 0.5em 0em; text-align: center;"><img src="/assets/2020-11-16/1549143844.png" /></div>
+
+Jak jsem vnímal českou konferenci etického hackingu [Cyb3r Days 2020](https://www.cyb3r-days.com/) a co jsem si odnesl?
+
+Kecám do všeho možného, trochu i do bezpečnosti, viz třeba můj poslední příspěvek [pomalý SecureRandom](https://blog.zvestov.cz/software%20development/2020/10/19/pomaly-SecureRandom.html). Ne že bych bezpečnosti extra rozuměl, ale spíš mě její opomíjení znepokojuje. Takže jsem byl nominovaný, abych se zúčastnil. Samozřejmě mi bylo jasné, že opět trochu přiživím svoji paranoiu.
+
+<div style="clear:both"></div>
+<!--more-->
+
+## Organizace
+
+Za časů korony se konference konala pouze online. Vysílalo se přes youtube. Přednášky byly předtočené. Přijde mi to jako dobrý nápad, vyhnete se tak možným technickým problémům (alespoň některým). Záznam není (asi aby se neválel citlivý obsah volně na internetu).
+
+Diskuse probíhala přes [discord](https://discord.com/). Pro mě je to další kecálek v dnešní babylónské změti komunikátorů. Diskuse se mi líbily, byly přínosné. Lidé do přednášky nezasahovali a prostor na dotazy nebyl limitovaný. To lze určitě použít i na konferencích, kde jsou návštěvníci fyzicky přítomní. Díky tomu, že přednášky byly předtočené, tak na dotazy mohli přednášející reagovat okamžitě.
+
+{% twitter https://twitter.com/ondrakucera/status/1323595947092430849 %}
+
+Z pochopitelných důvodů nejsou přestávky na kafe, respektive byly vyplněné moderátory, a nechtěl jsem o doplňující informace přijít, ale mám tak velký dům, že jsem při obstarávání svačiny ztrácel bluetooth signál na sluchátkách.
+
+Součástí konference byla soutěž [capture the flag](https://en.wikipedia.org/wiki/Wargame_(hacking)). Osobně bych se nezvládl soustředit se na hru a zároveň konference. Nehledě na to, že nemám dostatečné schopnosti. Přesto by mě to lákalo si zkusit. Můžu dodatečně doma, jelikož šlo o volně dostupný [Pwning OWASP Juice Shop](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/).
+
+Večerní online party jsem ne nezúčastnil. Je mi to trochu líto, ale při současné epidemii, kdy celodenní starost o děti, které nejsou ve škole, padla na manželku, by mi to přišlo sobecké.
+
+## Přednášky
+
+###  Lidský firewall a fyzická ochrana perimetru (Daniel Hejda)
+
+Celkově pěkný projev, ale vzpomněl jsem si, jak [Jeanne Trojan](http://www.jeannetrojan.com/) brojila proti zbytečně dlouhému představení řečníka, pokud to není bezpodmínečně nutné. Všímal jsem si toho i u ostatních.
+
+Bezpečák je práce na plný úvazek. Nedostatečně se simuluje. Firmy by měly investovat alespoň procento svého obratu, nejlépe deset. Ransomware je jen otázkou času, se s tím smiř. Pracují jen reaktivní režimu jako hasiči.
+
+Kvůli incidentu hrozí poškození reputace. Logy mají mnohdy krátkou životnost. Vzpomněl jsem si na kauzu [Waymo versus Uber](https://www.vox.com/recode/2019/8/27/20835498/anthony-levandowski-uber-waymo-google-indictment-self-driving-cars), tam měl Google očividně dobře nastavené logy.
+ 
+Zmiňoval sociální inženýrství, ale Mitnickovo [Umění klamu](https://www.goodreads.com/book/show/18160.The_Art_of_Deception) už je asi příliš profláklá klasika nebo možná neaktuální, ale já bych ji asi se sociálním inženýrství vždycky spojil.
+
+Kdysi jsem se divil, proč nás při auditu prudili, že máme v přízemí nedostatečně zakrytá okna, ale v době dronů je to očividně nebezpečí i ve vyšší patrech. 
+
+Hrozné je, jak dnešní hackerské nástroje už mají vymakané UI, normálně jako jakákoliv legální služba. to už není pro nějaký geeky, to je opravdu pro každého. Asi i proto, aby šlo snadněji zpeněžit. Kdo ví. Tady třeba nástroj na [odhalení struktury e-mailových adres](https://hunter.io/) v organizaci.
+
+Připomenutí že [tor už není úplně bezpečný](https://www.wired.com/2007/11/swedish-researc/).
+
+Správný člen Red Teamu musí umět vše a být elektrikář, zámečník, radioamatér, ajťák a securiťák. Já si třeba už loni pořídil na hraní [Lock Pick Training Set](https://piloww2breaad.com/products/lock-pick-set-with-transparent-lock).
+
+Cílem přednášky nejspíš bylo vyděsit a přesvědčit, že máte víc investovat do bezpečnosti, cehož podle mě bylo dosaženo.
+
+### Email: How do you want to be cheated today? (Boris Mutina)
+
+Denně je na světě odesláno 300 miliard e-mailů. „Zlý“ objem převyšuje ten „dobrý“. Přednáška přinesla podrobný přehled kategorií, co všechno zlé vám může ve schránce přistát.
+
+### Skenování portů nástrojem Nmap (Petr Juhaňák)
+
+Chtělo by to spíš nějaké cvičení, takhle to jde jedním uchem tam a druhým ven. Něco jsem si během přednášky zkusil. Mimo jiné jsem netušil, že stiskem mezerníku se vám ukáže zbývající čas skenu (ETC).
+
+### Dopady požadavků informační a kybernetické bezpečnosti a ochrany osobních údajů do strategického řízení společnosti (Jindřich Kalíšek)
+
+Za mě možná nejlepší přednáška celé konference a povinné školení pro management. Pan Kalíšek je advokát, proto by mohl působit jako z jiného světa, ale právě tím to bylo zajímavé. Nejsem právník, takže se předem omlouvám, jestli jsem něco pomotal a ztratil v překladu.
+
+62 % podniků zažilo v roce 2018 útoky na bázi phishingu a sociálního inženýrství. Čí je to vina?
+
+![](/assets/2020-11-16/5807421_keep_calm_its_always_your_fault.png)
+
+Omyly C-Level managementu:
+
+- Nejsme na IS závislí.
+- Nemáme žádnou povinnost se tím zabývat.
+- Překvapení, že lidé nepostupují podle řídících dokumentů.
+- Bezpečnostní oddělení se nechá dělat bezpečnostní opatření. Nemůžou přeci sami sebe kontrolovat.
+
+C-Management je pro společnost nebezpečnější než řadový zaměstnanec.
+
+Statutární orgán má zákonnou povinnost i když tomu nerozumí. BOZP taky firmy nechávají dělat třetí strany.
+
+Citace z [ISO/IEC 27001:2013](https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-2:v1:en) (ponechám stranou že ISO normy nejsou zdarma k dispozici).
+
+> Users are responsible for its correct application. Compliance with an International Standard does not in itself confer immunity from legal obligations.
+
+
+Za české právo alespoň [§ 52 odst. 1 zákona č. 90/2012 Sb. o obchodních korporacích](https://www.zakonyprolidi.cz/cs/2012-90#p52-1)
+
+> Při posouzení, zda člen orgánu jednal s péčí řádného hospodáře, se vždy přihlédne k péči, kterou by v obdobné situaci vynaložila jiná rozumně pečlivá osoba, byla-li by v postavení člena obdobného orgánu obchodní korporace.
+
+Nařízení [Zákona č. 181/2014 Sb. Zákon o kybernetické bezpečnosti](https://www.zakonyprolidi.cz/cs/2014-181) by šlo analogicky uplatňovat i na ty, co nejsou přímo dotčeni.
+
+Národní úřad pro kybernetickou a informační bezpečnost (NÚKIB) má na svém webu [podpůrné materiály](https://nukib.cz/cs/infoservis/dokumenty-a-publikace/podpurne-materialy/). Například [Minimální bezpečnostní standard v 1.0](https://nukib.cz/download/publikace/podpurne_materialy/2020-07-17_Minimalni-bezpecnostni-standard_v1.0.pdf). Nemají ovšem charakter zákona. Dle opakovaných vyjádření NÚKIBu (pan Kučínský) NÚKIB nehodlá kontrolovat nic, co není v zákoně a vyhlášce.
+
+Někdo z návštěvníků doporučoval ještě [National Institute of Standards and Technology (NIST) Manufacturers Guide to Cybersecurity for Small and Medium-Sized Manufacturers](https://www.nist.gov/system/files/documents/2019/11/14/mepnn_cybersecurity_guide_10919-508.pdf), což mi přišlo až příliš stručné.
+
+Byť to možná nebylo tak přímo řečeno, vycítil jsem mezi řádky zajímavou spekulaci, že útok, jako byl tento, lze naplánovat ne jako teroristicky motivovaný, ale využít ho při obchodování na burze. [Saudi stock market dives, crude futures to jump after drone attack on oil plants](https://www.cnbc.com/2019/09/15/saudi-stock-market-dives-crude-to-jump-after-attack-on-oil-plants.html).
+
+### Penetrační testy a Bug Bounty program (Jindřich Šlisík)
+
+Kvalitní penetrační test stojí 10 až 30 tisíc dolarů. Tak si dokážete představit, co dostanete za 100 tisíc korun. Důležité si uvědomit, že penetrační test se dělá v nějakém konkrétním čase. Bug Bounty program běží stále.
+
+Podívejme se na [hackerone stránku o Basecampu](https://hackerone.com/basecamp?type=team) pro představu, jaké zranitelnosti byly hlášeny a jaká odměna za ně byla vyplacena.
+
+### Red Teaming SQL Server (Marek Chmel)
+
+Tématika SQL Server a jeho správy jde úplně mimo mě, takže bez komentáře.
+
+### Autentizační metody odolné phishingu (Michael Grafnetter)
+
+Propaguje čipové karty, ale je si vědom omezené podpory na mobilních telefonech.
+
+Jedna z přednášek, která mě přivedla k inventuře mých prostředků. Od [CZ.NIC](www.nic.cz) a jejich [MojeID](www.mojeid.cz) jsem dostal [zdarma FIDO token](https://www.root.cz/zpravicky/cz-nic-spousti-projekt-napojeni-sluzby-mojeid-na-nia/) pro přihlášení do Národního bodu pro identifikaci a autentizaci (NIA). Tak nic není zdarma. Budu používat pro přihlášení do státní správy MojeID, takže si mě „koupili“. Přijde mi to jako fér obchod. Tak jsem alespoň zkusil využít token, kde se dalo. Funguje pro gmail, twitter, facebook, github a bitbucket. Neumí amazon a linkedin (kde si navíc můžete nastavit bohužel pouze jediný 2FA prostředek). Plus jsem požádal helpdesk o nastavení podpory FIDO2 ve firemní ADD.
+
+FIDO2 lze [použít i pro ssh](https://www.stavros.io/posts/u2f-fido2-with-ssh/).
+
+Od Android 7 (API 24) je k dispozici [FIDO2 API for Android](https://developers.google.com/identity/fido/android/native-apps). Všechny mobily krypto procesor nemají, ale momentálně už google certifikuje sílu biometrického zabezpečení a pouze zařízení s nálepkou _strong_ můžou vystavovat biometrické API (případně FIDO2 API) pro aplikace, viz [Measuring Biometric Unlock Security](https://source.android.com/security/biometric/measure).
+
+Na [webauthn.io](https://webauthn.io/) najdete demo a knihovny k _Web Authentication_.
+
+Poznamenal jsem si i [Initial OpenID Connect Enhanced Authentication Profile (EAP) Specifications](https://openid.net/2016/08/05/initial-openid-connect-enhanced-authentication-profile-eap-specifications/)
+
+### Keynote (Paula Januszkiewicz)
+
+Anglická keynote druhého dne. Jak si obecně všímám řečníků a hledám inspiraci, tak musím říct, že Paula Januszkiewicz je profík! Pěkný obraz, světlo i zvuk! Hrnek a počítač s logem firmy nenásilně rámuje přednášku a podprahově dělá reklamu.
+
+Keynote nemá prezentaci, což není nic neobvyklého, ale bylo složité sledovat čísla (v rozhlasu vědí, že to je problém a snaží se čísla používat co nejméně).
+
+Vzhledem k epidemii a vyšší míry práce z domova, lidé používají pro práci soukromá zařízení, které mají mnohdy děti na hraní.
+
+Nepochopil jsem, jestli hackeři nebo uživatelé nečistí automatic destinations (naposledy otevřené), ale využít jde určitě na obě strany. Zdůraznila, jak je důležité umět udělat memory dump.
+
+### Adventures in Underland: Hacker Tricks to Stay Under the Radar and Their Countermeasures (Paula Januszkiewicz)
+
+Navazuje na svou keynote a o memory dumpu mluví ve své přednášce. Nezvládal jsem pozorovat a zároveň si dělat poznámky.
+
+Za celou konferenci už několikáté varování, že v případě útoku je klíčové nevypínat počítač.
+
+![](/assets/2020-11-16/hacked-poster1.jpg)
+
+Zdroj: [What you actually need to do if you’re hacked](https://blog.f-secure.com/what-you-actually-need-to-do-if-youre-hacked/)
+
+Ukazuje možnosti forenzní analýzy. Například obnovení smazaných **malých** souborů a to i v případě, že jsou přepsané random daty.
+
+Celé to působí jako reklama typu: tohle je tak složité, že to bez nás nezvládnete. Je pravdou, že podobné znalosti musíte stovky a tisíce hodin trénovat. Nakonec si je rádi zavoláte a zaplatíte. Já určitě ano.
+
+Je dobré mít povědomí o tom, že něco takového existuje. Můžete si pouštět tooly, ale pokud tomu pořádně nerozumíte, tak je otázka, jestli některé důkazy nezničíte nebo zda by vám je uznali u soudu.
+
+### Testování bezpečnosti v době cloudu (Marek Šottlt)
+
+Líbilo se mi uchopení prezentace jako komiks. Potřeba uvědomit si limity, co se v cloud v rámci penetračních testů může a co ne.
+
+Lidé stále commitují hesla a tokeny. Existují nástroje jako [truffleHog](https://github.com/dxa4481/truffleHog), co prohledávají repositáře. Vhodné nastavit si _git precommit hook_ [gitleak](https://github.com/zricethezav/gitleaks)
+
+Ukazoval [AWS exploitation framework Pacu](https://github.com/RhinoSecurityLabs/pacu).
+
+### Včasná reakce a vyšetření incidentu v Microsoft Threat Protection (Jan Pilař)
+
+Nejvíc mě šokovalo, že podle IBM v roce 2019 trvá identifikovat průnik průměrně 206 dní.
+
+### Trendy DDoS útoků v roce 2020 (Nicol Daňková)
+
+Vůbec jsem během roku nezaznamenal [přestřelku Turecko/Řecko, která vyřadila i linku 112](https://neoskosmos.com/en/156536/cyber-wars-between-greece-and-turkey-after-turkish-hackers-claim-responsibility-for-attacks-on-greek-government-sites/).
+
+V únoru proběhl [největší doposud viděný DDoS útok na AWS o síle 2,3 Tbps](https://www.tripwire.com/state-of-security/security-data-protection/amazon-web-services-mitigated-a-2-3-tbps-ddos-attack).
+
+V březnu [útok na 44 pařížských nemocnic](https://vpnoverview.com/news/parisian-hospitals-hit-by-ddos-attack/).
+
+Samozřejmě Bělorusko, volební komise a nefunkční sociální sítě.
+
+Platí doporučení neplatit výkupné, podpoříte tím rozvoj skupin a riskujete, že se k vám vrátí jako k dobrým zákazníkům.
+
+Hodně se útočí přes DNS, ale zaujalo mě, že protokol NTP umožňuje zesílení (Amplification ratio) přes 550.
+
+### Webhacking, XSS, password managery a na čem trénovat (Roman Kümmel)
+
+Útok XXS je hodně známý, ale podceňovaný. Snadno vede k únosu ID tokenu. Používejte manažery hesel, ale dávejte pozor, nezapínejte automatické vyplňovaní. To tedy zapnuté nemám, ale ukazovaný útok s podvrženou změnou atributu _action_ u formuláře bych asi nepoznal. Bylo dobré vidět, ale řešilo by nastavení [Content Security Policy form-action](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/form-action) respektive [script-src](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/script-src). Jenže nastavení by muselo být správné (to se prý ne často vidí) a není to podporované ve všech prohlížečích.
+
+Hodně [proti CSRF: Cross-Site Request Forgery v nových prohlížečích pomůže Same-site cookies](https://www.root.cz/clanky/bezpecnostni-novinky-v-prohlizecich-ochrana-csrf-a-duveryhodna-metadata/).
+
+Nejen XSS můžete zdarma trénovat na serveru [PenterepMail](https://www.penterep.com/penterepmail).
+
+### Obcházení bezpečnostních funkcí Windows (Jan Marek)
+
+Z ukázky, jak prezentaci nedělat, byly nekonečné animované gify.
+
+K samotnému tématu, omezte viditelnost serverů mezi sebou, ať se útočník nemůže snadno pohybovat po síti.
+
+Ukazoval powershell kouzla, ale už jsem měl hlavu jako pátrací balón a nezvládal jsem plně vnímat.
+
+## Knihy a další zdroje
+
+Znovu připomenu [Pwning OWASP Juice Shop](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/). Dále Cyber Rangers Podcast na [spotify](https://open.spotify.com/show/6yDalL9IdMSqR1YBc3Wht0) či [apple](https://podcasts.apple.com/cz/podcast/cyber-rangers-podcast/id1513746938).
+
+Z knih doporučovali:
+
+- [Red Team Field Manual (RTFM) (Ben Clark)](https://www.goodreads.com/book/show/21419959-red-team-field-manual?ac=1&from_search=true&qid=ZoA141DJyR&rank=1)
+- [Blue Team Field Manual (BTFM) (Alan J. White, Ben Clark)](https://www.goodreads.com/book/show/33941100-blue-team-field-manual)
+- [The Hacker Playbook: Practical Guide To Penetration Testing (Peter Kim)](https://www.goodreads.com/book/show/21846565-the-hacker-playbook)
+
+## Závěr
+
+Konference byla povedená a to i v online režimu. Cena vstupného mi přijde přiměřená. Že zapracuje moje paranoia, s tím jsem počítal. Pořád platí, že stojíte-li někomu za cílený útok, máte malou šanci se ubránit. Ale proč nechávat klíč pod rohožkou, že? Podobné seance mě vždycky inspirují, že udělám malou revizi svých účtů. Nemám ambice být členem Red nebo Blue týmu, ale důležité mít povědomí o tom, co všechno je možné.
