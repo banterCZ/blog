@@ -4,6 +4,7 @@ title:  "Přetáčení tachometrů"
 date:   2015-07-30
 categories: [obecné]
 disqusId: 165
+tags: [auto]
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="https://www.flickr.com/photos/anitagould/98690837"><img src="https://farm1.staticflickr.com/43/98690837_3fe8220454_m.jpg" /></a><br/><a href="https://www.flickr.com/photos/anitagould/98690837">Anita363</a> (<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</div>Je veřejným tajemstvím, že se v Česku stáčejí tachometry. Někdo chytřejší kdysi řekl: "Nebojte se svých nepřátel, ale lhostejných, kteří svým nezájmem zapříčinili veškeré zlo." Nebuďme tedy lhostejní a něco s tím udělejme. Přináším svoji zkušenost, jak možné přetočení zjistit a co s tím udělat. Snad se vám podaří dotáhnout to dál a přispět ke zlepšení situace.
 
