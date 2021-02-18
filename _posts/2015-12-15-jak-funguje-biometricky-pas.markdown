@@ -4,6 +4,7 @@ title:  "Jak funguje biometrický pas"
 date:   2015-12-15
 categories: [software development]
 disqusId: 170
+tags: [státní správa]
 ---
 <img src="/assets/2015-12-15/20151215-passport.PNG" style="float: left; margin: 0 1em 1em 0; text-align: center;" />Psát CRUD aplikace zvládne
  cvičená opice, nejzajímavější a nejobtížnější bývá naučit se danou doménu. Tentokrát se pokusím přiblížit, jak funguje <a href="https://en.wikipedia.org/wiki/Biometric_passport">biometrický pas</a> a proč si vaše otisky nemůže přečíst nikdo neoprávněný. Ve srovnání s <a href="http://www.csfd.cz/film/230238-dablova-dilna/prehled/">filmem Ďáblova dílna</a> (případně stejnojmennou <a href="https://www.goodreads.com/book/show/17456731-blova-d-lna">knihou</a>),  i když tam šlo <em>jen</em> o bankovky, se způsoby, jak zabránit padělání, posunuly díky elektrickým dokumentům dál.
