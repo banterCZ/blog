@@ -78,4 +78,4 @@ Důsledně rozlišujte a oddělujte API a SPI. Včas uzavřete pro změny a najd
 - [APIvsSPI](http://wiki.apidesign.org/wiki/APIvsSPI)
 - [DefaultMethods](http://wiki.apidesign.org/wiki/DefaultMethods)
 - [Spring events and transactions — be cautious!](https://blog.pragmatists.com/spring-events-and-transactions-be-cautious-bdb64cb49a95)
-
+- [Modularita 1: Ekonomie](https://calavera.info/v3/blog/2017/02/26/modularita-1.html)
