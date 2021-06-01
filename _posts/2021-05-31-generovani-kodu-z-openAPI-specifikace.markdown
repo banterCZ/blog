@@ -9,7 +9,7 @@ image: "/assets/2021-05-31/server-client.png"
 
 <div style="float: left; margin: 0.5em 1em 0.5em 0em; text-align: center;"><img src="/assets/2021-05-31/server-client.png" /></div>
 
-Minule jsem se věnoval [Úskalí API](https://blog.zvestov.cz/software%20development/2021/04/28/uskali-API.html) se zaměřením na binární kompatibilitu a tvorbu rozšíření. API se přidržme, tenkrát jakožto rozhraní mezi komponentami v podobě webových služeb. Budeme mluvit o RESTu, OpenAPI specifikaci, proč nejdřív popisovat API a proč a jak generovat kód (s přiloženým příkladem).
+Minule jsem se věnoval [Úskalí API](https://blog.zvestov.cz/software%20development/2021/04/28/uskali-API.html) se zaměřením na binární kompatibilitu a tvorbu rozšíření. API se přidržme, tentokrát jakožto rozhraní mezi komponentami v podobě webových služeb. Budeme mluvit o RESTu, OpenAPI specifikaci, proč nejdřív popisovat API a proč a jak generovat kód (s přiloženým příkladem).
 
 <div style="clear:both"></div>
 <!--more-->
