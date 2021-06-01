@@ -120,4 +120,4 @@ Celý [příklad najdete na githubu](https://github.com/banterCZ/blog-example-op
 
 ## Závěr
 
-Zastávám přístup _API fist_. Kód doporučuji generovat (ale neverzovat v gitu). Nástroje pro to jsou, ale člověk se trochu natrápí. Výsledný artefakt je k publikování do maven repozitáře a použití jako závislost.
+Zastávám přístup _API first_. Kód doporučuji generovat (ale neverzovat v gitu). Nástroje pro to jsou, ale člověk se trochu natrápí. Výsledný artefakt je k publikování do maven repozitáře a použití jako závislost.
