@@ -60,7 +60,7 @@ Vypíchl by to, že česká eIdentita využívá nepřímý model identifikace, 
 
 ## eIDAS
 
-Filip Bílek (MVČR) hovořil o tom, že v Česku je v současné době 3,73 milionu aktivních prostředků. Je s tím spokojen. Já tedy moc ne, přijde mi to pořád málo. Chystá se revize [nařízení Evropské unie eIDAS](https://cs.wikipedia.org/wiki/EIDAS). To mám tedy trochu v mlze. Ale údajně se během covidu ukázala slabá místa, na která by to snad mohlo reagovat. Řeč byla i o digitální peněžence, ne tedy na peníze, ale na atributy. Že byste v hospodě mohli prokazovat svůj věk. Budiž, ale nijak revoluční mi to nepřijde.
+Filip Bílek (MVČR) hovořil o tom, že v Česku je v současné době 3,73 milionu aktivních prostředků. Je s tím spokojen. Já tedy moc ne, přijde mi to pořád málo. Chystá se revize [nařízení Evropské unie eIDAS](https://cs.wikipedia.org/wiki/EIDAS). To mám tedy trochu v mlze. Ale údajně se během covidu ukázala slabá místa, na která by to snad mohlo reagovat. Řeč byla i o digitální peněžence, ne tedy na peníze, ale na atributy. Že byste v hospodě mohli prokazovat svůj věk. Budiž, ale nijak revoluční mi to nepřijde. [Komise navrhuje důvěryhodnou a zabezpečenou digitální identitu pro všechny Evropany](https://ec.europa.eu/commission/presscorner/detail/cs/ip_21_2663).
 
 ## iD Brána
 
