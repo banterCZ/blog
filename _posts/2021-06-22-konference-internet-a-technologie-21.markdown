@@ -18,7 +18,7 @@ image: "/assets/2021-06-22/289283.png"
 
 ## mojeID
 
-Jak ten čas letí. Služba [mojeID](https://www.mojeid.cz) pro správu internetové identity a možností přihlášení, je tu s námi již od roku 2010. Účet jsem si tam zřizoval dávno (už nedohledám kdy), ale nebyla pro mě moc zajímavá. Pro registraci a přihlášení do různých služeb jsem používal převážně svůj google účet. Což se výrazně změnilo s [eIdentitou](https://www.eidentita.cz), protože mojeID poskytuje prostředky pro elektronickou identifikaci s úrovní záruky „vysoká“.
+Jak ten čas letí. Služba [mojeID](https://www.mojeid.cz) pro správu internetové identity a možností přihlášení, je tu s námi již od roku 2010. Účet jsem si tam zřizoval dávno (už nedohledám kdy), ale nebyla pro mě moc zajímavá. Pro registraci a přihlášení do různých služeb jsem používal převážně svůj google účet. Což se výrazně změnilo s [eIdentitou](https://www.eidentita.cz), protože mojeID poskytuje prostředky pro elektronickou identifikaci s úrovní záruky „značná“.
 
 O FIDO hardwarové klíči už jsem psal v [Cyb3r Days 2020](https://blog.zvestov.cz/software%20development/2020/11/16/cyb3r-days-2020.html#autentizační-metody-odolné-phishingu-michael-grafnetter). MojeID rozdávali hardwarové tokeny „zdarma“. Už jich je 25 tisíc aktivovaných, 5 tisíc zatím stále ne. V podmínkách bylo, že je aktivovat musíte, ale zatím to nevypadá, že by je po vás chtěli vracet.
 
