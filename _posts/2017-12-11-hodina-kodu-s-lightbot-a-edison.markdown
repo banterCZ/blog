@@ -26,7 +26,7 @@ Nabídl jsem se, že s akcí pomůžu. Nemáte-li nápad, co zvolit, můžete se
 
 Někteří z vás si možná vzpomenou na [programovací jazyk Karel](http://wiki.ceskaskola.cz/Home/vybrane-clanky-z-let-2001-2009/ict/dobry-karel-jeste-zije). [LightBot](http://lightbot.com/) je graficky hezčí a o něco mocnější nástroj. Existuje aplikace **zdarma** pro iOS, Android i Kindle Fire a flash právě pro akci Hour of Code (procedury a rekurze). Můžete si zakoupit i rozšířenou variantu o cykly a podmínky.
 
-Kdybyste náhodou chtěli ohrnovat nos nad tím, že tam nejsou písmenka, tak doporučuji k shlédnutí jak Dan Garcia, profesor na Berkeley, vysvětluje, [proč přešli při výuce algoritmizace k vizuálnímu „kostkovému“ jazyku](https://www.youtube.com/watch?v=_Mwc1gc77dc). Vypíchl bych, že studenti nedělají syntaktické chyby (chybějící závorka či středník) a neřeší obskurní chybové hlášky.
+Kdybyste náhodou chtěli ohrnovat nos nad tím, že tam nejsou písmenka, tak doporučuji k zhlédnutí jak Dan Garcia, profesor na Berkeley, vysvětluje, [proč přešli při výuce algoritmizace k vizuálnímu „kostkovému“ jazyku](https://www.youtube.com/watch?v=_Mwc1gc77dc). Vypíchl bych, že studenti nedělají syntaktické chyby (chybějící závorka či středník) a neřeší obskurní chybové hlášky.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Mwc1gc77dc?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
