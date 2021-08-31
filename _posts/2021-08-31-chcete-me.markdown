@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Chcete mě?"
+date:   2021-08-31
+categories: [software development]
+disqusId: 241
+image: "/assets/2021-08-31/233377.png"
+---
+
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2021-08-31/233377.png" /></div>
+
+Ne že bych aktivně vyhledával nový projekt, ale neodolal jsem pokušení použít _clickbaitový_ titulek. Podařilo se mi přes léto vybrat si dovolenou v délce čtyř týdnů a trochu přemýšlet. Kdo jsem, co jsem (ne)dokázal, co chci a co můžu nabídnout. V záplavě oslovení na LinkedIn jsou zhruba dvě tři zajímavá ročně, tak by se hodilo mít v šuplíku nějaký motivační text. Nehledě na to, že za deset let bude poučné si po sobě toto bilancování přečíst.
+
+
+<div style="clear:both"></div>
+<!--more-->
+
+
+## Kdo jsem
+
+Přiznávám, že [kromě zásluh jsem měl v životě i hodně štěstí](https://blog.zvestov.cz/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html). V oboru už jsem přes deset let a leccos už jsem viděl.
+
+Podle klasifikace z článku Honzy Javorka [Kolonizátoři a správci kolonií](https://honzajavorek.cz/blog/kolonizatori-a-spravci-kolonii/) se považuji za správce kolonií. Upřednostňuju dlouhodobé projekty (což je vidět i na mých soukromých aktivitách jako například [trénink na jeden maraton](https://blog.zvestov.cz/sport/2016/06/29/jak-jsem-trenoval-na-maraton.html) či [stavba domu](https://blog.zvestov.cz/bydlen%C3%AD/2013/09/23/jak-se-stavi-dum-svepomoci.html)). Nicméně mám [pochopení pro situaci dobyvatelů](https://blog.zvestov.cz/software%20development/2019/04/16/jake-predpoklady-tenkrat-meli.html). Ostatně v počátku kariéry jsem střídal dost kontraktů, na kterých oceňuji to, že jsem potkal jak mnoho lidí, tak architektur a domén.
+
+Erik Meijer v [přednášce One Hacker Way](https://www.youtube.com/watch?v=2u0sNRO-QKQ) říká, že programátoři by měli dělat jen do třiceti, jako fotbalisti, pak že už jsou za zenitem. Je to možné, za hvězdu se nepovažuji, spíš za desetibojaře. Snažím se mít v mnoha věcech rozhled, což s sebou nese nevýhodu, že člověk jde jen do omezené hloubky. Filozoficky řečeno: „Vím, co nevím.“ Někdo moudrý kdysi řekl, že člověk je průměrem lidí, kterými se obklopuje. Proto vyhledávám společnost chytřejších, zároveň se však rád o své znalosti podělím.
+
+Práce se nesestává jen z technické excelence (klidně to berte jako moji výmluvu). Z velké části je to komunikace a znalost domény, pro kterou software píšete. Koláčový graf neukazuje proporce, ale ilustruje, že žádný z dílů není zanedbatelný.
+
+![](/assets/2021-08-31/graf.png)
+
+Dovolím si tvrdit, že zvládám vyjádřit myšlenku písemně, což se snažím dokázat tímto blogem (dokonce mi [něco přetiskli i na Zdrojáku](https://zdrojak.cz/autori/lubos-racansky/)), a zároveň mě baví i veřejné vystupování (k vidění například záznam z konference jOpenSpace 2018 [Jak jsem začal s kroužkem programování](https://www.youtube.com/watch?v=tptR39r8ZmE)).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tptR39r8ZmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Touhu načerpat znalosti domény bych ukázal na textu, který vyžadoval asi jednu z mých nejdelších příprav, [Jak funguje biometrický pas](https://blog.zvestov.cz/software%20development/2015/12/15/jak-funguje-biometricky-pas.html). Když jsem psal [validátor rodného čísla](https://blog.zvestov.cz/software%20development/2012/11/07/validator-rodnych-cisel.html), tak jsem neskončil u dělitelnost jedenácti, ale zákonnou úpravu včetně krajních případů jsem si nastudoval (mrk mrk, [samozřejmě mám na mysli kauzu registraci k očkování](https://blog.zvestov.cz/software%20development/2021/02/18/kolateralni-ztraty-nemoci-covid-19-nejen-v-it)).
+
+Dokážu věci i lidi zorganizovat. Pořádal jsme [společné čtení](https://blog.zvestov.cz/software%20development/2018/02/27/spolecne-cteni-knih.html) (aktivita bohužel nepřetrvala; zlí jazykové tvrdí, že jsem kolegy utavil). Moderuji [radu starších](https://blog.zvestov.cz/software%20development/2018/11/30/jak-sdilet-informace-ve-firme.html). Podílel jsem se na vzniku skautského oddílu a dále se účastním jeho vedení. Po technické i projektové stránce jsem měl na starosti díla v hodnotě jednotek miliónů korun. [Nejlepší kvalifikace na projekťáka je stejně stavba domu](https://blog.zvestov.cz/software%20development/2012/08/30/jak-se-pozna-kvalitni-projektovy-manazer.html). Snažím se působit konsensuálně, ale nebojím se kvůli zásadní věci bouchnout do stolu.
+
+Tvořím software, který ovlivňuje život stovky tisíc uživatelů (byť je moje chyba přímo nezabije, tak by jim život minimálně dost znepříjemnila). Naplňuje mě to. Zároveň však [cítím velkou zodpovědnost i pokoru](https://blog.zvestov.cz/software%20development/2013/05/16/pokora.html). Jedná se o díla velikosti desítek tisíc řádků.
+
+{% twitter https://twitter.com/banterCZ/status/1392820555292762116 %}
+
+Léta jsem dodával služby zákazníkům, kteří si řešení provozovali sami. Na jednu stranu je to výhoda, mám [klidnější spaní a nikdo mě nebudí v jednu ráno k incidentům na produkci](https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management), ale zároveň jsem o nějaké zkušenosti ochuzen. Domnívám se, že denní těsnější kontakt s produkcí a [sledovaní monitoringu](https://blog.zvestov.cz/software%20development/2017/02/22/monitoring.html) by zkrátilo zpětnou vazbu a pomohlo by mi vytvořit lepší řešení.
+
+
+## Co hledám
+
+Zajímají mě dlouhodobé projekty, spíš [produktové než servisní firmy](https://blog.zvestov.cz/software%20development/2019/10/22/servisni-versus-produktova-firma.html). Chci, aby moje práce nebyla do šuplíku, ale měla pozitivní vliv. Byznys pro mě musí být [eticky přijatelný](https://blog.zvestov.cz/software%20development/2016/03/07/uvod-do-profese.html) (například se odmítám podílet na šulení emisních limitů). Ve světle pochybných obchodů s antigenními testy během covidové pandemie bych zdůraznil, že elementární měřítko čistoty je vlastnická struktura firmy a povinně zveřejňované dokumenty v obchodním rejstříku (například účetní závěrky).
+
+> Zralí inženýři chápou, že ne všechny jejich projekty se skládají z práce pro rockové hvězdy.
+
+Citát pochází z článku [Býti seniorním inženýrem](https://zdrojak.cz/clanky/byti-seniornim-inzenyrem/). Nehrnu se za _bleeding egde_ technologiemi, ostatně na hraně se víc krvácí. Pochopím, že projekt z nějakého důvodu píšete v JDK 8 (i když nadšený z toho nebudu), ale na IBM Java 6 mě neutáhnete.
+
+Preferuji _spolupráci na ičo_. Unavuje mě doprošovat se nákupu licencí a zároveň si chci pořizovat hardware dle vlastního výběru. V neposlední řadě je pro mě důležitý volný čas, flexibilní pracovní doba, rozumný poměr práce z domova (z dnešního pohledu je úsměvný můj článek [o práci z domova](https://blog.zvestov.cz/software%20development/2013/06/03/prace-z-domova-expozice.html) z roku 2013) a taky mi nestačí čtyři týdny dovolené ročně.
+
+{% twitter https://twitter.com/ondrakucera/status/1382370299040108550 %}
+
+Nějaký pamětník [extrémního programování](https://cs.wikipedia.org/wiki/Extr%C3%A9mn%C3%AD_programov%C3%A1n%C3%AD) a toho, že razili pracovní dobu 40 hodin týdně? Chápu, že se občas něco vysype, nebo je potřeba dotáhnout release, ale trávit v kanclu deset hodin denně včetně víkendů, to není nic pro mě. Volný čas mi pomáhá nevyhořet. Po večerech nekutím open-source hobby projekt, ale chci se spíš věnovat dětem ve skautském oddílu a na kroužku programování, což je potřeba sladit s pracovním dnem. Vážně jsem uvažoval i o tom, že bych si zkrátil úvazek a částečně učil na základní škole (úmysl dočasně odložen; taky proto, že mám před rolí učitele respekt).
+
+S kolegy je potřeba dobře vycházet, ostatně trávíte s nimi spoustu času, ale [práce pro mě není druhá rodina](https://blog.zvestov.cz/software%20development/2013/05/08/prace-neni-druha-rodina.html) (v náborových inzerátech je to pro mě žlutá karta).
+
+Obdržel jsem dokonce nabídku do výběrového řízení na CTO. Lichotí mi to, ale rád bych ještě několik let pokračoval na pozici programátora a sbíral zkušenosti. Až budu psát za deset let další zamyšlení, možná se budu víc klonit k roli architekta, kdo ví.
+
+Převážně pracuji v týmech, kde se mluví česky, tedy mou mateřštinou, takže člověk angličtinu použije spíš v roli konzumenta. Ano, je to výrazně snazší, ale zároveň je prostředí příliš homogenní (to je problém celého Česka, ale to už zabrušuji do sociologie, to nechť komentují jiní). Občas si na mezinárodní zkušenosti rád vzpomenu.
+
+Kdybych na to měl kompetence, tak by pro mě práce snů byla například aplikace [Simply Piano od JoyTunes](https://www.joytunes.com), [Duolingo](https://www.duolingo.com/), [aktivní zálohy Kybernetických sil a informačních operací u Armády České republiky](https://www.aktivnizaloha.army.cz/az-velitelstvi-kysio) nebo [Průšovy 3D tiskárny](https://www.prusa3d.cz/).
+
+
+## Závěr
+
+Musím si přiznat, že nejsem technologická hvězda, ale snažím se to vyvážit netechnickými schopnostmi. Na výsledek své práce bych chtěl být za každých okolností hrdý, ať se jedná o samotnou kvalitu kódu, tak i o dopad na život lidí. Práce pro mě není vším, ale to neznamená, že ji dělám jen pro peníze.
