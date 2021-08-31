@@ -4,6 +4,7 @@ title:  "Práce není druhá rodina"
 date:   2013-05-08
 categories: [software development]
 disqusId: 129
+image: "https://farm9.staticflickr.com/8089/8359394768_a0dafa22dc_m.jpg"
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.flickr.com/photos/bantercz/8359394768/in/photostream"><img src="https://farm9.staticflickr.com/8089/8359394768_a0dafa22dc_m.jpg" /></a></div>Když jsem psal, že jako mariňáci <a href="/item/115">máte znát své kolegy</a>, nemyslel jsem, že se jim máte cpát do soukromého života a jejich volného času. Jsou ovšem firmy, které se tak prezentují nebo to snad dokonce dělají. Vojáci možná vstoupili do armády pro peníze, ale najdou se, doufejme, tací, které k tomu <a href="http://www.ted.com/talks/lang/cs/peter_van_uhm_why_i_chose_a_gun.html">vedly vyšší principy jako láska k vlasti a touha bránit svobodu</a>. Jde-li však do tuhého, tak nakonec bojují za kamarády ve zbrani. Takovou atmosféru se některé firmy, alespoň se mi zdá, snaží křečovitě vytvořit.
 <!--more-->
@@ -14,3 +15,8 @@ Jak zmiňuje Riki Fridrich v článku <a href="http://content.fczbkk.com/ako-kor
  co doma? Doma budu já, já nechci jít s někým na pivo, koho vidím celý den a ještě abych ho viděl i po práci. Já rád jdu domů. Ale kdo nerad chodí domů, tak ještě chce někam jít, a přijdou domů ožralí, aby se nekoukali pravdě do očí, a pak jdou do postele, a ráno zas, a tak je to každý den a to je hrozný.
 
 Práce není druhá rodina. Natož ta první. Život je jako trojnožka, přičemž nohy symbolizují rodinu, práci a čas, který máte pro sebe. Když je jedna noha kratší, jde to s vámi z kopce.
+
+
+## Související
+
+- [I Don’t Want to Be Like a Family With My Co-Workers](https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html)
