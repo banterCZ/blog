@@ -4,14 +4,18 @@ title:  "Jak se staví dům svépomocí"
 date:   2013-09-23
 categories: [bydlení]
 disqusId: 141
+image: "https://farm9.staticflickr.com/8198/8158973347_665b50c5e9_m.jpg"
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://www.flickr.com/photos/bantercz/7434557322/in/set-72157630934524442"><img src="https://farm9.staticflickr.com/8198/8158973347_665b50c5e9_m.jpg" /></a></div><a href="https://plus.google.com/107399094493317618479/posts/8WbEY1UnJVw">Správný muž</a> by měl zplodit syna, postavit dům a zasadit strom. A to v tomhle pořadí, abyste totiž nebudovali ohromné sídlo, ve kterém nakonec budete bydlet sami, což se nezřídka stává. Zrovna dům stavím a na <a href="https://twitter.com/banterCZ">twitteru</a> občas zmíním nějaké detaily. Objevilo se několik ohlasů, že by vás zajímaly podrobnosti, obzvlášť protože stavím částečně svépomocí. Tady jsou. Především je celá stavba lekce trpělivosti a <a href="/item/130">pokory</a> a v neposlední řadě i <a href="/item/108">kvalifikace na projektového manažera</a>. Důležité je mít na paměti, že i když se nastěhujete a začnete bydlet, tak deset let dostavujete, pak si dáte rok pauzu a začnete opravovat. Jo a až budu stavět třetí dům, tak ten bude nejlepší, jelikož konečně budete vědět, jak na to.
 <!--more-->
+<div style="clear:both"></div>
 
 Architekti, pozemek
 ------
 
-<div style="float: right; margin: 0 0 1em 1em; text-align: center;"><a href="http://banter.albumino.com/albums/3d"><img style="width: 204px; height: 152px;" src="https://photos.albumino.com/banter/2342813443/photos/3.jpg" /></a></div>Celá stavba začíná výběrem pozemku, což je mnohdy podceňovaný aspekt. Osobně jsem se vrátil do rodné vesnice, takže by ze mě měl <a href="https://plus.google.com/107399094493317618479/posts/GLRPEtnM6TU">Nelson Mandela</a> radost, neboť napsal: „Muž by měl mít dům poblíž svého rodiště, kde by našel klid, který jinde postrádá.“
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bantercz/15829660054/in/album-72157648338083063/" title="Untitled"><img src="https://live.staticflickr.com/7310/15829660054_99b5b0243a_w.jpg" width="400" height="245" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Celá stavba začíná výběrem pozemku, což je mnohdy podceňovaný aspekt. Osobně jsem se vrátil do rodné vesnice, takže by ze mě měl <a href="https://plus.google.com/107399094493317618479/posts/GLRPEtnM6TU">Nelson Mandela</a> radost, neboť napsal: „Muž by měl mít dům poblíž svého rodiště, kde by našel klid, který jinde postrádá.“
 
 Při dnešních cenách se kupují menší pozemky a navíc to může vést k absurdní situaci, kdy dům bude levnější než samotná parcela. Tím se dostáváme k tomu, že potřebujete architekta, a to už ve fázi výběru pozemku. Nejspíš nejste odborníci na územní plán, regulativ a podobné záležitosti, takže za vás ohlídají, zda tam lze vůbec stavět, a pokud ano, ta jestli podle vašich představ.
 
