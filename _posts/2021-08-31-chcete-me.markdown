@@ -51,7 +51,7 @@ Zajímají mě dlouhodobé projekty, spíš [produktové než servisní firmy](h
 
 Citát pochází z článku [Býti seniorním inženýrem](https://zdrojak.cz/clanky/byti-seniornim-inzenyrem/). Nehrnu se za _bleeding egde_ technologiemi, ostatně na hraně se víc krvácí. Pochopím, že projekt z nějakého důvodu píšete v JDK 8 (i když nadšený z toho nebudu), ale na IBM Java 6 mě neutáhnete.
 
-Preferuji _spolupráci na ičo_. Unavuje mě doprošovat se nákupu licencí a zároveň si chci pořizovat hardware dle vlastního výběru. V neposlední řadě je pro mě důležitý volný čas, flexibilní pracovní doba, rozumný poměr práce z domova (z dnešního pohledu je úsměvný můj článek [o práci z domova](https://blog.zvestov.cz/software%20development/2013/06/03/prace-z-domova-expozice.html) z roku 2013) a taky mi nestačí čtyři týdny dovolené ročně.
+Preferuji _spolupráci na ičo_ (příkazní, dříve mandátní, smlouvu). Unavuje mě doprošovat se nákupu licencí a zároveň si chci pořizovat hardware dle vlastního výběru. V neposlední řadě je pro mě důležitý volný čas, flexibilní pracovní doba, rozumný poměr práce z domova (z dnešního pohledu je úsměvný můj článek [o práci z domova](https://blog.zvestov.cz/software%20development/2013/06/03/prace-z-domova-expozice.html) z roku 2013) a taky mi nestačí čtyři týdny dovolené ročně.
 
 {% twitter https://twitter.com/ondrakucera/status/1382370299040108550 %}
 
