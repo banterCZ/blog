@@ -52,3 +52,8 @@ Napsal jsem o svých myšlenkových pochodech na twitter a aniž bych prosil o p
 ## Co bude
 
 Zatím jsem nic hmatatelného neudělal, proto vystavuji tento příspěvek i sobě jako memento, abych si ho za pár let, až doběhnou pozemkové úpravy, přečetl a zhodnotil, kam jsem se dostal. Můžete mi držet palce, ale letos na podzim se ještě sázet nebude.
+
+
+## Související
+
+- [V Rakousku mají mnohem víc zajíců i ptáků – jen díky tomu, že mají menší pole](https://www.ivb.cz/aktuality/ptakum-i-zajicum-se-lepe-dari-v-mensich-polich-ceska-to-nejsou/) 
