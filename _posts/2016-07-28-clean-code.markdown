@@ -5,6 +5,7 @@ date:   2016-07-28
 categories: [software development]
 disqusId: 178
 tags: [kniha, Uncle Bob]
+image: "https://pbs.twimg.com/media/CeEz-bhW8AA2SMS?format=jpg&name=medium"
 ---
 Jeden z mých nejúspěšnějších tweetů a přitom taková blbost. Takže asi stojí za rozepsání. Mám totiž za to, že existuje korelace mezi pořádkumilovností a čistým kódem.
 
