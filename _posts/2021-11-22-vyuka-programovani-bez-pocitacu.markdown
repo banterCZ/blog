@@ -80,7 +80,7 @@ Analogicky to funguje s [kontrolní číslicí čárového kódu](https://blog.z
 
 ![](/assets/2019-07-22/error-correction-paint-tin.png)
 
-Obligátní [třídění](https://www.csunplugged.org/en/resources/sorting-network/). Diagram můžete křídou nakreslit na hřiště nebo fixou na prostěradlo, děti pak reprezentují jednotlivá čísla a navzájem se setřídí.
+Obligátní [t̶ř̶í̶d̶ě̶n̶í̶ řazení](https://www.csunplugged.org/en/resources/sorting-network/). Diagram můžete křídou nakreslit na hřiště nebo fixou na prostěradlo, děti pak reprezentují jednotlivá čísla a navzájem se s̶e̶t̶ř̶í̶d̶í̶ seřadí.
 
 Kryptografii pravděpodobně uvedete na [Caesarově šifře](https://cs.wikipedia.org/wiki/Caesarova_%C5%A1ifra).
 
