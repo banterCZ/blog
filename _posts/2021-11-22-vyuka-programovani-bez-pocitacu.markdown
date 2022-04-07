@@ -10,7 +10,8 @@ image: "/assets/2021-11-22/325644.png"
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2021-11-22/325644.png" /></div>
 
-Na [kroužku programování](https://blog.zvestov.cz/tag/krou%C5%BEek-programov%C3%A1n%C3%AD) se věnuju i aktivitám bez počítače. Chtěl bych tady na jednom místě shrnout, co jsem vyzkoušel a co se mi osvědčilo. Rozcestník původně vznikl jako přednáška pro ne-konferenci [jOpenSpace](https://www.jopenspace.cz/). Záznam bude zveřejněn později, ale já osobně mám rád i textovou podobu.
+Na [kroužku programování](https://blog.zvestov.cz/tag/krou%C5%BEek-programov%C3%A1n%C3%AD) se věnuju i aktivitám bez počítače. Chtěl bych tady na jednom místě shrnout, co jsem vyzkoušel a co se mi osvědčilo. Rozcestník původně vznikl jako přednáška pro ne-konferenci [jOpenSpace](https://www.jopenspace.cz/).
+Můžete se [podívat na záznam](https://www.youtube.com/watch?v=6HcTuM3P0Aw), ale já osobně mám rád i textovou podobu.
 
 <div style="clear:both"></div>
 <!--more-->
@@ -22,6 +23,7 @@ Děti celkem umí s tablety a mobily. S počítačem a myší je to horší. Pro
 
 Nebojte, nebudu se věnovat [děrným štítkům](https://cs.wikipedia.org/wiki/D%C4%9Brn%C3%BD_%C5%A1t%C3%ADtek). Ač z pohledu dětí pamatuju hodně, tak tohle už ne.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6HcTuM3P0Aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Aktivity
 
