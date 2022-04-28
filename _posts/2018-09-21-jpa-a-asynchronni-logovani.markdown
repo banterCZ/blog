@@ -5,7 +5,7 @@ date:   2018-09-21
 categories: [software development]
 disqusId: 206
 image: "/assets/2018-09-21/db.png"
-tags: [JPA]
+tags: [JPA, logování]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-09-21/db.png" /></div> JPA, metoda `toString()` a asynchronní logování dokázaly vykouzlit situaci, která nám dala chvilku zabrat.
