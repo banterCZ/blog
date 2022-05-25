@@ -115,6 +115,12 @@ Obdobně zafunguje
 kde jsem chtěl ukázat použití sdíleného kódu. Třída se vezme ze závislosti a negeneruje se. Aby se vám podařilo projekt jednoduše sestavit, simuloval jsem závislost jako maven modul. V praxi by se nejspíš jednalo o samostatný projekt.
 
 Pozorný čtenář si v příkladu všimne _optional_ závislostí `jackson-annotations`, `swagger-annotations` a `jakarta.annotation-api`. Jedná o dokumentační anotace použité ve vygenerovaných DTO třídách. Pro sestavení _jar_ souboru jsou potřeba, ale pakliže vygenerovaný kód použijete jako závislost, tak už je na _classpath_ nepotřebujete (pokud je nechcete v _runtime_ využívat přes reflexi).
+Generování swagger anotací můžete vypnout následující konfigurační volbou.
+```xml
+<configOptions>
+    <useSwaggerAnnotations>false</useSwaggerAnnotations>
+</configOptions>
+```
 
 Celý [příklad najdete na githubu](https://github.com/banterCZ/blog-example-openapi-generator).
 
