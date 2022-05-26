@@ -11,7 +11,7 @@ tags: [kniha]
 
 Jestliže jste si článek už stáhli a začali číst, tedy výborně. Pokud ne, tak dovolte pár slov, abych vás přesvědčil.
 
-Zatímco jedni Češi se v rámci vojenské operace pokusili (nakonec úspěšně) zlikvidovat říšského protektora Reinharda Heydricha, třetího muže nacistické říše, tak Marie Navarová v osudný den raněnému poskytla pomoc. Ostatně podle mezinárodních konvencí se má poskytnout ošetření i nepříteli. Ovšem tím její příběh ani nezačíná, ani nekončí.
+Zatímco jedni Češi se v rámci vojenské operace pokusili (nakonec úspěšně) zlikvidovat zastupujícího říšského protektora Reinharda Heydricha, třetího muže nacistické říše, tak Marie Navarová v osudný den raněnému poskytla pomoc. Ostatně podle mezinárodních konvencí se má poskytnout ošetření i nepříteli. Ovšem tím její příběh ani nezačíná, ani nekončí.
 
 > Životní příběh Marie Navarové je pro svou dobu a určitou skupinu lidí charakteristický. Někteří byli bez vlastního rozhodnutí postaveni do 
 situace, kdy stáli na hraně mezi čestným jednáním a kolaborací. To se týkalo třeba správních úředníků, hospodářských pracovníků a dalších. Nemohli volit sebevražedné a zcela marné „hrdinství“ a některé jejich činy mohly být „poválečnými partyzány“ vykládány jako kolaborace. Často však tito lidé podlehli okupantům, někdy i touze po vlastním prospěchu a národní a občanské cti se zpronevěřili. Rozsoudit, kdy šlo o nevyhnutelný ústupek tlaku okupantů v zájmu prospět národní věci a postiženým spoluobčanům a kdy o selhání a kolaboraci, je velice těžké. Neumím to určit ani u Marie Jiřiny Navarové.
