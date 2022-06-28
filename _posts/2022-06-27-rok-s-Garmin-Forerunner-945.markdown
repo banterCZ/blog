@@ -100,7 +100,7 @@ Před dvěma lety s lepším časem horší umístění, [132 z 458](https://iro
 {% twitter https://twitter.com/banterCZ/status/1485870262549725188 %}
 
 Hodinky odhadují čas na 10 km, ale kecají a ukazují něco, na co jsem neměl.
-Za poslední rok jsem žádnou desítku neběžel, abych ověřil, ale je to asi všeobecně známý problém, viz [What is wrong with the Garmin Race Predictor](https://hetgeheimvanhardlopen. nl/en/what-is-wrong-with-the-garmin-race-predictor/).
+Za poslední rok jsem žádnou desítku neběžel, abych ověřil, ale je to asi všeobecně známý problém, viz [What is wrong with the Garmin Race Predictor](https://hetgeheimvanhardlopen.nl/en/what-is-wrong-with-the-garmin-race-predictor/).
 
 Umí měřit i okysličení krve. To jsem vypnul, neměním výrazně nadmořskou výšku a šetřím baterii, ale v době covidu jste mohli mít po ruce oxymetr pro případ onemocnění.
 
