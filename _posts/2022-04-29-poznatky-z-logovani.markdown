@@ -10,7 +10,7 @@ tags: [logování]
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2022-04-29/333910.png" /></div>
 
-Nejen [pro produktovou firmu je důležité logování](https://blog.zvestov.cz/software%20development/2020/05/30/uskali-produktove-firmy. html#logov%C3%A1n%C3%AD-a-podpora).
+Nejen [pro produktovou firmu je důležité logování](https://blog.zvestov.cz/software%20development/2020/05/30/uskali-produktove-firmy.html#logov%C3%A1n%C3%AD-a-podpora).
 Bez kvalitní dokumentace a logů padá na [úroveň podpory](https://en.wikipedia.org/wiki/Technical_support#Multi-tiered_technical_support) L3 příliš mnoho věcí.
 Neříkám, že vím, jak logovat správně, ale pár průšvihů, třeba s [JPA a asynchronním logováním](https://blog.zvestov.cz/software%20development/2018/09/21/jpa-a-asynchronni-logovani.html), už jsem zažil.
 Chtěl bych sepsat, k čemu jsem dospěl, protože podobné otázky u nejednoho _code review_ (zejména při změnách ve složení týmu) opakovaně diskutujeme.
@@ -22,7 +22,7 @@ Chtěl bych sepsat, k čemu jsem dospěl, protože podobné otázky u nejednoho 
 
 Popis API jednotlivých knihoven naleznete v dokumentaci.
 Možná mám jen dlouhé vedení, protože mi trvalo roky, než jsem se dopracoval k těmto poznámkám.
-Nebo se jedná o neuvědomělou znalost, kterou nelze postihnout pouze slovy, jak se píše v článku [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog. com/blog/tacit-knowledge-is-a-real-thing).
+Nebo se jedná o neuvědomělou znalost, kterou nelze postihnout pouze slovy, jak se píše v článku [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing).
 Hezky to přirovnávají k jízdě na kole.
 
 
@@ -80,7 +80,7 @@ try {
 
 Staří pardálové pamatují, že [v historických verzích s tím byl problém](https://www.slf4j.org/faq.html#paramException) a možná na novější zápis ještě nepřešli.
 
-Můžete se bát, že netrefíte počet zástupek ku počtu parametrů. Dřív nám to chytalo až [pravidlo Sonaru](https://rules.sonarsource. com/java/RSPEC-2275), ale už nějaký pátek to umí zobrazovat IntelliJ Idea jako varování.
+Můžete se bát, že netrefíte počet zástupek ku počtu parametrů. Dřív nám to chytalo až [pravidlo Sonaru](https://rules.sonarsource.com/java/RSPEC-2275), ale už nějaký pátek to umí zobrazovat IntelliJ Idea jako varování.
 
 
 ### Lombok
@@ -90,7 +90,7 @@ Neustálé psaní následujícího idiomu může někomu přijít otravné.
 private static final Logger logger = LoggerFactory.getLogger(Foo.class);
 ```
 
-Lombok má anotaci `@Slf4j`, která však ve výchozím nastavení vytváří logger jménem `log`. To [lze v konfiguraci změnit](https://projectlombok. org/features/configuration) pomocí klíče `lombok.log.fieldName`. 
+Lombok má anotaci `@Slf4j`, která však ve výchozím nastavení vytváří logger jménem `log`. To [lze v konfiguraci změnit](https://projectlombok.org/features/configuration) pomocí klíče `lombok.log.fieldName`. 
 
 
 ## Úrovně logování
