@@ -9,8 +9,9 @@ image: "/assets/2020-10-19/dice-white.png"
 ---
 <div style="float: left; margin: 0.5em 1em 0.5em 0em; text-align: center;"><img src="/assets/2020-10-19/dice-white.png" /></div>
 
-Pýcha předchází pád. Nikdy nebudu (snad) tak bláhový, abych si troufal tvrdit, že rozumím bezpečnosti, protože hned potom by se mi to určit
-ě vymstilo. Ovšem přiznám se, že jednou z motivací psaní mého blogu je i čistě sobecká potřeba mít někde poznámky. Tímto problémem jsem strávil nějaký čas a přemýšlení, takže se dost možná někdy v budoucnu k příspěvku vrátím a připomenu si podrobnosti.
+Pýcha předchází pád.
+Nikdy nebudu (snad) tak bláhový, abych si troufal tvrdit, že rozumím bezpečnosti, protože hned potom by se mi to určitě vymstilo.
+Ovšem přiznám se, že jednou z motivací psaní mého blogu je i čistě sobecká potřeba mít někde poznámky. Tímto problémem jsem strávil nějaký čas a přemýšlení, takže se dost možná někdy v budoucnu k příspěvku vrátím a připomenu si podrobnosti.
 
 O co šlo? Přišla chyba, že vygenerovat dočasné heslo trvá 90 vteřin.
 
@@ -59,7 +60,12 @@ Ve Stack Overflow odpovědi zmiňují i démon [haveged](https://www.digitalocea
 
 ## Závěr
 
-Generování hesel může trvat dlouhou (zejména na virtuální strojích), ale existuje bezpečný způsob, jak to řešit. Používejte `dev/urandom`, respektive `NativePRNGNonBlocking`. Používejte `java.util.SecureRandom` a vyhněte se `java.util.Random`.
+Generování hesel může trvat dlouhou (zejména na virtuální strojích), ale existuje bezpečný způsob, jak to řešit.
+Používejte `dev/urandom`, respektive `NativePRNGNonBlocking`.
+Používejte `java.util.SecureRandom` a vyhněte se `java.util.Random`.
+
+Používáte-li `SecureRandom` ke generování kryptografického materiálu (klíčů, hesel atd.), je potřeba zvážit další faktory jako například bezpečnost proti kvantovým útokům či kvalita algoritmu, který generuje náhodné bity.
+Pro tyto účely se spíš hodí použít Bouncy Castle knihovnu, která má svojí implementaci `SecureRandom` a její `DEFAULT` algoritmus postavený na `DRBG` (konkrétně [HashDRBGProvider](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/crypto/prng/drbg)).
 
 ## Související
 
@@ -68,3 +74,4 @@ Generování hesel může trvat dlouhou (zejména na virtuální strojích), ale
 - [SecureRandom Implementations](https://docs.oracle.com/javase/8/docs/technotes/guides/security/SunProviders.html#SecureRandomImp)
 - [Stack Overflow - How to deal with a slow SecureRandom generator?](https://stackoverflow.com/questions/137212/how-to-deal-with-a-slow-securerandom-generator)
 - [Stack Overflow - What java.security.egd option is for?](https://stackoverflow.com/questions/58991966/what-java-security-egd-option-is-for/59097932#59097932)
+- [NIST - Recommendation for Random Number Generation Using Deterministic Random Bit Generators](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf)
