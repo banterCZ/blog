@@ -56,7 +56,12 @@ Jedna **nezaručená spekulace**, o které se zmiňovali na fórech: algoritmus 
 
 ### haveged
 
-Ve Stack Overflow odpovědi zmiňují i démon [haveged](https://www.digitalocean.com/community/tutorials/how-to-setup-additional-entropy-for-cloud-servers-using-haveged). Pokud jsem to pochopil, tak funguje de facto úplně stejně jako `/dev/urandom`. Když má dostatek hardwarové entropie, tak generuje „zcela kvalitní náhodu“. Když nemá, tak generuje o něco „méně kvalitní náhodu“. Takže nedává smysl to používat, spolehnul bych se na `/dev/urandom`.
+Ve Stack Overflow odpovědi zmiňují i démon [haveged](https://www.digitalocean.com/community/tutorials/how-to-setup-additional-entropy-for-cloud-servers-using-haveged).
+Pokud jsem to pochopil, tak funguje de facto úplně stejně jako `/dev/urandom`.
+Když má dostatek hardwarové entropie, tak generuje „zcela kvalitní náhodu“.
+Když nemá, tak generuje o něco „méně kvalitní náhodu“. Takže nedává smysl to používat, spolehnul bych se na `/dev/urandom`.
+Zdá se, že [od jádra 5.6 je haveged překonaný](https://github.com/jirka-h/haveged/issues/57).
+
 
 ## Závěr
 
@@ -67,6 +72,7 @@ Používejte `java.util.SecureRandom` a vyhněte se `java.util.Random`.
 Používáte-li `SecureRandom` ke generování kryptografického materiálu (klíčů, hesel atd.), je potřeba zvážit další faktory jako například bezpečnost proti kvantovým útokům či kvalita algoritmu, který generuje náhodné bity.
 Pro tyto účely se spíš hodí použít Bouncy Castle knihovnu, která má svojí implementaci `SecureRandom` a její `DEFAULT` algoritmus postavený na `DRBG` (konkrétně [HashDRBGProvider](https://github.com/bcgit/bc-java/tree/master/core/src/main/java/org/bouncycastle/crypto/prng/drbg)).
 
+
 ## Související
 
 - [Servisní versus produktová firma](https://blog.zvestov.cz/software%20development/2019/10/22/servisni-versus-produktova-firma.html)
@@ -75,3 +81,4 @@ Pro tyto účely se spíš hodí použít Bouncy Castle knihovnu, která má svo
 - [Stack Overflow - How to deal with a slow SecureRandom generator?](https://stackoverflow.com/questions/137212/how-to-deal-with-a-slow-securerandom-generator)
 - [Stack Overflow - What java.security.egd option is for?](https://stackoverflow.com/questions/58991966/what-java-security-egd-option-is-for/59097932#59097932)
 - [NIST - Recommendation for Random Number Generation Using Deterministic Random Bit Generators](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf)
+- [Is haveged still useful/relevant?](https://github.com/jirka-h/haveged/issues/57)
