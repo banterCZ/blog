@@ -3,7 +3,7 @@ layout: post
 title:  "Konference Scratch Around the World"
 date:   2021-08-02
 categories: [software development]
-tags: [konference, kroužek programování]
+tags: [konference, kroužek programování, Scratch]
 disqusId: 240
 image: "/assets/2021-08-02/scratchblocks.png"
 ---
