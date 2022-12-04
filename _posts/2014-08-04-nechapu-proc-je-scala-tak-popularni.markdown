@@ -7,7 +7,7 @@ disqusId: 153
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2014-08-03/20140803-scala_logo.png" /></div>Nechápu, 
 proč je <a 
-href="en.wikipedia.org/wiki/Scala_(programming_language)">Scala</a> tak populární. Samozřejmě jsem koketoval s myšlenkou, že se Scalu naučím. Ale rozmyslel jsem si to, aniž bych se v ní pokusil cokoliv napsat (dokonce ani Hello World). Tento příspěvek jsem pojal jako obhajobu, proč se Scale nehodlám věnovat. Jak už psal Paul Graham v kritickém příspěvku <a href="/item/131">Přebal Javy</a>: „<em>Musíte se naučit posuzovat podle vnějších znaků a určit, které technologie stojí za váš čas.</em>“. Vzal jsem na vědomí, <a href="/item/150" />proč není tak rozšířené Groovy</a>, ale co se Scaly týče, tak souhlasím s tím, co bylo napsáno v knize <a href="http://amzn.to/1oGdeho">Seven Languages in Seven Weeks</a>, ze které budu citovat.
+href="en.wikipedia.org/wiki/Scala_(programming_language)">Scala</a> tak populární. Samozřejmě jsem koketoval s myšlenkou, že se Scalu naučím. Ale rozmyslel jsem si to, aniž bych se v ní pokusil cokoliv napsat (dokonce ani Hello World). Tento příspěvek jsem pojal jako obhajobu, proč se Scale nehodlám věnovat. Jak už psal Paul Graham v kritickém příspěvku <a href="/item/131">Přebal Javy</a>: „<em>Musíte se naučit posuzovat podle vnějších znaků a určit, které technologie stojí za váš čas.</em>“. Vzal jsem na vědomí, <a href="/item/150">proč není tak rozšířené Groovy</a>, ale co se Scaly týče, tak souhlasím s tím, co bylo napsáno v knize <a href="http://amzn.to/1oGdeho">Seven Languages in Seven Weeks</a>, ze které budu citovat.
 <!--more-->
 
 <blockquote>Scala představuje naprosté kacířství pro funkcionální programátory a ryzí požehnání pro Java programátory
