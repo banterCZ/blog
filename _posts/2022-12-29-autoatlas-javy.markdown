@@ -101,7 +101,7 @@ K porovnání ekvivalence objektů se používá metoda `equals`.
 V souladu s chováním metody `equals` musí být pro správnou funkčnost kolekcí implementovaná i metoda `hashCode` dle definovaného kontraktu.
 Viz [Java equals() and hashCode() Contracts](https://www.baeldung.com/java-equals-hashcode-contracts).
 Je to jedno z témat, na kterém bych na přijímacím pohovoru třídil juniory.
-Existují zrádné situace, kdy `equals` a `==` vrací stejné výsledky.
+Existují zrádné situace, kdy `equals` a `==` nevrací stejné výsledky.
 
 
 ### Kolekce
@@ -366,7 +366,7 @@ Jeden z hlavních použití Javy je psaní enterprise aplikací.
 Píše se rok 2004, existují [EJB](https://en.wikipedia.org/wiki/Jakarta_Enterprise_Beans), Enterprise JavaBeans, ale použití je strašlivé.
 Rod Johnson napsal knihu [J2EE Development without EJB](https://www.amazon.com/Expert-One-One-Development-without/dp/0764558315) a 
 vznikl framework [Spring](https://spring.io/projects/spring-framework).
-Nesporně to bych úspěch, protože dnes už je ve verzi 6.
+Nesporně to byl úspěch, protože dnes už je ve verzi 6.
 Obsahuje mnoho modulů.
 Ve svých aplikací samozřejmě nemusíte použít všechny.
 V [dokumentaci verze 3](https://docs.spring.io/spring-framework/docs/3.0.0.RELEASE/spring-framework-reference/html/overview.html) jsem našel pěkný diagram.
