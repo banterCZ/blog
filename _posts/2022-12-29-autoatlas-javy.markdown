@@ -332,7 +332,7 @@ Je to další Java API, které například implementují [PrimeFaces](https://ww
 Osobně jsem této technologii nepřišel na chuť.
 Podle mě tato abstrakce až příliš nešikovně odstiňuje od webových technologií.
 Ale nezkoumal jsem novější verze.
-Zvídavým čtenářům doporučuji k prozkoumání [https://stackoverflow.com/questions/3623911/what-are-the-main-disadvantages-of-java-server-faces-2-0](https://stackoverflow.com/a/3646940/204950).
+Zvídavým čtenářům doporučuji k prozkoumání [What are the main disadvantages of Java Server Faces 2.0?](https://stackoverflow.com/a/3646940/204950)
 
 Tehdy mi jako lepší technologie přišel například [Wicket](https://wicket.apache.org/).
 Osobně bych si vybral spíš [Vaadin](https://vaadin.com/).
