@@ -69,11 +69,11 @@ Vyobrazené zapojení využívá tranzistor NPN. PNP by se spínal záporným na
 
 Tady jsem trochu cestoval v prostoru a čase. Relé není polovodič a předcházelo tranzistorům. Na hodině jsem nezvládl ukázat, jelikož vypukla krize s virem Covid-19. Hledal jsem součástku, kde by bylo vidět do střev. Na AliExpressu jsem [nenašel nic lepšího než tohle](https://www.aliexpress.com/item/33031804721.html?spm=a2g0s.9042311.0.0.6b014c4donGmjP). Potíž je, že vyžaduje napětí 12&nbsp;V, což je víc než s čím běžně pracuje Boffin. Aby si člověk přibalil trafo.
 
-![](/assets/2020-06-29/rele.jpg)
+![](/assets/2020-06-29/rele.jpeg)
 
 Nakonec jsem našel, že třeba stavebnice [Boffin 750](https://elektronicke-stavebnice.heureka.cz/boffin-750/#specifikace/), relé obsahuje.
 
-![](/assets/2020-06-29/rele-boffin.jpg)
+![](/assets/2020-06-29/rele-boffin.jpeg)
 
 V zásobě mám nápad, že relé věnuji celou hodinu a prostě si ho vlastnoručně vyrobíme. Ale jak říkám, zatím to není vyzkoušené.
 
