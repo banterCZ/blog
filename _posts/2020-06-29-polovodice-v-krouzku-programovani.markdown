@@ -71,6 +71,10 @@ Tady jsem trochu cestoval v prostoru a čase. Relé není polovodič a předchá
 
 ![](/assets/2020-06-29/rele.jpg)
 
+Nakonec jsem našel, že třeba stavebnice [Boffin 750](https://elektronicke-stavebnice.heureka.cz/boffin-750/#specifikace/), relé obsahuje.
+
+![](/assets/2020-06-29/rele-boffin.jpg)
+
 V zásobě mám nápad, že relé věnuji celou hodinu a prostě si ho vlastnoručně vyrobíme. Ale jak říkám, zatím to není vyzkoušené.
 
 ## Závěr
