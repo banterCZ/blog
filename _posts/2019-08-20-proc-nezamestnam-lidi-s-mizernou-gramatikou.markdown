@@ -43,4 +43,4 @@ Proto všechny uchazeče o zaměstnání zkouším z gramatiky hned, jak vejdou 
 
 ## Související
 
-* [Clean Code](https://blog.zvestov.cz/software%20development/2016/07/28/clean-code.html)
+* [Clean Code](/software%20development/2016/07/28/clean-code.html)

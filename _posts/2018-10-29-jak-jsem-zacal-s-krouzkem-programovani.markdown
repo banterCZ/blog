@@ -17,13 +17,13 @@ tags: [kroužek programování]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tptR39r8ZmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Když jsem byl malý, tak skoro každý kluk u nás na vsi měl nějakého [pionýra](https://cs.wikipedia.org/wiki/Pion%C3%BDr_(motocykl)). Věčně se v něm vrtali, štelovali předstih, ladili karburátor, a tak se motorku naučili opravovat. Já měl novější, značně spolehlivější, motocykl německé výroby [Simson S51](https://cs.wikipedia.org/wiki/Simson#S51), do kterého se jen lil benzín (s olejem), proto jsem se nikdy pořádně motorky spravovat nenaučil. Zato [jsem měl osmibitový počítač Commodore C64](https://blog.zvestov.cz/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html#můj-příběh). Na něm vás po spuštění přivítala příkazová řádka, čili k programování to byl jen krůček. Dnešní počítače jsou uživatelsky mnohem přívětivější, z toho důvodu je krok k programování o něco delší. Možná dnešním dětem stačí tu možnost prostě ukázat.
+Když jsem byl malý, tak skoro každý kluk u nás na vsi měl nějakého [pionýra](https://cs.wikipedia.org/wiki/Pion%C3%BDr_(motocykl)). Věčně se v něm vrtali, štelovali předstih, ladili karburátor, a tak se motorku naučili opravovat. Já měl novější, značně spolehlivější, motocykl německé výroby [Simson S51](https://cs.wikipedia.org/wiki/Simson#S51), do kterého se jen lil benzín (s olejem), proto jsem se nikdy pořádně motorky spravovat nenaučil. Zato [jsem měl osmibitový počítač Commodore C64](/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html#můj-příběh). Na něm vás po spuštění přivítala příkazová řádka, čili k programování to byl jen krůček. Dnešní počítače jsou uživatelsky mnohem přívětivější, z toho důvodu je krok k programování o něco delší. Možná dnešním dětem stačí tu možnost prostě ukázat.
 
 <a href="https://commons.wikimedia.org/wiki/File:Jawa_555.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jawa_555.jpg/640px-Jawa_555.jpg" /></a>
 
 _[Jawa 555, Marek Koudelka](https://commons.wikimedia.org/wiki/File:Jawa_555.jpg) [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)_
 
-Leitmotivem loňské nekonference [jOpenSpace 2017](https://blog.zvestov.cz/software%20development/2017/10/24/jopenspace-2017.html) bylo vzdělávání dětí. Řešili jsme to takřka o každé přestávce. Úplně jsem cítil to nadšení, ale bál jsem se, aby nevyprchalo. To se naštěstí nestalo, protože jsem se hned v prosinci [zúčastnil akce Hodina kódu](https://blog.zvestov.cz/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html), která se setkala s velkým ohlasem, tak jsem se rozhodl pustit do kroužku programování. Trochu to připomíná [akci „Z“ ](https://cs.wikipedia.org/wiki/Akce_Z), ale jak bylo řečeno na [konferenci učIT jinak](https://blog.zvestov.cz/software%20development/2018/05/15/konference-ucIT-jinak.html) (a víte to nejspíš sami), výuka informatiky na českých základních školách není v nejlepší kondici (byť se to například projekt [iMyšlení](http://imysleni.cz/) snaží změnit).
+Leitmotivem loňské nekonference [jOpenSpace 2017](/software%20development/2017/10/24/jopenspace-2017.html) bylo vzdělávání dětí. Řešili jsme to takřka o každé přestávce. Úplně jsem cítil to nadšení, ale bál jsem se, aby nevyprchalo. To se naštěstí nestalo, protože jsem se hned v prosinci [zúčastnil akce Hodina kódu](/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html), která se setkala s velkým ohlasem, tak jsem se rozhodl pustit do kroužku programování. Trochu to připomíná [akci „Z“ ](https://cs.wikipedia.org/wiki/Akce_Z), ale jak bylo řečeno na [konferenci učIT jinak](/software%20development/2018/05/15/konference-ucIT-jinak.html) (a víte to nejspíš sami), výuka informatiky na českých základních školách není v nejlepší kondici (byť se to například projekt [iMyšlení](http://imysleni.cz/) snaží změnit).
 
 ## Krok první
 
@@ -47,7 +47,7 @@ Obdivuji učitelky, které mají ve třídě 32 dětí. Vůbec nechápu, jak to 
 
 Programování je mnohem víc o čtení než o psaní. Z toho důvodu není dobrý nápad si na kroužek brát prvňáky a to ani v druhém pololetí, kdy sice už zdánlivě umí číst, ale potřebujete, aby se uměli orientovat v textu a něco v něm najít. Mají s tím kolikrát problém i páťáci. Na druhou stranu alespoň vidí, jak důležité čtení je. Abych vás neodradil, můžete začít i s některými předškoláky, sám jsem zkoušel doma, ale je rozdíl, jestli se jedná o jedno dítě, kterému se naplno věnujete, nebo zda jich máte v hodině víc.
 
-Programování je bohužel takový *macho* obor. Myslím, že by nám větší přítomnost žen prospěla. Třeba [v Polsku už na tom jsou výrazně lépe](https://blog.zvestov.cz/software%20development/2018/07/30/polsky-devoxx-2018.html#Ženy). Proto mi dělá radost, že do kroužku chodí zhruba třetina holek. Vidím v tom určitou naději do budoucna.
+Programování je bohužel takový *macho* obor. Myslím, že by nám větší přítomnost žen prospěla. Třeba [v Polsku už na tom jsou výrazně lépe](/software%20development/2018/07/30/polsky-devoxx-2018.html#Ženy). Proto mi dělá radost, že do kroužku chodí zhruba třetina holek. Vidím v tom určitou naději do budoucna.
 
 Náš kroužek se sice koná v prostorách školy, ale jako mimoškolní aktivita, takže se na mě (prý) nevztahují takové ty legislativní věci jako pedagogické minimum.
 
@@ -65,7 +65,7 @@ Loni mě trochu trápila jejich motivace udělat úlohu (na jakýkoliv počet kr
 
 Byť jsou děti hrozně natěšené na počítač, snažím se na prvních zhruba deset minut věnovat aktivitám bez počítače. Zaměřuji se na rozpoznávání vzorců a opakování. Případně jsou děti v roli robota a vykonávají program, učí se tak krokovat. Inspiraci můžete hledat na stránkách [bobříka informatiky](https://www.ibobr.cz/) či [CS Unplugged](https://www.csunplugged.org).
 
-To by mi jako náplň kroužku stačilo, ale chtěl jsem ještě něco hmatatelného, čím bych mohl hodiny občas zpestřit, aby byl kroužek ještě atraktivnější. Na trhu existuje nepřeberné množství různých robotů, ale z mnoha důvodů jsem nakonec tenkrát [pro Hodinu kódu pořídil robota Meet Edison](https://blog.zvestov.cz/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html#meet-edison). Kromě toho, že je kompatibilní s legem, tak lze pořídit za rozumnou cenu 800 až 1000&nbsp;korun. Programuje se ve Scratch Junior, [nově i plnohodnotný Scratch (zatím bohužel pouze anglicky)](https://edscratchapp.com) a pro starší dokonce Python. Problém není v chybějících nástrojích, ale v didaktice. Meet Edison poskytuje nějaké materiály, z kterých jsem byl původně nadšený, ale pak jsem trochu vystřízlivěl. Stejně nezbývá, než si úlohy připravit sám, jako třeba [železniční přejezd](https://blog.zvestov.cz/software development/2018/08/20/uloha-zeleznicni-prejezd.html).
+To by mi jako náplň kroužku stačilo, ale chtěl jsem ještě něco hmatatelného, čím bych mohl hodiny občas zpestřit, aby byl kroužek ještě atraktivnější. Na trhu existuje nepřeberné množství různých robotů, ale z mnoha důvodů jsem nakonec tenkrát [pro Hodinu kódu pořídil robota Meet Edison](/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html#meet-edison). Kromě toho, že je kompatibilní s legem, tak lze pořídit za rozumnou cenu 800 až 1000&nbsp;korun. Programuje se ve Scratch Junior, [nově i plnohodnotný Scratch (zatím bohužel pouze anglicky)](https://edscratchapp.com) a pro starší dokonce Python. Problém není v chybějících nástrojích, ale v didaktice. Meet Edison poskytuje nějaké materiály, z kterých jsem byl původně nadšený, ale pak jsem trochu vystřízlivěl. Stejně nezbývá, než si úlohy připravit sám, jako třeba [železniční přejezd](/software development/2018/08/20/uloha-zeleznicni-prejezd.html).
 
 ## Čas
 
@@ -121,9 +121,9 @@ Připojíte se i vy?
 
 ## Související
 
-* [Hodina kódu s LightBot a Meet Edison](https://blog.zvestov.cz/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html)
-* [Konference učIT jinak](https://blog.zvestov.cz/software development/2018/05/15/konference-ucIT-jinak.html)
-* [Úloha železniční přejezd](https://blog.zvestov.cz/software development/2018/08/20/uloha-zeleznicni-prejezd.html)
+* [Hodina kódu s LightBot a Meet Edison](/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html)
+* [Konference učIT jinak](/software development/2018/05/15/konference-ucIT-jinak.html)
+* [Úloha železniční přejezd](/software development/2018/08/20/uloha-zeleznicni-prejezd.html)
 * [Zápisky z Robotiky - první hodiny (Ondřej Tůma)](https://zeropage.cz/a/zapisky_z_robotiky_prvni_hodiny)
-* [Štěstí nebo osobní zásluhy](https://blog.zvestov.cz/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html)
-* [jOpenSpace 2017](https://blog.zvestov.cz/software%20development/2017/10/24/jopenspace-2017.html)
+* [Štěstí nebo osobní zásluhy](/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html)
+* [jOpenSpace 2017](/software%20development/2017/10/24/jopenspace-2017.html)

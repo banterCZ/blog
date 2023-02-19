@@ -9,7 +9,7 @@ image: "/assets/2022-06-27/garmin-forerunner-945.jpeg"
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2022-06-27/garmin-forerunner-945.jpeg" /></div>
 
-Už je to [šest let, co jsem běžel maraton]((https://blog.zvestov.cz/sport/2016/06/29/jak-jsem-trenoval-na-maraton.html)), a ze vzpomínek žiju dosud.
+Už je to [šest let, co jsem běžel maraton]((/sport/2016/06/29/jak-jsem-trenoval-na-maraton.html)), a ze vzpomínek žiju dosud.
 Třeba to, že mobilní aplikace byly peklo (jak je to dnes nehodlám zjišťovat).
 Vedlo mě to k tomu, že jsem si pořídil [Garmin Forerunner 220](https://www.garmin.com/en-US/p/129397).
 Nelituji, ale uměly jen běh (změna typu aktivity se musela dělat otravně až v softwaru Garmin Connect) a především po letech dosluhovala baterka, což byl problém hlavně v zimě a při dlouhých aktivitách.
@@ -141,4 +141,4 @@ Trochu mě vypekla podpora plavání pro moje potřeby otužování v malém baz
 
 ## Související
 
-- [Jak jsem trénoval na maraton](https://blog.zvestov.cz/sport/2016/06/29/jak-jsem-trenoval-na-maraton.html)
+- [Jak jsem trénoval na maraton](/sport/2016/06/29/jak-jsem-trenoval-na-maraton.html)

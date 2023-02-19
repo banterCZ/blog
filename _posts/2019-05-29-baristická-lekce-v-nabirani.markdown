@@ -83,4 +83,4 @@ Předpokládám, že vidíte určitou podobnost mezi snahou dostat dobrou kávou
 
 ## Související
 
-- [O náboru juniorů](https://blog.zvestov.cz/software%20development/2018/01/26/o-naboru-junioru.html) 
+- [O náboru juniorů](/software%20development/2018/01/26/o-naboru-junioru.html) 

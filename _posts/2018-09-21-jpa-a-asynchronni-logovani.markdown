@@ -107,4 +107,4 @@ Dalo by se říci, že máme špatný design, ale až doposud fungoval. Proč se
 * [Vlad Mihalcea - How to implement equals and hashCode using the JPA entity identifier (Primary Key)](https://vladmihalcea.com/how-to-implement-equals-and-hashcode-using-the-jpa-entity-identifier/)
 * [The Vietnam of Computer Science](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/)
 * [Jak lépe na abstract entity v JPA](/item/137)
-* [JPA - Vazební tabulky s metadaty](https://blog.zvestov.cz/software%20development/2015/04/15/jpa-vazebni-tabulky-s-metadaty)
+* [JPA - Vazební tabulky s metadaty](/software%20development/2015/04/15/jpa-vazebni-tabulky-s-metadaty)

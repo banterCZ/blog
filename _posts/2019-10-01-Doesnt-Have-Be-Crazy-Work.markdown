@@ -7,7 +7,7 @@ disqusId: 218
 tags: [kniha]
 ---
 
-V rámci naší aktivity [společné čtení](https://blog.zvestov.cz/software%20development/2018/02/27/spolecne-cteni-knih.html) jsme sáhli po knize [It Doesn't Have to Be Crazy at Work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work-ebook/dp/B079WV79TK), kterou napsali Jason Fried a David Heinemeier Hansson, tedy ti, kteří stojí za firmou 37 Signals, respektive dnes už [Basecamp](https://basecamp.com/) se stejnojmenným produktem, [blogem Signal v. Noise](https://signalvnoise.com) a frameworkem [Ruby on Rails](https://rubyonrails.org/). Nemám v úmyslu psát recenzi, nýbrž shrnutí myšlenek, které se mi při četbě honily hlavou.
+V rámci naší aktivity [společné čtení](/software%20development/2018/02/27/spolecne-cteni-knih.html) jsme sáhli po knize [It Doesn't Have to Be Crazy at Work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work-ebook/dp/B079WV79TK), kterou napsali Jason Fried a David Heinemeier Hansson, tedy ti, kteří stojí za firmou 37 Signals, respektive dnes už [Basecamp](https://basecamp.com/) se stejnojmenným produktem, [blogem Signal v. Noise](https://signalvnoise.com) a frameworkem [Ruby on Rails](https://rubyonrails.org/). Nemám v úmyslu psát recenzi, nýbrž shrnutí myšlenek, které se mi při četbě honily hlavou.
 
 Z velké části si můžete říct, že vše v knize obsažené je přece jasné. Na druhou stranu se hodí, když to umí někdo čtivě zformulovat, přestože s některými věcmi nesouhlasím. Je hezké, že to může někde takhle pěkně fungovat. Skoro by se řeklo, že je to pohádka. Já jim to tedy věřím, ale i z pohádek se člověk může poučit. Každopádně je to zajímavý podnět k zamyšlení. Byť místy se to může zdát jako náborový leták.
 
@@ -29,7 +29,7 @@ Vyvíjejí v šestitýdenních cyklech a pak mají nějaký čas na vydýchání
 
 Jdou proti startupovým zvyklostem a nenabízí _stock options_ (opce). Platí férově a v případě prodeje firmy slibují 5 procent z ceny rozdělit mezi zaměstnance. Aha, ale oni už vlastně asi nejsou startup. Chlubí se dovolenou. Tady se ukazuje, jak je kniha americká, v Evropě si život bez dovolené nedokážeme představit. Je pravda, že jdou dál, nabízí příspěvek na dovolenou a v létě třídenní víkend.
 
-Trochu se chvástají, že jim nedělá problém nechat ležet nějaké peníze na stole, že nechtějí vymačkat citron do poslední kapky, že ten konec je stejně hořký. To se ji v jejich situaci hezky říká a já jim to přeju. Ale ne všechno je přenositelné. Balancuje-li vaše firma na hraně a ještě není stabilní, tak ta kapka může rozhodovat o její existenci. Je potřeba si uvědomit, že měli štěstí, ale štěstí přeje připraveným, ale to je na jinou úvahu: [Štěstí nebo osobní zásluhy](https://blog.zvestov.cz/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html) 
+Trochu se chvástají, že jim nedělá problém nechat ležet nějaké peníze na stole, že nechtějí vymačkat citron do poslední kapky, že ten konec je stejně hořký. To se ji v jejich situaci hezky říká a já jim to přeju. Ale ne všechno je přenositelné. Balancuje-li vaše firma na hraně a ještě není stabilní, tak ta kapka může rozhodovat o její existenci. Je potřeba si uvědomit, že měli štěstí, ale štěstí přeje připraveným, ale to je na jinou úvahu: [Štěstí nebo osobní zásluhy](/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html) 
 
 Už jste někdy dostali úkol, který je potřeba dokončit za každou cenu? Já sám nevím, ale poučen bych se zeptal, co to znamená: za každou cenu. Poskytne mi firma všechny dostupné prostředky a finance? 
 
@@ -39,13 +39,13 @@ Souhlasím s tvrzením, že nejhorší zákazník je ten, kterého si nemůžete
 
 ## Organizace a plánování
 
-Údajně nemají dlouhodobý plán, ani na rok dopředu. Přirovnávají to k lodi a drobným úpravám kurzu. Tohle je podle mě přehnané. Jste-li uprostřed širého oceánu a nevíte kam plujete, tak se můžete od pevniny naopak vzdalovat, přičemž prudké otočení kormidlem by mohlo pomoc. Stejně tak [stavbu našeho domu](https://blog.zvestov.cz/bydlen%C3%AD/2013/09/23/jak-se-stavi-dum-svepomoci.html) si bez několikaletého plánu nedokážu představit.
+Údajně nemají dlouhodobý plán, ani na rok dopředu. Přirovnávají to k lodi a drobným úpravám kurzu. Tohle je podle mě přehnané. Jste-li uprostřed širého oceánu a nevíte kam plujete, tak se můžete od pevniny naopak vzdalovat, přičemž prudké otočení kormidlem by mohlo pomoc. Stejně tak [stavbu našeho domu](/bydlen%C3%AD/2013/09/23/jak-se-stavi-dum-svepomoci.html) si bez několikaletého plánu nedokážu představit.
 
 Jestli jsem to správně pochopil, tak si nepotrpí na konsensu a přesvědčování. Chce to spíš někoho, kdo se dané věci chopí a dotáhne ji do konce.
 
 Zdá se mi, že nepřipouští diskusi ohledně velikost týmu. Pro ně je magické číslo tři. Přitom armáda má jako základní jednotku [střelecký tým](https://cs.wikipedia.org/wiki/Fireteam) se čtyřmi členy, skautká družina je šestka. Jistě by se dalo hledat inspiraci i jinde.
 
-Shodnu se s nimi na tom, že [práce není druhá rodina](https://blog.zvestov.cz/software%20development/2013/05/08/prace-neni-druha-rodina.html). Určitě je potřeba s lidmi v práci vycházet, ale pokud se firma prezentuje, že my jsme tady rodina, tak je to varovné znamení. Možná chtějí, abyste se pro ně obětovali. Bude to ovšem jednostranné, protože: Obětuje se firma pro vás?
+Shodnu se s nimi na tom, že [práce není druhá rodina](/software%20development/2013/05/08/prace-neni-druha-rodina.html). Určitě je potřeba s lidmi v práci vycházet, ale pokud se firma prezentuje, že my jsme tady rodina, tak je to varovné znamení. Možná chtějí, abyste se pro ně obětovali. Bude to ovšem jednostranné, protože: Obětuje se firma pro vás?
 
 > NO PAIN, NO GAIN!
 

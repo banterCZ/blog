@@ -10,7 +10,7 @@ image: "/assets/2021-06-22/289283.png"
 
 <div style="float: left; margin: 0.5em 1em 0.5em 0em; text-align: center;"><img src="/assets/2021-06-22/289283.png" /></div>
 
-[Konference](https://blog.zvestov.cz/tag/konference/) pokračují, covidu navzdory, alespoň online. Tentokrát přináším pár poznámek z konference 
+[Konference](/tag/konference/) pokračují, covidu navzdory, alespoň online. Tentokrát přináším pár poznámek z konference 
 [Internet a Technologie (21)](https://www.nic.cz/it21/) (ze dne 10. června 2021) věnované eIdentitám a autentizační službě mojeID. Za konferencí i za službou stojí sdružení CZ.NIC.
 
 <div style="clear:both"></div>
@@ -20,7 +20,7 @@ image: "/assets/2021-06-22/289283.png"
 
 Jak ten čas letí. Služba [mojeID](https://www.mojeid.cz) pro správu internetové identity a možností přihlášení, je tu s námi již od roku 2010. Účet jsem si tam zřizoval dávno (už nedohledám kdy), ale nebyla pro mě moc zajímavá. Pro registraci a přihlášení do různých služeb jsem používal převážně svůj google účet. Což se výrazně změnilo s [eIdentitou](https://www.eidentita.cz), protože mojeID poskytuje prostředky pro elektronickou identifikaci s úrovní záruky „značná“.
 
-O FIDO hardwarové klíči už jsem psal v [Cyb3r Days 2020](https://blog.zvestov.cz/software%20development/2020/11/16/cyb3r-days-2020.html#autentizační-metody-odolné-phishingu-michael-grafnetter). MojeID rozdávali hardwarové tokeny „zdarma“. Už jich je 25 tisíc aktivovaných, 5 tisíc zatím stále ne. V podmínkách bylo, že je aktivovat musíte, ale zatím to nevypadá, že by je po vás chtěli vracet.
+O FIDO hardwarové klíči už jsem psal v [Cyb3r Days 2020](/software%20development/2020/11/16/cyb3r-days-2020.html#autentizační-metody-odolné-phishingu-michael-grafnetter). MojeID rozdávali hardwarové tokeny „zdarma“. Už jich je 25 tisíc aktivovaných, 5 tisíc zatím stále ne. V podmínkách bylo, že je aktivovat musíte, ale zatím to nevypadá, že by je po vás chtěli vracet.
 
 MojeID mělo svoji mobilní autentizační aplikaci, ta už dožívá (nově ji nejde přidat, ale stále funguje). Ovšem [uvedli novou aplikaci MojeID Klíč pro dvoufaktorovou autentizaci](https://www.lupa.cz/aktuality/cz-nic-spustil-aplikaci-mojeid-klic-pro-dvoufaktorovou-autentizaci-k-mojeid/) od společnosti [Wultra](https://www.wultra.com/). Vřele doporučuji. Podle mě hlavní výhodou oproti hardwarovému tokenu [GoTrust Idem Key](https://www.czc.cz/gotrust-idem-key-usb-nfc-bezpecnostni-klic/306894/produkt) je v to, že vidíte, jaký požadavek autorizujete a jen slepě nepotvrzujete. Samozřejmě se sluší přiznat, že jsem zaujatý, protože s Petrem Dvořákem spolupracuji na realizaci jejich řešení v bankovním sektoru.
 
@@ -28,7 +28,7 @@ Kdo se těšil na nativní [FIDO](https://fidoalliance.org/) do všech mobilníc
 
 ## eIdentita
 
-Třeba někomu křivdím, ale české elektronické občanky jsem ze svého repertoáru vytěsnil. Manželka má občanku s čipem, netuší která bije (na úřadě prý „nějaký” pin zadávala, ale řekli jí, že je k ničemu). Protože jsem [praštěný z předchozích projektů](https://blog.zvestov.cz/software%20development/2015/12/15/jak-funguje-biometricky-pas.html), tak mám čtečku, což je podmínka nutná, nikoliv dostačující. Čtvrt hodiny (to není omezení mojí linky) stahuju 167 MB middleware (milé překvapení, že vůbec funguje na Macu), abych zjistil, že „IOK není inicializován”.
+Třeba někomu křivdím, ale české elektronické občanky jsem ze svého repertoáru vytěsnil. Manželka má občanku s čipem, netuší která bije (na úřadě prý „nějaký” pin zadávala, ale řekli jí, že je k ničemu). Protože jsem [praštěný z předchozích projektů](/software%20development/2015/12/15/jak-funguje-biometricky-pas.html), tak mám čtečku, což je podmínka nutná, nikoliv dostačující. Čtvrt hodiny (to není omezení mojí linky) stahuju 167 MB middleware (milé překvapení, že vůbec funguje na Macu), abych zjistil, že „IOK není inicializován”.
 
 > S novými občankami je spojeno až šest různých číselných kódů (PINů).
 
@@ -74,5 +74,5 @@ Abych nekončil negativně. Podle mě eIdentita funguje. Bankovní identita ji m
 
 ## Související
 
-- [Cyb3r Days 2020](https://blog.zvestov.cz/software%20development/2020/11/16/cyb3r-days-2020.html)
-- [Jak funguje biometrický pas](https://blog.zvestov.cz/software%20development/2015/12/15/jak-funguje-biometricky-pas.html)
+- [Cyb3r Days 2020](/software%20development/2020/11/16/cyb3r-days-2020.html)
+- [Jak funguje biometrický pas](/software%20development/2015/12/15/jak-funguje-biometricky-pas.html)

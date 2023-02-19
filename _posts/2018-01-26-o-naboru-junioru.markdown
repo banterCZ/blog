@@ -9,7 +9,7 @@ image: "/assets/2018-01-26/Interview-Without-Speech-Bubbles.png"
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-01-26/Interview-Without-Speech-Bubbles.png" /></div>
 
-[Před rokem jsem hledal práci](https://blog.zvestov.cz/software%20development/2016/10/17/zprava-o-stavu-IT-trhu.html), teď občas bývám u pohovorů na druhé straně. [Mám rád junior programátory](https://blog.zvestov.cz/software%20development/2013/01/07/proc-mit-na-projektu-junior-programatory.html), pamatuji si, že i já byl takový a bylo o mě dobře postaráno, tak bych to rád vracel. Chtěl bych se podělit o své zážitky, protože jsem byl bohužel z několika kandidátů zklamaný. Myslím, že by mé poznámky mohly některým pomoct s přípravou. Mohli by lépe využít svého potenciálu, abych je příště nemusel odmítnout.
+[Před rokem jsem hledal práci](/software%20development/2016/10/17/zprava-o-stavu-IT-trhu.html), teď občas bývám u pohovorů na druhé straně. [Mám rád junior programátory](/software%20development/2013/01/07/proc-mit-na-projektu-junior-programatory.html), pamatuji si, že i já byl takový a bylo o mě dobře postaráno, tak bych to rád vracel. Chtěl bych se podělit o své zážitky, protože jsem byl bohužel z několika kandidátů zklamaný. Myslím, že by mé poznámky mohly některým pomoct s přípravou. Mohli by lépe využít svého potenciálu, abych je příště nemusel odmítnout.
 
 <!--more-->
 
@@ -35,13 +35,13 @@ Pošlete odkaz na svůj LinkedIn profil, chci si ověřit reference a zjistit, j
 
 Předně posílejte odkazy na bakalářky a diplomky, chci je vidět. Je to něco, na čem jste intenzivně pracovali, tak se tím, sakra, pochlubte.
 
-[O domácí úkolu už jsem psal](https://blog.zvestov.cz/software%20development/2016/10/17/zprava-o-stavu-it-trhu#domácí-úkoly), ale hodí se některé věci zopakovat a zdůraznit. Kód musí jít zkompilovat a spustit. Měl by splnit zadání. Ukliďte po sobě a nenechávejte tam zakomentovaný kód. Těším se na commity, abych viděl, jak přemýšlíte, ale častým nešvarem je, že je celý úkol commitnutý najednou.
+[O domácí úkolu už jsem psal](/software%20development/2016/10/17/zprava-o-stavu-it-trhu#domácí-úkoly), ale hodí se některé věci zopakovat a zdůraznit. Kód musí jít zkompilovat a spustit. Měl by splnit zadání. Ukliďte po sobě a nenechávejte tam zakomentovaný kód. Těším se na commity, abych viděl, jak přemýšlíte, ale častým nešvarem je, že je celý úkol commitnutý najednou.
 
 ## Vzdělávání
 
 Zajímá mě, jak a z čeho se učíte.
 
-V příspěvku [Programátorem po čtyřicítce](https://blog.zvestov.cz/software%20development/2016/05/26/programatorem-po-ctyricitce.html#4-nepřestávejte-se-učit) se píše, abyste četli alespoň 6 knih za rok. Přijde mi, že lidi nečtou (jako vůbec), skřípu zuby, ale budiž. Já zase nepřispívám do open source projektů, což by zase mohli rozporovat jiní.
+V příspěvku [Programátorem po čtyřicítce](/software%20development/2016/05/26/programatorem-po-ctyricitce.html#4-nepřestávejte-se-učit) se píše, abyste četli alespoň 6 knih za rok. Přijde mi, že lidi nečtou (jako vůbec), skřípu zuby, ale budiž. Já zase nepřispívám do open source projektů, což by zase mohli rozporovat jiní.
 
 Nevadí, jmenujte nějaký podcast, youtube kanál nebo blog (tím nemyslím, abyste podlézali a řekli ten můj). A víte, co místo toho slyším? „Učím se ze StackOverflow.“ Taky tam chodím několikrát denně řešit svoje problémy, ale spíš bych čekal, že sáhnete po nějaké knize jako třeba Hibernate in Action, Pro Git nebo dokumentaci Springu a systematicky začnete studovat jedno téma víc do hloubky.
 
@@ -57,7 +57,7 @@ Jak se stavíte k náboru juniorů vy? Jste junior a zdá se vám moje požadavk
 
 ## Související
 
-* [Zpráva o stavu IT trhu](https://blog.zvestov.cz/software%20development/2016/10/17/zprava-o-stavu-IT-trhu.html)
-* [Proč mít na projektu junior programátory](https://blog.zvestov.cz/software%20development/2013/01/07/proc-mit-na-projektu-junior-programatory.html)
-* [Otázky u pohovoru](https://blog.zvestov.cz/software%20development/2012/11/14/otazky-u-pohovoru.html)
-* [Nebezpečí Java škol](https://blog.zvestov.cz/software%20development/2015/05/27/nebezpeci-java-skol.html)
+* [Zpráva o stavu IT trhu](/software%20development/2016/10/17/zprava-o-stavu-IT-trhu.html)
+* [Proč mít na projektu junior programátory](/software%20development/2013/01/07/proc-mit-na-projektu-junior-programatory.html)
+* [Otázky u pohovoru](/software%20development/2012/11/14/otazky-u-pohovoru.html)
+* [Nebezpečí Java škol](/software%20development/2015/05/27/nebezpeci-java-skol.html)

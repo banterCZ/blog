@@ -9,7 +9,7 @@ image: "/assets/2022-09-27/296899.png"
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2022-09-27/296899.png" /></div>
 
-[Zpětná kompatibilita](https://blog.zvestov.cz/software%20development/2019/12/09/zpetna-kompatibilita.html) je něco, co mě poslední roky na jednu stranu děsilo, ale na druhou stranu i bavilo (protože překonávání překážek).
+[Zpětná kompatibilita](/software%20development/2019/12/09/zpetna-kompatibilita.html) je něco, co mě poslední roky na jednu stranu děsilo, ale na druhou stranu i bavilo (protože překonávání překážek).
 Například přidání argumentu do konstruktoru je binárně zpětně nekompatibilní změna, musíte totiž současně zachovávat i ty již existující.
 Při druhém a dalším přidání `@Deprecated` si začínáte uvědomovat, že tudy cesta nevede.
 Jedním z nástrojů, který člověka dokáže vytáhnout z bryndy, je _builder_.
@@ -31,7 +31,7 @@ Použití POJO a _setterů_ vyžaduje více volání, během kterých lze obtí�
 
 A teleskopické nejsou jen konstruktory, ale i metody.
 Změna signatury metody je pochopitelně binárně zpětně nekompatibilní.
-Možná i proto [Uncle Bob v knize Clean Code](https://blog.zvestov.cz/software%20development/2016/07/28/clean-code.html) prosazoval monadické funkce.
+Možná i proto [Uncle Bob v knize Clean Code](/software%20development/2016/07/28/clean-code.html) prosazoval monadické funkce.
 Funkce s jediným parametrem, který se vytváří přes builder, je lábuž nejen z pohledu zpětné kompatibility.
 
 Ukažme si to na vyumělkovaném příkladu.
@@ -321,6 +321,6 @@ Neříkám, že sám tento přístup slepě razím všude, ale zkuste se nad tí
 
 ## Související
 
-- [Úskalí API](https://blog.zvestov.cz/software%20development/2021/04/28/uskali-api)
-- [Zpětná kompatibilita](https://blog.zvestov.cz/software%20development/2019/12/09/zpetna-kompatibilita.html)
-- [Clean Code](https://blog.zvestov.cz/software%20development/2016/07/28/clean-code.html)
+- [Úskalí API](/software%20development/2021/04/28/uskali-api)
+- [Zpětná kompatibilita](/software%20development/2019/12/09/zpetna-kompatibilita.html)
+- [Clean Code](/software%20development/2016/07/28/clean-code.html)

@@ -83,7 +83,7 @@ To by mohlo pomoc rozdělit samostatné hodiny na práci s modelem od použití 
 
 ## Alternativa
 
-V [kroužku programování](https://blog.zvestov.cz/tag/krou%C5%BEek-programov%C3%A1n%C3%AD) hojně využívám materiály [code.org](https://code.org).
+V [kroužku programování](/tag/krou%C5%BEek-programov%C3%A1n%C3%AD) hojně využívám materiály [code.org](https://code.org).
 Můžu vřele doporučit jejich lekci [Umělá inteligence pro oceány](https://code.org/oceans),
 která názorně ukazuje [strojového učení (konkrétně učení s učitelem)](https://cs.wikipedia.org/wiki/U%C4%8Den%C3%AD_s_u%C4%8Ditelem).
 
@@ -99,5 +99,5 @@ Do komentářů s ním.
 
 ## Související
 
-- [Konference Scratch Around the World](https://blog.zvestov.cz/software%20development/2021/08/02/Scratch-Around-the-World.html)
+- [Konference Scratch Around the World](/software%20development/2021/08/02/Scratch-Around-the-World.html)
 - [Machine Learning - Coursera, Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)

@@ -8,7 +8,7 @@ image: "/assets/2018-07-30/devoxx_logo.png"
 tags: [konference]
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-07-30/devoxx_logo.png" /></div> Loni se mi líbilo na [pražském GeeCONu](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html) a říkal jsem si, zda příště nevyrazím na polskou, mateřskou akci. Do Polska jsem se nakonec dostal, ovšem na jinou konferenci a to [Devoxx](https://devoxx.com/) v Krakově. Papírový blok člověk jednou ztratí, ale hlavně si potřebuju utřídit myšlenky, protože za tři dny jsem toho slyšel opravdu hodně. Poznámky jsem si psal průběžně, protože zážitky z jedné přednášky přebijí zážitky z té předchozí a druhý den pomalu nevíte, co jste slyšeli ten první.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-07-30/devoxx_logo.png" /></div> Loni se mi líbilo na [pražském GeeCONu](/software%20development/2017/11/27/geecon-2017.html) a říkal jsem si, zda příště nevyrazím na polskou, mateřskou akci. Do Polska jsem se nakonec dostal, ovšem na jinou konferenci a to [Devoxx](https://devoxx.com/) v Krakově. Papírový blok člověk jednou ztratí, ale hlavně si potřebuju utřídit myšlenky, protože za tři dny jsem toho slyšel opravdu hodně. Poznámky jsem si psal průběžně, protože zážitky z jedné přednášky přebijí zážitky z té předchozí a druhý den pomalu nevíte, co jste slyšeli ten první.
 
 <div style="clear:both"></div>
 <!--more-->
@@ -62,7 +62,7 @@ V tomhle bloku jsem si nedokázal vybrat, tak jsem náhodně zašel na diskusi s
 
 ### Lean WebApps with Skinny Miniservices (Adam Bien)
 
-Loni v Praze [na GeeCONu ukazoval Adam Bien jak napsat minimalistickou aplikaci pomocí Jakarta](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html#built-to-last-and-the-end-of-migrations-adam-bien). Letos šel ještě dál a přišel s mikroprofily. Vytvořil aplikaci o velikosti 7,5&nbsp;kB, kterou spouštěl na serveru [Payara](https://www.payara.fish). Na [Wildfly by to taky mohlo fungovat](http://wildfly-swarm.io/posts/microprofile-with-wildfly-swarm/). Mikroprofily by měly být inkubátorem Jakarty, takže se rychleji dostanete k novinkám.
+Loni v Praze [na GeeCONu ukazoval Adam Bien jak napsat minimalistickou aplikaci pomocí Jakarta](/software%20development/2017/11/27/geecon-2017.html#built-to-last-and-the-end-of-migrations-adam-bien). Letos šel ještě dál a přišel s mikroprofily. Vytvořil aplikaci o velikosti 7,5&nbsp;kB, kterou spouštěl na serveru [Payara](https://www.payara.fish). Na [Wildfly by to taky mohlo fungovat](http://wildfly-swarm.io/posts/microprofile-with-wildfly-swarm/). Mikroprofily by měly být inkubátorem Jakarty, takže se rychleji dostanete k novinkám.
 
 Opět vyzdvihuji jeho práci s publikem. V Praze postavil svůj příklad na Krtečkovi, v Krakově na drakovi.
 
@@ -98,7 +98,7 @@ Jako milé zpestření mi přišla společná rozcvička na úvod.
 
 ## Ženy
 
-Už na [loňském GeeCONu jsem si všiml](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html#návštěvníci), že na české poměry je tam dost žen. Na Devoxx bylo jejich zastoupení ještě lepší a to i mezi přednášejícími. Poslední den jsem se nakonec osmělil a dal se s jednou do řeči na téma, jak to v Polsku dokázali. Není to reprezentativní vzorek, nicméně údajně je to tak, že z části tam přecházejí ženy z jiných technických oborů (jako stavební inženýrství), protože v IT je víc práce (nejspíš to tedy začalo krizí ve stavebnictví) a až čtyřikrát vyšší platy. Firmy mají intenzivní tréninkové plány a i naprosté nováčky si vyškolí. Mezi současnými studenty je v Polsku už výrazně víc studentek než dřív. (Do komentářů mi, prosím, připište, pokud víte, jak jsou na tom dnes české vysoké školy.)
+Už na [loňském GeeCONu jsem si všiml](/software%20development/2017/11/27/geecon-2017.html#návštěvníci), že na české poměry je tam dost žen. Na Devoxx bylo jejich zastoupení ještě lepší a to i mezi přednášejícími. Poslední den jsem se nakonec osmělil a dal se s jednou do řeči na téma, jak to v Polsku dokázali. Není to reprezentativní vzorek, nicméně údajně je to tak, že z části tam přecházejí ženy z jiných technických oborů (jako stavební inženýrství), protože v IT je víc práce (nejspíš to tedy začalo krizí ve stavebnictví) a až čtyřikrát vyšší platy. Firmy mají intenzivní tréninkové plány a i naprosté nováčky si vyškolí. Mezi současnými studenty je v Polsku už výrazně víc studentek než dřív. (Do komentářů mi, prosím, připište, pokud víte, jak jsou na tom dnes české vysoké školy.)
 
 ## Závěr
 
@@ -110,4 +110,4 @@ Byť můžete mít výhrady k tomu, jak Poláci řídí (stylem první nebo mrtv
 
 ## Související
 
-* [Pražský GeeCON 2017](https://blog.zvestov.cz/software%20development/2017/11/27/geecon-2017.html)
+* [Pražský GeeCON 2017](/software%20development/2017/11/27/geecon-2017.html)

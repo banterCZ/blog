@@ -68,4 +68,4 @@ Je-li abstrakce nesprávná, je nejrychlejší cestou vpřed krok vzad. To není
 ## Související
 
 - Sandi Metz je autorkou knihy [99 Bottles of OOP](https://www.sandimetz.com/99bottles), [recenze na goodreads](https://www.goodreads.com/book/show/31183020-99-bottles-of-oop)
-- [Zpětná kompatibilita](https://blog.zvestov.cz/software%20development/2019/12/09/zpetna-kompatibilita.html)
+- [Zpětná kompatibilita](/software%20development/2019/12/09/zpetna-kompatibilita.html)

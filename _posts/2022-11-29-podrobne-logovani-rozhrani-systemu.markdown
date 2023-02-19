@@ -189,4 +189,4 @@ A jak to řešíte vy (tedy pokud vám tam nedovolili napíchnout [Wireshark](ht
 
 - [Spring RestTemplate Request/Response Logging](https://www.baeldung.com/spring-resttemplate-logging)
 - [Logging Spring WebClient Calls](https://www.baeldung.com/spring-log-webclient-calls)
-- [Poznatky z logování](https://blog.zvestov.cz/software%20development/2022/04/29/poznatky-z-logovani.html)
+- [Poznatky z logování](/software%20development/2022/04/29/poznatky-z-logovani.html)

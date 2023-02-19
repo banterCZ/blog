@@ -11,7 +11,7 @@ image: "/assets/2020-11-16/1549143844.png"
 
 Jak jsem vnímal českou konferenci etického hackingu [Cyb3r Days 2020](https://www.cyb3r-days.com/) a co jsem si odnesl?
 
-Kecám do všeho možného, trochu i do bezpečnosti, viz třeba můj poslední příspěvek [pomalý SecureRandom](https://blog.zvestov.cz/software%20development/2020/10/19/pomaly-SecureRandom.html). Ne že bych bezpečnosti extra rozuměl, ale spíš mě její opomíjení znepokojuje. Takže jsem byl nominovaný, abych se zúčastnil. Samozřejmě mi bylo jasné, že opět trochu přiživím svoji paranoiu.
+Kecám do všeho možného, trochu i do bezpečnosti, viz třeba můj poslední příspěvek [pomalý SecureRandom](/software%20development/2020/10/19/pomaly-SecureRandom.html). Ne že bych bezpečnosti extra rozuměl, ale spíš mě její opomíjení znepokojuje. Takže jsem byl nominovaný, abych se zúčastnil. Samozřejmě mi bylo jasné, že opět trochu přiživím svoji paranoiu.
 
 <div style="clear:both"></div>
 <!--more-->

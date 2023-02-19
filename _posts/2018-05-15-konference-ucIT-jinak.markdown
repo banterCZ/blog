@@ -103,6 +103,6 @@ _tiskárna z Lega_
 
 ## Související
 
-* [Hodina kódu s LightBot a Meet Edison](https://blog.zvestov.cz/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html)
-* [Jak vidím české základní školství](https://blog.zvestov.cz/k%20zamy%C5%A1len%C3%AD/2018/04/29/jak-vidim-ceske-zakladni-skolstvi.html)
+* [Hodina kódu s LightBot a Meet Edison](/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html)
+* [Jak vidím české základní školství](/k%20zamy%C5%A1len%C3%AD/2018/04/29/jak-vidim-ceske-zakladni-skolstvi.html)
 * [Skautská odborka Ajťák / Ajťačka](https://odborky.skaut.cz/ajtak/)

@@ -102,7 +102,7 @@ Proč ne, kurz jsem nezkoušel, ale určitě bych ho nezatracoval.
 ## Měření
 
 Moje analytická mysl je posedlá měřením.
-Ostatně otužování byl důvod, proč jsem si koupil [Garmin Forerunner 945](https://blog.zvestov.cz/sport/2022/06/27/rok-s-Garmin-Forerunner-945.html), staré hodinky totiž měřit ve vodě nezvládly.
+Ostatně otužování byl důvod, proč jsem si koupil [Garmin Forerunner 945](/sport/2022/06/27/rok-s-Garmin-Forerunner-945.html), staré hodinky totiž měřit ve vodě nezvládly.
 Zajímalo mě, jaký vliv má studené voda na můj tep.
 Níže je záznam z jednoho plavání v ledové vodě.
 Údaj o teplotě je nespolehlivý, protože se bere ze zápěstí.
@@ -125,5 +125,5 @@ Rozhodně v zimě na běhání nosím o vrstvu méně než dříve.
 
 ## Související
 
-- [Rok s Garmin Forerunner 945](https://blog.zvestov.cz/sport/2022/06/27/rok-s-Garmin-Forerunner-945.html)
-- [Freediving](https://blog.zvestov.cz/sport/2008/07/21/freediving.html)
+- [Rok s Garmin Forerunner 945](/sport/2022/06/27/rok-s-Garmin-Forerunner-945.html)
+- [Freediving](/sport/2008/07/21/freediving.html)

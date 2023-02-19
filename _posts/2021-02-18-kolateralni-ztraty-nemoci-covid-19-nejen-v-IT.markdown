@@ -44,7 +44,7 @@ V první řadě je to důvěra běžných uživatelů, která doposud jistě neb
 
 Řekněme taková registrace k očkování. Jako občan jsem vytočený, že to nefunguje. Jako člověka z IT mě uráží, jaký stín to na nás vrhá. Tím nechci tvrdit, že to programovali lemplové. Chyba byla už v zadání. Nejspíš ani nelze napsat tak robustní systém (za rozumné peníze), který by obsloužil všechny naráz. Divím se, že u systému _kdo dřív přijde, ten dřív mele_ se někdo diví, že se přihlásí tolik lidí najednou. Ostatně obdobný problém je i s podáváním žádostí o některé dotace. Místo toho, aby stát všechny žádosti sesbíral a vyhodnotil, tak to bere jako závod v podání. Druhá věc (a o tom více i později) je, že občan musel vyvinout nějakou aktivitu, přestože stát informace má. Mohl je oslovovat například skrz pojišťovny. Dalo by se jistě vymyslet spoustu lepších a levnějších funkčních řešení. A v neposlední řadě je to časový harmonogram. Rok čekáme na vakcínu, ale systém začneme připravovat dva týdny předem. 
 
-Stojí za připomenutí zamyšlení o etice naší profese [Úvod do profese](https://blog.zvestov.cz/software%20development/2016/03/07/uvod-do-profese.html). Nechci se morálně vyvyšovat nad ty, kteří systém psali, ale sám se zamýšlím nad tím, jak bych se zachoval na jejich místě, zda bych byl dostatečně statečný na to, abych praštil do stolu, že tohle programovat teda nebudu. Zda bych se zachoval jako profesionál nebo jako dělník, který to dostal příkazem.
+Stojí za připomenutí zamyšlení o etice naší profese [Úvod do profese](/software%20development/2016/03/07/uvod-do-profese.html). Nechci se morálně vyvyšovat nad ty, kteří systém psali, ale sám se zamýšlím nad tím, jak bych se zachoval na jejich místě, zda bych byl dostatečně statečný na to, abych praštil do stolu, že tohle programovat teda nebudu. Zda bych se zachoval jako profesionál nebo jako dělník, který to dostal příkazem.
 
 ### Bezpečnostní návyky
 
@@ -71,4 +71,4 @@ Vzhledem k lidským obětem se můžou zdát nedostatky IT a nedůvěra v něj b
 
 ## Související
 
-- [Úvod do profese](https://blog.zvestov.cz/software%20development/2016/03/07/uvod-do-profese.html)
+- [Úvod do profese](/software%20development/2016/03/07/uvod-do-profese.html)

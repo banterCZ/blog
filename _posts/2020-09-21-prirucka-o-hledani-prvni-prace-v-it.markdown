@@ -43,14 +43,14 @@ Zároveň je mi líto, že žen máme v našem oboru pořád málo. Tohle téma 
 
 > obecně jsou do juniorů ochotny investovat spíše větší firmy, které na to mají jak finance, tak zázemí
 
-Taky by to šlo říct tak, že větší firmy mají větší setrvačnost. Což je výhoda i nevýhoda. Výhoda v tom, že je nějaká drobná krize nesemele, ale ve velké něco změnit nemusí být vždy možné. V příspěvku [Štěstí nebo osobní zásluhy](https://blog.zvestov.cz/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html) jsem vzpomínal na svoje začátky v
+Taky by to šlo říct tak, že větší firmy mají větší setrvačnost. Což je výhoda i nevýhoda. Výhoda v tom, že je nějaká drobná krize nesemele, ale ve velké něco změnit nemusí být vždy možné. V příspěvku [Štěstí nebo osobní zásluhy](/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html) jsem vzpomínal na svoje začátky v
 Simple Way, firmě tehdy asi o čtyřech lidech. Osobně si myslím, že ve velké firmě by se mi nepodařilo tak rychle vyrůst. Jistě, jediná zkušenost není reprezentativní vzorek. Ve velké firmě bývá omezení, jak moc se může za rok povýšit a kolik peněz vám můžou přidat. Ad absurdum je někdy snazší dát výpověď a jednou se vrátit (pokud to ovšem politika firmy umožňuje)
 
 U produktové firmy bych neřekl stereotyp, ale občas mě zamrzí, že to nemůžu sekat jako Baťa cvičky, o nejnovější Javě ani nemluvě. Výhodou a zároveň i nevýhodou je, že všechno je potřeba zvažovat v dlouhodobém horizontu. Špatná zkratka se ti vymstí několikanásobně. Dneska nevím, jestli bych juniorům produktovou firmu doporučoval. Asi záleží, k čemu se dostanou.
 
 Digitální agentury a *body shopping* se mi zdají vylíčené negativně, ale zpětně viděno mi to hodně dalo, protože neustálá změna projektů a prostředí znamená spoustu podnětů.
 
-Líbí se mi, že o neplacená stáži mluví jako o věci na hranici zákona i etiky. Stává se to tedy i mazákům, viz překlad [Programátorem po čtyřicítce](https://blog.zvestov.cz/software%20development/2016/05/26/programatorem-po-ctyricitce.html), ale pro ty to bývá snazší odmítnou. Osobně taky doporučuji na neplacené stáže nenastupovat (proto jsem byl rád, že v AspectWorks jsme měli pro studenty stáže placené).
+Líbí se mi, že o neplacená stáži mluví jako o věci na hranici zákona i etiky. Stává se to tedy i mazákům, viz překlad [Programátorem po čtyřicítce](/software%20development/2016/05/26/programatorem-po-ctyricitce.html), ale pro ty to bývá snazší odmítnou. Osobně taky doporučuji na neplacené stáže nenastupovat (proto jsem byl rád, že v AspectWorks jsme měli pro studenty stáže placené).
 
 U startupů jsem se osobně ptal na kolik měsíců dopředu mají peníze na výplaty.
 
@@ -76,6 +76,6 @@ Příručka o hledání první práce v IT je velmi povedená. Mohu ji doporuči
 
 ## Související
 
-- [Štěstí nebo osobní zásluhy](https://blog.zvestov.cz/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html)
-- [Zpráva o stavu IT trhu](https://blog.zvestov.cz/software%20development/2016/10/17/zprava-o-stavu-it-trhu)
-- [O náboru juniorů](https://blog.zvestov.cz/software%20development/2018/01/26/o-naboru-junioru.html)
+- [Štěstí nebo osobní zásluhy](/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html)
+- [Zpráva o stavu IT trhu](/software%20development/2016/10/17/zprava-o-stavu-it-trhu)
+- [O náboru juniorů](/software%20development/2018/01/26/o-naboru-junioru.html)

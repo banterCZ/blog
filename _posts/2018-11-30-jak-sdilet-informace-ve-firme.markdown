@@ -46,4 +46,4 @@ Dnes se všichni zaklínají plochou strukturou, ale při případném růstu, j
 ## Související
 
 * [Moje vývojářské newslettery aneb kontext v distribuovaném týmu (Roman Pichlík)](https://medium.com/zonky-developers/moje-v%C3%BDvoj%C3%A1%C5%99sk%C3%A9-newslettery-aneb-kontext-v-distribuovan%C3%A9m-t%C3%BDmu-25054e590d8c)
-* [Bus faktor v praxi](https://blog.zvestov.cz/software%20development/2016/11/22/bus-faktor-v-praxi.html)
+* [Bus faktor v praxi](/software%20development/2016/11/22/bus-faktor-v-praxi.html)

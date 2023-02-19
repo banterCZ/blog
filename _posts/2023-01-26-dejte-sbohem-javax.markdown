@@ -14,7 +14,7 @@ Jednou za čas dostanu uklízecí mánii.
 Tentokrát mě k tomu dokopal _aplikáč_, kde nefungovalo něco, co v pohodě běželo na _servlet containeru_.
 Odpustím si plivání síry, protože pořádek v tom úplně nebyl. 
 Problém měl dvě části.
-Kdysi už jsem psal o tom, že věci jako [servlet API do waru nepatří](https://blog.zvestov.cz/software%20development/2015/08/19/jak-je-velky-vas-war.html).
+Kdysi už jsem psal o tom, že věci jako [servlet API do waru nepatří](/software%20development/2015/08/19/jak-je-velky-vas-war.html).
 To je sice poměrně jasné, ale i tak se člověk dokáže nachytat.
 Pak je tu trochu větší past a to, že [Java EE (aka javax) je mrtvá, nově už jako Jakarta EE](https://blogs.oracle.com/javamagazine/post/transition-from-java-ee-to-jakarta-ee). 
 
@@ -125,6 +125,6 @@ Ukázali jsme si, jak můžete nakonfigurovat _maven plugin_, který vám závis
 
 ## Související
 
-- [Jak velký je váš war](https://blog.zvestov.cz/software%20development/2015/08/19/jak-je-velky-vas-war.html)
+- [Jak velký je váš war](/software%20development/2015/08/19/jak-je-velky-vas-war.html)
 - [Transition from Java EE to Jakarta EE](https://blogs.oracle.com/javamagazine/post/transition-from-java-ee-to-jakarta-ee)
-- [Konflikt tranzitivních závislostí](https://blog.zvestov.cz/software%20development/2015/04/29/konflikt-tranzitivnich-zavislosti.html)
+- [Konflikt tranzitivních závislostí](/software%20development/2015/04/29/konflikt-tranzitivnich-zavislosti.html)

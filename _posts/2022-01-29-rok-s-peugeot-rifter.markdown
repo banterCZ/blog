@@ -106,7 +106,7 @@ Byť jsem některé aspekty silně kritizoval, celkově jsem s autem Peugeot Rif
 
 ## Související
 
-- [Tisíc kilometrů s Peugeot 5008](https://blog.zvestov.cz/obecn%C3%A9/2020/12/02/tisic-kilometru-s-peugeot-5008.html)
+- [Tisíc kilometrů s Peugeot 5008](/obecn%C3%A9/2020/12/02/tisic-kilometru-s-peugeot-5008.html)
 - [Motory skupiny PSA 1.0 VTi, 1.2 VTi a 1.2 PureTech. Opravdu je tříválec zlo?](https://www.auto.cz/motory-skupiny-psa-1-0-vti-1-2-vti-a-1-2-puretech-opravdu-je-trivalec-zlo-123376)
 - [Jaký má systém start-stop dlouhodobý dopad na životnost motoru vašeho auta?](https://www.autoforum.cz/zivot-ridice/jaky-ma-system-start-stop-dlouhodoby-dopad-na-zivotnost-motoru-vaseho-auta/)
 - [Smutný příběh se Sharanem](https://www.facebook.com/tatar.kralupy/posts/1050488622151507)

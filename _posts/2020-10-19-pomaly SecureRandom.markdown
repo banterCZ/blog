@@ -20,7 +20,7 @@ O co šlo? Přišla chyba, že vygenerovat dočasné heslo trvá 90 vteřin.
 
 ## Prvotní průzkum
 
-Protože sedím v [produktové části firmy](https://blog.zvestov.cz/software%20development/2019/10/22/servisni-versus-produktova-firma.html), tak je prvním krokem zjistit, zda se jedná o produktový nebo až projektový kód.  
+Protože sedím v [produktové části firmy](/software%20development/2019/10/22/servisni-versus-produktova-firma.html), tak je prvním krokem zjistit, zda se jedná o produktový nebo až projektový kód.  
 
 Mojí noční můrou opravy bugů je, když mi dojdou hypotézy. První myšlenka, ještě než jsem viděl logy, byla ohledně hashovací funkce [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2), jestli to nepřehnali s počtem iterací. Ne vždycky se nám podaří napsat logy, které nám hned pomůžou (člověk je opraví, ale vyžaduje retest a ten někdy bohužel není možný). Tentokrát logy jasně ukazovaly, že se proces zastaví už při generování hesla, ještě před hashováním. A dočasné heslo se generovalo jen o délce osmi znaků. Důležitá informace byla, že generování hesla zkoušeli v integračním  testu a bušili do toho jak hluchý do vrat. Což je dobře. Klíčové bylo, že první hesla se vygenerovala bez viditelného zpozdění. A byl to Linuxový virtuální stroj.
 
@@ -75,7 +75,7 @@ Pro tyto účely se spíš hodí použít Bouncy Castle knihovnu, která má svo
 
 ## Související
 
-- [Servisní versus produktová firma](https://blog.zvestov.cz/software%20development/2019/10/22/servisni-versus-produktova-firma.html)
+- [Servisní versus produktová firma](/software%20development/2019/10/22/servisni-versus-produktova-firma.html)
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/)
 - [SecureRandom Implementations](https://docs.oracle.com/javase/8/docs/technotes/guides/security/SunProviders.html#SecureRandomImp)
 - [Stack Overflow - How to deal with a slow SecureRandom generator?](https://stackoverflow.com/questions/137212/how-to-deal-with-a-slow-securerandom-generator)

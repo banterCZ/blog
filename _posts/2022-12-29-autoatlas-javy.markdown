@@ -13,7 +13,7 @@ tags: [Java]
 Programovací jazyk jako takový dost možná důležitý vůbec není, protože si nevybíráte pouze jazyk, ale především celý ekosystém, na který se podíváme.
 Nečekejte tu popis syntaxe ale spíš přehled pojmů, abyste se hned na začátku své cesty neztratili.
 
-Díky Honzovi Javorkovi, autorovi [Příručky o hledání první práce v IT](https://blog.zvestov.cz/software%20development/2020/09/21/prirucka-o-hledani-prvni-prace-v-it.html),
+Díky Honzovi Javorkovi, autorovi [Příručky o hledání první práce v IT](/software%20development/2020/09/21/prirucka-o-hledani-prvni-prace-v-it.html),
 že mě ukecal, abych připravil přednášku pro jeho [klub](http://junior.guru/club).
 Ten je sice placený, ale první dva týdny jsou zdarma a můžete se tak dostat nejen k [videozáznamu mém přednášky](https://junior.guru/events/#2022-12-06T18-00-00).
 
@@ -26,7 +26,7 @@ Tento příspěvek je částečný textový přepis přednášky.
 ## Úvod
 
 Snažím se zachovávat si mysl začátečníka.
-Ze svých pokusů s [hraním na hudební nástroje](https://blog.zvestov.cz/obecn%C3%A9/2022/07/30/jak-zacit-hrat-na-hudebni-nastroj.html) vidím,
+Ze svých pokusů s [hraním na hudební nástroje](/obecn%C3%A9/2022/07/30/jak-zacit-hrat-na-hudebni-nastroj.html) vidím,
 že začátky v žádném oboru nejsou snadné.
 Člověk je zavalen informacemi a není jasné, jak si je roztřídit dle důležitosti, když důležité se zdá téměř vše.
 Zpětným pohledem mi přijde, že jsem to měl v některých ohledech snazší, protože kognitivní zátěž kladená na dnešní začátečníky je enormní.
@@ -60,7 +60,7 @@ Dále chyběly generiky a enumy, ale ty se do syntaxe dostaly s verzí 1.5 (resp
 Verze 6 a 7 nepřinesly nic převratného.
 S verzí 8 to bylo čekání na Godota.
 V té době jsem byl malověrný a koketoval s myšlenou, že se na Javu vykašlu a dám se třeba na cestu Ruby on Rails.
-Píše se rok 2013 a já předkládám článek [Paula Grahama Přebal Javy](https://blog.zvestov.cz/software%20development/2013/05/23/prebal-javy.html) z roku 2001.
+Píše se rok 2013 a já předkládám článek [Paula Grahama Přebal Javy](/software%20development/2013/05/23/prebal-javy.html) z roku 2001.
 Koukejte se tedy prosím na článek i překlad optikou doby, kdy vznikaly. 
 Naštěstí jsem se já i Paul Graham očividně mýlili.
 
@@ -85,7 +85,7 @@ Jedná se o Java Community Process, kde se [podávají návrhy Java Specificatio
 Dalším principem návrhu jazyka Java byla platformní nezávislost.
 Lze pomocí ní psát webové stránky, applety (mrtvé rozšíření internetového prohlížeče), portlety (de facto mrtvé portálové řešení),
 mobilní aplikace ještě před Androidem, aplikace pro Android (od [roku 2008, kdy vznikl T-Mobile G1](https://cs.wikipedia.org/wiki/T-Mobile_G1)),
-desktopové aplikace nebo čipové karty jako třeba [biometrické pasy](https://blog.zvestov.cz/software%20development/2015/12/15/jak-funguje-biometricky-pas.html).
+desktopové aplikace nebo čipové karty jako třeba [biometrické pasy](/software%20development/2015/12/15/jak-funguje-biometricky-pas.html).
 
 
 ## Syntaxe
@@ -106,7 +106,7 @@ Existují zrádné situace, kdy `equals` a `==` nevrací stejné výsledky.
 
 ### Kolekce
 
-[Programování není vázaná živnost. Otázka, jak dlouho taková konstelace vydrží.](https://blog.zvestov.cz/software%20development/2016/03/07/uvod-do-profese.html)
+[Programování není vázaná živnost. Otázka, jak dlouho taková konstelace vydrží.](/software%20development/2016/03/07/uvod-do-profese.html)
 Do oboru můžou vstoupit i lidé bez formálního _Computer Science_ vzdělání.
 O mnoha definicích tak nejspíš neslyšeli, ale je nutné, aby si je doplnili alespoň na takové úrovni, aby dokázali vybrat vhodnou datovou strukturu,
 nejen s ohledem na časovou a paměťovou náročnosti, ale i ve vztahu k metodám `equals` a `hashCode`, 
@@ -147,7 +147,7 @@ Java splňuje část paradigmatu jako objekty, dědičnost, zapouzdření či po
 Jedna z hlavních přidaných hodnost OOP je [message passing](https://en.wikipedia.org/wiki/Message_passing), což ale v Javě nenajdete.
 Museli byste se poohlédnout například po Objective C nebo „dětském kostičkovém“ Scratch.
 
-Jak napsal [Joe Armstrong v článku Proč stojí objektové programování za starou belu](https://blog.zvestov.cz/software%20development/2017/06/26/proc-objektove-programovani-stoji-za-starou-belu.html):
+Jak napsal [Joe Armstrong v článku Proč stojí objektové programování za starou belu](/software%20development/2017/06/26/proc-objektove-programovani-stoji-za-starou-belu.html):
 > Kolem OOP byl humbuk. Domnívali jsem se, že znovupoužitelnost kódu bude snazší.
 
 Na kategorie dědičnosti se dívejte skrze [HAS-A, IS-A](https://stackoverflow.com/a/2218970/204950).
@@ -155,7 +155,7 @@ Na kategorie dědičnosti se dívejte skrze [HAS-A, IS-A](https://stackoverflow.
 - Dům má místnost (composition, kompozice)
 - Dům má obyvatele (aggregation, agregace)
 
-[Dávejte přednost duplicitě před nesprávnou abstrakcí](https://blog.zvestov.cz/software%20development/2020/12/08/nespravna-abstrakce.html) a neřešte duplicitu dědičností!
+[Dávejte přednost duplicitě před nesprávnou abstrakcí](/software%20development/2020/12/08/nespravna-abstrakce.html) a neřešte duplicitu dědičností!
 
 
 ## JVM
@@ -197,8 +197,8 @@ Java má celkem low-level API pro práci s vlákny, což by se mohlo změnit s [
 
 ### Groovy
 
-Groovy je moje srdeční záležitost, byť [nemá šanci se dostat do hlavního proudu](https://blog.zvestov.cz/software%20development/2014/04/07/zahada-jmenem-groovy.html).
-Jedná se [dynamický, staticky typovaný jazyk](https://blog.zvestov.cz/software%20development/2016/02/17/vybrane-kapitoly-z-groovy).
+Groovy je moje srdeční záležitost, byť [nemá šanci se dostat do hlavního proudu](/software%20development/2014/04/07/zahada-jmenem-groovy.html).
+Jedná se [dynamický, staticky typovaný jazyk](/software%20development/2016/02/17/vybrane-kapitoly-z-groovy).
 Dnes se s Groovy můžete setkat v konfiguraci Gradle nebo Jenkins, případně testovacím frameworku [Spock](https://spockframework.org/).
 
 
@@ -206,7 +206,7 @@ Dnes se s Groovy můžete setkat v konfiguraci Gradle nebo Jenkins, případně 
 
 Ač mám dlouho na seznamu kurz [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming),
 za který stojí sám autor Scaly Martin Odersky,
-tak [vůči jazyku jsem zaujatý](https://blog.zvestov.cz/software%20development/2014/08/04/nechapu-proc-je-scala-tak-popularni.html).
+tak [vůči jazyku jsem zaujatý](/software%20development/2014/08/04/nechapu-proc-je-scala-tak-popularni.html).
 Přináší funkcionální programování pro Java programátory, ale syntaxe se zdá trochu těžkopádná.
 Scalu můžete potkat v [Gatling](https://gatling.io/), nástroji pro výkonnostní testování.
 Běží na něm i šachový server [Lichess](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX).
@@ -400,7 +400,7 @@ Obsahují minimum implementací, třeba servlet API pro servírování webového
 
 V enterprise Javě se to hemží návrhovými vzory jako factory.
 Neříkám, abyste šli studovat původní [Gang of Four (GoF)](https://en.wikipedia.org/wiki/Design_Patterns),
-ale pokročilých programátorů se u pohovoru klidně zeptám na [Java proxy](https://blog.zvestov.cz/software%20development/2021/01/28/java-proxy-od-psa-k-transakcnimu-psovi.html).
+ale pokročilých programátorů se u pohovoru klidně zeptám na [Java proxy](/software%20development/2021/01/28/java-proxy-od-psa-k-transakcnimu-psovi.html).
 Na Zdroják.cz doporučuji pěkný seriál [Principy objektově orientovaného návrhu](https://zdrojak.cz/serialy/principy-objektove-orientovaneho-navrhu/).
 
 
@@ -457,8 +457,8 @@ Komunita + nástroje + JVM = ❤️
 
 - [Don’t call it a comeback: Why Java is still champ](https://github.com/readme/featured/java-programming-language)
 - [What Does a Modern JVM Look Like, And How Does It Work?](https://foojay.io/today/what-does-a-modern-jvm-look-like-and-how-does-it-work/)
-- [Java proxy: Od psa k transakčnímu psovi](https://blog.zvestov.cz/software%20development/2021/01/28/java-proxy-od-psa-k-transakcnimu-psovi.html)
-- [Paul Graham - Přebal javy](https://blog.zvestov.cz/software%20development/2013/05/23/prebal-javy.html)
-- [Joe Armstrong - Proč stojí objektové programování za starou belu](https://blog.zvestov.cz/software%20development/2017/06/26/proc-objektove-programovani-stoji-za-starou-belu.html)
-- [Andrew Binstock - Záhada jménem Groovy](https://blog.zvestov.cz/software%20development/2014/04/07/zahada-jmenem-groovy.html)
-- [Nesprávná abstrakce](https://blog.zvestov.cz/software%20development/2020/12/08/nespravna-abstrakce.html)
+- [Java proxy: Od psa k transakčnímu psovi](/software%20development/2021/01/28/java-proxy-od-psa-k-transakcnimu-psovi.html)
+- [Paul Graham - Přebal javy](/software%20development/2013/05/23/prebal-javy.html)
+- [Joe Armstrong - Proč stojí objektové programování za starou belu](/software%20development/2017/06/26/proc-objektove-programovani-stoji-za-starou-belu.html)
+- [Andrew Binstock - Záhada jménem Groovy](/software%20development/2014/04/07/zahada-jmenem-groovy.html)
+- [Nesprávná abstrakce](/software%20development/2020/12/08/nespravna-abstrakce.html)

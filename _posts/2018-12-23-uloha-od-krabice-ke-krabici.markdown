@@ -8,7 +8,7 @@ image: "/assets/2018-12-23/edison.jpg"
 tags: [kroužek programování, Meet Edison]
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-12-23/edison.jpg" /></div> Do kroužků programování doporučuji roboty [Meet Edison](https://meetedison.com/). A jaké úlohy s nimi lze dělat? [Železniční přejezd](https://blog.zvestov.cz/software%20development/2018/08/20/uloha-zeleznicni-prejezd.html) patří k těm složitějším, se kterou budou děti potřebovat pomoc. Pojďme si ukázat jednodušší úlohu, kterou zvládnou samostatně.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-12-23/edison.jpg" /></div> Do kroužků programování doporučuji roboty [Meet Edison](https://meetedison.com/). A jaké úlohy s nimi lze dělat? [Železniční přejezd](/software%20development/2018/08/20/uloha-zeleznicni-prejezd.html) patří k těm složitějším, se kterou budou děti potřebovat pomoc. Pojďme si ukázat jednodušší úlohu, kterou zvládnou samostatně.
 
 <div style="clear:both"></div>
 <!--more-->
@@ -51,6 +51,6 @@ Uvádím řešení v prostředí [EdBlock](https://www.edblocksapp.com/). Pokro�
 
 ## Související
 
-* [Konference učIT jinak](https://blog.zvestov.cz/software%20development/2018/05/15/konference-ucIT-jinak.html)
-* [Hodina kódu s LightBot a Meet Edison](https://blog.zvestov.cz/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html)
-* [Úloha železniční přejezd](https://blog.zvestov.cz/software%20development/2018/08/20/uloha-zeleznicni-prejezd.html)
+* [Konference učIT jinak](/software%20development/2018/05/15/konference-ucIT-jinak.html)
+* [Hodina kódu s LightBot a Meet Edison](/software%20development/2017/12/11/hodina-kodu-s-lightbot-a-edison.html)
+* [Úloha železniční přejezd](/software%20development/2018/08/20/uloha-zeleznicni-prejezd.html)

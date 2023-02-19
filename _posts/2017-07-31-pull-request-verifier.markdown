@@ -7,7 +7,7 @@ disqusId: 191
 image: "/assets/2017-07-31/1267371838.png"
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-07-31/1267371838.png" /></div>Koukám, že už je to čtyři roky, co jsem se tu zamýšlel nad tím, že [mi chybí *code review*](https://blog.zvestov.cz/software%20development/2013/08/18/kde-me-tlaci-bota-code-review.html). Od té doby jsem se já i náš obor trochu posunuli. Se [Softwarovým Samurajem jsme používali *branch-by-feature*](http://www.sw-samuraj.cz/2014/08/mercurial-strategie-branch-by-feature.html) (i když už pak nedopsal, že jsme to později vylepšili o plugin [hg-flow](https://bitbucket.org/yinwm/hgflow/wiki/UserManual)). K dokonalosti chybělo pár drobností. Dost věcí z [*code review checklistu*](http://www.sw-samuraj.cz/2014/07/code-review-checklist.html) jsme kontrolovali manuálně, jako například formátování, pokrytí testy či postřehy, které by odhalila statická analýza kódu (PMD, FindBugs…). Je to otravné a vyčerpávající, takže už se tolik nesoustředíte na věci jako design, logování atd. Navíc *build* běžel až nad *develop* větví, takže se mohlo stát, že jste sice krásně schválili *pull request*, ale ten po *zamergování* shodil *build*. Jak to vylepšit?
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-07-31/1267371838.png" /></div>Koukám, že už je to čtyři roky, co jsem se tu zamýšlel nad tím, že [mi chybí *code review*](/software%20development/2013/08/18/kde-me-tlaci-bota-code-review.html). Od té doby jsem se já i náš obor trochu posunuli. Se [Softwarovým Samurajem jsme používali *branch-by-feature*](http://www.sw-samuraj.cz/2014/08/mercurial-strategie-branch-by-feature.html) (i když už pak nedopsal, že jsme to později vylepšili o plugin [hg-flow](https://bitbucket.org/yinwm/hgflow/wiki/UserManual)). K dokonalosti chybělo pár drobností. Dost věcí z [*code review checklistu*](http://www.sw-samuraj.cz/2014/07/code-review-checklist.html) jsme kontrolovali manuálně, jako například formátování, pokrytí testy či postřehy, které by odhalila statická analýza kódu (PMD, FindBugs…). Je to otravné a vyčerpávající, takže už se tolik nesoustředíte na věci jako design, logování atd. Navíc *build* běžel až nad *develop* větví, takže se mohlo stát, že jste sice krásně schválili *pull request*, ale ten po *zamergování* shodil *build*. Jak to vylepšit?
 
 <!--more-->
 
@@ -55,6 +55,6 @@ Nakonec v *remote repository* musíte přepsat historii pomocí
 Bez *pull request verifieru* bych si už svoje *workflow* nedokázal představit. Programátor dostane včas zpětnou vazbu a *reviewer*, kterého jsme tímto pluginem rozhodně nechtěli nahradit, má víc prostoru prozkoumat ty aspekty, které ještě neumíme zautomatizovat.
 
 ## Související
-* [Kde mě tlačí bota - code review](https://blog.zvestov.cz/software%20development/2013/08/18/kde-me-tlaci-bota-code-review.html)
+* [Kde mě tlačí bota - code review](/software%20development/2013/08/18/kde-me-tlaci-bota-code-review.html)
 * [Mercurial, strategie branch-by-feature](http://www.sw-samuraj.cz/2014/08/mercurial-strategie-branch-by-feature.html)
 * [Code review checklist](http://www.sw-samuraj.cz/2014/07/code-review-checklist.html)

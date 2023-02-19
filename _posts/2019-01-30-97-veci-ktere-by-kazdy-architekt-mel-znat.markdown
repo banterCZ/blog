@@ -9,9 +9,9 @@ tags: [kniha]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2019-01-30/97things_cover.jpg" /></div>
-Daří se nám pokračovat ve [společném čtení](https://blog.zvestov.cz/software%20development/2018/02/27/spolecne-cteni-knih.html). Četli jsem i knihu [97 Things Every Programmer Should Know](https://www.goodreads.com/book/show/7003902-97-things-every-programmer-should-know), ale ta je, podle mého, určená začátečníkům. Mnohem vhodnější mi přijde kniha [97 Things Every Software Architect Should Know](https://www.goodreads.com/book/show/5487765-97-things-every-software-architect-should-know), kterou bych vám do začátku určitě doporučil. Jedná se o sbírku krátkých esejů, takže lidé můžou mít dobrý pocit, že jim čtení odsýpá. [Dagi](https://dagblog.cz/) se mě v [CZ Podcast ptal](https://soundcloud.com/czpodcast-1/cz-podcast-192-rekni-mi-co-ctes), o kolika knihách už jsem na blogu psal. Našel jsem [12 článků](https://blog.zvestov.cz/tag/kniha/), které se knihám věnují, a tímto přidávám další.
+Daří se nám pokračovat ve [společném čtení](/software%20development/2018/02/27/spolecne-cteni-knih.html). Četli jsem i knihu [97 Things Every Programmer Should Know](https://www.goodreads.com/book/show/7003902-97-things-every-programmer-should-know), ale ta je, podle mého, určená začátečníkům. Mnohem vhodnější mi přijde kniha [97 Things Every Software Architect Should Know](https://www.goodreads.com/book/show/5487765-97-things-every-software-architect-should-know), kterou bych vám do začátku určitě doporučil. Jedná se o sbírku krátkých esejů, takže lidé můžou mít dobrý pocit, že jim čtení odsýpá. [Dagi](https://dagblog.cz/) se mě v [CZ Podcast ptal](https://soundcloud.com/czpodcast-1/cz-podcast-192-rekni-mi-co-ctes), o kolika knihách už jsem na blogu psal. Našel jsem [12 článků](/tag/kniha/), které se knihám věnují, a tímto přidávám další.
 
-Nate Schutta ve své přednášce [Thinking Architecturally na Devoxx 2018]((https://blog.zvestov.cz/software%20development/2018/07/30/polsky-devoxx-2018.html#thinking-architecturally-nate-schutta)) říkal, že:
+Nate Schutta ve své přednášce [Thinking Architecturally na Devoxx 2018]((/software%20development/2018/07/30/polsky-devoxx-2018.html#thinking-architecturally-nate-schutta)) říkal, že:
 
 > Architekt je někdo, kdo dělá architektonické rozhodnutí.
 

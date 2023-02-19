@@ -10,11 +10,11 @@ tags: [konference]
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-11-27/geecon_logo.png" /></div>
 
-Letos jsem si vynahradil deficit návštěv konferencí. Po [jOpenSpace](https://blog.zvestov.cz/software%20development/2017/10/24/jopenspace-2017.html) jsem vyrazil i na [pražskou odnož polské konference GeeCON](https://2017.geecon.cz/about/). Nehodlám probírat všechny přednášky. Chci si uchovat své poznámky a zhodnotit, zda jít i příště.
+Letos jsem si vynahradil deficit návštěv konferencí. Po [jOpenSpace](/software%20development/2017/10/24/jopenspace-2017.html) jsem vyrazil i na [pražskou odnož polské konference GeeCON](https://2017.geecon.cz/about/). Nehodlám probírat všechny přednášky. Chci si uchovat své poznámky a zhodnotit, zda jít i příště.
 
 <!--more-->
 
-[Začínal jsem svoji kariéru ve firmě Simple Way](https://blog.zvestov.cz/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html). Od té doby už vyrostli tak, že můžou podobné akce sponzorovat a stát vedle velkých firem. Blahopřeju! Je jasné, že stánky firem byly zaměřené na nábor lidí, ale nebylo to nijak agresivní, aktivity pestré a za poskytnuty kontakt jste mohli třeba vyhrát Raspberry Pi, to mi přijde fér.
+[Začínal jsem svoji kariéru ve firmě Simple Way](/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html). Od té doby už vyrostli tak, že můžou podobné akce sponzorovat a stát vedle velkých firem. Blahopřeju! Je jasné, že stánky firem byly zaměřené na nábor lidí, ale nebylo to nijak agresivní, aktivity pestré a za poskytnuty kontakt jste mohli třeba vyhrát Raspberry Pi, to mi přijde fér.
 
 Musím opět vyzdvihnout jeden z hlavních přínosů konferencí a to je setkávání s lidmi. Potkal jsem kolegy, s kterými jsem pracoval před deseti lety a dlouho je neviděl. Zakecal jsem se tolikrát tak, že jsem si nestíhal dojít pro kafe či na záchod. Takže na nějaké programátorské soutěže už tedy žádný čas nezbyl.
 
@@ -71,7 +71,7 @@ _Clean code_ nepíšeme jen kvůli čitelnosti, ale má dopad i na výkon. Nepí
 
 ### 'Built To Last' ...and the end of migrations (Adam Bien)
 
-Přestože dávám přednost Springu, tak sleduji [blog Adama Biena](http://adam-bien.com/), který propaguje čistou Javu EE a CDI, abych zůstal v obraze (poslední dobou přepnul víc na videa, ale já raději text). Svou přednášku pojal jako _live coding_, kde ukázal, čeho lze dosáhnout bez frameworků jen se standardními technologiemi: čistá Java, javascript a css. Máme si případně jen vyzobat komponenty jako třeba PrimeFaces (asi myslel [PrimeNG](https://www.primefaces.org/primeng)). To je mi sympatické. Ostatně nedávnou jsem překládal článek [Nechte kouzlo zmizet](https://blog.zvestov.cz/software%20development/2017/09/18/nechte-kouzlo-zmizet.html) a již dříve jsem se [vztekal nad velikostí waru](https://blog.zvestov.cz/software%20development/2015/08/19/jak-je-velky-vas-war.html) (ten jeho měl 8&nbsp;kB). Adamova přednáška do toho pěkně zapadá. Mimo jiné třeba říkal:
+Přestože dávám přednost Springu, tak sleduji [blog Adama Biena](http://adam-bien.com/), který propaguje čistou Javu EE a CDI, abych zůstal v obraze (poslední dobou přepnul víc na videa, ale já raději text). Svou přednášku pojal jako _live coding_, kde ukázal, čeho lze dosáhnout bez frameworků jen se standardními technologiemi: čistá Java, javascript a css. Máme si případně jen vyzobat komponenty jako třeba PrimeFaces (asi myslel [PrimeNG](https://www.primefaces.org/primeng)). To je mi sympatické. Ostatně nedávnou jsem překládal článek [Nechte kouzlo zmizet](/software%20development/2017/09/18/nechte-kouzlo-zmizet.html) a již dříve jsem se [vztekal nad velikostí waru](/software%20development/2015/08/19/jak-je-velky-vas-war.html) (ten jeho měl 8&nbsp;kB). Adamova přednáška do toho pěkně zapadá. Mimo jiné třeba říkal:
 
 > Minification will die because of http/2 preloading.
 
@@ -97,7 +97,7 @@ Nelze věci odbýt s tím, že je to implementační detail. Je potřeba mít na
 
 Programátoři stahují knihovny z internetu a bez rozmyslu je používají. Jsou jako malé děti, co seberou něco ze země a strčí si to do pusy.
 
-Psaní není úzké hrdlo. Citoval moji oblíbenou knihu [Zen a umění údržby motocyklu](https://www.goodreads.com/review/show/517698409?book_show_action=false&from_review_page=1) (Ostatně už [jsem ji na blogu doporučoval](https://blog.zvestov.cz/software%20development/2013/03/03/zen-a-umeni-udrzby-motocyklu.html)).
+Psaní není úzké hrdlo. Citoval moji oblíbenou knihu [Zen a umění údržby motocyklu](https://www.goodreads.com/review/show/517698409?book_show_action=false&from_review_page=1) (Ostatně už [jsem ji na blogu doporučoval](/software%20development/2013/03/03/zen-a-umeni-udrzby-motocyklu.html)).
 
 > Šroubky jsou tak levné.
 
@@ -127,4 +127,4 @@ Konferenci stálo za to navštívit. Některé přednášky byly slabší, ale j
 
 * [GeeCON Prague 2016, den 1](http://www.sw-samuraj.cz/2016/10/geecon-prague-2016-den-1.html)
 * [Videa z GeeCON na Vimeo](https://vimeo.com/geecon/videos)
-* [jOpenSpace 2017](https://blog.zvestov.cz/software%20development/2017/10/24/jopenspace-2017.html)
+* [jOpenSpace 2017](/software%20development/2017/10/24/jopenspace-2017.html)

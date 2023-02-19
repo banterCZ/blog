@@ -10,9 +10,9 @@ tags: [logování]
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2022-04-29/333910.png" /></div>
 
-Nejen [pro produktovou firmu je důležité logování](https://blog.zvestov.cz/software%20development/2020/05/30/uskali-produktove-firmy.html#logov%C3%A1n%C3%AD-a-podpora).
+Nejen [pro produktovou firmu je důležité logování](/software%20development/2020/05/30/uskali-produktove-firmy.html#logov%C3%A1n%C3%AD-a-podpora).
 Bez kvalitní dokumentace a logů padá na [úroveň podpory](https://en.wikipedia.org/wiki/Technical_support#Multi-tiered_technical_support) L3 příliš mnoho věcí.
-Neříkám, že vím, jak logovat správně, ale pár průšvihů, třeba s [JPA a asynchronním logováním](https://blog.zvestov.cz/software%20development/2018/09/21/jpa-a-asynchronni-logovani.html), už jsem zažil.
+Neříkám, že vím, jak logovat správně, ale pár průšvihů, třeba s [JPA a asynchronním logováním](/software%20development/2018/09/21/jpa-a-asynchronni-logovani.html), už jsem zažil.
 Chtěl bych sepsat, k čemu jsem dospěl, protože podobné otázky u nejednoho _code review_ (zejména při změnách ve složení týmu) opakovaně diskutujeme.
 <div style="clear:both"></div>
 <!--more-->
@@ -191,5 +191,5 @@ Když to shrnu, tak dávejte do logu kontext, rozmyslete si úrovně logování 
 
 ## Související
 
-- [Úskalí produktové firmy](https://blog.zvestov.cz/software%20development/2020/05/30/uskali-produktove-firmy.html)
-- [JPA a asynchronní logování](https://blog.zvestov.cz/software%20development/2018/09/21/jpa-a-asynchronni-logovani.html)
+- [Úskalí produktové firmy](/software%20development/2020/05/30/uskali-produktove-firmy.html)
+- [JPA a asynchronní logování](/software%20development/2018/09/21/jpa-a-asynchronni-logovani.html)

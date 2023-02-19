@@ -10,7 +10,7 @@ tags: [logování]
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2022-05-25/260761.png" /></div>
 
-Bylo celkem jisté, že při psaní [poznatků z logování](https://blog.zvestov.cz/software%20development/2022/04/29/poznatky-z-logovani.html) si nevzpomenu na všechno.
+Bylo celkem jisté, že při psaní [poznatků z logování](/software%20development/2022/04/29/poznatky-z-logovani.html) si nevzpomenu na všechno.
 Jedna z nejnáročnějších a nejrizikovějších aktivit mi přijde integrace systémů.
 Osvědčilo se mi logovat začátek volání a pak jeho výsledek (alespoň úspěch/neúspěch).
 Než se vše odladí, ocenili byste možná podrobnější logování.
@@ -104,6 +104,6 @@ nebo využít Log4j podpory pro lambdu `logger.trace("{}", () -> ...)`.
 
 ## Související
 
-- [Poznatky z logování](https://blog.zvestov.cz/software%20development/2022/04/29/poznatky-z-logovani.html)
-- [JPA a asynchronním logováním](https://blog.zvestov.cz/software%20development/2018/09/21/jpa-a-asynchronni-logovani.html)
+- [Poznatky z logování](/software%20development/2022/04/29/poznatky-z-logovani.html)
+- [JPA a asynchronním logováním](/software%20development/2018/09/21/jpa-a-asynchronni-logovani.html)
 - [Stack Overflow - How do I print my Java object without getting "SomeType@2f92e0f4"](https://stackoverflow. com/questions/29140402/how-do-i-print-my-java-object-without-getting-sometype2f92e0f4/67351224#67351224).)

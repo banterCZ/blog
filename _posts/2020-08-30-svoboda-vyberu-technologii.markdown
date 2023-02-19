@@ -40,7 +40,7 @@ Vraťme se k torxu. V mém voze Ford Fiesta (rok výroby 2004) je nutné pro vý
 
 A jak tohle všechno souvisí se softwarovým inženýrstvím?
 
-Mikroslužbám nijak zvlášť neholduju, dalo by se říct, že možná proto, že je pořádně neumím, ale snad se lze vymluvit na to, že do [produktové firmy úplně nepasují](https://blog.zvestov.cz/software%20development/2020/05/30/uskali-produktove-firmy.html), nicméně jako jednu z jejich výhod jsem chápal, že pokud zachováte dané rozhraní (například REST) a definovaný kontrakt, tak je jedno, že služba je napsaná třeba v Erlangu a její konzument klidně v Perlu. Druhá věc je, zda to dává smysl z pohledu firmy. Dagi v [CZ Podcastu](https://soundcloud.com/czpodcast-1) (přesnou epizodu si nevzpomenu) mluvil o své zkušenosti z GoodData, kde se jim to rozrostlo v rozsáhlý cirkus, do kterého nesnadno hledají členy a vzájemná zastupitelnost je omezená. A to je právě otázka úvodního tweetu. Jestli by měla existovat volnost a kde by měla případně končit.
+Mikroslužbám nijak zvlášť neholduju, dalo by se říct, že možná proto, že je pořádně neumím, ale snad se lze vymluvit na to, že do [produktové firmy úplně nepasují](/software%20development/2020/05/30/uskali-produktove-firmy.html), nicméně jako jednu z jejich výhod jsem chápal, že pokud zachováte dané rozhraní (například REST) a definovaný kontrakt, tak je jedno, že služba je napsaná třeba v Erlangu a její konzument klidně v Perlu. Druhá věc je, zda to dává smysl z pohledu firmy. Dagi v [CZ Podcastu](https://soundcloud.com/czpodcast-1) (přesnou epizodu si nevzpomenu) mluvil o své zkušenosti z GoodData, kde se jim to rozrostlo v rozsáhlý cirkus, do kterého nesnadno hledají členy a vzájemná zastupitelnost je omezená. A to je právě otázka úvodního tweetu. Jestli by měla existovat volnost a kde by měla případně končit.
 
 Nebo jiný případ, nad kterým v současné době přemýšlím mnohem víc. PH versus inbus, Maven versus Gradle. Řekněme, že Maven je PH bit, který má v kapse každý programátor. Má to svoje nevýhody, například to, že [paralelní build je stále experimentální](https://cwiki.apache.org/confluence/display/MAVEN/Parallel+builds+in+Maven+3) (mnoho pluginů podporu vůbec nemá) a dnešní serverové stroje, kde už se snáz dostanete k více jádrům, tak plně nevyužijete. Může si tým vybrat Gradle? Když budou ve firmě oba nástroje, najal bych někoho, kdo Gradle neumí? Já ano. Myslím, že se to doučí. A co stávající členové ostatních týmů? Ti se to samozřejmě také doučí, ale stojí to firmě za to? Má nové šrouby dávat do nových výrobků nebo nahradit i na existujících výrobcích?
 
@@ -51,9 +51,9 @@ Udělalo mi to dobře, číst si chvíli něco o šroubech, ale aby myšlenka m�
 ## Související
 
 - [Repair Manifesto](https://www.ifixit.com/Manifesto)
-- [Přípravek](https://blog.zvestov.cz/software%20development/2020/01/13/pripravek.html)
-- [Zpětná kompatibilita](https://blog.zvestov.cz/software%20development/2019/12/09/zpetna-kompatibilita.html)
-- [Úskalí produktové firmy](https://blog.zvestov.cz/software%20development/2020/05/30/uskali-produktove-firmy.html)
-- [Stavebnictví versus softwarové inženýrství](https://blog.zvestov.cz/software%20development/2013/10/11/stavebnictvi-versus-softwarove-inzenyrstvi.html)
-- [Co se firmy můžou přiučit od armády](https://blog.zvestov.cz/software%20development/2012/12/15/co-se-firmy-muzou-priucit-od-armady.html)
-- [Co se firmy můžou přiučit od armády 2](https://blog.zvestov.cz/software%20development/2013/12/18/co-se-firmy-muzou-priucit-od-armady-2.html)
+- [Přípravek](/software%20development/2020/01/13/pripravek.html)
+- [Zpětná kompatibilita](/software%20development/2019/12/09/zpetna-kompatibilita.html)
+- [Úskalí produktové firmy](/software%20development/2020/05/30/uskali-produktove-firmy.html)
+- [Stavebnictví versus softwarové inženýrství](/software%20development/2013/10/11/stavebnictvi-versus-softwarove-inzenyrstvi.html)
+- [Co se firmy můžou přiučit od armády](/software%20development/2012/12/15/co-se-firmy-muzou-priucit-od-armady.html)
+- [Co se firmy můžou přiučit od armády 2](/software%20development/2013/12/18/co-se-firmy-muzou-priucit-od-armady-2.html)

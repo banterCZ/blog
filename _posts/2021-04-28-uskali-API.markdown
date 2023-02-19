@@ -9,7 +9,7 @@ image: "https://live.staticflickr.com/1829/28383345897_82344aff94_m.jpg"
 
 <div style="float: left; margin: 0.5em 1em 0.5em 0em; text-align: center;"><a href="https://www.flickr.com/photos/brickbroadcasting/28383345897/in/datetaken/"><img src="https://live.staticflickr.com/1829/28383345897_82344aff94_m.jpg" /></a><br /><a href="https://www.flickr.com/photos/brickbroadcasting/">Brick Broadcasting </a><br />(<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</div>
 
-Psal jsem o tom, [v čem se liší servisní firma od produktové](https://blog.zvestov.cz/software%20development/2019/10/22/servisni-versus-produktova-firma.html) a že [produktové firmy mají jistá úskalí](https://blog.zvestov.cz/software%20development/2020/05/30/uskali-produktove-firmy.html). Jedním z nich je [zpětná kompatibilita](https://blog.zvestov.cz/software%20development/2019/12/09/zpetna-kompatibilita.html). A mluvíme-li o zpětné kompatibilitě, jistě v tom bude hrát roli API.
+Psal jsem o tom, [v čem se liší servisní firma od produktové](/software%20development/2019/10/22/servisni-versus-produktova-firma.html) a že [produktové firmy mají jistá úskalí](/software%20development/2020/05/30/uskali-produktove-firmy.html). Jedním z nich je [zpětná kompatibilita](/software%20development/2019/12/09/zpetna-kompatibilita.html). A mluvíme-li o zpětné kompatibilitě, jistě v tom bude hrát roli API.
 
 Pravidelní čtenáři vědí, že jeden z důvodů, proč píšu tento blog, je čistě sobecký: Díky tomu si utřídím myšlenky. Je možné, že až se k nim za pár let vrátím, sám sobě se vysměju. Jindy mi to pomáhá dohledat si návod. A co si dnes myslím o API?
 
@@ -70,10 +70,10 @@ Důsledně rozlišujte a oddělujte API a SPI. Včas uzavřete pro změny a najd
 
 ## Související
 
-- [Servisní versus produktová firma](https://blog.zvestov.cz/software%20development/2019/10/22/servisni-versus-produktova-firma.html)
-- [Úskalí produktové firmy](https://blog.zvestov.cz/software%20development/2020/05/30/uskali-produktove-firmy.html)
-- [Zpětná kompatibilita](https://blog.zvestov.cz/software%20development/2019/12/09/zpetna-kompatibilita.html)
-- [JPA a asynchronní logování](https://blog.zvestov.cz/software%20development/2018/09/21/jpa-a-asynchronni-logovani.html)
+- [Servisní versus produktová firma](/software%20development/2019/10/22/servisni-versus-produktova-firma.html)
+- [Úskalí produktové firmy](/software%20development/2020/05/30/uskali-produktove-firmy.html)
+- [Zpětná kompatibilita](/software%20development/2019/12/09/zpetna-kompatibilita.html)
+- [JPA a asynchronní logování](/software%20development/2018/09/21/jpa-a-asynchronni-logovani.html)
 - [Practical Advice to Good API Design](https://levelup.gitconnected.com/practical-advice-to-good-api-design-fa857fa569a1)
 - [APIvsSPI](http://wiki.apidesign.org/wiki/APIvsSPI)
 - [DefaultMethods](http://wiki.apidesign.org/wiki/DefaultMethods)

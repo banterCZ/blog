@@ -9,7 +9,7 @@ image: "/assets/2018-04-29/teacher-African.png"
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2018-04-29/teacher-African.png" /></div>
 
-Svůj blog jsem začal psát na vysoké škole a jeden z prvních příspěvků byla moje stížnost na úroveň [Fakulty elektrotechniky na ČVUT](https://blog.zvestov.cz/k%20zamy%C5%A1len%C3%AD/2007/10/05/proc-nestudovat-softwarove-inzenyrstvi-na-fel-cvut). Utekl nějaký čas a naše děti dorostly do věku povinné školní docházky, takže se mě školství začalo dotýkat opět víc než jen (celkem časté) články v novinách. Chtěl bych vyjádřit vlastní názor, popsat svoji zkušenost a odkázat zajímavé zdroje informací.
+Svůj blog jsem začal psát na vysoké škole a jeden z prvních příspěvků byla moje stížnost na úroveň [Fakulty elektrotechniky na ČVUT](/k%20zamy%C5%A1len%C3%AD/2007/10/05/proc-nestudovat-softwarove-inzenyrstvi-na-fel-cvut). Utekl nějaký čas a naše děti dorostly do věku povinné školní docházky, takže se mě školství začalo dotýkat opět víc než jen (celkem časté) články v novinách. Chtěl bych vyjádřit vlastní názor, popsat svoji zkušenost a odkázat zajímavé zdroje informací.
 
 <!--more-->
 

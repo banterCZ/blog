@@ -8,7 +8,7 @@ image: "/assets/2018-06-26/solarni_panel_thumb.jpg"
 tags: [spotřeba]
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="/assets/2018-06-26/solarni_panel.jpg"><img src="/assets/2018-06-26/solarni_panel_thumb.jpg" /></a></div> Loni jsem psal o [energetické náročnost rodinného domu](https://blog.zvestov.cz/bydlen%C3%AD/2017/08/31/energeticka-narocnost-rodinneho-domu.html). Už rok provozujeme solární ohřev užitkové vody, takže jsem se pokusil odpovědět na otázku: „Vyplatí se solární ohřev vody?“ Krátká a rychlá odpověď zní: „Mně ne.“ Na následujících řádcích se pokusím vysvětlit, jak jsem k tomu došel.
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="/assets/2018-06-26/solarni_panel.jpg"><img src="/assets/2018-06-26/solarni_panel_thumb.jpg" /></a></div> Loni jsem psal o [energetické náročnost rodinného domu](/bydlen%C3%AD/2017/08/31/energeticka-narocnost-rodinneho-domu.html). Už rok provozujeme solární ohřev užitkové vody, takže jsem se pokusil odpovědět na otázku: „Vyplatí se solární ohřev vody?“ Krátká a rychlá odpověď zní: „Mně ne.“ Na následujících řádcích se pokusím vysvětlit, jak jsem k tomu došel.
 
 <div style="clear:both"></div>
 <!--more-->
@@ -53,4 +53,4 @@ Cílem nebylo vás od zelené energie odradit, ale dodat nějaká čísla z reá
 
 ## Související
 
-* [Energetická náročnost rodinného domu](https://blog.zvestov.cz/bydlen%C3%AD/2017/08/31/energeticka-narocnost-rodinneho-domu.html)
+* [Energetická náročnost rodinného domu](/bydlen%C3%AD/2017/08/31/energeticka-narocnost-rodinneho-domu.html)

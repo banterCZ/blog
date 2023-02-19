@@ -36,4 +36,4 @@ Je z toho ještě jedno ponaučení. Až budete příště ovlivnění nějakým
 
 ## Související
 
-* [Tvůj kód může být elegantní](https://blog.zvestov.cz/software%20development/2014/02/18/tvuj-kod-muze-byt-elegantni.html)
+* [Tvůj kód může být elegantní](/software%20development/2014/02/18/tvuj-kod-muze-byt-elegantni.html)

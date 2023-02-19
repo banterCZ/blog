@@ -8,7 +8,7 @@ image: "https://live.staticflickr.com/1838/42908057945_5c2b3f97ac_z.jpg"
 ---
 <div style="float: left; margin: 0.5em 1em 0.5em 0em; text-align: center;"><a href="https://www.flickr.com/photos/brickbroadcasting/42908057945"><img src="https://live.staticflickr.com/1838/42908057945_5c2b3f97ac_q.jpg" /></a><br /><a href="https://www.flickr.com/photos/brickbroadcasting/">Brick Broadcasting </a><br />(<a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>)</div>
 
-Už jsem se věnoval srovnání [servisní a produktové firmy](https://blog.zvestov.cz/software%20development/2019/10/22/servisni-versus-produktova-firma.html). Nastínil jsem, že jedno z úskalí, kterému produktová firma čelí, je [zpětná kompatibilita](https://blog.zvestov.cz/software%20development/2019/12/09/zpetna-kompatibilita.html). Ovšem řeší jiné, mnohdy důležitější, problémy. Tak jako ostatní články i tento píšu rovněž pro sebe, abych si srovnal myšlenky a jednotlivá úskalí pojmenoval. Nevyhnu se tomu, abych se k rozdílu servisní a produktové firmy ještě nevrátil.
+Už jsem se věnoval srovnání [servisní a produktové firmy](/software%20development/2019/10/22/servisni-versus-produktova-firma.html). Nastínil jsem, že jedno z úskalí, kterému produktová firma čelí, je [zpětná kompatibilita](/software%20development/2019/12/09/zpetna-kompatibilita.html). Ovšem řeší jiné, mnohdy důležitější, problémy. Tak jako ostatní články i tento píšu rovněž pro sebe, abych si srovnal myšlenky a jednotlivá úskalí pojmenoval. Nevyhnu se tomu, abych se k rozdílu servisní a produktové firmy ještě nevrátil.
 
 <div style="clear:both"></div>
 <!--more-->
@@ -35,7 +35,7 @@ A ještě vypíchnu jednu citaci, která věc dovysvětlovala:
 
 Když to dokážete ukočírovat, získáte nezměrné výhody. Zvládnete zákazníkovi neustále dodávat (jak obchodně, tak i reálně) nové verze s funkčnostmi, které implementačně vznikly, aby pokryly potřebu jiného zákazníka.
 
-Na menši dodavatele může být vyvíjen větší tlak, aby udělali nějakou výjimku. Ve firmě 37 Signals šli tak daleko, nebo to alespoň v knize [It Doesn't Have to Be Crazy at Work](https://blog.zvestov.cz/software%20development/2019/10/01/doesnt-have-be-crazy-work) píšou, že zavedli paušální platbu a ne částku za uživatele, aby na ně velcí zákazníci neměli takovou páku.
+Na menši dodavatele může být vyvíjen větší tlak, aby udělali nějakou výjimku. Ve firmě 37 Signals šli tak daleko, nebo to alespoň v knize [It Doesn't Have to Be Crazy at Work](/software%20development/2019/10/01/doesnt-have-be-crazy-work) píšou, že zavedli paušální platbu a ne částku za uživatele, aby na ně velcí zákazníci neměli takovou páku.
 
 ## Dokumentaristi
 
@@ -74,5 +74,5 @@ Kdo čekal nějaký návod, bude zklamaný. Kdo se chystá začít s produktovou
 
 ## Související
 
-- [Servisní versus produktová firma](https://blog.zvestov.cz/software%20development/2019/10/22/servisni-versus-produktova-firma.html)
-- [Zpětná kompatibilita](https://blog.zvestov.cz/software%20development/2019/12/09/zpetna-kompatibilita.html)
+- [Servisní versus produktová firma](/software%20development/2019/10/22/servisni-versus-produktova-firma.html)
+- [Zpětná kompatibilita](/software%20development/2019/12/09/zpetna-kompatibilita.html)

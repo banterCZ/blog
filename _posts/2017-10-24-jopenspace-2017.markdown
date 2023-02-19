@@ -10,7 +10,7 @@ tags: [konference]
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-10-24/jopenspace-black.png" /></div>
 
-[Stavěl jsem a zařizoval dům](https://blog.zvestov.cz/bydlen%C3%AD/2013/10/29/z-ceho-se-stavi-dum.html), takže jsem pár let trochu zanedbával konference (kromě [třeba Devel 2016](https://blog.zvestov.cz/software%20development/2016/04/05/zlata-horecka-v-it)). Letos jsem se konečně vypravil na [jOpenSpace 2017](http://www.jopenspace.cz/) a bylo to naprosto skvělé. Sepsal jsem si pro sebe pár poznámek, které můžete brát i jako lákadlo na příští jubilejní ročník.
+[Stavěl jsem a zařizoval dům](/bydlen%C3%AD/2013/10/29/z-ceho-se-stavi-dum.html), takže jsem pár let trochu zanedbával konference (kromě [třeba Devel 2016](/software%20development/2016/04/05/zlata-horecka-v-it)). Letos jsem se konečně vypravil na [jOpenSpace 2017](http://www.jopenspace.cz/) a bylo to naprosto skvělé. Sepsal jsem si pro sebe pár poznámek, které můžete brát i jako lákadlo na příští jubilejní ročník.
 
 jOpenSpace je nekonference v tom smyslu, že každý návštěvník musí přijít s vlastní prezentací. Na jOpenSpace jsem potkal 41 chytřejších lidí, než jsem já. Platí, že jste průměrem lidí, kteří vás obklopují, takže podobné akce vás táhnou nahoru. Je to úplně jiný zážitek, potkat lidi z twitteru naživo a s některými si i zaběhat.
 
@@ -60,7 +60,7 @@ Petr Hamerník představil [generování textu](https://www.dropbox.com/s/17et4h
 
 Tomáš Hubálek vysvětlil, [jak lze vydělat na mobilních aplikacích](https://docs.google.com/presentation/d/1Gt8tj_FYlq0imEXOMHVViPt2CLEA4pybp85IY1flwUg/edit?usp=sharing).
 
-[Se svým blogem jsem již přešel na statický generátor stránek](https://blog.zvestov.cz/software%20development/2017/04/24/staticky-web-s-jekyllrb.html), ale nenapadlo mě, že to [lze propojit s headless CMS](https://blog.prskavec.net/blog/2017/10/jopenspace-2017-a-moje-p%C5%99edn%C3%A1%C5%A1ka-o-jamstacku/) (Ladislav Prskavec).
+[Se svým blogem jsem již přešel na statický generátor stránek](/software%20development/2017/04/24/staticky-web-s-jekyllrb.html), ale nenapadlo mě, že to [lze propojit s headless CMS](https://blog.prskavec.net/blog/2017/10/jopenspace-2017-a-moje-p%C5%99edn%C3%A1%C5%A1ka-o-jamstacku/) (Ladislav Prskavec).
 
 Vojtěch Růžička [vypíchl problém Using Components with Known Vulnerabilities](https://www.dropbox.com/s/s6czbfzz9r6jiez/ruzicka%20-%20Detekce%20znamych%20zranitelnosti.pptx?dl=0), který by měl být zařazen do [OWASP](www.owasp.org) 2017 Top 10 jako bod A9. Jedná se o kontrolu známých zranitelností v knihovnách a jejich tranzitivních závislostech, které používáte.
 

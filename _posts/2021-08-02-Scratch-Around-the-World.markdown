@@ -10,7 +10,7 @@ image: "/assets/2021-08-02/scratchblocks.png"
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><a href="http://scratchblocks.github.io/#?lang=cs&script=opakuj%20(10)%20kr%C3%A1t%20%0A%20%20%C5%99ekni%20%5BAhoj%20sv%C4%9Bte%5D%0Aend"><img src="/assets/2021-08-02/scratchblocks.png" /></a></div>
 
-Zápisek z další [konference](https://blog.zvestov.cz/tag/konference/), tentokrát [Scratch Around the World](https://scratch.mit.edu/conference/2021), která proběhla 22. července 2021. Vysílalo se online.
+Zápisek z další [konference](/tag/konference/), tentokrát [Scratch Around the World](https://scratch.mit.edu/conference/2021), která proběhla 22. července 2021. Vysílalo se online.
 
 Kamarád připomíná jejich rodinné moudro: „Nemůžeš-li pochválit, tak alespoň mlč.“ Jenže já konferenci několikrát doporučoval, takže se cítím vaším dlužníkem, abych se omluvil a přinesl alespoň nějakou zprávu. V kroužku programování jsem se zatím k jazyku [Scratch](https://scratch.mit.edu/) nedostal. Sliboval jsem si hromadu praktických tipů, ale nakonec to pro mě skončilo velkým zklamáním.
 
@@ -41,10 +41,10 @@ Tuhle přednášku jsem neviděl a nevím, zda najdu odvahu pustit si záznam, a
 
 ## Závěr
 
-Jo, asi jsem studený čumák, ale bylo to na mě moc „americké“, příliš mnoho _inspiring_, _exiting_ a _amazing_. Kladou velký důraz na komunitu a poplácají se po zádech, jak jim to klape. Dobrý, pozitivní duch je potřeba, ale čekal jsem spíš víc praktických tipů. Nesnese srovnání s [konferencí učIT jinak](https://blog.zvestov.cz/software%20development/2018/05/15/konference-ucit-jinak), která byla v tomto ohledu našlapaná. Těžko si můžu stěžovat, akce byla zdarma, platil jsem jen svým časem, ale nepřijde mi to jako dobře investovaný podvečer. Hodinové bloky bývalo šlo zdrcnout do pěti minut (patnácti, ať nežeru). Možná jsem si z paralelních přednášek jen špatně vybral. Jako lektora mě to bohužel moc do světa Scratch nevtáhlo. Snad i přesto začnu a ponořím se do toho nějak sám.
+Jo, asi jsem studený čumák, ale bylo to na mě moc „americké“, příliš mnoho _inspiring_, _exiting_ a _amazing_. Kladou velký důraz na komunitu a poplácají se po zádech, jak jim to klape. Dobrý, pozitivní duch je potřeba, ale čekal jsem spíš víc praktických tipů. Nesnese srovnání s [konferencí učIT jinak](/software%20development/2018/05/15/konference-ucit-jinak), která byla v tomto ohledu našlapaná. Těžko si můžu stěžovat, akce byla zdarma, platil jsem jen svým časem, ale nepřijde mi to jako dobře investovaný podvečer. Hodinové bloky bývalo šlo zdrcnout do pěti minut (patnácti, ať nežeru). Možná jsem si z paralelních přednášek jen špatně vybral. Jako lektora mě to bohužel moc do světa Scratch nevtáhlo. Snad i přesto začnu a ponořím se do toho nějak sám.
 
 ## Související
 
-- [Jak jsem začal s kroužkem programování](https://blog.zvestov.cz/software%20development/2018/10/29/jak-jsem-zacal-s-krouzkem-programovani.html)
-- [Konference učIT jinak](https://blog.zvestov.cz/software%20development/2018/05/15/konference-ucit-jinak)
-- [Hudba s Microbitem](https://blog.zvestov.cz/software%20development/2020/03/24/hudba-s-microbitem.html)
+- [Jak jsem začal s kroužkem programování](/software%20development/2018/10/29/jak-jsem-zacal-s-krouzkem-programovani.html)
+- [Konference učIT jinak](/software%20development/2018/05/15/konference-ucit-jinak)
+- [Hudba s Microbitem](/software%20development/2020/03/24/hudba-s-microbitem.html)

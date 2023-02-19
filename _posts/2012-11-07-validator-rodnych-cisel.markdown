@@ -15,4 +15,4 @@ Z diskuse pod článkem <a href="/item/112">Jak přesvědčit, že je správné 
 
 ## Související
 
-- [Parametrizovaný JUnit test](https://blog.zvestov.cz/software%20development/2014/02/05/parametrizovany-junit-test.html)
+- [Parametrizovaný JUnit test](/software%20development/2014/02/05/parametrizovany-junit-test.html)

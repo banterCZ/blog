@@ -9,7 +9,7 @@ Téma servisních a produktových firem nosím v hlavě už dlouhou dobu, ovšem
 
 <!--more-->
 
-Vypadá to, že nejlepší by tedy bylo fungovat jako produktová firma. Ať už rovnou od začátku nebo existující servisní firmu do té produktové překlopit. [Žádnou firmu jsem doposud nezaložil a ani to neplánuju](https://blog.zvestov.cz/software%20development/2016/04/05/zlata-horecka-v-it), ale tímto bych si chtěl zapsat poznámky jednoho pěšáka, který už pár pokusů viděl.
+Vypadá to, že nejlepší by tedy bylo fungovat jako produktová firma. Ať už rovnou od začátku nebo existující servisní firmu do té produktové překlopit. [Žádnou firmu jsem doposud nezaložil a ani to neplánuju](/software%20development/2016/04/05/zlata-horecka-v-it), ale tímto bych si chtěl zapsat poznámky jednoho pěšáka, který už pár pokusů viděl.
 
 ## Servisní firma
 

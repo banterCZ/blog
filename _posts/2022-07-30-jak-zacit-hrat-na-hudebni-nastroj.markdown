@@ -23,7 +23,7 @@ Následující řádky vám přiblíží, co jsem ve svém omezeném čase zkusi
 
 ## Motivace
 
-Rád hudbu poslouchám i vyluzuju, psal jsem o tom již v příspěvcích [Osobní kaizen](https://blog.zvestov.cz/obecn%C3%A9/2012/06/13/osobni-kaizen.html)
+Rád hudbu poslouchám i vyluzuju, psal jsem o tom již v příspěvcích [Osobní kaizen](/obecn%C3%A9/2012/06/13/osobni-kaizen.html)
 a [1000 věcí, které mně dělají radost](http://tisicvecikteremnedelajiradost.blogspot.com/2014/05/169-hra-na-hudebni-nastroj.html).
 
 Během morové epidemie dal Newton dohromady integrální a diferenciální počet.
@@ -197,6 +197,6 @@ Teorie se hodí, ale nestyďte se za nápodobu.
 
 ## Související
 
-- [Osobní kaizen](https://blog.zvestov.cz/obecn%C3%A9/2012/06/13/osobni-kaizen.html)
+- [Osobní kaizen](/obecn%C3%A9/2012/06/13/osobni-kaizen.html)
 - [1000 věcí, které mně dělají radost - #169 Hra na hudební nástroj](http://tisicvecikteremnedelajiradost.blogspot.com/2014/05/169-hra-na-hudebni-nastroj.html)
 - [Software Engineering, má rozumné paralely? Díl 2, hudba](https://sw-samuraj.cz/2020/01/software-engineering-ma-rozumne-paralely-dil-2/)

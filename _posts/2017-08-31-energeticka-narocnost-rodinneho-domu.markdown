@@ -10,7 +10,7 @@ tags: [spotřeba]
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2017-08-31/dřevo.jpg" /></div>
 
-Jedna věc je [dům postavit](https://blog.zvestov.cz/bydlen%C3%AD/2013/09/23/jak-se-stavi-dum-svepomoci.html) a druhá zaplatit. A to nejen hypotéku, ale i energie. Máte představu, kolik stojí vaše domácnost na energiích? Já si vše každý měsíc zapisuju. Pokusil jsem se z čísel něco spočítat. Pokud právě uvažujete o vlastním bydlení a propočítáváte návratnost investice nebo se jen chcete porovnat, jak umíte hospodařit, tak by vás to mohlo zajímat,  
+Jedna věc je [dům postavit](/bydlen%C3%AD/2013/09/23/jak-se-stavi-dum-svepomoci.html) a druhá zaplatit. A to nejen hypotéku, ale i energie. Máte představu, kolik stojí vaše domácnost na energiích? Já si vše každý měsíc zapisuju. Pokusil jsem se z čísel něco spočítat. Pokud právě uvažujete o vlastním bydlení a propočítáváte návratnost investice nebo se jen chcete porovnat, jak umíte hospodařit, tak by vás to mohlo zajímat,  
 
 <!--more-->
 <div style="clear: both"></div>
@@ -25,7 +25,7 @@ Plynem topíme, ohříváme vodu a vaříme. Naše celková roční spotřeba je
 
 ![](/assets/2017-08-31/graf%20plyn.png)
 
-Z grafu je patrné, že plyn se spotřebovává i v létě, zhruba 50&nbsp;m<sup>3</sup> měsíčně. Spotřeba vaření se udává přibližně 10 m<sup>3</sup> za měsíc, zbytek je tedy ohřev vody, ten jsme letos [doplnili o solární panely (čísla a výpočty návratnosti dodám za rok)](https://blog.zvestov.cz/bydlen%C3%AD/2018/06/26/vyplati-se-solarni-ohrev-vody.html). Na topení zbývá 600&nbsp;m<sup>3</sup>, tedy 9 tisíc korun za rok.
+Z grafu je patrné, že plyn se spotřebovává i v létě, zhruba 50&nbsp;m<sup>3</sup> měsíčně. Spotřeba vaření se udává přibližně 10 m<sup>3</sup> za měsíc, zbytek je tedy ohřev vody, ten jsme letos [doplnili o solární panely (čísla a výpočty návratnosti dodám za rok)](/bydlen%C3%AD/2018/06/26/vyplati-se-solarni-ohrev-vody.html). Na topení zbývá 600&nbsp;m<sup>3</sup>, tedy 9 tisíc korun za rok.
 
 Ohřev vody je zatížen ztrátami z oběhového čerpadla. To zajišťuje cirkulaci teplé vody, která sice není nepřetržitá, ale i tak vede k 
 vychládání vody v potrubí. Cirkulace zajišťuje pohodlí, jelikož otočíte kohoutkem a okamžitě teče teplá voda. Nemusím před sprchováním odtáčet litry vody, než se konečně dočkám teplé.
@@ -57,7 +57,7 @@ Za rok spotřebujeme 3023&nbsp;kWh elektřiny, což je zhruba 15 tisíc korun. [
 ![](/assets/2017-08-31/podíl%20spotřeby%20elektřiny.png)
 
 ## Studna
-Voda není energie, ale do spotřeby ji zahrnu. Máme vlastní kopanou studnu. Ekonomicky to asi nedává smysl, obzvlášť když kubík obecní vody z řádu stojí 14 Kč (obecní zastupitelstvo přesvědčuji ať zdraží). Přestože [voda v mé studni není moje](https://blog.zvestov.cz/bydlen%C3%AD/2013/08/13/voda-ve-vasi-studni-neni-vase.html), mám ji víc pod kontrolou a dostává se mi jí i v období největšího sucha, nehledě na to že je kvalitnější. Obě jsou pitné podle normy, ale naše není železitá. Studna včetně vystrojení stála téměř 100 tisíc korun, to se do konce mého života nevrátí. A to ještě nepočítám, co stojí čerpání vody na elektřině a laboratorních rozborech. Povinný rozbor je jen první, já testuji každý rok (mám rozbory zdarma, ale testoval bych, i kdybych za ně měl platit). 
+Voda není energie, ale do spotřeby ji zahrnu. Máme vlastní kopanou studnu. Ekonomicky to asi nedává smysl, obzvlášť když kubík obecní vody z řádu stojí 14 Kč (obecní zastupitelstvo přesvědčuji ať zdraží). Přestože [voda v mé studni není moje](/bydlen%C3%AD/2013/08/13/voda-ve-vasi-studni-neni-vase.html), mám ji víc pod kontrolou a dostává se mi jí i v období největšího sucha, nehledě na to že je kvalitnější. Obě jsou pitné podle normy, ale naše není železitá. Studna včetně vystrojení stála téměř 100 tisíc korun, to se do konce mého života nevrátí. A to ještě nepočítám, co stojí čerpání vody na elektřině a laboratorních rozborech. Povinný rozbor je jen první, já testuji každý rok (mám rozbory zdarma, ale testoval bych, i kdybych za ně měl platit). 
 
 ![](/assets/2017-08-31/graf%20voda.png)
 
@@ -86,10 +86,10 @@ A jak hospodaříte vy?
 
 ## Související
 
-* [Vyplatí se solární ohřev vody?](https://blog.zvestov.cz/bydlen%C3%AD/2018/06/26/vyplati-se-solarni-ohrev-vody.html)
+* [Vyplatí se solární ohřev vody?](/bydlen%C3%AD/2018/06/26/vyplati-se-solarni-ohrev-vody.html)
 * [Mystérium eurounijní energetiky a zákazu žárovek](https://www.marigold.cz/item/mysterium-eurounijni-energetiky-a-zakazu-zarovek-2)
-* [Roční spotřeba energie v domácnosti](https://blog.zvestov.cz/bydlen%C3%AD/2008/03/07/rocni-spotreba-energie-v-domacnosti.html)
-* [Voda ve vaší studni není vaše](https://blog.zvestov.cz/bydlen%C3%AD/2013/08/13/voda-ve-vasi-studni-neni-vase.html)
-* [Jak se staví dům svépomocí](https://blog.zvestov.cz/bydlen%C3%AD/2013/09/23/jak-se-stavi-dum-svepomoci.html)
-* [Z čeho se staví dům](https://blog.zvestov.cz/bydlen%C3%AD/2013/10/29/z-ceho-se-stavi-dum.html)
-* [Jak se dokončuje a zařizuje dům](https://blog.zvestov.cz/bydlen%C3%AD/2015/03/10/jak-se-dokoncuje-a-zarizuje-dum.html)
+* [Roční spotřeba energie v domácnosti](/bydlen%C3%AD/2008/03/07/rocni-spotreba-energie-v-domacnosti.html)
+* [Voda ve vaší studni není vaše](/bydlen%C3%AD/2013/08/13/voda-ve-vasi-studni-neni-vase.html)
+* [Jak se staví dům svépomocí](/bydlen%C3%AD/2013/09/23/jak-se-stavi-dum-svepomoci.html)
+* [Z čeho se staví dům](/bydlen%C3%AD/2013/10/29/z-ceho-se-stavi-dum.html)
+* [Jak se dokončuje a zařizuje dům](/bydlen%C3%AD/2015/03/10/jak-se-dokoncuje-a-zarizuje-dum.html)

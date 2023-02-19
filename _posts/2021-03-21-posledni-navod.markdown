@@ -47,7 +47,7 @@ A dále že
 
 ## Domácnost
 
-My osobně žijeme v rodinném domě se zahradou, a přestože můžeme možná stále mluvit o novostavbě, přesto to obnáší spoustu pravidelné údržby, jejíž plán jsem měl doposud jen v hlavě. Nemluvě o legislativních povinnostech. Namátkou [čistička odpadních vod](https://blog.zvestov.cz/bydlen%C3%AD/2017/08/31/energeticka-narocnost-rodinneho-domu.html#dom%C3%A1c%C3%AD-%C4%8Disti%C4%8Dka-odpadn%C3%ADch-vod), která kromě pravidelných servisních zásahů vyžaduje laboratorní rozbory, jejich zasílání na odbor životního prostředí a v neposlední řadě myslet na prodloužení povolení nakládání s vodami.
+My osobně žijeme v rodinném domě se zahradou, a přestože můžeme možná stále mluvit o novostavbě, přesto to obnáší spoustu pravidelné údržby, jejíž plán jsem měl doposud jen v hlavě. Nemluvě o legislativních povinnostech. Namátkou [čistička odpadních vod](/bydlen%C3%AD/2017/08/31/energeticka-narocnost-rodinneho-domu.html#dom%C3%A1c%C3%AD-%C4%8Disti%C4%8Dka-odpadn%C3%ADch-vod), která kromě pravidelných servisních zásahů vyžaduje laboratorní rozbory, jejich zasílání na odbor životního prostředí a v neposlední řadě myslet na prodloužení povolení nakládání s vodami.
 
 ## Zálohy
 

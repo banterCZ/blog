@@ -11,7 +11,7 @@ tags: [kniha]
 
 Na blogu [Think Fort](https://blog.think-forth.com/2016/01/21/technicky-dluh/) jsem kdysi narazil na *společném čtení knih*, ale teprve nedávno jsem se rozhoupal taky začít. Cílem aktivity je společně vybrat jednu knihu, kterou si každý doma sám přečte. Následně se sejdeme a o knize diskutujeme. Čteme zhruba 100 stran měsíčně, o kterých pak asi hodinu a půl diskutujeme.
 
-Sám čtu dost, [díky dojíždění na to mám vyhrazený čas](http://tisicvecikteremnedelajiradost.blogspot.cz/2014/06/187-dojizdeni-do-prace.html) (i když jsou lidé, kteří čtou několikanásobně víc než já). Chtěl jsem zážitek zprostředkovat i ostatním a mít možnost probrat, co nám dává smysl a co třeba už ne. Například loni jsem v jednom _code review_ [připomínkoval stořádkovou metodu, která mi přišla příliš dlouhá](https://blog.zvestov.cz/software%20development/2017/03/09/pravidlo-30-kdy-je-metoda-prilis-velka.html). Myslím, že jsem tenkrát nebyl moc úspěšný, ale domnívám se, že po společném čtení knihy _Clean Code_ panuje ohledně délky metody větší, byť ne úplná, shoda.
+Sám čtu dost, [díky dojíždění na to mám vyhrazený čas](http://tisicvecikteremnedelajiradost.blogspot.cz/2014/06/187-dojizdeni-do-prace.html) (i když jsou lidé, kteří čtou několikanásobně víc než já). Chtěl jsem zážitek zprostředkovat i ostatním a mít možnost probrat, co nám dává smysl a co třeba už ne. Například loni jsem v jednom _code review_ [připomínkoval stořádkovou metodu, která mi přišla příliš dlouhá](/software%20development/2017/03/09/pravidlo-30-kdy-je-metoda-prilis-velka.html). Myslím, že jsem tenkrát nebyl moc úspěšný, ale domnívám se, že po společném čtení knihy _Clean Code_ panuje ohledně délky metody větší, byť ne úplná, shoda.
 
 <!--more-->
 
@@ -41,6 +41,6 @@ Celkově to považuji za úspěch. Lidé, kteří by jinak nečetli, čtou, disk
 
 ## Související
 
-* [Programátorem po čtyřicítce](https://blog.zvestov.cz/software%20development/2016/05/26/programatorem-po-ctyricitce.html)
-* [O náboru juniorů](https://blog.zvestov.cz/software%20development/2018/01/26/o-naboru-junioru.html)
-* [Pravidlo 30 – kdy jsou metoda, třída nebo subsystém příliš velké](https://blog.zvestov.cz/software%20development/2017/03/09/pravidlo-30-kdy-je-metoda-prilis-velka.html)
+* [Programátorem po čtyřicítce](/software%20development/2016/05/26/programatorem-po-ctyricitce.html)
+* [O náboru juniorů](/software%20development/2018/01/26/o-naboru-junioru.html)
+* [Pravidlo 30 – kdy jsou metoda, třída nebo subsystém příliš velké](/software%20development/2017/03/09/pravidlo-30-kdy-je-metoda-prilis-velka.html)

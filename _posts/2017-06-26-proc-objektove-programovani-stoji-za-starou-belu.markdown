@@ -94,4 +94,4 @@ To je skutečná hnací síla OOP.
 
 ## Související
 
-* [Přebal javy](https://blog.zvestov.cz/software%20development/2013/05/23/prebal-javy.html)
+* [Přebal javy](/software%20development/2013/05/23/prebal-javy.html)
