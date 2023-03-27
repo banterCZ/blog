@@ -10,7 +10,10 @@ image: "/assets/2021-10-20/bit.png"
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2021-10-20/bit.png" /></div>
 
-Na [kroužku programování](/tag/krou%C5%BEek-programov%C3%A1n%C3%AD) se věnuju i aktivitám bez počítače. Od kamaráda jsem dostal tip na mechanický počítač [Turing Tumble](https://www.turingtumble.com/), který vznikl na základě [Kistarter kampaně](https://www.kickstarter.com/projects/upperstory/turing-tumble-gaming-on-a-mechanical-computer). Těm se záměrně vyhýbám, protože bych byl v pokušení kupovat kopec věcí, ale tuhle ~~hračku~~ učební pomůcku by byla škoda minout. Jsem rád, že kampaň skončila úspěšně i bez mého příspěvku a že jsem si mohl výsledek koupit až následně (nejednalo se o limitovanou edici, jak se někdy stává).
+Na [kroužku programování](/tag/krou%C5%BEek-programov%C3%A1n%C3%AD) se věnuju i aktivitám bez počítače.
+Od kamaráda jsem dostal tip na mechanický počítač [Turing Tumble](https://www.turingtumble.com/), který vznikl na základě [Kickstarter kampaně](https://www.kickstarter. com/projects/upperstory/turing-tumble-gaming-on-a-mechanical-computer).
+Těm se záměrně vyhýbám, protože bych byl v pokušení kupovat kopec věcí, ale tuhle ~~hračku~~ učební pomůcku by byla škoda minout.
+Jsem rád, že kampaň skončila úspěšně i bez mého příspěvku a že jsem si mohl výsledek koupit až následně (nejednalo se o limitovanou edici, jak se někdy stává).
 
 <div style="clear:both"></div>
 <!--more-->
