@@ -64,6 +64,8 @@ Měřáky má Spintronics pochopitelně taky.
 Syn sám došel k poznání, aniž bych ho k tomu nějak naváděl, že sériově zapojené rezistory se sčítají
 (takhle formálně se tam tomu neříká, ale v principu, abychom si rozuměli). V paralelních zapojeních to někdy vidí rychleji než já, moc to koumám.
 
+![](/assets/2023-03-28/spintronics.jpeg)
+
 Úlohy pokrývají široký teoretický základ od jednodušších věcí jako [Kirchhoffovy zákony](https://cs.wikipedia.org/wiki/Kirchhoffovy_z%C3%A1kony) 
 po roli induktoru v obvodu a končí až u [klopných obvodů](https://cs.wikipedia.org/wiki/Bistabiln%C3%AD_klopn%C3%BD_obvod).
 Jako dítě jsem měl problém pochopit princip tranzistoru (knihy neměly pohyblivé animace ani přibalené relé k vyzkoušení).
