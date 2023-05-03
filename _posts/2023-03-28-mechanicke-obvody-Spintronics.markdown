@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mechanické obvody Spintronics"
-date:   2023-02-28
+date:   2023-03-28
 categories: [software development]
 disqusId: 257
 image: "/assets/2023-03-28/transistor.png"
