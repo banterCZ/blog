@@ -4,7 +4,7 @@ title:  "Hudba s Microbitem"
 date:   2020-03-24
 categories: [software development]
 disqusId: 224
-tags: [kroužek programování]
+tags: [kroužek programování, microbit]
 image: "/assets/2020-03-24/microbit2_1.png"
 ---
 <div style="float: left; margin: 0.5em 1em 0.5em 0em; text-align: center;"><img src="/assets/2020-03-24/microbit2_1.png" /></div> 
