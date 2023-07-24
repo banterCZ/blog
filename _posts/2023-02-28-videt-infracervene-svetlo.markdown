@@ -145,7 +145,7 @@ Na tom jsem postavil [úlohu železniční přejezd](/software%20development/201
 
 Martin Javorek v článku [Jak si vypsat hodnotu, kterou ví jen robot Edison (pokus o debugging)](http://jaknato.programovanihrou.cz/edison/radar/)
 empiricky namapoval signály na čísla.
-Meet Edison protokol je popsaný v [Edison Infrared Communication Protocol](https://meetedison. com/content/support/Edison_Infrared_Communication_Protocol.pdf).
+Meet Edison protokol je popsaný v [Edison Infrared Communication Protocol](https://meetedison.com/content/support/Edison_Infrared_Communication_Protocol.pdf).
 Knihovna IRremote tento protokol (zatím, pokud nikdo nedopíšete) nepodporuje.
 
 
