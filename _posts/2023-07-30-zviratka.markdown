@@ -1,0 +1,121 @@
+---
+layout: post
+title:  "Zvířátka"
+date:   2023-07-30
+categories: [táborové hry]
+disqusId: 260
+image: "/assets/2023-07-30/245520.png"
+---
+
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2023-07-30/245520.png" /></div>
+
+Ve svých poznámkách jsem postrádal jednu ověřenou táborovou hru, tak si sepisuju pro příště.
+Hra na lov zvířátek se na internetu objevuje ve spoustě variacích.
+Na serveru [hranostaj.cz](https://www.hranostaj.cz/) jsem tu „naši“ nenašel a ani si nemůžu vybavit, kde jsme ji vzali, a komu připsat autorství.
+
+<div style="clear:both"></div>
+<!--more-->
+
+
+## Úvod
+
+Cíl hry je děti nechat zábavně vyběhat.
+Děti hrají lovce a dospělí zvířata.
+Lze hrát i s minimální přípravou.
+Potřebujete hlavně dostatečně velký les (řekněme tak čtverec o hraně 200 až 500 metrů) ideálně s jasně viditelnou hranicí herního pole,
+které by mělo být i dostatečně pestré (od vzrostlého řídkého lesa až po nepropustné houštiny).
+Na základě věku a kondice dětí a velikosti pole lze nastavit čistou dobu hry zhruba na 1 až 3 hodiny.
+
+
+## Zvířátka
+
+Ve hře se nám osvědčil následující výčet zvířátek.
+Dle chuti a počtu hráčů můžete zařadit zvířata dle vlastního výběru.
+
+
+### Zajíc
+
+Zajíc je neškodné zvíře.
+Obvykle ho naleznete vyhřívat se na kraji prosluněné paseky.
+Zachrání se před lovci neskutečně rychlým během zejména do kopce.
+
+
+### Veverka
+
+Veverka je neškodné zvíře.
+Sbírá někde oříšky a šišky.
+Před lovci se zachrání útěkem na strom, kam ji nesmí pronásledovat.
+
+
+### Rys
+
+Rys je neškodné zvíře.
+Je velmi plachý.
+Schovává se ve svém doupěti, kam ho můžete vystopovat (nápadně barevné lístečky nebo z papíru vyrobené stopy).
+Je velmi obtížné ho pro děti najít, z toho pohledu je plýtvání silami, pokud by ho hrál skutečný člověk.
+Lze tedy nahradit jen krabičkou s trofejemi.
+Rysa každý lovec smá ulovil pouze jednou.
+Hrdý lovec si nechá pro sebe, kde ho našel, a neprozrazuje jeho úkryt ostatním.
+
+
+### Liška
+
+Liška je běžně neškodné a plaché zvíře, ale pakliže je vzteklá, představuje pro lovce smrtelné nebezpečí.
+Reálně to znamená, že vzteklá liška má na hlavě pokrývku hlavy, kterou zdravá sejme.
+Aby hra byla fér, má ten, kdo ji hraje, nastavenou minutku a střídá role přesně a ne tak, jak se mu zrovna hodí.
+Osvědčený interval jsou dvě minuty.
+
+
+### Vlci
+
+Vlk loví ve smečce (nikdy jsme nehráli se smečkou větší než dva jedinci).
+Do smečky se svolávají mocným vytím.
+Samotný vlk není pro lovce nebezpečný a stává se jejich obětí.
+To, jestli je vlk ve smečce, se rozhoduje podle toho, zda má přímou viditelnost na svého parťáka.
+
+
+### Chřástal
+
+Tohle zvíře jsem zařadili poměrně nedávno, když se nám poštěstilo ho potkat naživo.
+[Chřástal](https://cs.wikipedia.org/wiki/Ch%C5%99%C3%A1stal_poln%C3%AD) je plachý a neškodný pták.
+Hnízdí ve vysokém porostu.
+Pro potřebu hry si myslí, že je dostatečně skrytý, proto neulétne, ale občas změní místo.
+[Vydává charakteristický zvuk „chřást / croax“](https://www.youtube.com/watch?v=QqPyrwzjXto), po kterém byl pojmenován.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QqPyrwzjXto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+### Divočák
+
+Divočáka je nebezpečné ulovit.
+Pro osamělého lovce je svými kly smrtelně nebezpečný.
+Abyste ho přemohli, musíte být alespoň tři lovci a v okamžiku ulovení se držet za ruce.
+Pokud se divočákovi podaří na vás zaútočit ve chvíli, kdy se zrovna nedržíte, rozlučte se se životem.
+
+
+### Medvěd
+
+Medvědici je nebezpečné ulovit a vůbec obtížné najít.
+Mnohdy se pohybuje mimo herní pole, sbírá lesní plody a med.
+Může se pohybovat s medvíďaty, které úzkostlivě chrání.
+Neopustí je, ani kdyby u toho měla zahynout, z čehož plyne, že se na rozdíl od ostatních zvířat nesnaží zachránit útěkem.
+Abyste ji přemohli, musí vás být alespoň pět lovců a v okamžiku ulovení se držet za ruce.
+Pokud se medvědici podaří na vás zaútočit ve chvíli, kdy se zrovna nedržíte, rozlučte se se životem.
+
+
+## Průběh hry
+
+Na začátku je vhodné obejít herní pole, aby byly jasné jeho hranice.
+Zároveň označíme „hřbitov“, kam se musí vrátit přemožení lovci.
+Ulovená zvířátka se můžou lovců zapisovat na lovecký lístek (snazší příprava)
+nebo můžete předem připravit trofeje (vytištěné obrázky zvířat), které budou rozdávat.
+Ulovené zvíře by mělo mít několik vteřin šanci na spasení, aby nemohl jiný lovec využít toho, že se zrovna upisuje tomu, kdo ho ulovil.
+
+
+## Variace
+
+Lovce lze v konečné vyhodnocení penalizovat za počet ztracených životů, v takovém případě se hodí další člověk na hřbitov, který jinak může být bezobslužný.
+Lze vypsat prémii za ulovení každého zvířete alespoň jednou (některé je totiž velmi obtížné ulovit a je hrdostí lovce získat všechny trofeje).
+Pravidla lze zkomplikovat ještě o vydávání povolení na konkrétní zvíře a lesní stráž, která bude povolení kontrolovat a případné pytlačení trestat zabavením trofeje.
+Chcete-li hru bodovat, můžete udělat ceník, který se navíc během hry může měnit v závislosti na tom, jak je které zvíře snadné ulovit.
+Hru jsme pokaždé hráli bez kostýmů, zvířata se poznávala jen podle vnějších projevů, ale i drobné maskování by výrazně mohlo pomoc dramatizaci.
