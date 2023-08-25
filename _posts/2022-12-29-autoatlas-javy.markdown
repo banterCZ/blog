@@ -352,7 +352,8 @@ Eclipse šel tou dobou vlastní cestou, [RCP](https://wiki.eclipse.org/Rich_Clie
 
 [Swing](https://cs.wikipedia.org/wiki/Swing_(Java)) přišel s vlastním vykreslováním, které by všude mělo vypadat stejně.
 Oproti nativnímu AWT to však kladlo značně vyšší nároky na hardware.
-Odtud může pramenit povědomí, že Java je pomalá, protože tehdy to opravdu pomalé bylo. 
+Odtud může pramenit povědomí, že Java je pomalá, protože tehdy to opravdu pomalé bylo.
+Následníkem Swingu je [JavaFX](https://cs.wikipedia.org/wiki/JavaFX).
 
 
 ## Enterprise
