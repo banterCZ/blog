@@ -28,7 +28,7 @@ Pro naše vyprávění je podstatné, že v rámci toho se vydává podepsaný J
 A pro podpis potřebujete privátní klíč.
 Mám rád přístup, který upřednostňuje konvence před konfigurací.
 A taky, když vývojáři rozběhají projekt za minuty a ne dny.
-Zkrátka na classpath byl testovací klíč a v instalační příručce pokyny, že si máte v produkci vygenerovat vlastní.
+Zkrátka na _classpath_ byl testovací klíč a v instalační příručce pokyny, že si máte v produkci vygenerovat vlastní.
 Ovšem žádná ruční brzda, která by vás zastavila.
 A co se nestalo?
 Hádáte správně, v produkci použili testovací klíč.
@@ -78,6 +78,7 @@ Nechám na čtenářích k posouzení případ, kdy máte definovaný profil `de
 
 Rozhraní `SecretService` má v našem příkladu dvě implementace, `DevSecretService` a `FileSecretService`, ale to už je takové drobné programátorské cvičení.
 [Celý ukázkový projekt naleznete na GitHubu](https://github.com/banterCZ/default-secret).
+Mimo jiné si povšimněte, že soubor s tajemstvím zůstává na _classpath_, ale pouze pro unit testy.
 
 
 ## Závěr
