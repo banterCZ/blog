@@ -1,0 +1,247 @@
+---
+layout: post
+title:  "Pocta C64"
+date:   2023-10-23
+categories: [software development]
+disqusId: 262
+image: "/assets/2023-10-23/c64-logo.png"
+tags: [konference, jopenspace]
+---
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2023-10-23/c64-logo.png" /></div>
+
+Za prvopočátek své programátorské kariéry vděčím počítači [Commodore 64](https://cs.wikipedia.org/wiki/Commodore_64).
+Tehdy jsem genialitu návrhu nemohl docenit.
+Dnes dokážu lehce nahlédnout pod pokličku.
+Chtěl bych se o to s vámi podělit a vzdát mu hold.
+Přednášku jsem připravil pro ne-konferenci [jOpenSpace 2023](http://www.jopenspace.cz/).
+Níže naleznete přepis a [videozáznam](https://www.youtube.com/watch?v=Vmy2SqsfXhk).
+
+<div style="clear:both"></div>
+<!--more-->
+
+
+## Úvod
+ 
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/Vmy2SqsfXhk?si=vdAoqusJMNUPeroi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Jsem kluk z vesnice.
+Moji vrstevníci jezdili na [pionýrech](https://cs.wikipedia.org/wiki/Pion%C3%BDr_(motocykl)) a naučili se je opravovat.
+Já měl k dispozici novější a spolehlivější stroj se složitějším zapalováním, [Simson S51](https://cs.wikipedia.org/wiki/Simson#S51), takže se ze mě automechanik nestal.
+Zato jsem dostal počítač Commodore 64 (aka C64).
+Když jsem ho zapnul, vyskočila na mě konzole, se kterou jsem musel nějak interagovat, pakliže jsem si chtěl spustit hru.
+
+![Terminál](/assets/2023-10-23/c64-terminal.png)
+
+## Historie
+
+Psal se rok 1991, chodil jsem do první třídy.
+Na celé škole jsme měli počítač asi jen dva lidi.
+Jako monitor jste mohli použít [Tesla Merkur](http://www.oldradio.cz/tvp.htm) nebo v lepším případě Color.
+Moji rodiče nejsou ani vzdělaní, ani bohatí, ale byli dost osvícení na to, aby vrazili spoustu peněz do takové hračky.
+U počítače byly přibalené dvě knihy, jedna anglicky, druhá německy, moc jsem si nepočetl.
+
+Historie firmy [Commodore](https://cs.wikipedia.org/wiki/Commodore_International) sahá do 50. let 20. století, kdy se zabývali importem a výrobou psacích strojů v československé licenci.
+Vyráběli i kalkulačky, ale proslavili se osobním počítačem Commodore 64 z roku 1982.
+Jednalo se o domácí počítač v ceně pod tisíc amerických dolarů, konkrétně 595 USD (v přepočtu to v roce 2022 činilo 1 700 USD) a cena později klesala.
+Prodalo se kolem neuvěřitelných 17 miliónů kusů.
+To se samozřejmě s dnešními prodeji, kdy má doma každý počítačů několik, nedá srovnávat.
+
+![Commodore 64](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Commodore-64-Computer-FL.jpg/320px-Commodore-64-Computer-FL.jpg){:.center}
+
+[Evan-Amos, public domain](https://en.wikipedia.org/wiki/File:Commodore-64-Computer-FL.jpg){:.center}
+
+
+## Architektura
+
+Následujícím obrázkem z [datasheetu](http://archive.6502.org/datasheets/mos_6510_mpu.pdf) vás nechci vyděsit, ale ukázat, že počítač byl osmibitový.
+Šířka slova, počet vodičů na datové sběrnici (červené zvýraznění) určuje největší číslo, které může počítač zpracovat během jedné operace.
+Zatímco k adresaci paměti (zelené zvýraznění) slouží šestnáct bitů.
+
+![datasheet mos6510](/assets/2023-10-23/mos6510.png)
+
+Jedná se o mikroprocesoru [MOS Technology 6510](https://en.wikipedia.org/wiki/MOS_Technology_6510) taktovaný na 1 MHz.
+Technologie 5 µm.
+U dnešních čipů měříme číslo v nanometrech.
+A proč je důležité honit se za co nejmenším číslem?
+Pro menší spotřebu, úsporu na chlazení a zkrácení vzdáleností zrychlí signál.
+Z další čísel uveďme ještě 64 KB RAM a 20 KB ROM.
+Displej 320×200 v 16 barvách nebo textový režim 40×25 znaků.
+
+
+## Zvuk
+
+Jestli se něčím Commodore 64 proslavil, tak to byl jeho zvukový čip [SID](https://en.wikipedia.org/wiki/MOS_Technology_6581).
+Uměl 3 hlasy v rozsahu 8 oktáv. 
+Šlo ovlivňovat [průběh signálu ASDR](https://commons.wikimedia.org/wiki/File:ADSR_parameter.svg) (náběh, útlum, podržení a uvolnění) spolu s tvarem vlny (hrana, pila, trojúhelník nebo šum).
+To zní hrozně abstraktně.
+Na osciloskopu to mohlo vypadat třeba takhle: [C64 Wizball: Title Theme](https://www.youtube.com/watch?v=PRksQbrDprA)
+
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/PRksQbrDprA?si=DALnzlKFiqfxoVo5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Můj první PC (AMD K5) měl později jednu z prvních [zvukových karet Sound Blaster](https://cs.wikipedia.org/wiki/Sound_Blaster).
+Subjektivně šlo o horší zvuk, což objektivně můžu ověřit zpětným ohlédnutím do technické specifikace.
+Commodore používal pokročilou FM (frekvenční modulace) syntézu 
+zatímco Sound Blaster paměťově náročné [PCM](https://cs.wikipedia.org/wiki/Pulzn%C4%9B_k%C3%B3dov%C3%A1_modulace)
+[samply](https://cs.wikipedia.org/wiki/Samplov%C3%A1n%C3%AD) při vzorkovací frekvenci 22kHz.
+Zvídavé čtenáře nad rámec článku odkážu na [aliasing a Nyquistův/Shannonův vzorkovací teorém](https://cs.wikipedia.org/wiki/Aliasing).
+Sound Blaster měl kvůli MIDI asi taky nějaký čip na FM syntézu, ale to hrálo strašně.
+
+
+## Datové nosiče
+
+![diskety 3.5", 5.25" a 8"](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Floppy_disk_2009_G1.jpg/320px-Floppy_disk_2009_G1.jpg){:.center}
+
+[George Chernilevsky, public domain](https://commons.wikimedia.org/wiki/File:Floppy_disk_2009_G1.jpg){:.center}
+
+Vezměmě to od těch nejmladších datových nosičů.
+Z PC si můžete pamatovat 3,5" disketu, nebo dokonce 5,25" ty se používaly právě na Commodoru.
+(8" vím, že existovaly, ale na vlastní oči jsem neviděl).
+Jenže disketová jednotka stála zhruba stejně jako celý počítač.
+Proto si pamatuju jediného kámoše, který ji vlastnil.
+
+![Disketová mechanika](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/C64-IMG_5372.jpg/320px-C64-IMG_5372.jpg){:.center}
+
+[Kausalkette, public domain](https://en.wikipedia.org/wiki/File:C64-IMG_5372.jpg){:.center}
+
+Zato jsem měl, stejně jako jiní ve východním bloku, kazetový přehrávač.
+Povšimněte si především počitadla otáček.
+V praxi to znamenalo, že jste měli obal kazety popsaný seznamem her a pozicí, odkud začít nahrávat.
+
+![kazetový přehrávač](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Commodore-Datasette-C2N-Mk1-Front.jpg/320px-Commodore-Datasette-C2N-Mk1-Front.jpg){:.center}
+
+[Evan-Amos, public domain](https://en.wikipedia.org/wiki/File:Commodore-Datasette-C2N-Mk1-Front.jpg){:.center}
+
+Ale jak na analogové médium dostat digitální informaci?
+[Existovalo kódování pulzů](https://www.c64-wiki.com/wiki/Datassette_Encoding) logické nuly a jedničky, návěstí pro _byte_ atd.
+Reálně jste slyšeli pískání.
+Někdo si možná spíš pamatujete z modemů a vytáčeného internetového připojení.
+Nahrávání bylo hrozně pomalé, pouhých 300 bit/s, takže celých 64KB by trvalo zhruba 30 minut. 
+Je skvělé, že existuje i odnož [stackexchange.com pro retrocomputing, tady odpověď Martina Malého](https://retrocomputing.stackexchange.com/a/16703/28200).
+Pomalost byla zapříčiněná délkou pulzů a detekcí a korekcí chyb, obecný princip zmiňoval [František Řezáč ve starší přednášce K čemu je pravda](https://www.youtube.com/watch?v=hRycaM3mfAk).
+Velmi doporučuji [How Old-School Cassette Tape Drives Played Games](https://www.youtube.com/watch?v=cS7SWdTVKys).
+
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/cS7SWdTVKys?si=c2K26s8eIFyWM2EV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Naštěstí existovaly nástroje nazývané _turbo_, nebo _fastloader_.
+Já si pamatuju [Turbo 250](https://retro-hardware.com/2020/03/22/commodore-64-turbo-loading-from-tape/), které dokázalo zrychlit nahrávání až na jednotky kbit/s.
+Důsledkem byla i horší korekce chyb, náchylnost na správné nastavení čtecí hlavy a v pokoji nesměl nikdo dupat.
+
+Tady si dovolím malou odbočku k nástrojům jako ChatGPT.
+Hrozně jsem toužil po tom, pochopit jak to tenkrát fungovalo, ale nenašel jsem moc zdrojů,
+Zkusil jsem tedy i _chatboty_, ale (zatím?) se chovají jako studenti u zkoušky, neřeknou, že neví.
+Dal jsem šanci Bardovi, který by měl být schopný zdrojovat (nebyl).
+Ptám se ho, jak to víš?
+On na to, ze zkušenosti a z manuálů.
+Říkám, dej mi odkaz na manuál.
+Prý nedá.
+
+Uznejte, že na tom se přednáška a článek postavit nedají.
+
+Posledním médiem je [cartridge](https://www.c64-wiki.com/wiki/Cartridge), zásuvný modul.
+Na tom jsem hru neviděl na vlastní oči žádnou, ale poštěstilo se mi vlastnit právě exemplář s turbem.
+
+
+## Jak si na to sáhnout
+
+Počítač jsem kdysi prodal.
+Je to jako s motorkami, nechtěl jsem hromadit věci a hlavně jsem potřeboval peníze.
+U motorek lituju hodně, tady trochu.
+Asi bych ho totiž nechtěl provozovat a řešit kompozitní video přes DIN konektor, problémy s přepětím na originálním zdroji, který může odpálit počítač.
+Každopádně [Michal Tauchman napsal na root.cz moc pěkný seriál o renovaci C64](https://www.root.cz/serialy/renovace-pocitace-commodore-64/).
+
+Zato jsem si koupil [repliku](https://retrogames.biz/products/thec64/).
+Má HDMI výstup, USB a na rozdíl o originálu si můžete ukládat pozice u her.
+
+![](/assets/2023-10-23/c64-replica.png)
+
+
+## Programování
+
+Příklad z [Commodore 64 Users Guide](https://www.commodore.ca/manuals/c64_users_guide/c64-users_guide.htm).
+
+{% gist banterCZ/9a9672351ce160a5bf7d69057e41c6cb %}
+
+Programovalo se v jazyku [BASIC](https://en.wikipedia.org/wiki/BASIC) (Beginners' All-purpose Symbolic Instruction Code).
+Měl by vám být povědomý.
+Asi vás překvapí číslování řádek, to je nutné kvůli skokům jako [GOTO](https://www.c64-wiki.com/wiki/GOTO) či [GOSUB](https://www.c64-wiki.com/wiki/GOSUB).
+Tenkrát se samozřejmě psalo bez zvýrazňování syntaxe a kontextové nápovědy.
+
+Dneska bych podobný příklad děti učil [v kostkovém jazyce Scratch nějak takhle](https://scratch.mit.edu/projects/82164188/editor/).
+
+<iframe class="center" src="https://scratch.mit.edu/projects/82164188/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+Každopádně k BASIC doporučuji tenhle zajímavý úvod: [Introduction to Commodore 64 BASIC and Why You Should Learn It](https://www.youtube.com/watch?v=nnjg3G2gkok)
+
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/nnjg3G2gkok?si=EAE3lJEVdEg4xI-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Bylo možné [programovat i v assembleru](https://cronodon.com/Programming/machine_code.html), ale to už jsem neměl vůbec šanci pochopit.
+
+Základním prvkem her je tzv. _sprite_.
+C64 jich podporoval 8.
+Šlo měnit jejich barvu, velikost a detekovat kolizi.
+Obrázek jste zakódovali do několika _bytů_.
+
+![](/assets/2023-10-23/c64-sprite.png){:.center}
+
+_Byty_ jste načetli pomocí [DATA](https://www.c64-wiki.com/wiki/DATA)
+a pak zapisovali na konkrétní „magické” adresy paměti pomocí [POKE](https://www.c64-wiki.com/wiki/POKE).
+
+{% gist banterCZ/c6c4b23b460c088a898d3e96e5803170 %}
+
+Vyzkoušet lze například [v tomto emulátoru](https://stigc.dk/c64/basic/).
+
+Vývoj her narážel na mnohé limity.
+Tady je jeden názorný příklad, jak se jim je tenkrát dařilo obcházet.
+[Rychlým střídáním barev navodili iluzi barvy, která v původní paletě neexistovala](https://www.aaronbell.com/secret-colours-of-the-commodore-64/).
+
+
+## Hry
+
+Jak jsem předeslal, C64 pro mě byl hlavně hry.
+Začněme textovými jako [Chammurapi](https://c64online.com/c64-games/chammurapi-king-of-babylon/).
+Matně si vzpomínám, že jsem byl schopný si zdroják zobrazit a upravit.
+
+Z dalších jmenujme namátkou [The Last Ninja](https://en.wikipedia.org/wiki/The_Last_Ninja).
+
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/TPPlJhpE_9Y?si=jQ2o2ga_pK53Caih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+C64 uměl multiplayer až 4 hráčů, ať už na jedné obrazovce nebo _split screen_, například [Pitstop II](https://en.wikipedia.org/wiki/Pitstop_II).
+
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/WAfc_Ugki5U?si=T4RuHCgC_pFMJoAX&amp;start=218" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Hry vznikají a prodávají se i dnes.
+Například [Strikeback](https://sarahjaneavory.itch.io/strikeback-c64) na podporu Ukrajiny a oslavu dronu Bayraktar. 
+
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/vy3k79wWA4s?si=YUn-Hy9uUrN5bsNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Filmy
+
+Doporučuji šestidílný seriál na Netflix [High Score](https://www.netflix.com/title/81019087).
+O C64 se tam mluví málo, ale seznámí vás s historií her od textovek, Pac-Man, Mortal Kombat až po Doom.
+Zároveň je tam vidět, jaký zásadní posun přinesla změna architektury na 16 a později 32 bitů.
+
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/N29w7aldHpM?si=8eBOduhkNAm2LtFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Běžela kampaň na podporu vzniku dokumentu [I Adore My 64](https://www.iadoremy64film.com/).
+Bohužel zatím nevybrali dost peněz.
+Snad to jednou klapne, rád bych to viděl.
+
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/huzRxVdrwUY?si=Noz_fslR5UwDHPZL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Závěr
+
+Chtěl jsem zavzpomínat na svoje dětství a poděkovat C64, že mě nasměroval v mé kariéře.
+Strávil jsem několik večerů hledáním zdrojů a náramně jsem si to užil.
+Věřím, že vás alespoň některé z informací mohla zaujmout.
+Osobně se k tomu chci ještě vrátit a pár věcí dostudovat.
+
+
+## Související
+
+- [Štěstí nebo osobní zásluhy](/software%20development/2014/05/30/stesti-nebo-osobni-zasluhy.html)
+- [C64 Wizball: Title Theme](https://www.youtube.com/watch?v=PRksQbrDprA)
+- [How Old-School Cassette Tape Drives Played Games](https://www.youtube.com/watch?v=cS7SWdTVKys)
+- [Secret colours of the Commodore 64](https://www.aaronbell.com/secret-colours-of-the-commodore-64/)
+- [Commodore 64 Users Guide](https://www.commodore.ca/manuals/c64_users_guide/c64-users_guide.htm)
