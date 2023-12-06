@@ -82,3 +82,4 @@ Pro tyto účely se spíš hodí použít Bouncy Castle knihovnu, která má svo
 - [Stack Overflow - What java.security.egd option is for?](https://stackoverflow.com/questions/58991966/what-java-security-egd-option-is-for/59097932#59097932)
 - [NIST - Recommendation for Random Number Generation Using Deterministic Random Bit Generators](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf)
 - [Is haveged still useful/relevant?](https://github.com/jirka-h/haveged/issues/57)
+- [Baeldung: The java.security.egd JVM Option](https://www.baeldung.com/java-security-egd)
