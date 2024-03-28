@@ -324,3 +324,4 @@ Neříkám, že sám tento přístup slepě razím všude, ale zkuste se nad tí
 - [Úskalí API](/software%20development/2021/04/28/uskali-api)
 - [Zpětná kompatibilita](/software%20development/2019/12/09/zpetna-kompatibilita.html)
 - [Clean Code](/software%20development/2016/07/28/clean-code.html)
+- [Jackson Deserialization and the Builder Pattern](https://www.grabanotherbyte.com/en/jackson/2020/11/13/jackson-builder-pattern.html)
