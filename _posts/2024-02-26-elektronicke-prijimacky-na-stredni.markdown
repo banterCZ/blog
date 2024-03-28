@@ -5,6 +5,7 @@ date:   2024-02-26
 categories: [software development]
 disqusId: 266
 image: "/assets/2024-02-26/29312.png"
+tags: [státní správa]
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2024-02-26/29312.png" /></div>
 
