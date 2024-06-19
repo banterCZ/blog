@@ -104,6 +104,18 @@ Objednával jsem v roce 2020, dnes je zase vše úplně jinak (rozuměj dražš�
 Byť jsem některé aspekty silně kritizoval, celkově jsem s autem Peugeot Rifter spokojený. Když jsem teď dva týdny jezdil s náhradní C4 (která stojí zhruba tak stejně, asi se na to lépe balí holky), tak mi Rifter chyběl. Napsal bych kupujte, ale dost možná nebudou. Největší obavy jsem měl z motoru, ale ten spolu s převodovkou velmi předčil moje očekávání. O spolehlivosti samozřejmě nemůžu zatím říct nic. Zpětně viděno bych si dokoupil ještě přední parkovací čidla. Na velké auto jsem si celkem zvykl a dokážu si představit jezdit dodávkou, která pro mě má zatím tři překážky: cena, motorizace a to zda by se mi vešla do garáže.
 
 
+## Spolehlivost
+
+Edit: Postupně sem můžu dávat zkušenosti ohledně spolehlivosti a servisu.
+
+Dost návodů bývá předimenzovaných, ale tady nekecali.
+Předepsaný interval výměny zapalovacích svíček je každých 30 tisíc kilometrů, ale to mi zrovna nevycházelo, protáhlo se mi to až na 38 tisíc.
+To se mi vymstilo.
+Auto několikrát spadlo do poruchy a sotva jsem dojel.
+Jedna svíčka úplně v háji.
+Takže ano, přeplňovaný motor dostává zabrat a doporučené servisní zásahy si zaslouží.
+
+
 ## Související
 
 - [Tisíc kilometrů s Peugeot 5008](/obecn%C3%A9/2020/12/02/tisic-kilometru-s-peugeot-5008.html)
