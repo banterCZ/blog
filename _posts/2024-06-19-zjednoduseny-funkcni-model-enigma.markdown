@@ -51,7 +51,7 @@ Povšimněte si, že pro přesnější spasování dílů jsem si tam připravil
 
 Plastové díly polepíte papírovými součástmi, které jsem v rámci prodloužení trvanlivosti přelepil ještě průhlednou lepenkou.
 Výsledek pak vypadá následovně.
-Znalci si povšimnou, že kromě rotorů je možné (nikoliv nutné) pracovat i s nastavením kroužků (_plugboard_ zde pochopitelně chybí, ale stejně mi pro názornost nepřišel tak zásadní).
+Znalci si povšimnou, že kromě rotorů je možné (nikoliv nutné) pracovat i s nastavením kroužků (dokonce umí i _plugboard_, ale stejně mi pro názornost nepřišel tak zásadní).
 
 <iframe src="https://witter.cz/@banterCZ/111750284813006724/embed" class="mastodon-embed center" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://witter.cz/embed.js" async="async"></script>
 
