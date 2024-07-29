@@ -5,7 +5,6 @@ date:   2024-07-29
 categories: [bydlení]
 disqusId: 270
 image: "/assets/2024-07-29/308888.png"
-tags: [kroužek programování]
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2024-07-29/308888.png" /></div>
 
