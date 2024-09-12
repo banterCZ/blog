@@ -24,7 +24,7 @@ Jen je to pro běžného člověka trochu neintuitivní, tak to alespoň vydá n
 
 Jak jsem již uvedl, máme mocný nástroj nahlížení do katastru nemovitostí.
 Klaďme si filozofickou otázku (na kterou zde nebudu odpovídat), zda je to přiměřený zásah do soukromí v porovnání se společenským přínosem.
-Někdo možná pamatujete, že jste nemuseli opisovat _captcha_ nebo se dokonce přihlašovat identitou občanu, přičemž původně měly být plné detaily dostupné pouze po přihlášení, ale kompromisní varianta nakonec zobrazuje část informací pouze po zadání _captcha_.
+Někdo možná pamatujete, že jste nemuseli opisovat _captcha_ nebo se dokonce přihlašovat identitou občana, přičemž původně měly být plné detaily dostupné pouze po přihlášení, ale kompromisní varianta nakonec zobrazuje část informací pouze po zadání _captcha_.
 [Pro Lupa.cz odůvodnil Kamil Zmeškal z ČÚZK.](https://www.lupa.cz/clanky/proc-dochazi-k-omezeni-v-nahlizeni-do-katastru-nemovitosti/)
 
 Český právní řád vám umožňuje nahlížet do různých písemností, včetně nabývacích titulů k nemovitostem, kde bývá i cena a spoustu osobních údajů.
