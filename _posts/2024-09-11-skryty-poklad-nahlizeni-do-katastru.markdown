@@ -79,8 +79,10 @@ K tomu je nutné znát číslo řízení, které získáte pomocí následujíc�
 
 Za prvé v dálkovém přístupu naleznete požadovanou nemovitost.
 Bude k dispozici minimálně výpis z katastru nemovitostí.
-Pozor, je potřeba kupovat „Částečný výpis z KN (LV)“.
-LV je v hantýrce list vlastnictví (z pravidla s více nemovitostmi) a mně konkrétně se v celém výpisu pomíchalo víc řízení a nebylo jasné, které řízení patří ke které nemovitosti.
+LV je v hantýrce list vlastnictví.
+List vlastnictví může obsahovat více nemovitostí.
+Mně konkrétně se v celém výpisu pomíchalo víc řízení a nebylo jasné, které řízení patří ke které nemovitosti.
+V takovém případě koupíte „Částečný výpis z KN (LV)“.
 
 ![](/assets/2024-09-11/dostupne-listiny.png){:.center}
 
