@@ -24,7 +24,7 @@ Už mám najeto přes 200 tisíc, ale doufám, že mi ještě nějakou chvíli s
 Teď bylo potřeba vyměnit zadní brzdy.
 Jenže ouha, po výměně přestala fungovat automatika (zabrždění při vypnutí motoru, odbrždění při rozjezdu).
 Tlačítko fungovalo, ale jak už je člověk jednou zvyklý, tak je to vopruz.
-Ve vesnickém autorizovaném servisu si s tím nevěděli rady a nakonec mi doporučili, navštívit autorizovaný servis.
+Ve vesnickém neautorizovaném servisu si s tím nevěděli rady a nakonec mi doporučili, navštívit autorizovaný servis.
 
 ![](/assets/2024-10-20/palubni_deska.jpeg){:.center}
 
