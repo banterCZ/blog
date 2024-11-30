@@ -1,0 +1,35 @@
+@startuml
+boundary Server1
+control Cache1
+database Database
+control Cache2
+boundary Server2
+
+Server1 -> Cache1: Cache miss
+activate Cache1
+Cache1 -> Database: Load
+Cache1 <-- Database: Return value
+Server1 <-- Cache1: Return loaded value
+deactivate Cache1
+Server1 -> Cache1: Cache hit
+activate Cache1
+Server1 <-- Cache1: Return cached value
+deactivate Cache1
+Server2 -> Cache2: Update value
+activate Cache2
+Cache2 -> Database: Write
+deactivate Cache2
+...5++ minutes later...
+Server1 -> Cache1: Cache hit but to be refreshed
+activate Cache1
+Cache1 -> Database: Async load
+Server1 <-- Cache1: Return old cached value
+deactivate Cache1
+Cache1 <-- Database: Store changed value
+deactivate Cache1
+Server1 -> Cache1: Cache hit
+activate Cache1
+Server1 <-- Cache1: Return refreshed value
+deactivate Cache1
+
+@enduml
