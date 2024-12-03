@@ -26,7 +26,8 @@ Z knihy jsem si vypůjčil příklad, jak jsou v Groovy a v Javě dispatchované
 
 {% gist banterCZ/f647dd892e22103472e7 %}
 
-Protože Groovy dispachuje podle typu za běhu, je v druhém případě použita implementace <code>oracle(String)</code>. Použijete-li v Javě statický typ <em>Object</em>, ztrácíte sílu statického typování.<blockquote>Pokud jste ve své kariéře zatím neviděli moc dynamického programování, můžete se ptát, k čemu to je, když jste se bez toho doposud očividně obešli.</blockquote>
+Protože Groovy dispachuje podle typu za běhu, je v druhém případě použita implementace <code>oracle(String)</code>. Použijete-li v Javě statický typ <em>Object</em>, ztrácíte sílu statického typování.
+> Pokud jste ve své kariéře zatím neviděli moc dynamického programování, můžete se ptát, k čemu to je, když jste se bez toho doposud očividně obešli.
 
 Statické typování
 ------
