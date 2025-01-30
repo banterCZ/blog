@@ -55,7 +55,7 @@ Takhle může například vypadat karta stanoviště číslo 1.
 |---------|---------------------------------------------------|-----|
 | A       | Každý uvažte lodní uzel.                          | 2   |
 | B       | Najděte na louce 5 rostlin, které poznáte jménem. | 5   |
-| C       | Přenoste vodu v kelímu z potoka do kýble.         | 2   |
+| C       | Přenoste vodu v kelímku z potoka do kýble.        | 2   |
 | D       | Zazpívejte mi všichni dohromady píseň.            | 3   |
 
 <br/>
