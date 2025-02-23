@@ -3,6 +3,7 @@ layout: post
 title:  "Proč začít hrát na ukulele"
 date:   2012-10-03
 categories: [obecné]
+tags: [hudba]
 disqusId: 110
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center; width: 170px"><a href="http://ukehunt.tumblr

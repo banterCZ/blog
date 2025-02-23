@@ -3,6 +3,7 @@ layout: post
 title:  "Jak začít hrát na hudební nástroj"
 date:   2022-07-30
 categories: [obecné]
+tags: [hudba]
 disqusId: 249
 image: "/assets/2022-07-30/basa.jpeg"
 ---
