@@ -115,6 +115,12 @@ Auto několikrát spadlo do poruchy a sotva jsem dojel.
 Jedna svíčka úplně v háji.
 Takže ano, přeplňovaný motor dostává zabrat a doporučené servisní zásahy si zaslouží.
 
+Mnohem větší průšvih je to, že při jízdě na krátké vzdálenosti se nespálí všechen benzín, kontaminuje olej, který pak ničí řemen.
+Ten se následně drolí a ucpává sací koš v olejové vaně.
+Viz [nejhorší motor všech dob](https://www.autotrendy.sk/2024/04/02/najhorsi-motor-vsetkych-cias-dostava-10-rocnu-zaruku/).
+Sice prodloužili záruku, ale já se do podmínek nevejdu.
+Řemen v olejové lázni má teoreticky výhody, ale prakticky je to tragédie.
+
 
 ## Související
 
@@ -128,4 +134,4 @@ Takže ano, přeplňovaný motor dostává zabrat a doporučené servisní zása
 - [Dacie Jogger na LPG](https://www.dacia.cz/vozy/dacia-jogger-reveal.html)
 - [Cena elektrické dodávky VW ID.Buzz by prý mohla startovat již od milionu](https://www.auto.cz/cena-elektricke-dodavky-vw-id-buzz-by-pry-mohla-startovat-jiz-od-milionu-138530)
 - [Volkswagen Multivan eHybrid: plug-in hybridní dodávka](https://www.hybrid.cz/volkswagen-multivan-ehybrid-plug-in-hybridni-dodavka/)
-
+- [Nejhorší motor všech dob](https://www.autotrendy.sk/2024/04/02/najhorsi-motor-vsetkych-cias-dostava-10-rocnu-zaruku/)
