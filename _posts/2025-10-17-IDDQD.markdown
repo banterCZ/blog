@@ -1,0 +1,183 @@
+---
+layout: post
+title:  "IDDQD"
+date:   2025-10-17
+categories: [software development]
+disqusId: 281
+image: "/assets/2025-10-17/doom_face.png"
+tags: [hry]
+---
+
+<div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2025-10-17/doom_face.png" /></div>
+Jedná se o textový přepis přednášky, kterou jsem měl na nekonferenci [jOpenSpace](https://www.jopenspace.cz/) 2025, [video záznam ke shlédnutí](https://www.youtube.com/watch?v=nFd82No3C7Q).
+Je mi ctí, že jsem mohl dělat předskokana [Tomuchovi a jeho povídání o shaderech](https://www.youtube.com/watch?v=1-KYK7pvyUg) (náhodička, vůbec jsme se nedomlouvali předem, jako fakt).
+Nepřináším žádné závratné novinky, nýbrž tichou, ale naléhavou, touhu po úniku z drsné přítomnosti do idylického bezpečí minulosti.
+Ostatně už jsem vzpomínal na počítač [Commodore 64](/software%20development/2023/10/23/pocta-c64.html).
+
+
+<!--more-->
+<div style="clear: both"></div>
+
+## Videozáznam
+
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/nFd82No3C7Q?si=prbEiGjW6W5Tcnlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Knihy
+
+![](/assets/2025-10-17/50_let_videoher.png)
+
+Z nostalgie jsem si koupil si knihu [50 let videoher](https://www.xzone.cz/kniha-level-50-let-videoher).
+Ideální dárek pro starý fotry.
+Sbírka článků z časopisu Level.
+Úžasné provedení na křídovém papíře.
+Kromě samotného úniku do dětství mě fascinují technologie, která stojí za skvělými produkty, stejně tak mě fascinují podmínky, které k tomu vedly.
+
+Mezi hrami samozřejmě nesměl chybět [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)).
+A když jsem hledal téma svůj letošní příspěvek, tak jsem si konečně přečetl knihu [The Game Engine Black Book: DOOM, Fabien Sanglard](https://fabiensanglard.net/gebbdoom/index.html) (k dispozici legálně zdarma).
+
+A ohledně názvu přednášky se nakonec ukázalo, že znalost `IDDQD` není úplně stoprocentně sdílená.
+Tak vězte, že se jednalo o _cheat_ nesmrtelnosti.
+
+Hře Doom předcházela hra [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D), které se tu nehodlám podrobněji věnovat.
+Ostatně Fabien Sanglard o ní vydal samostatnou knihu.
+Nicméně ve zkratce, zlí jazykové tvrdí, že šlo o 2,5D hru.
+Stěny jsou pravoúhlé, podlahy a stropy bez textur.
+Pohybujete se po jediné výškové úrovni, chybí výtahy.
+Sprity jsou vykresleny 2D.
+
+
+## Rok 1993
+
+![](/assets/2025-10-17/ct_archiv.jpg)
+[archiv ČT24](https://www.ceskatelevize.cz/porady/10116288585-archiv-ct24/213411058210041/)
+
+Píše se rok 1993.
+Zeman už je v politice.
+Rozděluje se Československo.
+Já chodím do třetí třídy.
+
+Mezitím tvůrčí duo John Romero (25 let) a John Carmack (22 let) vydávají ambiciózní tiskovou zprávu, že za 11 měsíců máme čekat převratnou novinku.
+Romero Doomem dodnes žije a vyjadřuje se k němu, takže nemohl chybět ani v dokumentární seriálu [High Score](https://www.csfd.cz/film/894583-nejvyssi-skore/prehled/), kde mimo jiné tvrdí, že na konzolích funguje plynulý scroll, to tehdejší PC hry neuměly.
+Konzole tou dobou znamenalo například [Super Nintendo](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) v ceně 199 USD (přepočteno na dnešní inflaci 446 USD).
+
+Když jsem slyšel scrollování, tak jsem si vzpomněl na hru [Duke Nukem 2D](https://en.wikipedia.org/wiki/Duke_Nukem_II), známou svým [dual-parallax scrollingem](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/), ale vyšel až v prosinci 1993.
+Ta doba byla těhotná pokrokem.
+
+O hry s 3D grafikou se snažili i na konzolích, první slavná je [Star Fox](https://en.wikipedia.org/wiki/Star_Fox_(1993_video_game)).
+Nedostatek výkonu mohli dohánět čipem v cartridge.
+
+
+## PC
+
+Platforma PC byla zamýšlená pro textové editory, tabulkové procesory, sem tam zobrazit graf a ne animaci se 70 snímky za vteřinu.
+4MB RAM, 14" CRT monitor 320 x 200, bratru za 3000 USD (přepočteno na dnešní inflaci 6726 USD).
+
+Tou dobou máme procesor Intel a ne Pentium, ale 486.
+Když jsem viděl digramy pipelingu, otevřely se mi staré rány z ČVUT.
+Na škole mě to deptalo.
+S příběhem mi to přišlo srozumitelné a bavilo mě to.
+Jako děti jsme porovnávali jen taktovací frekvence, čím víc herzů, tím víc adidas.
+Ale je potřeba koukat na změny v architektuře.
+Procesor 386 například potřeboval dva takty na dekódování instrukce.
+A přestože procesor 486 s matematickým koprocesorem (takže spíš 487, ale to už nechci zabíhat do detailů) zrychlil operace v plovoucí desetinné čárce až na třetinu, stále to bylo zoufale pomalé oproti celočíselným operacím.
+Proto Doom zůstává u integerů.
+
+Procesory se vyvíjely rychlejším tempem než paměti.
+Paměť DRAM byla levná, buňka obsahovala kapacitor a jeden tranzistor.
+Po přečtení bylo nutné znovu zapsat.
+Zápis bylo potřeba opakovat i bez čtení, protože kapacitor se vybíjel.
+
+SRAM byla výrazně rychlejší, ale dražší, jelikož konstrukce vyžadovala minimálně šest tranzistorů.
+Využívala se pro cache.
+Cache má další rychlostní výhodu, protože procesor s ní komunikuje přímo a nemusí přes sběrnici.
+
+I sběrnice se dočkaly vylepšení.
+VESA byla asi desetkrát rychlejší než ISA.
+Zvýšila se přenosová šířka na 32 bitů i frekvence.
+
+Sound Blaster přináší zvukovou kartu s CD kvalitou.
+
+A aby to nebyly jen nostalgické kecy, tak nějaké architektonické poučení.
+Trh se zvukovými kartami byl značně fragmentovaný.
+Tehdy sáhli po knihovně DMX, o které se dnes Romero vyjadřuje, že nebyla dobrá, že by si to býval napsal sám.
+Ale už nepřipouští, že by to nejspíš za 11 měsíců vůbec nestihli.
+
+Můžete si připomenout loňskou přednášku [Zákony SW architektury (Lukáš Křečan)](https://www.youtube.com/watch?v=k8WL-joze3I).
+> Všechna rozhodnutí v architektuře jsou kompromisy a žádné řešení není dokonalé
+
+Paralelní programování se realizovalo pomocí IRQ (Interrupt Request, signál požadavku na přerušení) a DMA (Direct Memory Access, přímý přístup do paměti).
+
+
+## NeXTSTEP
+
+Ač byll Doom cílený na platformu PC, tak samotný vývoj probíhal na superpočítačích NeXTSTEP.
+Slavný příběh by vydal na samostatnou přednášku, Steve Jobs byl odejit z Applu, ten pak NeXTSTEP později kupuje atd.
+
+8MB RAM, 17" displej 1120 x 832, volitelně CD ROM bratru za 6 500 USD (přepočteno na dnešní inflaci 14 573 USD)
+
+
+## Programování
+
+Spojenectví mezi Sunem a Nextem symbolizují [písmena NS, které dodnes vidíte v API](https://developer.apple.com/documentation/foundation/nsarray).
+Je velmi pravděpodobné, že kód, který kdysi běžel na NeXTSTEP a přispěl ke stvoření Dooma, nyní běží na mnoha milionech Apple počítačích nebo telefonech.
+
+![](/assets/2025-10-17/c_meme.jpg)
+
+Doom byl napsaný v C++.
+Kolem toho jsem se mihnul.
+C/C++ pro mě znamená pointery.
+Když slyším pointery, vybavím si tento vtípek a můj mozek vypíná.
+Musíte se starat o pamět.
+Funkce `Malloc` způsobovala fragmentaci paměti, tak si museli vyvinout vlastní _Zone memory manager_.
+
+Na PC měli v DOS Borland C++ editor, který měl sice zvýrazňování syntaxe, ale na obrazovku se nevešlo moc řádek a údajně neustále padal.
+TextEdit na NeXTSTEP neuměl zvýrazňovat, ale zobrazil víc řádek, uměl je zabalovat a hlavně byl stabilní.
+
+Zatímco C++ dával na první místo výkon, tak Objective-C, ve kterém se programovalo na NeXTSTEP, upřednostňoval programátorskou produktivitu.
+Nikdy jsem v něm nepsal, ale Objective-C pro mě znamená [message passing](https://en.wikipedia.org/wiki/Message_passing), pro nás Java programátory dodnes něco převratného.
+Přitom když budete děti učit [Scratch, tak je to něco přirozeného](https://en.scratch-wiki.info/wiki/Broadcast). 
+
+![](/assets/2025-10-17/doom_screenshot.png)
+
+Doom to jsou brokovnice, démoni a dynamické světelné podmínky.
+A jak toho dosáhli bez 24 bitové barevné podpory?
+Připravili si 32 palet o 256 barvách.
+
+Doom přináší multiplayer, hru více hráčů proti sobě, tehdy ještě bez centrálního serveru.
+My jsme se propojovali přes sériové a paralelní kabely.
+
+
+## Distribuce
+
+Doom distribuovali na dvou disketách jako _shareware_.
+Tedy první epizoda zdarma, pokračování k zakoupení.
+
+Plná verze byla menší než 12 MB.
+Samotný engine něco málo přes 700 KB a data ve WAD souboru (**W**here's **A**ll the **D**ata?) něco málo přes 11 MB.
+Toto rozdělení usnadnilo hráčům pozdější vlastní úpravy.
+Stejně tak umožnilo naportovat engine na současné architektury, viz [GZDoom](https://zdoom.org/downloads).
+
+Jak jsem již zmiňoval, Romero Doomem dodnes žije.
+K 25. a 30. výročí vydal [Sigil I a Sigil II](https://romero.com/sigil).
+Chtěl, aby úrovně působily, jako by patřily k původní hře, jako by to byla skutečná pátá epizoda.
+Osobně mi přijdou obtížnější než tehdejší úrovně.
+
+Dodnes se [hračičkové trumfují, na čem Dooma rozeběhnou](https://canitrundoom.org).
+
+
+## Závěr
+
+Doom znamenal naše mládí.
+Ve srovnání s tříáčkovými hrami za nimi stálo několik málo, pravda geniálních, lidí, kteří z tehdejšího hardware vyždímali naprosté maximum.
+Magie, která za tím stála, je v dnešní Unity/Unreal engine době nepředstavitelná.
+A proto je dobré si ji připomenout.
+
+Měli jsme vlastně štěstí, že jsme zrod takových legend zažili.
+Dnes už se nepovažuji za hráče, tak nevím. 
+Vznikají podobně přelomové tituly definující nový žánr?
+
+
+## Související
+
+- [Pocta C64](/software%20development/2023/10/23/pocta-c64.html)
