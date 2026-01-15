@@ -50,7 +50,7 @@ Koukněte třeba na super lekci [How to Play Bass with a Drummer (Foolproof Begi
 
 <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/PSw5uqkTPzs?si=GMgg7Szx6cIvjscK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Zlý jazykové o mě tvrdí, že dělím věci na dvě kategorie: co jsem dělal a co teprve budu dělat.
+Zlý jazykové o mně tvrdí, že dělím věci na dvě kategorie: co jsem dělal a co teprve budu dělat.
 Jo, chtěl jsem si bicí taky zkusit.
 I proto, aby mě to posunulo jako basáka.
 
