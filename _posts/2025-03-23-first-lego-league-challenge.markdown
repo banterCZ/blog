@@ -5,7 +5,7 @@ date:   2025-03-23
 categories: [software development]
 disqusId: 276
 image: "/assets/2025-03-23/FLL_Challenge_Logo_v2.svg"
-tags: [kroužek programování]
+tags: [kroužek programování, lego]
 ---
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2025-03-23/FLL_Challenge_Logo_v2.svg" /></div>
 
