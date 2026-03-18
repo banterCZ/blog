@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'i18n'
   gem "jekyll-hyphenate_filter"
+  gem "csv"
 end
