@@ -54,7 +54,7 @@ Hned mi vytane [scéna z Pulp Fiction](https://www.youtube.com/watch?v=aLK_sHpbW
 > Hacking tedy znamená zkoumání hranic možného v duchu hravé chytrosti.
 
 Programátoři jsou podle mě troufalí až drzí, ve stylu Pipi Dlouhá punčocha: „To jsem ještě nikdy nedělala, to mi určitě půjde!“
-Naučit se nový framework, [opravit myčku](https://www.youtube.com/watch?v=s3n55CpS3CE) či [postavit dům svépomocí](/bydlení/2013/09/23/jak-se-stavi-dum-svepomoci.html)?
+Naučit se nový framework, [opravit myčku](https://www.youtube.com/watch?v=s3n55CpS3CE), [debuggovat kotel](/bydlen%C3%AD/2024/07/29/jak-jsem-debuggoval-kotel.html) či [postavit dům svépomocí](/bydlení/2013/09/23/jak-se-stavi-dum-svepomoci.html)?
 Pusťte mě k tomu!
 
 <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/s3n55CpS3CE?si=nyrIY2Iu8dedr3Ed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
