@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no" />
+    <title>Brännball – rozhodčí</title>
+    <style>
+        :root {
+            --team-a: #d7263d;
+            --team-a-dark: #8a0f23;
+            --team-b: #1f6feb;
+            --team-b-dark: #0b3d91;
+            --bg: #111;
+            --fg: #f5f5f5;
+            --muted: #aaa;
+            --warn: #ffb703;
+            --ok: #2bb673;
+        }
+
+        * { box-sizing: border-box; }
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100dvh;
+            width: 100vw;
+            overflow: hidden;
+            background: var(--bg);
+            color: var(--fg);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            -webkit-tap-highlight-color: transparent;
+            user-select: none;
+        }
+
+        .app {
+            display: flex;
+            flex-direction: column;
+            height: 100dvh;
+            padding: 6px;
+            gap: 6px;
+        }
+
+        .topbar {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 8px;
+            background: #1c1c1c;
+            border-radius: 10px;
+        }
+        .timer {
+            font-size: 2.2rem;
+            font-variant-numeric: tabular-nums;
+            font-weight: 700;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+        .timer.warn { color: var(--warn); }
+        /*noinspection CssUnusedSymbol*/
+        .timer.done { color: var(--team-a); animation: blink 1s infinite; }
+        @keyframes blink { 50% { opacity: 0.3; } }
+
+        .inning-info { text-align: center; line-height: 1.1; }
+        .inning-info .num { font-size: 1.4rem; font-weight: 700; }
+        .inning-info .lbl { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; }
+
+        .top-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            align-items: stretch;
+            padding-left: 14px;
+        }
+        .top-actions button {
+            padding: 10px 12px;
+            font-size: 1rem;
+            min-height: 44px;
+            width: 100%;
+            border-radius: 10px;
+            white-space: nowrap;
+        }
+
+        button {
+            font-family: inherit;
+            border: none;
+            border-radius: 8px;
+            background: #2a2a2a;
+            color: var(--fg);
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.05s, background 0.1s;
+        }
+        button:active { transform: scale(0.96); }
+        button.primary { background: var(--ok); }
+        button.warn { background: var(--warn); color: #222; }
+
+        .teams {
+            flex: 1;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 6px;
+            min-height: 0;
+        }
+        .team {
+            display: flex;
+            flex-direction: column;
+            border-radius: 12px;
+            padding: 8px;
+            min-height: 0;
+            position: relative;
+            overflow: hidden;
+        }
+        .team.a { background: linear-gradient(160deg, var(--team-a), var(--team-a-dark)); }
+        .team.b { background: linear-gradient(160deg, var(--team-b), var(--team-b-dark)); }
+
+        .team-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            gap: 6px;
+        }
+        .team-name {
+            font-size: 1.05rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: transparent;
+            border: none;
+            color: #fff;
+            width: 60%;
+            outline: none;
+            padding: 2px 4px;
+            border-radius: 6px;
+        }
+        .team-name:focus { background: rgba(0,0,0,0.25); }
+
+        .role-badge {
+            font-size: 0.7rem;
+            padding: 3px 8px;
+            border-radius: 999px;
+            background: rgba(0,0,0,0.35);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 700;
+        }
+        /*noinspection CssUnusedSymbol*/
+        .role-badge.bat { background: #fff; color: #000; }
+
+        .score {
+            font-size: 2.2rem;
+            font-weight: 900;
+            text-align: center;
+            line-height: 1;
+            margin: 4px 0 14px;
+            font-variant-numeric: tabular-nums;
+        }
+        .score small {
+            display: block;
+            font-size: 0.65rem;
+            color: rgba(255,255,255,0.85);
+            font-weight: 500;
+            margin-top: 2px;
+        }
+
+        .actions {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            flex: 1;
+            min-height: 0;
+        }
+        .role-section {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            flex: 1;
+            min-height: 0;
+        }
+        /*noinspection CssUnusedSymbol*/
+        .role-section.hidden { display: none; }
+        .row {
+            display: flex;
+            gap: 6px;
+            flex: 1;
+            min-height: 0;
+        }
+        /*noinspection CssUnusedSymbol*/
+        .row.big   { flex: 2.2; }
+        /*noinspection CssUnusedSymbol*/
+        .row.small { flex: 0.55; }
+        .row button { flex: 1; }
+
+        .actions button {
+            padding: 6px 4px;
+            font-size: 1rem;
+            background: rgba(0,0,0,0.35);
+            color: #fff;
+            line-height: 1.15;
+            min-height: 40px;
+            border-radius: 10px;
+        }
+        .actions .row.big button { font-size: 1.35rem; font-weight: 800; }
+        .actions .row.small button { font-size: 0.75rem; min-height: 30px; background: rgba(0,0,0,0.55); }
+        /*noinspection CssUnusedSymbol*/
+        .actions button.burn { background: #ff6b35; color: #fff; }
+
+        .events {
+            margin-top: 4px;
+            font-size: 0.65rem;
+            color: rgba(255,255,255,0.85);
+            max-height: 1.4em;
+            overflow: hidden;
+            line-height: 1.1;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+        }
+
+        .modal-backdrop {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.75);
+            display: none;
+            align-items: center;
+            justify-content: center;
+            z-index: 50;
+            padding: 16px;
+        }
+        /*noinspection CssUnusedSymbol*/
+        .modal-backdrop.show { display: flex; }
+        .modal {
+            background: #222;
+            border-radius: 16px;
+            padding: 22px 20px 18px;
+            max-width: 420px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.6);
+        }
+        .modal h2 { margin: 0 0 10px; font-size: 1.3rem; }
+        .modal p  { margin: 8px 0; color: #ddd; font-size: 1rem; line-height: 1.35; }
+        .modal .btns { display: flex; gap: 12px; margin-top: 20px; }
+        .modal .btns button {
+            flex: 1;
+            padding: 18px 12px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            border-radius: 12px;
+            min-height: 56px;
+        }
+        /*noinspection CssUnusedSymbol*/
+        .modal .btns button.cancel { background: #3a3a3a; color: #eee; }
+        /*noinspection CssUnusedSymbol*/
+        .modal .btns button.ok     { background: var(--ok); color: #fff; }
+        /*noinspection CssUnusedSymbol*/
+        .modal .btns button.danger { background: #d7263d; color: #fff; }
+
+        @media (max-width: 380px) {
+            .timer { font-size: 1.8rem; }
+            .score { font-size: 1.8rem; }
+            .actions button { font-size: 0.9rem; min-height: 36px; }
+            .actions .row.big button { font-size: 1.1rem; }
+            .actions .row.small button { font-size: 0.7rem; min-height: 26px; }
+        }
+
+        .footer {
+            display: flex;
+            justify-content: center;
+            padding: 2px 0 4px;
+        }
+        .footer button {
+            font-size: 0.7rem;
+            padding: 4px 10px;
+            background: transparent;
+            color: #888;
+            border: 1px solid #444;
+            border-radius: 6px;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+<div class="app">
+    <div class="topbar">
+        <div><div class="timer" id="timer">12:00</div></div>
+        <div class="inning-info">
+            <div class="num" id="inningNum">1.</div>
+            <div class="lbl">směna</div>
+        </div>
+        <div class="top-actions">
+            <button id="btnStartPause" class="primary">Start</button>
+            <button id="btnNext" class="warn">Další&nbsp;směna</button>
+        </div>
+    </div>
+
+    <div class="teams">
+        <section class="team a" data-team="A"></section>
+        <section class="team b" data-team="B"></section>
+    </div>
+
+    <div class="footer">
+        <button id="btnReset" title="Reset zápasu">⟳ Reset zápasu</button>
+    </div>
+</div>
+
+<div class="modal-backdrop" id="modal">
+    <div class="modal">
+        <h2 id="modalTitle"></h2>
+        <p id="modalText"></p>
+        <div class="btns" id="modalBtns"></div>
+    </div>
+</div>
+
+<script>
+(() => {
+    const INNING_SECONDS = 12 * 60;
+
+    // Bodované události dle § 5 pravidel Brännballu.
+    // Struktura: každá role má pole řádků. Řádek obsahuje 1–2 akce a CSS třídu pro velikost.
+    // size: 'big' (zvýrazněné, vyšší), '' (standardní), 'small' (záložní, menší).
+    const ACTIONS = {
+        bat: [
+            { size: 'big',   items: [ { key: 'run', label: 'Doběh +1', points: 1 } ] },
+            { size: '',      items: [
+                { key: 'homerun',  label: 'Homerun +6',        points: 6 },
+                { key: 'fieldErr', label: 'Chyba brännera +4', points: 4 },
+            ] },
+            { size: 'small', items: [
+                { key: 'minus', label: '−1',     points: -1 },
+                { key: 'undo',  label: '↶ Zpět', points: 0, undo: true },
+            ] },
+        ],
+        field: [
+            { size: '', items: [
+                { key: 'catch2', label: 'Chycení oběma rukama +1', points: 1 },
+            ] },
+            { size: '', items: [
+                { key: 'catch1', label: 'Chycení jednou rukou +2', points: 2 },
+            ] },
+            { size: '', items: [
+                { key: 'burned', label: '🔥 Spálený hráč +1', points: 1, css: 'burn' },
+            ] },
+            { size: '', items: [
+                { key: 'batNotLaid', label: 'Zahozená pálka +1', points: 1 },
+            ] },
+            { size: '', items: [
+                { key: 'noBatter', label: 'Bez pálkaře +6',   points: 6 },
+                { key: 'badOrder', label: 'Špatné pořadí +5', points: 5 },
+            ] },
+            { size: 'small', items: [
+                { key: 'minus', label: '−1',     points: -1 },
+                { key: 'undo',  label: '↶ Zpět', points: 0, undo: true },
+            ] },
+        ],
+    };
+
+    // Plochý lookup všech akcí podle key (pro handleAction / undo).
+    const ALL_ACTIONS = (() => {
+        const out = {};
+        for (const role of ['bat', 'field']) {
+            for (const row of ACTIONS[role]) for (const a of row.items) out[role + ':' + a.key] = a;
+        }
+        return out;
+    })();
+
+    const state = {
+        inning: 1,
+        battingTeam: 'A',
+        secondsLeft: INNING_SECONDS,
+        running: false,
+        tickHandle: null,
+        teams: {
+            A: { total: 0, inningScore: 0, events: [], history: [] },
+            B: { total: 0, inningScore: 0, events: [], history: [] }
+        }
+    };
+
+    const $ = id => document.getElementById(id);
+
+    // Cache statických DOM odkazů – zabrání opakovaným dotazům i lint hlášení "Duplicated jQuery selector".
+    const dom = {
+        timer:        $('timer'),
+        inningNum:    $('inningNum'),
+        btnStartPause:$('btnStartPause'),
+        btnNext:      $('btnNext'),
+        btnReset:     $('btnReset'),
+        modal:        $('modal'),
+        modalTitle:   $('modalTitle'),
+        modalText:    $('modalText'),
+        modalBtns:    $('modalBtns'),
+    };
+
+    function buildTeamUI() {
+        for (const t of ['A','B']) {
+            const sec = document.querySelector(`.team[data-team="${t}"]`);
+            sec.innerHTML = `
+                <div class="team-header">
+                    <input class="team-name" value="Tým ${t}" maxlength="14" />
+                    <span class="role-badge" id="role${t}">POLE</span>
+                </div>
+                <div class="score">
+                    <span id="score${t}">0</span>
+                    <small>Tato směna: <span id="inningScore${t}">0</span></small>
+                </div>
+                <div class="actions" data-team="${t}">
+                    <div class="role-section" data-role="bat">${renderRows(ACTIONS.bat, 'bat')}</div>
+                    <div class="role-section" data-role="field">${renderRows(ACTIONS.field, 'field')}</div>
+                </div>
+                <div class="events" id="events${t}"></div>
+            `;
+        }
+    }
+    const renderRows = (rows, role) => rows.map(r =>
+        `<div class="row ${r.size}">${r.items.map(a => renderBtn(a, role)).join('')}</div>`
+    ).join('');
+    const renderBtn = (a, role) =>
+        `<button data-action="${role}:${a.key}" class="${a.css || ''}">${a.label}</button>`;
+
+    function fmt(sec) {
+        sec = Math.max(0, Math.floor(sec));
+        const m = Math.floor(sec / 60);
+        const s = sec % 60;
+        return `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+    }
+
+    function render() {
+        const t1 = dom.timer;
+        t1.textContent = fmt(state.secondsLeft);
+        t1.classList.toggle('warn', state.secondsLeft <= 60 && state.secondsLeft > 0);
+        t1.classList.toggle('done', state.secondsLeft === 0);
+        dom.inningNum.textContent = state.inning + '.';
+        const sp = dom.btnStartPause;
+        sp.textContent = state.running ? 'Pauza' : (state.secondsLeft === 0 ? 'Konec' : 'Start');
+        sp.disabled = state.secondsLeft === 0;
+
+        for (const t of ['A','B']) {
+            $('score'+t).textContent = state.teams[t].total;
+            $('inningScore'+t).textContent = state.teams[t].inningScore;
+            const isBat = state.battingTeam === t;
+            const badge = $('role'+t);
+            badge.textContent = isBat ? 'PÁLKA' : 'POLE';
+            badge.classList.toggle('bat', isBat);
+
+            const actions = document.querySelector(`.actions[data-team="${t}"]`);
+            actions.querySelector('[data-role="bat"]').classList.toggle('hidden', !isBat);
+            actions.querySelector('[data-role="field"]').classList.toggle('hidden', isBat);
+
+            $('events'+t).textContent = state.teams[t].events.slice(-3).reverse().join(' • ');
+        }
+    }
+
+    function tick() {
+        if (!state.running) return;
+        state.secondsLeft--;
+        if (state.secondsLeft <= 0) {
+            state.secondsLeft = 0;
+            stopTimer();
+            notifyEndOfInning('Čas vypršel.');
+        }
+        render();
+    }
+    function startTimer() {
+        if (state.secondsLeft <= 0) return;
+        state.running = true;
+        state.tickHandle = setInterval(tick, 1000);
+        requestWakeLock();
+        render();
+    }
+    function stopTimer() {
+        state.running = false;
+        if (state.tickHandle) { clearInterval(state.tickHandle); state.tickHandle = null; }
+        render();
+    }
+
+    dom.btnStartPause.addEventListener('click', () => state.running ? stopTimer() : startTimer());
+    dom.btnNext.addEventListener('click', async () => {
+        const ok = await showDialog({
+            title: 'Další směna',
+            text: 'Ukončit aktuální směnu a začít další?',
+            buttons: [
+                { label: 'Zrušit', style: 'cancel', value: false },
+                { label: 'Další směna', style: 'ok', value: true },
+            ],
+        });
+        if (ok) nextInning();
+    });
+    dom.btnReset.addEventListener('click', async () => {
+        const ok = await showDialog({
+            title: 'Reset zápasu',
+            text: 'Opravdu resetovat celý zápas? Všechna data této hry budou ztracena.',
+            buttons: [
+                { label: 'Zrušit', style: 'cancel', value: false },
+                { label: 'Resetovat', style: 'danger', value: true },
+            ],
+        });
+        if (ok) resetMatch();
+    });
+
+    function nextInning() {
+        stopTimer();
+        state.inning += 1;
+        state.battingTeam = state.battingTeam === 'A' ? 'B' : 'A';
+        state.secondsLeft = INNING_SECONDS;
+        for (const t of ['A','B']) {
+            state.teams[t].inningScore = 0;
+            state.teams[t].events = [];
+            state.teams[t].history = [];
+        }
+        render();
+    }
+    function resetMatch() {
+        stopTimer();
+        state.inning = 1;
+        state.battingTeam = 'A';
+        state.secondsLeft = INNING_SECONDS;
+        state.teams = {
+            A: { total: 0, inningScore: 0, events: [], history: [] },
+            B: { total: 0, inningScore: 0, events: [], history: [] }
+        };
+        render();
+    }
+
+    document.querySelector('.teams').addEventListener('click', e => {
+        const btn = e.target.closest('button');
+        if (!btn) return;
+        const group = btn.closest('.actions');
+        if (!group) return;
+        const section = btn.closest('.role-section');
+        if (section && section.classList.contains('hidden')) return; // bezpečnost
+        handleAction(group.dataset.team, btn.dataset.action);
+    });
+
+    const findAction = key => ALL_ACTIONS[key];
+
+    function handleAction(team, key) {
+        const a = findAction(key);
+        if (!a) return;
+        if (a.undo) { undoLast(team); return; }
+        applyPoints(team, a);
+        render();
+    }
+
+    function applyPoints(team, a) {
+        const t = state.teams[team];
+        t.total += a.points;
+        t.inningScore += a.points;
+        if (a.points !== 0 || a.endsInning) {
+            t.events.push(a.label);
+            t.history.push({ points: a.points, label: a.label });
+        }
+    }
+
+    function undoLast(team) {
+        const t = state.teams[team];
+        const h = t.history.pop();
+        if (!h) return;
+        t.total -= h.points;
+        t.inningScore -= h.points;
+        const idx = t.events.lastIndexOf(h.label);
+        if (idx >= 0) t.events.splice(idx, 1);
+        render();
+    }
+
+    async function notifyEndOfInning(reasonText) {
+        stopTimer();
+        vibrate([400, 150, 400, 150, 600]);
+        beep();
+        const batting = state.battingTeam;
+        const next = batting === 'A' ? 'B' : 'A';
+        const battingName = document.querySelector(`.team.${batting.toLowerCase()} .team-name`).value;
+        const nextName = document.querySelector(`.team.${next.toLowerCase()} .team-name`).value;
+        await showDialog({
+            title: `Konec ${state.inning}. směny`,
+            html: `${reasonText}<br>Pálka přejde na <b>${nextName}</b>.<br><b>${battingName}</b> jde do pole.`,
+            buttons: [{ label: 'OK – další směna', style: 'ok', value: true }],
+        });
+        nextInning();
+    }
+
+    // Univerzální modální dialog. Vrací Promise s value zvoleného tlačítka.
+    function showDialog({ title = '', text = '', html = '', buttons = [{ label: 'OK', style: 'ok', value: true }] }) {
+        const modal = dom.modal;
+        dom.modalTitle.textContent = title;
+        const p = dom.modalText;
+        if (html) p.innerHTML = html; else p.textContent = text;
+        const btnsEl = dom.modalBtns;
+        btnsEl.innerHTML = '';
+        return new Promise(resolve => {
+            const close = value => {
+                modal.classList.remove('show');
+                btnsEl.innerHTML = '';
+                resolve(value);
+            };
+            for (const b of buttons) {
+                const el = document.createElement('button');
+                el.className = b.style || 'ok';
+                el.textContent = b.label;
+                el.addEventListener('click', () => close(b.value));
+                btnsEl.appendChild(el);
+            }
+            modal.classList.add('show');
+        });
+    }
+
+    function vibrate(pattern) {
+        if (!navigator.vibrate) return;
+        try {
+            navigator.vibrate(pattern);
+        } catch (e) {
+            console.warn('Vibrace selhala:', e);
+        }
+    }
+
+    // Screen Wake Lock – brání zhasnutí/zamknutí telefonu během zápasu.
+    let wakeLock = null;
+    async function requestWakeLock() {
+        if (!('wakeLock' in navigator)) return;
+        if (wakeLock) return;
+        try {
+            wakeLock = await navigator.wakeLock.request('screen');
+            wakeLock.addEventListener('release', () => { wakeLock = null; });
+        } catch (e) {
+            console.warn('Wake Lock se nepodařilo získat:', e);
+        }
+    }
+    // Když uživatel přepne na jinou appku a zpět, wake lock se uvolní – znovu ho vyžádat.
+    document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'visible' && state.running) requestWakeLock();
+    });
+
+    let audioCtx = null;
+
+    // iOS vyžaduje user-gesture pro vytvoření i obnovení AudioContext.
+    // Odemkneme ho při každém kliku, dokud není v běhu, a vždy přehrajeme prázdný buffer.
+    function unlockAudio() {
+        try {
+            if (!audioCtx) {
+                audioCtx = new (globalThis.AudioContext || globalThis.webkitAudioContext)();
+            }
+            if (audioCtx.state === 'suspended') {
+                audioCtx.resume().catch(e => console.warn('AudioContext resume:', e));
+            }
+            // Krátký tichý buffer – některé verze iOS bez něj kontext nepustí.
+            const buf = audioCtx.createBuffer(1, 1, 22050);
+            const src = audioCtx.createBufferSource();
+            src.buffer = buf;
+            src.connect(audioCtx.destination);
+            src.start(0);
+        } catch (e) {
+            console.warn('AudioContext nelze inicializovat:', e);
+        }
+    }
+    document.addEventListener('click', unlockAudio);
+    document.addEventListener('touchend', unlockAudio);
+
+    async function beep() {
+        try {
+            if (!audioCtx) unlockAudio();
+            if (!audioCtx) return;
+            if (audioCtx.state === 'suspended') {
+                try { await audioCtx.resume(); } catch (e) { console.warn('resume:', e); }
+            }
+            const now = audioCtx.currentTime;
+            for (let i = 0; i < 3; i++) {
+                const o = audioCtx.createOscillator();
+                const g = audioCtx.createGain();
+                o.type = 'square';
+                o.frequency.value = 880;
+                g.gain.value = 0.0001;
+                o.connect(g).connect(audioCtx.destination);
+                const start = now + i * 0.45;
+                o.start(start);
+                g.gain.exponentialRampToValueAtTime(0.6, start + 0.02);
+                g.gain.exponentialRampToValueAtTime(0.0001, start + 0.35);
+                o.stop(start + 0.36);
+            }
+        } catch (e) {
+            console.warn('Přehrání zvuku selhalo:', e);
+        }
+    }
+    document.addEventListener('dblclick', e => e.preventDefault());
+
+    buildTeamUI();
+    render();
+})();
+</script>
+</body>
+</html>
+
