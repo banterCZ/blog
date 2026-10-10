@@ -95,7 +95,7 @@ Zaměřovač v okně lunárního modulu a sextant ve velitelském modulu, který
 [Paměť byla magnetická](https://www.righto.com/2019/07/software-woven-into-wire-core-rope-and.html), 4KB RAM a 72KB ROM.
 Každým jádrem (nebo kolem něj) prochází 192 snímacích vodičů, takže každé jádro pojalo 12 slov dat.
 
-{% twitter https://x.com/fermatslibrary/status/2042197982506828161 %}
+{% twitter https://twitter.com/fermatslibrary/status/2042197982506828161 %}
 
 [Zdrojový kód Apollo Guidance Computer byl zveřejněn](https://github.com/chrislgarry/Apollo-11).
 Samozřejmě se jedná o assembler.
