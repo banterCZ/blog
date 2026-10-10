@@ -9,7 +9,7 @@ tags: [hry, historie, konference, jopenspace]
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2025-10-17/doom_face.png" /></div>
-Jedná se o textový přepis přednášky, kterou jsem měl na nekonferenci [jOpenSpace](https://www.jopenspace.cz/) 2025, [video záznam ke shlédnutí](https://www.youtube.com/watch?v=nFd82No3C7Q).
+Jedná se o textový přepis přednášky, kterou jsem měl na nekonferenci [jOpenSpace](https://www.jopenspace.cz/) 2025, [videozáznam ke zhlédnutí](https://www.youtube.com/watch?v=nFd82No3C7Q).
 Je mi ctí, že jsem mohl dělat předskokana [Tomuchovi a jeho povídání o shaderech](https://www.youtube.com/watch?v=1-KYK7pvyUg) (náhodička, vůbec jsme se nedomlouvali předem, jako fakt).
 Nepřináším žádné závratné novinky, nýbrž tichou, ale naléhavou, touhu po úniku z drsné přítomnosti do idylického bezpečí minulosti.
 Ostatně už jsem vzpomínal na počítač [Commodore 64](/software%20development/2023/10/23/pocta-c64.html).
