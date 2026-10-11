@@ -199,7 +199,7 @@ _Artemis II Watch Party Social Media, Public Domain_
 
 ## Závěr
 
-Trefně to shrnul [Gene Kranz](https://en.wikipedia.org/wiki/Gene_Kranz), letový ředitel misí programů Mercury, Gemini a Apollo.
+Trefně to shrnul [Gene Kranz](https://en.wikipedia.org/wiki/Gene_Kranz), letový ředitel misí programů Mercury, Gemini a Apollo, ve své knize [Failure is Not an Option](https://www.goodreads.com/book/show/141499.Failure_is_Not_an_Option).
 
 > Přes všechen technický pokrok byl lidský faktor pro úspěch naprosto klíčový.
 
