@@ -9,6 +9,8 @@ image: "/assets/2022-06-27/garmin-forerunner-945.jpeg"
 
 <div style="float: left; margin: 0 1em 1em 0; text-align: center;"><img src="/assets/2022-06-27/garmin-forerunner-945.jpeg" /></div>
 
+**Edit (10. 11. 2026): Hodinky se po pěti letech rozbily. Oficiální servis neopraví ani za poplatek nevymění. S americkým Garminem končím a přecházím na evropské Suunto.**  
+
 Už je to [šest let, co jsem běžel maraton]((/sport/2016/06/29/jak-jsem-trenoval-na-maraton.html)), a ze vzpomínek žiju dosud.
 Třeba to, že mobilní aplikace byly peklo (jak je to dnes nehodlám zjišťovat).
 Vedlo mě to k tomu, že jsem si pořídil [Garmin Forerunner 220](https://www.garmin.com/en-US/p/129397).
@@ -132,6 +134,8 @@ K sjezdovému lyžování jen telegraficky. Počítání sjezdů a měření max
 
 
 ## Závěr
+
+**Edit (10. 11. 2026): Hodinky se po pěti letech rozbily. Oficiální servis neopraví ani za poplatek nevymění. S americkým Garminem končím a přecházím na evropské Suunto.**
 
 Celkově jsem s Garmin Forerunner 945 a příslušenstvím spokojen.
 Vyzdvihl bych navigaci, detekci pádu a radar na kolo.
